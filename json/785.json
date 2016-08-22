@@ -1,0 +1,154 @@
+{
+    "uuid": 785,
+    "text": "can big food firms get us to eat more healthily",
+    "graph": {
+        "version": 1,
+        "guid": "c1acbdb7-e331-4ae9-be0b-423646230a24",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "can",
+                "id": "c5e0ca19-e254-4a2d-b162-63cc3db58c9d",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "get",
+                "id": "0a0ab6bd-d6b3-454a-a7d0-5445a1b2cde3",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "d088b086-94cd-4d71-b37e-47ca98bda034",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "eat",
+                "id": "12b00c3e-c5e4-4417-a0db-18b92b42dd01",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "big",
+                "id": "b9dce110-edca-456a-96da-18c7ca719437",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "food",
+                "id": "29a123c0-2ed7-421b-b96b-473de79c62c7",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "firms",
+                "id": "c11d3a7d-3322-4017-b8cd-474104c49e86",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "us",
+                "id": "be162562-e012-4716-a56b-3bb94d1b4e2c",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "more",
+                "id": "73358386-6974-45ae-b859-9db5c0d2b64e",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "healthily",
+                "id": "d07002a7-7d4a-4642-bcdc-a07830587528",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "c5e0ca19-e254-4a2d-b162-63cc3db58c9d",
+                "nodeTo": "b9dce110-edca-456a-96da-18c7ca719437",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c5e0ca19-e254-4a2d-b162-63cc3db58c9d",
+                "nodeTo": "29a123c0-2ed7-421b-b96b-473de79c62c7",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c5e0ca19-e254-4a2d-b162-63cc3db58c9d",
+                "nodeTo": "c11d3a7d-3322-4017-b8cd-474104c49e86",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b9dce110-edca-456a-96da-18c7ca719437",
+                "nodeTo": "0a0ab6bd-d6b3-454a-a7d0-5445a1b2cde3",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "29a123c0-2ed7-421b-b96b-473de79c62c7",
+                "nodeTo": "0a0ab6bd-d6b3-454a-a7d0-5445a1b2cde3",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c11d3a7d-3322-4017-b8cd-474104c49e86",
+                "nodeTo": "0a0ab6bd-d6b3-454a-a7d0-5445a1b2cde3",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0a0ab6bd-d6b3-454a-a7d0-5445a1b2cde3",
+                "nodeTo": "be162562-e012-4716-a56b-3bb94d1b4e2c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "be162562-e012-4716-a56b-3bb94d1b4e2c",
+                "nodeTo": "d088b086-94cd-4d71-b37e-47ca98bda034",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "be162562-e012-4716-a56b-3bb94d1b4e2c",
+                "nodeTo": "12b00c3e-c5e4-4417-a0db-18b92b42dd01",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d088b086-94cd-4d71-b37e-47ca98bda034",
+                "nodeTo": "73358386-6974-45ae-b859-9db5c0d2b64e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "12b00c3e-c5e4-4417-a0db-18b92b42dd01",
+                "nodeTo": "73358386-6974-45ae-b859-9db5c0d2b64e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d088b086-94cd-4d71-b37e-47ca98bda034",
+                "nodeTo": "d07002a7-7d4a-4642-bcdc-a07830587528",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "12b00c3e-c5e4-4417-a0db-18b92b42dd01",
+                "nodeTo": "d07002a7-7d4a-4642-bcdc-a07830587528",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-15 20:40:01"
+}

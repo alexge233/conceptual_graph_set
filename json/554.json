@@ -1,0 +1,262 @@
+{
+    "uuid": 554,
+    "text": "Chemists have devised greatly improved technique for making amino acids not found in nature",
+    "graph": {
+        "version": 1,
+        "guid": "9e148c68-a1dd-41a7-88e6-2d173c10e5ab",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "have",
+                "id": "bb81a90e-1113-4722-b802-bb06b705e55a",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "devised",
+                "id": "6d9e19d5-a6ec-4469-a524-b21b0cac5d19",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "b83a2d93-47da-4568-b756-12a475c07d0a",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "making",
+                "id": "897a2d95-bc5b-4829-8865-c656d7672a2b",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "not",
+                "id": "4abc969b-aed6-440b-a28e-2b944990e39d",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "found",
+                "id": "78ecdd97-b3ca-4c5c-8bad-aaccaa1ae64c",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "81e504ba-04ea-41e5-b12b-a8837938ee55",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Chemists",
+                "id": "22d3422e-7552-43e7-8341-5241c5ca6310",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "greatly",
+                "id": "458da103-21de-49a8-93d7-828376c85e54",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "improved",
+                "id": "1ece8bcb-b14a-426a-b865-0ae7c7e336d6",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "technique",
+                "id": "6b1566d8-93de-453c-8684-0660c6a27d1d",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "amino",
+                "id": "9d29354d-c8c2-407b-ba23-e589963d4989",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "acids",
+                "id": "8c368434-6548-49d3-8735-63b0a2172c51",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "nature",
+                "id": "d6234b32-938e-4766-a2a8-daec71a13b82",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "22d3422e-7552-43e7-8341-5241c5ca6310",
+                "nodeTo": "bb81a90e-1113-4722-b802-bb06b705e55a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "22d3422e-7552-43e7-8341-5241c5ca6310",
+                "nodeTo": "6d9e19d5-a6ec-4469-a524-b21b0cac5d19",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bb81a90e-1113-4722-b802-bb06b705e55a",
+                "nodeTo": "458da103-21de-49a8-93d7-828376c85e54",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "bb81a90e-1113-4722-b802-bb06b705e55a",
+                "nodeTo": "1ece8bcb-b14a-426a-b865-0ae7c7e336d6",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "bb81a90e-1113-4722-b802-bb06b705e55a",
+                "nodeTo": "6b1566d8-93de-453c-8684-0660c6a27d1d",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6d9e19d5-a6ec-4469-a524-b21b0cac5d19",
+                "nodeTo": "458da103-21de-49a8-93d7-828376c85e54",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6d9e19d5-a6ec-4469-a524-b21b0cac5d19",
+                "nodeTo": "1ece8bcb-b14a-426a-b865-0ae7c7e336d6",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6d9e19d5-a6ec-4469-a524-b21b0cac5d19",
+                "nodeTo": "6b1566d8-93de-453c-8684-0660c6a27d1d",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "458da103-21de-49a8-93d7-828376c85e54",
+                "nodeTo": "b83a2d93-47da-4568-b756-12a475c07d0a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1ece8bcb-b14a-426a-b865-0ae7c7e336d6",
+                "nodeTo": "b83a2d93-47da-4568-b756-12a475c07d0a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6b1566d8-93de-453c-8684-0660c6a27d1d",
+                "nodeTo": "b83a2d93-47da-4568-b756-12a475c07d0a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "458da103-21de-49a8-93d7-828376c85e54",
+                "nodeTo": "897a2d95-bc5b-4829-8865-c656d7672a2b",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1ece8bcb-b14a-426a-b865-0ae7c7e336d6",
+                "nodeTo": "897a2d95-bc5b-4829-8865-c656d7672a2b",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6b1566d8-93de-453c-8684-0660c6a27d1d",
+                "nodeTo": "897a2d95-bc5b-4829-8865-c656d7672a2b",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b83a2d93-47da-4568-b756-12a475c07d0a",
+                "nodeTo": "9d29354d-c8c2-407b-ba23-e589963d4989",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b83a2d93-47da-4568-b756-12a475c07d0a",
+                "nodeTo": "8c368434-6548-49d3-8735-63b0a2172c51",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "897a2d95-bc5b-4829-8865-c656d7672a2b",
+                "nodeTo": "9d29354d-c8c2-407b-ba23-e589963d4989",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "897a2d95-bc5b-4829-8865-c656d7672a2b",
+                "nodeTo": "8c368434-6548-49d3-8735-63b0a2172c51",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9d29354d-c8c2-407b-ba23-e589963d4989",
+                "nodeTo": "4abc969b-aed6-440b-a28e-2b944990e39d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9d29354d-c8c2-407b-ba23-e589963d4989",
+                "nodeTo": "78ecdd97-b3ca-4c5c-8bad-aaccaa1ae64c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9d29354d-c8c2-407b-ba23-e589963d4989",
+                "nodeTo": "81e504ba-04ea-41e5-b12b-a8837938ee55",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8c368434-6548-49d3-8735-63b0a2172c51",
+                "nodeTo": "4abc969b-aed6-440b-a28e-2b944990e39d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8c368434-6548-49d3-8735-63b0a2172c51",
+                "nodeTo": "78ecdd97-b3ca-4c5c-8bad-aaccaa1ae64c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8c368434-6548-49d3-8735-63b0a2172c51",
+                "nodeTo": "81e504ba-04ea-41e5-b12b-a8837938ee55",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4abc969b-aed6-440b-a28e-2b944990e39d",
+                "nodeTo": "d6234b32-938e-4766-a2a8-daec71a13b82",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "78ecdd97-b3ca-4c5c-8bad-aaccaa1ae64c",
+                "nodeTo": "d6234b32-938e-4766-a2a8-daec71a13b82",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "81e504ba-04ea-41e5-b12b-a8837938ee55",
+                "nodeTo": "d6234b32-938e-4766-a2a8-daec71a13b82",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-05 20:06:09"
+}

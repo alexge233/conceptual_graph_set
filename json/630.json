@@ -1,0 +1,232 @@
+{
+    "uuid": 630,
+    "text": "Half way into last years season 35 of 288 players in Swedish Hockey League had already had concussion",
+    "graph": {
+        "version": 1,
+        "guid": "c0e5870c-6ccd-4dea-8782-8961a5d3ae00",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "into",
+                "id": "873e2c04-5dbd-4cab-aa36-066a0dbd40ca",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "5285a74c-49db-4077-8d60-9ec5bd3b445a",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "9148ee9c-1907-42ab-823c-ebee41e30d98",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "had",
+                "id": "3bc35a5d-5a5b-4d83-b570-a5e27e04347c",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "had",
+                "id": "490d7179-b7d0-4ba8-91b4-19059dc64c44",
+                "index": 16,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Half",
+                "id": "66485509-0c42-4c50-9e1b-a51c02e1054b",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "way",
+                "id": "49b60724-2bd6-42bd-896a-5de2b2941b8c",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "last",
+                "id": "4bcb4513-8dc6-4451-ab40-75d01c788d70",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "years",
+                "id": "a0329edc-7d12-4576-8a9b-dbc1070de060",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "season",
+                "id": "dab2ad7c-9066-419e-9979-ad75d65e4808",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": 35,
+                "id": "9d05169e-8d59-452b-a112-3537e1c4085c",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": 288,
+                "id": "6cc7bc18-6360-4e25-9180-0d1572ba83ce",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "players",
+                "id": "6dba9b2e-0d62-4e55-aec0-5e26aa19b752",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "Swedish",
+                "id": "dd576407-b7da-4ea4-bd36-5137bc9da091",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "Hockey",
+                "id": "459306d6-5dae-4940-a231-ed8b27b3e867",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "League",
+                "id": "31494d36-7557-4095-9cd7-37963c0957d2",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "already",
+                "id": "02aee28b-bb6b-40a0-ae5b-39035e5e4874",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "concussion",
+                "id": "d04156cc-578c-42e4-a781-83626bba6cea",
+                "index": 17,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "66485509-0c42-4c50-9e1b-a51c02e1054b",
+                "nodeTo": "873e2c04-5dbd-4cab-aa36-066a0dbd40ca",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "49b60724-2bd6-42bd-896a-5de2b2941b8c",
+                "nodeTo": "873e2c04-5dbd-4cab-aa36-066a0dbd40ca",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "873e2c04-5dbd-4cab-aa36-066a0dbd40ca",
+                "nodeTo": "4bcb4513-8dc6-4451-ab40-75d01c788d70",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "873e2c04-5dbd-4cab-aa36-066a0dbd40ca",
+                "nodeTo": "a0329edc-7d12-4576-8a9b-dbc1070de060",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "873e2c04-5dbd-4cab-aa36-066a0dbd40ca",
+                "nodeTo": "dab2ad7c-9066-419e-9979-ad75d65e4808",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "873e2c04-5dbd-4cab-aa36-066a0dbd40ca",
+                "nodeTo": "9d05169e-8d59-452b-a112-3537e1c4085c",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9d05169e-8d59-452b-a112-3537e1c4085c",
+                "nodeTo": "5285a74c-49db-4077-8d60-9ec5bd3b445a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5285a74c-49db-4077-8d60-9ec5bd3b445a",
+                "nodeTo": "6cc7bc18-6360-4e25-9180-0d1572ba83ce",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5285a74c-49db-4077-8d60-9ec5bd3b445a",
+                "nodeTo": "6dba9b2e-0d62-4e55-aec0-5e26aa19b752",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6dba9b2e-0d62-4e55-aec0-5e26aa19b752",
+                "nodeTo": "9148ee9c-1907-42ab-823c-ebee41e30d98",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6cc7bc18-6360-4e25-9180-0d1572ba83ce",
+                "nodeTo": "9148ee9c-1907-42ab-823c-ebee41e30d98",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9148ee9c-1907-42ab-823c-ebee41e30d98",
+                "nodeTo": "dd576407-b7da-4ea4-bd36-5137bc9da091",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9148ee9c-1907-42ab-823c-ebee41e30d98",
+                "nodeTo": "459306d6-5dae-4940-a231-ed8b27b3e867",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9148ee9c-1907-42ab-823c-ebee41e30d98",
+                "nodeTo": "31494d36-7557-4095-9cd7-37963c0957d2",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9d05169e-8d59-452b-a112-3537e1c4085c",
+                "nodeTo": "3bc35a5d-5a5b-4d83-b570-a5e27e04347c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3bc35a5d-5a5b-4d83-b570-a5e27e04347c",
+                "nodeTo": "02aee28b-bb6b-40a0-ae5b-39035e5e4874",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "02aee28b-bb6b-40a0-ae5b-39035e5e4874",
+                "nodeTo": "490d7179-b7d0-4ba8-91b4-19059dc64c44",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "490d7179-b7d0-4ba8-91b4-19059dc64c44",
+                "nodeTo": "d04156cc-578c-42e4-a781-83626bba6cea",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-08 20:15:27"
+}

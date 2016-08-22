@@ -1,0 +1,136 @@
+{
+    "uuid": 259,
+    "text": "actor Bob Hoskins dies of pneumonia aged 71",
+    "graph": {
+        "version": 1,
+        "guid": "4cd49865-022b-4c2d-a0a6-5194b66b740c",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "dies",
+                "id": "a42559ae-18b5-43c0-9a93-173d96159d6e",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "aec3c57a-24e4-43ad-b598-8a59454e7900",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "aged",
+                "id": "8a0eadca-4ad9-4725-8a92-aa0528a3283c",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "actor",
+                "id": "a6bec9b4-c034-4e03-b124-2ca982ceb4c6",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "Bob",
+                "id": "edd3995c-520c-41d8-b708-d377a5590030",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "Hoskins",
+                "id": "ec4c04cd-a9e7-4c8e-86b3-8486deed5631",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "pneumonia",
+                "id": "5d8c9880-8d0d-4925-81be-9512db141254",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": 71,
+                "id": "17974361-00e9-4ed1-8362-a854d236c301",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "a6bec9b4-c034-4e03-b124-2ca982ceb4c6",
+                "nodeTo": "a42559ae-18b5-43c0-9a93-173d96159d6e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "edd3995c-520c-41d8-b708-d377a5590030",
+                "nodeTo": "a42559ae-18b5-43c0-9a93-173d96159d6e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ec4c04cd-a9e7-4c8e-86b3-8486deed5631",
+                "nodeTo": "a42559ae-18b5-43c0-9a93-173d96159d6e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "edd3995c-520c-41d8-b708-d377a5590030",
+                "nodeTo": "aec3c57a-24e4-43ad-b598-8a59454e7900",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ec4c04cd-a9e7-4c8e-86b3-8486deed5631",
+                "nodeTo": "aec3c57a-24e4-43ad-b598-8a59454e7900",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a6bec9b4-c034-4e03-b124-2ca982ceb4c6",
+                "nodeTo": "aec3c57a-24e4-43ad-b598-8a59454e7900",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "aec3c57a-24e4-43ad-b598-8a59454e7900",
+                "nodeTo": "5d8c9880-8d0d-4925-81be-9512db141254",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a42559ae-18b5-43c0-9a93-173d96159d6e",
+                "nodeTo": "5d8c9880-8d0d-4925-81be-9512db141254",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "edd3995c-520c-41d8-b708-d377a5590030",
+                "nodeTo": "8a0eadca-4ad9-4725-8a92-aa0528a3283c",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ec4c04cd-a9e7-4c8e-86b3-8486deed5631",
+                "nodeTo": "8a0eadca-4ad9-4725-8a92-aa0528a3283c",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a6bec9b4-c034-4e03-b124-2ca982ceb4c6",
+                "nodeTo": "8a0eadca-4ad9-4725-8a92-aa0528a3283c",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8a0eadca-4ad9-4725-8a92-aa0528a3283c",
+                "nodeTo": "17974361-00e9-4ed1-8362-a854d236c301",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-03 12:45:28"
+}

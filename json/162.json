@@ -1,0 +1,58 @@
+{
+    "uuid": 162,
+    "text": "Serious shortfalls at hospital",
+    "graph": {
+        "version": 1,
+        "guid": "7089d785-8ada-4737-b4b0-d0ce39da8de2",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "at",
+                "id": "5049a809-e181-43d5-8e70-bb9978a6db2c",
+                "index": 2,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Serious",
+                "id": "15c96ac7-5a34-4312-8dc4-e43c5cb94895",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "shortfalls",
+                "id": "e3b8e445-1e88-407e-ad59-bad55deb4eb4",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "hospital",
+                "id": "6ddc1d46-a3b6-4995-a386-cc9d971a444b",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "15c96ac7-5a34-4312-8dc4-e43c5cb94895",
+                "nodeTo": "5049a809-e181-43d5-8e70-bb9978a6db2c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e3b8e445-1e88-407e-ad59-bad55deb4eb4",
+                "nodeTo": "5049a809-e181-43d5-8e70-bb9978a6db2c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5049a809-e181-43d5-8e70-bb9978a6db2c",
+                "nodeTo": "6ddc1d46-a3b6-4995-a386-cc9d971a444b",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-11-03 20:03:35"
+}

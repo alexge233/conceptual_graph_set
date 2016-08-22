@@ -1,0 +1,94 @@
+{
+    "uuid": 990,
+    "text": "Childminder sacked for being too fat",
+    "graph": {
+        "version": 1,
+        "guid": "90aeb0d7-0c2e-451e-baa4-49c0ed675c2d",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "sacked",
+                "id": "d99aacdd-a623-4d8d-8b58-88dd7da84a78",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "7181856e-49d4-4c37-bd02-9e99a3dd3b9b",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "being",
+                "id": "7b90c428-836e-446d-b469-8ed8ad8e8e12",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Childminder",
+                "id": "3b329463-0933-4335-bca2-1e590315705d",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "too",
+                "id": "4e023860-1346-4ea1-aa71-bd0d79478549",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "fat",
+                "id": "14dc1c02-221e-4ed4-b10d-87571651033d",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "3b329463-0933-4335-bca2-1e590315705d",
+                "nodeTo": "d99aacdd-a623-4d8d-8b58-88dd7da84a78",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3b329463-0933-4335-bca2-1e590315705d",
+                "nodeTo": "7181856e-49d4-4c37-bd02-9e99a3dd3b9b",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3b329463-0933-4335-bca2-1e590315705d",
+                "nodeTo": "7b90c428-836e-446d-b469-8ed8ad8e8e12",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7181856e-49d4-4c37-bd02-9e99a3dd3b9b",
+                "nodeTo": "4e023860-1346-4ea1-aa71-bd0d79478549",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7b90c428-836e-446d-b469-8ed8ad8e8e12",
+                "nodeTo": "4e023860-1346-4ea1-aa71-bd0d79478549",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7181856e-49d4-4c37-bd02-9e99a3dd3b9b",
+                "nodeTo": "14dc1c02-221e-4ed4-b10d-87571651033d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7b90c428-836e-446d-b469-8ed8ad8e8e12",
+                "nodeTo": "14dc1c02-221e-4ed4-b10d-87571651033d",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-02 16:38:10"
+}

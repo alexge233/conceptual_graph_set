@@ -1,0 +1,202 @@
+{
+    "uuid": 394,
+    "text": "Infections caused by specific type of antibiotic resistant bacteria are on rise in US",
+    "graph": {
+        "version": 1,
+        "guid": "d6137196-222e-49d4-943e-0a70523207e6",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "caused",
+                "id": "40076950-d7a0-448b-8163-32a8950264b0",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "by",
+                "id": "87c10c3c-a2d3-47c1-bd9b-2a99c224035a",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "52de4987-b775-444c-b04e-a3cb47c95003",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "are",
+                "id": "7dc58a45-b24b-4404-9878-c38831b07498",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "e996e6c3-3a33-455e-a9da-4ce09e32ec2b",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Infections",
+                "id": "b4694d01-c655-4da6-b220-46537a8c687c",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "specific",
+                "id": "3ebe5923-77bc-4ea9-abe7-111aa3457abe",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "type",
+                "id": "70ca9e3e-0b6b-4a78-ae9a-a790aee52a8d",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "antibiotic",
+                "id": "652b0be8-1e5d-4a37-8d0b-c9d49ee29c8d",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "resistant",
+                "id": "d06d979d-2715-4989-ad53-5a00e96b9b35",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "bacteria",
+                "id": "1d13353a-9e16-4c51-a6cd-01e1d9565906",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "on",
+                "id": "64abbb11-d453-4b2c-b0d0-abb46be7d6c2",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "rise",
+                "id": "dba475a1-c616-4736-9b03-532927749b3d",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "US",
+                "id": "2c91196c-44a7-4867-b259-cec4ea40ae71",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "b4694d01-c655-4da6-b220-46537a8c687c",
+                "nodeTo": "40076950-d7a0-448b-8163-32a8950264b0",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b4694d01-c655-4da6-b220-46537a8c687c",
+                "nodeTo": "87c10c3c-a2d3-47c1-bd9b-2a99c224035a",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "40076950-d7a0-448b-8163-32a8950264b0",
+                "nodeTo": "3ebe5923-77bc-4ea9-abe7-111aa3457abe",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "40076950-d7a0-448b-8163-32a8950264b0",
+                "nodeTo": "70ca9e3e-0b6b-4a78-ae9a-a790aee52a8d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "87c10c3c-a2d3-47c1-bd9b-2a99c224035a",
+                "nodeTo": "3ebe5923-77bc-4ea9-abe7-111aa3457abe",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "87c10c3c-a2d3-47c1-bd9b-2a99c224035a",
+                "nodeTo": "70ca9e3e-0b6b-4a78-ae9a-a790aee52a8d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3ebe5923-77bc-4ea9-abe7-111aa3457abe",
+                "nodeTo": "52de4987-b775-444c-b04e-a3cb47c95003",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "70ca9e3e-0b6b-4a78-ae9a-a790aee52a8d",
+                "nodeTo": "52de4987-b775-444c-b04e-a3cb47c95003",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "52de4987-b775-444c-b04e-a3cb47c95003",
+                "nodeTo": "652b0be8-1e5d-4a37-8d0b-c9d49ee29c8d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "52de4987-b775-444c-b04e-a3cb47c95003",
+                "nodeTo": "d06d979d-2715-4989-ad53-5a00e96b9b35",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "52de4987-b775-444c-b04e-a3cb47c95003",
+                "nodeTo": "1d13353a-9e16-4c51-a6cd-01e1d9565906",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b4694d01-c655-4da6-b220-46537a8c687c",
+                "nodeTo": "7dc58a45-b24b-4404-9878-c38831b07498",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7dc58a45-b24b-4404-9878-c38831b07498",
+                "nodeTo": "64abbb11-d453-4b2c-b0d0-abb46be7d6c2",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7dc58a45-b24b-4404-9878-c38831b07498",
+                "nodeTo": "dba475a1-c616-4736-9b03-532927749b3d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "64abbb11-d453-4b2c-b0d0-abb46be7d6c2",
+                "nodeTo": "e996e6c3-3a33-455e-a9da-4ce09e32ec2b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "dba475a1-c616-4736-9b03-532927749b3d",
+                "nodeTo": "e996e6c3-3a33-455e-a9da-4ce09e32ec2b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e996e6c3-3a33-455e-a9da-4ce09e32ec2b",
+                "nodeTo": "2c91196c-44a7-4867-b259-cec4ea40ae71",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-17 15:08:08"
+}

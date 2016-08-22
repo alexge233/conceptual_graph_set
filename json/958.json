@@ -1,0 +1,238 @@
+{
+    "uuid": 958,
+    "text": "Viacom emerges as successful bidder for Channel 5 leaving its current owner with very healthy profit",
+    "graph": {
+        "version": 1,
+        "guid": "c1621263-3760-4d00-8634-eaa085817b0e",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "emerges",
+                "id": "4c021901-3164-4e13-848b-a9658c64eb16",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "as",
+                "id": "dcd9062d-352e-4da6-a10a-312a510b0e14",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "4e3e5e34-d134-41e6-b508-3a0d6c0bb84b",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "leaving",
+                "id": "5deb95de-3992-4bc4-9d94-e73c79836811",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "with",
+                "id": "a5de2369-d32d-499c-88a9-59ed99e62224",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Viacom",
+                "id": "bbda3c4c-1300-4c6e-81d1-aa4e32552290",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "successful",
+                "id": "106ce7b8-037d-4a23-8b96-5ba13e95bb90",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "bidder",
+                "id": "8955aa4e-44b6-4097-9d01-d02d14520306",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "Channel",
+                "id": "d15504ca-de99-48c1-9736-7c4eb825881a",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": 5,
+                "id": "d0272c0d-018b-44eb-9d99-3d216e6e20d3",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "its",
+                "id": "6a6c33d4-4a5e-49a5-b01b-b6162a7cb24e",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "current",
+                "id": "66ab7a67-8a73-4b0b-b987-0e501843e420",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "owner",
+                "id": "0b393599-2b03-444d-9364-cdc5e16d205d",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "very",
+                "id": "94b40005-3e56-402e-bc3d-d4d9395abce9",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "healthy",
+                "id": "b1a91e1e-84bc-4de3-8ebe-e67d12e3b61b",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "profit",
+                "id": "be2b7469-d4a8-4994-a8b9-87c3032440d4",
+                "index": 15,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "bbda3c4c-1300-4c6e-81d1-aa4e32552290",
+                "nodeTo": "4c021901-3164-4e13-848b-a9658c64eb16",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bbda3c4c-1300-4c6e-81d1-aa4e32552290",
+                "nodeTo": "dcd9062d-352e-4da6-a10a-312a510b0e14",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "dcd9062d-352e-4da6-a10a-312a510b0e14",
+                "nodeTo": "106ce7b8-037d-4a23-8b96-5ba13e95bb90",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "dcd9062d-352e-4da6-a10a-312a510b0e14",
+                "nodeTo": "8955aa4e-44b6-4097-9d01-d02d14520306",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4c021901-3164-4e13-848b-a9658c64eb16",
+                "nodeTo": "106ce7b8-037d-4a23-8b96-5ba13e95bb90",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4c021901-3164-4e13-848b-a9658c64eb16",
+                "nodeTo": "8955aa4e-44b6-4097-9d01-d02d14520306",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "106ce7b8-037d-4a23-8b96-5ba13e95bb90",
+                "nodeTo": "4e3e5e34-d134-41e6-b508-3a0d6c0bb84b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8955aa4e-44b6-4097-9d01-d02d14520306",
+                "nodeTo": "4e3e5e34-d134-41e6-b508-3a0d6c0bb84b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4e3e5e34-d134-41e6-b508-3a0d6c0bb84b",
+                "nodeTo": "d15504ca-de99-48c1-9736-7c4eb825881a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4e3e5e34-d134-41e6-b508-3a0d6c0bb84b",
+                "nodeTo": "d0272c0d-018b-44eb-9d99-3d216e6e20d3",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5deb95de-3992-4bc4-9d94-e73c79836811",
+                "nodeTo": "6a6c33d4-4a5e-49a5-b01b-b6162a7cb24e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "106ce7b8-037d-4a23-8b96-5ba13e95bb90",
+                "nodeTo": "5deb95de-3992-4bc4-9d94-e73c79836811",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8955aa4e-44b6-4097-9d01-d02d14520306",
+                "nodeTo": "5deb95de-3992-4bc4-9d94-e73c79836811",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5deb95de-3992-4bc4-9d94-e73c79836811",
+                "nodeTo": "66ab7a67-8a73-4b0b-b987-0e501843e420",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5deb95de-3992-4bc4-9d94-e73c79836811",
+                "nodeTo": "0b393599-2b03-444d-9364-cdc5e16d205d",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6a6c33d4-4a5e-49a5-b01b-b6162a7cb24e",
+                "nodeTo": "a5de2369-d32d-499c-88a9-59ed99e62224",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "66ab7a67-8a73-4b0b-b987-0e501843e420",
+                "nodeTo": "a5de2369-d32d-499c-88a9-59ed99e62224",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0b393599-2b03-444d-9364-cdc5e16d205d",
+                "nodeTo": "a5de2369-d32d-499c-88a9-59ed99e62224",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a5de2369-d32d-499c-88a9-59ed99e62224",
+                "nodeTo": "94b40005-3e56-402e-bc3d-d4d9395abce9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a5de2369-d32d-499c-88a9-59ed99e62224",
+                "nodeTo": "b1a91e1e-84bc-4de3-8ebe-e67d12e3b61b",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a5de2369-d32d-499c-88a9-59ed99e62224",
+                "nodeTo": "be2b7469-d4a8-4994-a8b9-87c3032440d4",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-26 14:23:14"
+}

@@ -1,0 +1,208 @@
+{
+    "uuid": 813,
+    "text": "When it comes to computer games players can choose to be anyone or anything",
+    "graph": {
+        "version": 1,
+        "guid": "eab6eb03-2255-481a-adc6-d5c72944ce49",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "When",
+                "id": "4be30110-5b3d-4385-8c45-b2c01699a5b0",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "comes",
+                "id": "e435e5a8-77a3-43a4-8de9-277eb36a5037",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "8a4b5145-76a0-4739-bac1-0a8a2e670032",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "can",
+                "id": "78385635-384e-46cc-9608-e4e9de05e9cd",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "choose",
+                "id": "290789cd-16db-43bc-bc23-ba45b90ec82b",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "be",
+                "id": "a6bdd824-d368-4889-acee-b3179e75579c",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "or",
+                "id": "445574a8-19d3-466e-9b26-1463cc8746e0",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "it",
+                "id": "29db79d9-6d81-4881-acd8-43c2e269942a",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "computer",
+                "id": "693b8e98-13ce-4dc0-baca-246374a93a25",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "games",
+                "id": "a652d407-47d8-4c2d-a621-e86580d22e1a",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "players",
+                "id": "d882d403-5ddc-48ad-a799-61c2b7b2db21",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "ede477c3-4670-4667-8834-a48366875cae",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "anyone",
+                "id": "b88217ac-a8ac-491d-ba22-b958e825ec87",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "anything",
+                "id": "5b39a661-d94d-4e73-81e7-66b88a527d38",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "4be30110-5b3d-4385-8c45-b2c01699a5b0",
+                "nodeTo": "29db79d9-6d81-4881-acd8-43c2e269942a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "29db79d9-6d81-4881-acd8-43c2e269942a",
+                "nodeTo": "e435e5a8-77a3-43a4-8de9-277eb36a5037",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "29db79d9-6d81-4881-acd8-43c2e269942a",
+                "nodeTo": "8a4b5145-76a0-4739-bac1-0a8a2e670032",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e435e5a8-77a3-43a4-8de9-277eb36a5037",
+                "nodeTo": "693b8e98-13ce-4dc0-baca-246374a93a25",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8a4b5145-76a0-4739-bac1-0a8a2e670032",
+                "nodeTo": "693b8e98-13ce-4dc0-baca-246374a93a25",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e435e5a8-77a3-43a4-8de9-277eb36a5037",
+                "nodeTo": "a652d407-47d8-4c2d-a621-e86580d22e1a",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8a4b5145-76a0-4739-bac1-0a8a2e670032",
+                "nodeTo": "a652d407-47d8-4c2d-a621-e86580d22e1a",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e435e5a8-77a3-43a4-8de9-277eb36a5037",
+                "nodeTo": "d882d403-5ddc-48ad-a799-61c2b7b2db21",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8a4b5145-76a0-4739-bac1-0a8a2e670032",
+                "nodeTo": "d882d403-5ddc-48ad-a799-61c2b7b2db21",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d882d403-5ddc-48ad-a799-61c2b7b2db21",
+                "nodeTo": "78385635-384e-46cc-9608-e4e9de05e9cd",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d882d403-5ddc-48ad-a799-61c2b7b2db21",
+                "nodeTo": "290789cd-16db-43bc-bc23-ba45b90ec82b",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "78385635-384e-46cc-9608-e4e9de05e9cd",
+                "nodeTo": "ede477c3-4670-4667-8834-a48366875cae",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "290789cd-16db-43bc-bc23-ba45b90ec82b",
+                "nodeTo": "ede477c3-4670-4667-8834-a48366875cae",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ede477c3-4670-4667-8834-a48366875cae",
+                "nodeTo": "a6bdd824-d368-4889-acee-b3179e75579c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a6bdd824-d368-4889-acee-b3179e75579c",
+                "nodeTo": "b88217ac-a8ac-491d-ba22-b958e825ec87",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b88217ac-a8ac-491d-ba22-b958e825ec87",
+                "nodeTo": "445574a8-19d3-466e-9b26-1463cc8746e0",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "445574a8-19d3-466e-9b26-1463cc8746e0",
+                "nodeTo": "5b39a661-d94d-4e73-81e7-66b88a527d38",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a6bdd824-d368-4889-acee-b3179e75579c",
+                "nodeTo": "5b39a661-d94d-4e73-81e7-66b88a527d38",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-16 18:37:09"
+}

@@ -1,0 +1,82 @@
+{
+    "uuid": 477,
+    "text": "autistic workers get chance to shine",
+    "graph": {
+        "version": 1,
+        "guid": "951a1cc4-010c-41b8-99dd-695219354635",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "get",
+                "id": "ceb8eb10-4b54-48e3-ab8c-6b4b3a832296",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "9a5c13e4-10a1-411b-9c94-0107c919e934",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "shine",
+                "id": "5eec7b63-0e95-4c40-8e8b-5e4504359808",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "autistic",
+                "id": "0200580b-c246-4984-9525-6934424d987d",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "workers",
+                "id": "7b294d27-a8c5-4e08-b93d-2a50e3d01b9e",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "chance",
+                "id": "e4b0561a-d0ed-45ac-ab4d-c74ed9c2c211",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "0200580b-c246-4984-9525-6934424d987d",
+                "nodeTo": "ceb8eb10-4b54-48e3-ab8c-6b4b3a832296",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7b294d27-a8c5-4e08-b93d-2a50e3d01b9e",
+                "nodeTo": "ceb8eb10-4b54-48e3-ab8c-6b4b3a832296",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ceb8eb10-4b54-48e3-ab8c-6b4b3a832296",
+                "nodeTo": "e4b0561a-d0ed-45ac-ab4d-c74ed9c2c211",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e4b0561a-d0ed-45ac-ab4d-c74ed9c2c211",
+                "nodeTo": "9a5c13e4-10a1-411b-9c94-0107c919e934",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e4b0561a-d0ed-45ac-ab4d-c74ed9c2c211",
+                "nodeTo": "5eec7b63-0e95-4c40-8e8b-5e4504359808",
+                "index": 2,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2014-12-19 13:31:18"
+}

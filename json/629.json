@@ -1,0 +1,136 @@
+{
+    "uuid": 629,
+    "text": "Blood test identifies brain damage from concussion in ice hockey",
+    "graph": {
+        "version": 1,
+        "guid": "8899817e-5cb0-46a5-a011-49c9812dc427",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "identifies",
+                "id": "c9c87086-56da-4b15-840b-a24dbbb7c439",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "from",
+                "id": "4ea89318-4861-4d95-becb-0eacc2ce3a27",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "d7ba8437-d1cc-4dd9-9eb2-71cbeb196482",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Blood",
+                "id": "5cd522ed-5666-455a-bcb2-527e9594229a",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "test",
+                "id": "822ed052-551b-4ea1-9b61-a51d4ee77a55",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "brain",
+                "id": "cd819ecb-30c5-49d7-8123-e5401d19618d",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "damage",
+                "id": "b1730971-1db4-4708-9c37-b0abd1a3d793",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "concussion",
+                "id": "01423e8a-d84b-4798-9da8-719363bb6c40",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "ice",
+                "id": "2a8c00d9-b0b9-4ce2-bd68-22dd72528169",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "hockey",
+                "id": "36a27e84-bc07-4572-9b17-a92a4c4605c0",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "5cd522ed-5666-455a-bcb2-527e9594229a",
+                "nodeTo": "c9c87086-56da-4b15-840b-a24dbbb7c439",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "822ed052-551b-4ea1-9b61-a51d4ee77a55",
+                "nodeTo": "c9c87086-56da-4b15-840b-a24dbbb7c439",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c9c87086-56da-4b15-840b-a24dbbb7c439",
+                "nodeTo": "cd819ecb-30c5-49d7-8123-e5401d19618d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c9c87086-56da-4b15-840b-a24dbbb7c439",
+                "nodeTo": "b1730971-1db4-4708-9c37-b0abd1a3d793",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "cd819ecb-30c5-49d7-8123-e5401d19618d",
+                "nodeTo": "4ea89318-4861-4d95-becb-0eacc2ce3a27",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b1730971-1db4-4708-9c37-b0abd1a3d793",
+                "nodeTo": "4ea89318-4861-4d95-becb-0eacc2ce3a27",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4ea89318-4861-4d95-becb-0eacc2ce3a27",
+                "nodeTo": "01423e8a-d84b-4798-9da8-719363bb6c40",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "01423e8a-d84b-4798-9da8-719363bb6c40",
+                "nodeTo": "d7ba8437-d1cc-4dd9-9eb2-71cbeb196482",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d7ba8437-d1cc-4dd9-9eb2-71cbeb196482",
+                "nodeTo": "2a8c00d9-b0b9-4ce2-bd68-22dd72528169",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d7ba8437-d1cc-4dd9-9eb2-71cbeb196482",
+                "nodeTo": "36a27e84-bc07-4572-9b17-a92a4c4605c0",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-08 20:12:52"
+}

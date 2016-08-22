@@ -1,0 +1,130 @@
+{
+    "uuid": 936,
+    "text": "Cellular defense against fatal associations between proteins and DNA",
+    "graph": {
+        "version": 1,
+        "guid": "9d405740-7d75-41c5-b173-027ae656e00e",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "against",
+                "id": "131e1254-0287-4b3e-a3a9-42d6b737d695",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "between",
+                "id": "d69d917b-2640-4401-b757-695ad2963587",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "5887a4ad-91d6-4634-b407-6301d27c27ba",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Cellular",
+                "id": "82b10edd-9d61-44e2-ad62-33b06300eae5",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "defense",
+                "id": "7ba7ed82-9d57-458d-b6c7-a0071e3ce5c1",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "fatal",
+                "id": "12dc2e59-51a3-4c16-b034-da3008342a4a",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "associations",
+                "id": "390e7d9b-752b-496c-a7be-4ecd30e74333",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "proteins",
+                "id": "74ed1ea1-1670-4176-939b-06b67b431a6b",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "DNA",
+                "id": "1600cd53-0ad0-4b77-8dda-c1c8a9dd5ee0",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "82b10edd-9d61-44e2-ad62-33b06300eae5",
+                "nodeTo": "131e1254-0287-4b3e-a3a9-42d6b737d695",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7ba7ed82-9d57-458d-b6c7-a0071e3ce5c1",
+                "nodeTo": "131e1254-0287-4b3e-a3a9-42d6b737d695",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "131e1254-0287-4b3e-a3a9-42d6b737d695",
+                "nodeTo": "12dc2e59-51a3-4c16-b034-da3008342a4a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "131e1254-0287-4b3e-a3a9-42d6b737d695",
+                "nodeTo": "390e7d9b-752b-496c-a7be-4ecd30e74333",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "12dc2e59-51a3-4c16-b034-da3008342a4a",
+                "nodeTo": "d69d917b-2640-4401-b757-695ad2963587",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "390e7d9b-752b-496c-a7be-4ecd30e74333",
+                "nodeTo": "d69d917b-2640-4401-b757-695ad2963587",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d69d917b-2640-4401-b757-695ad2963587",
+                "nodeTo": "74ed1ea1-1670-4176-939b-06b67b431a6b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "74ed1ea1-1670-4176-939b-06b67b431a6b",
+                "nodeTo": "5887a4ad-91d6-4634-b407-6301d27c27ba",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5887a4ad-91d6-4634-b407-6301d27c27ba",
+                "nodeTo": "1600cd53-0ad0-4b77-8dda-c1c8a9dd5ee0",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d69d917b-2640-4401-b757-695ad2963587",
+                "nodeTo": "1600cd53-0ad0-4b77-8dda-c1c8a9dd5ee0",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-22 17:52:13"
+}

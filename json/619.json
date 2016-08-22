@@ -1,0 +1,136 @@
+{
+    "uuid": 619,
+    "text": "Blood poisoning increases risk of blood clots new research shows",
+    "graph": {
+        "version": 1,
+        "guid": "bae7b7e3-bd25-4120-985e-b1433270019a",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "increases",
+                "id": "54db80c8-1a91-46b7-96a2-d9dc7b8883ec",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "be677979-858b-4d09-8685-957d10a399a2",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "shows",
+                "id": "320d28dc-5b81-4205-9d57-ea67b27e595c",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Blood",
+                "id": "77ee02ec-4095-4ae3-9239-7987750acaa6",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "poisoning",
+                "id": "2d534308-91b4-4a91-bc13-4065bbd8c012",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "risk",
+                "id": "67e7005d-3951-49e4-a844-698bb9791621",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "blood",
+                "id": "be0e76b4-bedd-47d6-962b-4b6077c4c637",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "clots",
+                "id": "665ea8b9-21d0-42ab-9c74-76b9e3ed390c",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "new",
+                "id": "65dbbd7b-e159-4a99-a527-5c3798e8ac9c",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "research",
+                "id": "3038a388-85b9-45b8-a533-95d908dd737c",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "77ee02ec-4095-4ae3-9239-7987750acaa6",
+                "nodeTo": "54db80c8-1a91-46b7-96a2-d9dc7b8883ec",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2d534308-91b4-4a91-bc13-4065bbd8c012",
+                "nodeTo": "54db80c8-1a91-46b7-96a2-d9dc7b8883ec",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "54db80c8-1a91-46b7-96a2-d9dc7b8883ec",
+                "nodeTo": "67e7005d-3951-49e4-a844-698bb9791621",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "67e7005d-3951-49e4-a844-698bb9791621",
+                "nodeTo": "be677979-858b-4d09-8685-957d10a399a2",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "be677979-858b-4d09-8685-957d10a399a2",
+                "nodeTo": "be0e76b4-bedd-47d6-962b-4b6077c4c637",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "be677979-858b-4d09-8685-957d10a399a2",
+                "nodeTo": "665ea8b9-21d0-42ab-9c74-76b9e3ed390c",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "65dbbd7b-e159-4a99-a527-5c3798e8ac9c",
+                "nodeTo": "320d28dc-5b81-4205-9d57-ea67b27e595c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3038a388-85b9-45b8-a533-95d908dd737c",
+                "nodeTo": "320d28dc-5b81-4205-9d57-ea67b27e595c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "320d28dc-5b81-4205-9d57-ea67b27e595c",
+                "nodeTo": "77ee02ec-4095-4ae3-9239-7987750acaa6",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "320d28dc-5b81-4205-9d57-ea67b27e595c",
+                "nodeTo": "2d534308-91b4-4a91-bc13-4065bbd8c012",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-08 19:27:58"
+}

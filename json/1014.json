@@ -1,0 +1,286 @@
+{
+    "uuid": 1014,
+    "text": "preferences also relate to measures of growth and can have important implications for efforts to change childrens diets",
+    "graph": {
+        "version": 1,
+        "guid": "317ca94d-29c8-4eec-83a5-724b352ac777",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "also",
+                "id": "3e311775-87ee-4b3c-b98a-edca85dca983",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "relate",
+                "id": "ac544eec-137d-4871-b4cb-0c06325a16b6",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "9ededa0c-663a-4901-a00d-847864aee04c",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "670c0486-6dc5-44b0-b96e-b71c9829a7dc",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "2dcbb105-22d8-40ad-8cec-59219d8a4edd",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "can",
+                "id": "74705c27-4eb5-4ca6-9bea-4be47a6352dc",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "have",
+                "id": "d10c006c-b836-4012-bcb8-60358caba1c4",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "e69a66be-3931-4e80-93b5-3a39e3e30d3a",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "5530b37a-9d16-4b02-9e88-72dbe91dec59",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "change",
+                "id": "5ab2badb-608e-4eb5-b95c-9d5049db6947",
+                "index": 15,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "preferences",
+                "id": "18cd2a32-ec55-4e8d-b4b4-80a16db9ecbe",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "measures",
+                "id": "450ae46d-c65d-4173-b2e8-53411a020e84",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "growth",
+                "id": "714511b9-edbb-4583-b062-34452d665457",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "important",
+                "id": "2cc4275d-1ad4-492e-84b4-aa1ee0b50dd2",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "implications",
+                "id": "540019b1-3737-4bb4-b291-3526ce252116",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "efforts",
+                "id": "9c27a525-0835-43c8-97b3-0d1a5b0c4b88",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "childrens",
+                "id": "914b2e92-06e9-4437-9a07-d17c13347011",
+                "index": 16,
+                "postag": "NA"
+            },
+            {
+                "label": "diets",
+                "id": "ccc3816c-ae89-4936-9605-d0d44107b454",
+                "index": 17,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "18cd2a32-ec55-4e8d-b4b4-80a16db9ecbe",
+                "nodeTo": "3e311775-87ee-4b3c-b98a-edca85dca983",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "18cd2a32-ec55-4e8d-b4b4-80a16db9ecbe",
+                "nodeTo": "ac544eec-137d-4871-b4cb-0c06325a16b6",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "18cd2a32-ec55-4e8d-b4b4-80a16db9ecbe",
+                "nodeTo": "9ededa0c-663a-4901-a00d-847864aee04c",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3e311775-87ee-4b3c-b98a-edca85dca983",
+                "nodeTo": "450ae46d-c65d-4173-b2e8-53411a020e84",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ac544eec-137d-4871-b4cb-0c06325a16b6",
+                "nodeTo": "450ae46d-c65d-4173-b2e8-53411a020e84",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9ededa0c-663a-4901-a00d-847864aee04c",
+                "nodeTo": "450ae46d-c65d-4173-b2e8-53411a020e84",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "450ae46d-c65d-4173-b2e8-53411a020e84",
+                "nodeTo": "670c0486-6dc5-44b0-b96e-b71c9829a7dc",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "670c0486-6dc5-44b0-b96e-b71c9829a7dc",
+                "nodeTo": "714511b9-edbb-4583-b062-34452d665457",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "18cd2a32-ec55-4e8d-b4b4-80a16db9ecbe",
+                "nodeTo": "2dcbb105-22d8-40ad-8cec-59219d8a4edd",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "18cd2a32-ec55-4e8d-b4b4-80a16db9ecbe",
+                "nodeTo": "74705c27-4eb5-4ca6-9bea-4be47a6352dc",
+                "index": 5,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "18cd2a32-ec55-4e8d-b4b4-80a16db9ecbe",
+                "nodeTo": "d10c006c-b836-4012-bcb8-60358caba1c4",
+                "index": 6,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2dcbb105-22d8-40ad-8cec-59219d8a4edd",
+                "nodeTo": "450ae46d-c65d-4173-b2e8-53411a020e84",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2dcbb105-22d8-40ad-8cec-59219d8a4edd",
+                "nodeTo": "2cc4275d-1ad4-492e-84b4-aa1ee0b50dd2",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "74705c27-4eb5-4ca6-9bea-4be47a6352dc",
+                "nodeTo": "2cc4275d-1ad4-492e-84b4-aa1ee0b50dd2",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d10c006c-b836-4012-bcb8-60358caba1c4",
+                "nodeTo": "2cc4275d-1ad4-492e-84b4-aa1ee0b50dd2",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2dcbb105-22d8-40ad-8cec-59219d8a4edd",
+                "nodeTo": "540019b1-3737-4bb4-b291-3526ce252116",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "74705c27-4eb5-4ca6-9bea-4be47a6352dc",
+                "nodeTo": "540019b1-3737-4bb4-b291-3526ce252116",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d10c006c-b836-4012-bcb8-60358caba1c4",
+                "nodeTo": "540019b1-3737-4bb4-b291-3526ce252116",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2cc4275d-1ad4-492e-84b4-aa1ee0b50dd2",
+                "nodeTo": "e69a66be-3931-4e80-93b5-3a39e3e30d3a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "540019b1-3737-4bb4-b291-3526ce252116",
+                "nodeTo": "e69a66be-3931-4e80-93b5-3a39e3e30d3a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e69a66be-3931-4e80-93b5-3a39e3e30d3a",
+                "nodeTo": "9c27a525-0835-43c8-97b3-0d1a5b0c4b88",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9c27a525-0835-43c8-97b3-0d1a5b0c4b88",
+                "nodeTo": "5530b37a-9d16-4b02-9e88-72dbe91dec59",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9c27a525-0835-43c8-97b3-0d1a5b0c4b88",
+                "nodeTo": "5ab2badb-608e-4eb5-b95c-9d5049db6947",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5530b37a-9d16-4b02-9e88-72dbe91dec59",
+                "nodeTo": "914b2e92-06e9-4437-9a07-d17c13347011",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5ab2badb-608e-4eb5-b95c-9d5049db6947",
+                "nodeTo": "914b2e92-06e9-4437-9a07-d17c13347011",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5530b37a-9d16-4b02-9e88-72dbe91dec59",
+                "nodeTo": "ccc3816c-ae89-4936-9605-d0d44107b454",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5ab2badb-608e-4eb5-b95c-9d5049db6947",
+                "nodeTo": "ccc3816c-ae89-4936-9605-d0d44107b454",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-03 14:16:19"
+}

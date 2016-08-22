@@ -1,0 +1,238 @@
+{
+    "uuid": 781,
+    "text": "Ambulance crews should carry cameras to help prevent thousands of assaults on front line staff each year",
+    "graph": {
+        "version": 1,
+        "guid": "7ad79dd2-23ea-4056-87c8-7045a2301584",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "should",
+                "id": "e75cd5ec-32a4-42bd-a41b-58d49281ed80",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "carry",
+                "id": "04495c35-bb8a-48b8-9571-4800b7423caa",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "c066bb79-c170-4970-b18a-b20ccaa699ac",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "help",
+                "id": "6e2cc08a-9b49-43e6-b651-28c41e0bdeaa",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "prevent",
+                "id": "d6dd99d2-6307-4aab-a682-4b66144aedd8",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "d360bae0-2189-499c-b887-2b6c3b1154ce",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "on",
+                "id": "b5154e4a-3149-4329-892e-2645db208b13",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "each",
+                "id": "d837737b-6037-40b5-952a-1c3a1ccd21d3",
+                "index": 15,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Ambulance",
+                "id": "04b8c82c-dcbe-41d9-bb9c-93b56a477da8",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "crews",
+                "id": "d4562412-501e-4533-8aa4-45d84d508315",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "cameras",
+                "id": "8c412770-1e02-4797-b4b8-2ca85133974d",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "thousands",
+                "id": "c63b7ee2-a65c-4d26-ac8d-bde84390a193",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "assaults",
+                "id": "7d0a8abd-5323-40ed-9731-cb909865099a",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "front",
+                "id": "9831cdbc-68a9-4349-8097-47dd99a01a98",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "line",
+                "id": "06c19bb8-ca14-4bee-b267-1d1b961b04a1",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "staff",
+                "id": "967bc52e-a721-40ba-8e40-8693834e9c1e",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "year",
+                "id": "866e8acc-c504-47db-9a83-2e428b332645",
+                "index": 16,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "04b8c82c-dcbe-41d9-bb9c-93b56a477da8",
+                "nodeTo": "e75cd5ec-32a4-42bd-a41b-58d49281ed80",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d4562412-501e-4533-8aa4-45d84d508315",
+                "nodeTo": "e75cd5ec-32a4-42bd-a41b-58d49281ed80",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "04b8c82c-dcbe-41d9-bb9c-93b56a477da8",
+                "nodeTo": "04495c35-bb8a-48b8-9571-4800b7423caa",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d4562412-501e-4533-8aa4-45d84d508315",
+                "nodeTo": "04495c35-bb8a-48b8-9571-4800b7423caa",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e75cd5ec-32a4-42bd-a41b-58d49281ed80",
+                "nodeTo": "8c412770-1e02-4797-b4b8-2ca85133974d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "04495c35-bb8a-48b8-9571-4800b7423caa",
+                "nodeTo": "8c412770-1e02-4797-b4b8-2ca85133974d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8c412770-1e02-4797-b4b8-2ca85133974d",
+                "nodeTo": "c066bb79-c170-4970-b18a-b20ccaa699ac",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8c412770-1e02-4797-b4b8-2ca85133974d",
+                "nodeTo": "6e2cc08a-9b49-43e6-b651-28c41e0bdeaa",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8c412770-1e02-4797-b4b8-2ca85133974d",
+                "nodeTo": "d6dd99d2-6307-4aab-a682-4b66144aedd8",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c066bb79-c170-4970-b18a-b20ccaa699ac",
+                "nodeTo": "c63b7ee2-a65c-4d26-ac8d-bde84390a193",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6e2cc08a-9b49-43e6-b651-28c41e0bdeaa",
+                "nodeTo": "c63b7ee2-a65c-4d26-ac8d-bde84390a193",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d6dd99d2-6307-4aab-a682-4b66144aedd8",
+                "nodeTo": "c63b7ee2-a65c-4d26-ac8d-bde84390a193",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c63b7ee2-a65c-4d26-ac8d-bde84390a193",
+                "nodeTo": "d360bae0-2189-499c-b887-2b6c3b1154ce",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d360bae0-2189-499c-b887-2b6c3b1154ce",
+                "nodeTo": "7d0a8abd-5323-40ed-9731-cb909865099a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7d0a8abd-5323-40ed-9731-cb909865099a",
+                "nodeTo": "b5154e4a-3149-4329-892e-2645db208b13",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b5154e4a-3149-4329-892e-2645db208b13",
+                "nodeTo": "9831cdbc-68a9-4349-8097-47dd99a01a98",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b5154e4a-3149-4329-892e-2645db208b13",
+                "nodeTo": "06c19bb8-ca14-4bee-b267-1d1b961b04a1",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b5154e4a-3149-4329-892e-2645db208b13",
+                "nodeTo": "967bc52e-a721-40ba-8e40-8693834e9c1e",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7d0a8abd-5323-40ed-9731-cb909865099a",
+                "nodeTo": "d837737b-6037-40b5-952a-1c3a1ccd21d3",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d837737b-6037-40b5-952a-1c3a1ccd21d3",
+                "nodeTo": "866e8acc-c504-47db-9a83-2e428b332645",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-15 19:52:09"
+}

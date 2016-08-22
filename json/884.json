@@ -1,0 +1,118 @@
+{
+    "uuid": 884,
+    "text": "Care of heart failure patients falling short in UK",
+    "graph": {
+        "version": 1,
+        "guid": "0737889b-ede0-4e43-a891-3dcd8cd8c49b",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "of",
+                "id": "3b004b6a-6d53-48b5-80dd-0b4cb1a7ab28",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "falling",
+                "id": "cbc171b0-aeb3-43dc-bc9a-c7b4cc64a3d0",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "530b909d-00d2-43d7-b68a-29ad313c1574",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Care",
+                "id": "0c27d8de-3900-4e28-a7c3-c9abe9362dc2",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "heart",
+                "id": "d1c8b048-0360-4b7b-a83e-d0a226001705",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "failure",
+                "id": "71112b95-4aae-4b83-a5e0-230d279e383b",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "patients",
+                "id": "6b640d33-711b-4910-a055-3e31165b0363",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "short",
+                "id": "3c9ecd03-a05e-4d60-9706-3a0c41664367",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "UK",
+                "id": "a844b693-13e8-4903-bce6-1613e08ca9a9",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "0c27d8de-3900-4e28-a7c3-c9abe9362dc2",
+                "nodeTo": "3b004b6a-6d53-48b5-80dd-0b4cb1a7ab28",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3b004b6a-6d53-48b5-80dd-0b4cb1a7ab28",
+                "nodeTo": "d1c8b048-0360-4b7b-a83e-d0a226001705",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3b004b6a-6d53-48b5-80dd-0b4cb1a7ab28",
+                "nodeTo": "71112b95-4aae-4b83-a5e0-230d279e383b",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3b004b6a-6d53-48b5-80dd-0b4cb1a7ab28",
+                "nodeTo": "6b640d33-711b-4910-a055-3e31165b0363",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0c27d8de-3900-4e28-a7c3-c9abe9362dc2",
+                "nodeTo": "cbc171b0-aeb3-43dc-bc9a-c7b4cc64a3d0",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cbc171b0-aeb3-43dc-bc9a-c7b4cc64a3d0",
+                "nodeTo": "3c9ecd03-a05e-4d60-9706-3a0c41664367",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3c9ecd03-a05e-4d60-9706-3a0c41664367",
+                "nodeTo": "530b909d-00d2-43d7-b68a-29ad313c1574",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "530b909d-00d2-43d7-b68a-29ad313c1574",
+                "nodeTo": "a844b693-13e8-4903-bce6-1613e08ca9a9",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-20 16:23:13"
+}

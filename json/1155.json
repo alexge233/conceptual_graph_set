@@ -1,0 +1,208 @@
+{
+    "uuid": 1155,
+    "text": "streptococci can easily become resistant to antibiotic and pass on this trait quickly",
+    "graph": {
+        "version": 1,
+        "guid": "dc2e1b83-b0b3-4be5-9941-56268a1a6d58",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "can",
+                "id": "1987926b-5576-4730-999c-81b9d5e05bb6",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "become",
+                "id": "01637966-d328-49d8-b256-1aacb10209e3",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "928eb77e-2130-4557-b1c3-504436e3e075",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "3272eaad-8dbc-4b39-96a4-051108247411",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "pass",
+                "id": "ad0dd96a-3394-4862-bd27-00ab95518a48",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "on",
+                "id": "945989c9-71ca-49e9-aa7a-ae1422777daa",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "streptococci",
+                "id": "0ceb55ae-eed1-4a55-b94b-a409c97a77b9",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "easily",
+                "id": "23b41144-1195-44cd-a958-0d913ece186c",
+                "postag": "NA",
+                "index": 2
+            },
+            {
+                "label": "resistant",
+                "id": "d37e2990-80e6-4180-844b-96784c03b99b",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "antibiotic",
+                "id": "3762b7ed-54ad-4d60-816b-78a81bab8c0b",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "this",
+                "id": "3a1d421a-99a6-46a7-8c82-3b9940666086",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "trait",
+                "id": "7608b370-977e-446d-a9e9-53e719bc8131",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "quickly",
+                "id": "4e3189e9-63c9-4d23-8a6a-2deedc9c6801",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "0ceb55ae-eed1-4a55-b94b-a409c97a77b9",
+                "nodeTo": "1987926b-5576-4730-999c-81b9d5e05bb6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1987926b-5576-4730-999c-81b9d5e05bb6",
+                "nodeTo": "23b41144-1195-44cd-a958-0d913ece186c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "23b41144-1195-44cd-a958-0d913ece186c",
+                "nodeTo": "01637966-d328-49d8-b256-1aacb10209e3",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "01637966-d328-49d8-b256-1aacb10209e3",
+                "nodeTo": "d37e2990-80e6-4180-844b-96784c03b99b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d37e2990-80e6-4180-844b-96784c03b99b",
+                "nodeTo": "928eb77e-2130-4557-b1c3-504436e3e075",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "928eb77e-2130-4557-b1c3-504436e3e075",
+                "nodeTo": "3762b7ed-54ad-4d60-816b-78a81bab8c0b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "23b41144-1195-44cd-a958-0d913ece186c",
+                "nodeTo": "3272eaad-8dbc-4b39-96a4-051108247411",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3272eaad-8dbc-4b39-96a4-051108247411",
+                "nodeTo": "d37e2990-80e6-4180-844b-96784c03b99b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "23b41144-1195-44cd-a958-0d913ece186c",
+                "nodeTo": "ad0dd96a-3394-4862-bd27-00ab95518a48",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "23b41144-1195-44cd-a958-0d913ece186c",
+                "nodeTo": "945989c9-71ca-49e9-aa7a-ae1422777daa",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3272eaad-8dbc-4b39-96a4-051108247411",
+                "nodeTo": "3a1d421a-99a6-46a7-8c82-3b9940666086",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ad0dd96a-3394-4862-bd27-00ab95518a48",
+                "nodeTo": "3a1d421a-99a6-46a7-8c82-3b9940666086",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "945989c9-71ca-49e9-aa7a-ae1422777daa",
+                "nodeTo": "3a1d421a-99a6-46a7-8c82-3b9940666086",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3272eaad-8dbc-4b39-96a4-051108247411",
+                "nodeTo": "7608b370-977e-446d-a9e9-53e719bc8131",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ad0dd96a-3394-4862-bd27-00ab95518a48",
+                "nodeTo": "7608b370-977e-446d-a9e9-53e719bc8131",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "945989c9-71ca-49e9-aa7a-ae1422777daa",
+                "nodeTo": "7608b370-977e-446d-a9e9-53e719bc8131",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3272eaad-8dbc-4b39-96a4-051108247411",
+                "nodeTo": "4e3189e9-63c9-4d23-8a6a-2deedc9c6801",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ad0dd96a-3394-4862-bd27-00ab95518a48",
+                "nodeTo": "4e3189e9-63c9-4d23-8a6a-2deedc9c6801",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "945989c9-71ca-49e9-aa7a-ae1422777daa",
+                "nodeTo": "4e3189e9-63c9-4d23-8a6a-2deedc9c6801",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-24 15:48:40"
+}

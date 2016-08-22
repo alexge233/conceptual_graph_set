@@ -1,0 +1,250 @@
+{
+    "uuid": 1094,
+    "text": "although cleft palate is one of most common birth defects in children it is not completely understood",
+    "graph": {
+        "version": 1,
+        "guid": "a5068a49-7eca-48dc-8cd1-d3e29aea3da1",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "although",
+                "id": "dae03d5e-2dd4-4391-a2ed-9dc2c70e12d2",
+                "postag": "NA",
+                "index": 0
+            },
+            {
+                "label": "is",
+                "id": "dc94b827-3156-4117-a92d-a45c70bd84e9",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "9d96e2d0-670d-45ad-ae59-7723c4ae9b49",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "c03b7a19-78a0-419e-8847-1e7437d81086",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "is",
+                "id": "559b3356-7356-4cda-a489-bad907539685",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "not",
+                "id": "3a1750a9-9977-4408-bb08-01dc61e3d9d8",
+                "index": 14,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "cleft",
+                "id": "93c2be1a-3d24-4ee0-881d-acdc9bbd8ab2",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "palate",
+                "id": "7a6deeee-468b-4737-9989-34d1816b4d30",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "one",
+                "id": "cb8a5739-a680-4702-ab40-6b0a3b6399a7",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "most",
+                "id": "a306627c-7176-48dc-9be5-98742b426258",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "common",
+                "id": "48b23131-858c-4960-a486-79e866b66a48",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "birth",
+                "id": "b1870658-b263-48a6-b477-1aac07b07406",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "defects",
+                "id": "baedcb06-343e-498e-9606-aaed9151e0c7",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "children",
+                "id": "42950567-157a-4027-a8b9-e36b726e5a09",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "it",
+                "id": "ecc9dbb8-b151-48db-88c0-41a8c68ca0a2",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "completely",
+                "id": "68a73665-b7e9-4b1d-ae95-65a1da827d44",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "understood",
+                "id": "1119a176-a02d-4446-a8eb-20d5d2de2c51",
+                "index": 16,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "dae03d5e-2dd4-4391-a2ed-9dc2c70e12d2",
+                "nodeTo": "93c2be1a-3d24-4ee0-881d-acdc9bbd8ab2",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "dae03d5e-2dd4-4391-a2ed-9dc2c70e12d2",
+                "nodeTo": "7a6deeee-468b-4737-9989-34d1816b4d30",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "93c2be1a-3d24-4ee0-881d-acdc9bbd8ab2",
+                "nodeTo": "dc94b827-3156-4117-a92d-a45c70bd84e9",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7a6deeee-468b-4737-9989-34d1816b4d30",
+                "nodeTo": "dc94b827-3156-4117-a92d-a45c70bd84e9",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "dc94b827-3156-4117-a92d-a45c70bd84e9",
+                "nodeTo": "cb8a5739-a680-4702-ab40-6b0a3b6399a7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "cb8a5739-a680-4702-ab40-6b0a3b6399a7",
+                "nodeTo": "9d96e2d0-670d-45ad-ae59-7723c4ae9b49",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9d96e2d0-670d-45ad-ae59-7723c4ae9b49",
+                "nodeTo": "a306627c-7176-48dc-9be5-98742b426258",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9d96e2d0-670d-45ad-ae59-7723c4ae9b49",
+                "nodeTo": "48b23131-858c-4960-a486-79e866b66a48",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9d96e2d0-670d-45ad-ae59-7723c4ae9b49",
+                "nodeTo": "b1870658-b263-48a6-b477-1aac07b07406",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9d96e2d0-670d-45ad-ae59-7723c4ae9b49",
+                "nodeTo": "baedcb06-343e-498e-9606-aaed9151e0c7",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a306627c-7176-48dc-9be5-98742b426258",
+                "nodeTo": "c03b7a19-78a0-419e-8847-1e7437d81086",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "48b23131-858c-4960-a486-79e866b66a48",
+                "nodeTo": "c03b7a19-78a0-419e-8847-1e7437d81086",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b1870658-b263-48a6-b477-1aac07b07406",
+                "nodeTo": "c03b7a19-78a0-419e-8847-1e7437d81086",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "baedcb06-343e-498e-9606-aaed9151e0c7",
+                "nodeTo": "c03b7a19-78a0-419e-8847-1e7437d81086",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c03b7a19-78a0-419e-8847-1e7437d81086",
+                "nodeTo": "42950567-157a-4027-a8b9-e36b726e5a09",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "dae03d5e-2dd4-4391-a2ed-9dc2c70e12d2",
+                "nodeTo": "ecc9dbb8-b151-48db-88c0-41a8c68ca0a2",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ecc9dbb8-b151-48db-88c0-41a8c68ca0a2",
+                "nodeTo": "559b3356-7356-4cda-a489-bad907539685",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ecc9dbb8-b151-48db-88c0-41a8c68ca0a2",
+                "nodeTo": "3a1750a9-9977-4408-bb08-01dc61e3d9d8",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "559b3356-7356-4cda-a489-bad907539685",
+                "nodeTo": "68a73665-b7e9-4b1d-ae95-65a1da827d44",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3a1750a9-9977-4408-bb08-01dc61e3d9d8",
+                "nodeTo": "68a73665-b7e9-4b1d-ae95-65a1da827d44",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "559b3356-7356-4cda-a489-bad907539685",
+                "nodeTo": "1119a176-a02d-4446-a8eb-20d5d2de2c51",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3a1750a9-9977-4408-bb08-01dc61e3d9d8",
+                "nodeTo": "1119a176-a02d-4446-a8eb-20d5d2de2c51",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-11 15:51:09"
+}

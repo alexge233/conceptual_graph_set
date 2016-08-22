@@ -1,0 +1,364 @@
+{
+    "uuid": 98,
+    "text": "study followed 56 women during pregnancy and measured their physical activity levels along with barriers to exercise and ability to overcome them",
+    "graph": {
+        "version": 1,
+        "guid": "46ac6d7c-2075-463e-a4a6-c3c130535bd0",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "followed",
+                "id": "aa9c0c43-3b37-48c1-9313-cc34b37e4a9d",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "during",
+                "id": "5947d141-d748-4744-9a7a-9930d64247a4",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "91002ee8-2a36-4bbe-bcd6-d852872487d9",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "measured",
+                "id": "4ace1755-9e93-4163-9e22-06948d26a65c",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "along",
+                "id": "30eee16a-5b1e-4909-8b4e-107d7d82453a",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "with",
+                "id": "22a9d1b6-6aa7-4719-ba9c-5ca9d73773a4",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "d2eedaa6-4eb1-4478-9eca-11311a12a003",
+                "index": 17,
+                "postag": "NA"
+            },
+            {
+                "label": "overcome",
+                "id": "767e16bd-64d7-40ac-b2bd-6d033e9a8711",
+                "index": 20,
+                "postag": "NA"
+            },
+            {
+                "label": "exercise",
+                "id": "3169a6b4-4851-4b2b-b584-2d05ccbe1058",
+                "postag": "NA",
+                "index": 16
+            },
+            {
+                "label": "to",
+                "id": "d5d43215-9448-42d6-9832-3271ee25c7d9",
+                "postag": "NA",
+                "index": 15
+            },
+            {
+                "label": "to",
+                "id": "b9d8bd3c-b306-466e-98aa-d9dc2e143913",
+                "postag": "NA",
+                "index": 19
+            }
+        ],
+        "concepts": [
+            {
+                "label": "study",
+                "id": "33ac7d04-70e3-4acc-bed5-c8502b61010e",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": 56,
+                "id": "9daa2254-0c32-4a71-abda-e253277839be",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "women",
+                "id": "5d058821-7a6a-40aa-bed2-7bc1d49588d7",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "pregnancy",
+                "id": "910d17ab-3aba-4aba-b111-dc898458e1c5",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "their",
+                "id": "1e9ada39-ad85-42e6-8c9c-ed03e739a51c",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "physical",
+                "id": "b3559b75-da37-46a0-a57b-cad0de6ab0a7",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "activity",
+                "id": "96655871-aee5-4d7b-aed3-7ca7638ddb68",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "levels",
+                "id": "65da6eae-4aca-44c3-b79e-e4750266498e",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "barriers",
+                "id": "54ac7650-ba4c-431d-a97c-c0d76eb066bb",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "ability",
+                "id": "72547cd7-5b38-45a1-9ed3-d9077626beb2",
+                "index": 18,
+                "postag": "NA"
+            },
+            {
+                "label": "them",
+                "id": "0104e1da-5a3b-4c4a-935e-a656eae4b5be",
+                "index": 21,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "33ac7d04-70e3-4acc-bed5-c8502b61010e",
+                "nodeTo": "aa9c0c43-3b37-48c1-9313-cc34b37e4a9d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "aa9c0c43-3b37-48c1-9313-cc34b37e4a9d",
+                "nodeTo": "9daa2254-0c32-4a71-abda-e253277839be",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "aa9c0c43-3b37-48c1-9313-cc34b37e4a9d",
+                "nodeTo": "5d058821-7a6a-40aa-bed2-7bc1d49588d7",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5d058821-7a6a-40aa-bed2-7bc1d49588d7",
+                "nodeTo": "5947d141-d748-4744-9a7a-9930d64247a4",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5947d141-d748-4744-9a7a-9930d64247a4",
+                "nodeTo": "910d17ab-3aba-4aba-b111-dc898458e1c5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "33ac7d04-70e3-4acc-bed5-c8502b61010e",
+                "nodeTo": "91002ee8-2a36-4bbe-bcd6-d852872487d9",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "33ac7d04-70e3-4acc-bed5-c8502b61010e",
+                "nodeTo": "4ace1755-9e93-4163-9e22-06948d26a65c",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4ace1755-9e93-4163-9e22-06948d26a65c",
+                "nodeTo": "1e9ada39-ad85-42e6-8c9c-ed03e739a51c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4ace1755-9e93-4163-9e22-06948d26a65c",
+                "nodeTo": "b3559b75-da37-46a0-a57b-cad0de6ab0a7",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4ace1755-9e93-4163-9e22-06948d26a65c",
+                "nodeTo": "96655871-aee5-4d7b-aed3-7ca7638ddb68",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4ace1755-9e93-4163-9e22-06948d26a65c",
+                "nodeTo": "65da6eae-4aca-44c3-b79e-e4750266498e",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b3559b75-da37-46a0-a57b-cad0de6ab0a7",
+                "nodeTo": "30eee16a-5b1e-4909-8b4e-107d7d82453a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "96655871-aee5-4d7b-aed3-7ca7638ddb68",
+                "nodeTo": "30eee16a-5b1e-4909-8b4e-107d7d82453a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "65da6eae-4aca-44c3-b79e-e4750266498e",
+                "nodeTo": "30eee16a-5b1e-4909-8b4e-107d7d82453a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b3559b75-da37-46a0-a57b-cad0de6ab0a7",
+                "nodeTo": "22a9d1b6-6aa7-4719-ba9c-5ca9d73773a4",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "96655871-aee5-4d7b-aed3-7ca7638ddb68",
+                "nodeTo": "22a9d1b6-6aa7-4719-ba9c-5ca9d73773a4",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "65da6eae-4aca-44c3-b79e-e4750266498e",
+                "nodeTo": "22a9d1b6-6aa7-4719-ba9c-5ca9d73773a4",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "22a9d1b6-6aa7-4719-ba9c-5ca9d73773a4",
+                "nodeTo": "54ac7650-ba4c-431d-a97c-c0d76eb066bb",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d2eedaa6-4eb1-4478-9eca-11311a12a003",
+                "nodeTo": "72547cd7-5b38-45a1-9ed3-d9077626beb2",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "767e16bd-64d7-40ac-b2bd-6d033e9a8711",
+                "nodeTo": "0104e1da-5a3b-4c4a-935e-a656eae4b5be",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9daa2254-0c32-4a71-abda-e253277839be",
+                "nodeTo": "5947d141-d748-4744-9a7a-9930d64247a4",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1e9ada39-ad85-42e6-8c9c-ed03e739a51c",
+                "nodeTo": "30eee16a-5b1e-4909-8b4e-107d7d82453a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1e9ada39-ad85-42e6-8c9c-ed03e739a51c",
+                "nodeTo": "22a9d1b6-6aa7-4719-ba9c-5ca9d73773a4",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "91002ee8-2a36-4bbe-bcd6-d852872487d9",
+                "nodeTo": "9daa2254-0c32-4a71-abda-e253277839be",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "91002ee8-2a36-4bbe-bcd6-d852872487d9",
+                "nodeTo": "5d058821-7a6a-40aa-bed2-7bc1d49588d7",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "91002ee8-2a36-4bbe-bcd6-d852872487d9",
+                "nodeTo": "1e9ada39-ad85-42e6-8c9c-ed03e739a51c",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "91002ee8-2a36-4bbe-bcd6-d852872487d9",
+                "nodeTo": "b3559b75-da37-46a0-a57b-cad0de6ab0a7",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "91002ee8-2a36-4bbe-bcd6-d852872487d9",
+                "nodeTo": "65da6eae-4aca-44c3-b79e-e4750266498e",
+                "index": 5,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "91002ee8-2a36-4bbe-bcd6-d852872487d9",
+                "nodeTo": "96655871-aee5-4d7b-aed3-7ca7638ddb68",
+                "index": 6,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "30eee16a-5b1e-4909-8b4e-107d7d82453a",
+                "nodeTo": "54ac7650-ba4c-431d-a97c-c0d76eb066bb",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "54ac7650-ba4c-431d-a97c-c0d76eb066bb",
+                "nodeTo": "d5d43215-9448-42d6-9832-3271ee25c7d9",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "54ac7650-ba4c-431d-a97c-c0d76eb066bb",
+                "nodeTo": "3169a6b4-4851-4b2b-b584-2d05ccbe1058",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "54ac7650-ba4c-431d-a97c-c0d76eb066bb",
+                "nodeTo": "d2eedaa6-4eb1-4478-9eca-11311a12a003",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "72547cd7-5b38-45a1-9ed3-d9077626beb2",
+                "nodeTo": "b9d8bd3c-b306-466e-98aa-d9dc2e143913",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "72547cd7-5b38-45a1-9ed3-d9077626beb2",
+                "nodeTo": "767e16bd-64d7-40ac-b2bd-6d033e9a8711",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b9d8bd3c-b306-466e-98aa-d9dc2e143913",
+                "nodeTo": "0104e1da-5a3b-4c4a-935e-a656eae4b5be",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-20 17:21:19"
+}

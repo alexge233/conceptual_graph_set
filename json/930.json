@@ -1,0 +1,226 @@
+{
+    "uuid": 930,
+    "text": "researchers discovered previously unknown role of cancer promoting gene in airways of smokers with lung cancer",
+    "graph": {
+        "version": 1,
+        "guid": "78590711-440e-4d31-b86b-aa324a6c8706",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "discovered",
+                "id": "a32ec040-0199-4c1d-8e7d-043ec7435537",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "a7d6226b-93b8-4b78-adb7-d0d2842a5c96",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "6d42eade-d459-4ed8-9546-1d333183e902",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "822478a4-d98c-4591-8322-305c29b69094",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "with",
+                "id": "199d10e9-99a2-4beb-9ae0-b1b02365023b",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "researchers",
+                "id": "e590aa57-00a6-4e82-a14b-165cbdd7699d",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "previously",
+                "id": "89e03cd4-d5a9-47d1-9615-a504d46d26d1",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "unknown",
+                "id": "933e0ae2-40eb-4e2e-b23b-3de429e627cc",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "role",
+                "id": "569d8da7-2bee-4be5-bec3-e5b2ab0aee65",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "cancer",
+                "id": "2bab4773-4cec-44b3-bc82-035b5e7e9ce3",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "promoting",
+                "id": "d18e9d20-a14d-4a14-87be-50510814e1ce",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "gene",
+                "id": "3d9a9216-a42a-4818-8296-78ccbb95cc9e",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "airways",
+                "id": "b235b5ab-2bca-4829-94c2-a26dab7199b3",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "smokers",
+                "id": "dd8c9ca8-81b0-4bbe-b075-11bb7b6953d0",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "lung",
+                "id": "40dc7372-d277-4004-b5bb-5235e38ed140",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "cancer",
+                "id": "6410640e-52e9-4968-ac8a-6120b930ce0c",
+                "index": 15,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "e590aa57-00a6-4e82-a14b-165cbdd7699d",
+                "nodeTo": "a32ec040-0199-4c1d-8e7d-043ec7435537",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a32ec040-0199-4c1d-8e7d-043ec7435537",
+                "nodeTo": "89e03cd4-d5a9-47d1-9615-a504d46d26d1",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a32ec040-0199-4c1d-8e7d-043ec7435537",
+                "nodeTo": "933e0ae2-40eb-4e2e-b23b-3de429e627cc",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a32ec040-0199-4c1d-8e7d-043ec7435537",
+                "nodeTo": "569d8da7-2bee-4be5-bec3-e5b2ab0aee65",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "89e03cd4-d5a9-47d1-9615-a504d46d26d1",
+                "nodeTo": "a7d6226b-93b8-4b78-adb7-d0d2842a5c96",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "933e0ae2-40eb-4e2e-b23b-3de429e627cc",
+                "nodeTo": "a7d6226b-93b8-4b78-adb7-d0d2842a5c96",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "569d8da7-2bee-4be5-bec3-e5b2ab0aee65",
+                "nodeTo": "a7d6226b-93b8-4b78-adb7-d0d2842a5c96",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a7d6226b-93b8-4b78-adb7-d0d2842a5c96",
+                "nodeTo": "2bab4773-4cec-44b3-bc82-035b5e7e9ce3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a7d6226b-93b8-4b78-adb7-d0d2842a5c96",
+                "nodeTo": "d18e9d20-a14d-4a14-87be-50510814e1ce",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a7d6226b-93b8-4b78-adb7-d0d2842a5c96",
+                "nodeTo": "3d9a9216-a42a-4818-8296-78ccbb95cc9e",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2bab4773-4cec-44b3-bc82-035b5e7e9ce3",
+                "nodeTo": "6d42eade-d459-4ed8-9546-1d333183e902",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d18e9d20-a14d-4a14-87be-50510814e1ce",
+                "nodeTo": "6d42eade-d459-4ed8-9546-1d333183e902",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3d9a9216-a42a-4818-8296-78ccbb95cc9e",
+                "nodeTo": "6d42eade-d459-4ed8-9546-1d333183e902",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6d42eade-d459-4ed8-9546-1d333183e902",
+                "nodeTo": "b235b5ab-2bca-4829-94c2-a26dab7199b3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b235b5ab-2bca-4829-94c2-a26dab7199b3",
+                "nodeTo": "822478a4-d98c-4591-8322-305c29b69094",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "822478a4-d98c-4591-8322-305c29b69094",
+                "nodeTo": "dd8c9ca8-81b0-4bbe-b075-11bb7b6953d0",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "dd8c9ca8-81b0-4bbe-b075-11bb7b6953d0",
+                "nodeTo": "199d10e9-99a2-4beb-9ae0-b1b02365023b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "199d10e9-99a2-4beb-9ae0-b1b02365023b",
+                "nodeTo": "40dc7372-d277-4004-b5bb-5235e38ed140",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "199d10e9-99a2-4beb-9ae0-b1b02365023b",
+                "nodeTo": "6410640e-52e9-4968-ac8a-6120b930ce0c",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-22 17:29:44"
+}

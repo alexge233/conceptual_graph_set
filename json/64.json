@@ -1,0 +1,82 @@
+{
+    "uuid": 64,
+    "text": "Eat seven day fruit and veg",
+    "graph": {
+        "version": 1,
+        "guid": "9310a2a0-0502-4cd8-a18c-91b50e9a49d4",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "Eat",
+                "id": "4b33620d-cd61-4e44-9637-5eb78750d4c1",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "916e9244-b7d6-479e-94ab-2a1cdd89d18d",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "seven",
+                "id": "b5103c67-a6e5-49d7-8c95-5a6b84ea1eab",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "fruit",
+                "id": "ccd878aa-e146-4d21-a268-4125aa2b86c1",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "day",
+                "id": "1a1e5310-63c9-4e28-a88e-760915b67181",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "veg",
+                "id": "5811d5eb-ad53-4bbb-9b1e-3b41cb54bb9b",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "ccd878aa-e146-4d21-a268-4125aa2b86c1",
+                "nodeTo": "916e9244-b7d6-479e-94ab-2a1cdd89d18d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "916e9244-b7d6-479e-94ab-2a1cdd89d18d",
+                "nodeTo": "5811d5eb-ad53-4bbb-9b1e-3b41cb54bb9b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4b33620d-cd61-4e44-9637-5eb78750d4c1",
+                "nodeTo": "b5103c67-a6e5-49d7-8c95-5a6b84ea1eab",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4b33620d-cd61-4e44-9637-5eb78750d4c1",
+                "nodeTo": "ccd878aa-e146-4d21-a268-4125aa2b86c1",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4b33620d-cd61-4e44-9637-5eb78750d4c1",
+                "nodeTo": "1a1e5310-63c9-4e28-a88e-760915b67181",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-10-23 21:11:39"
+}

@@ -1,0 +1,178 @@
+{
+    "uuid": 224,
+    "text": "one cup of coffee per day may keep retinal damage away",
+    "graph": {
+        "version": 1,
+        "guid": "641a09c8-21d8-4d5c-9ac8-d52cec4464b0",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "of",
+                "id": "cbc5acc9-ba42-451e-abb3-a641e19800cd",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "per",
+                "id": "33ab346e-bb20-4d1b-88c3-65e858d5b294",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "may",
+                "id": "9ecd6403-64a8-48b8-a374-ea66367d74d5",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "keep",
+                "id": "585776e1-4777-4887-a30c-b4612dd78887",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "one",
+                "id": "c1906d4e-cec9-4ece-8cd6-1b700694d355",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "cup",
+                "id": "c8ea25ca-7788-4e40-a05e-d6a1db6bba38",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "coffee",
+                "id": "3687cc50-ddc8-4de9-b340-7565c3c419ed",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "day",
+                "id": "4b067dcb-8813-4d9e-ac55-40b286069c59",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "retinal",
+                "id": "026d724d-2353-4078-be4e-8b161a1beb60",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "damage",
+                "id": "d236aee7-6c6d-4983-bebe-277b7e4bbb23",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "away",
+                "id": "546c9d70-2eb3-4235-9bcb-cdca0ca96490",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "c1906d4e-cec9-4ece-8cd6-1b700694d355",
+                "nodeTo": "cbc5acc9-ba42-451e-abb3-a641e19800cd",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c8ea25ca-7788-4e40-a05e-d6a1db6bba38",
+                "nodeTo": "cbc5acc9-ba42-451e-abb3-a641e19800cd",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cbc5acc9-ba42-451e-abb3-a641e19800cd",
+                "nodeTo": "3687cc50-ddc8-4de9-b340-7565c3c419ed",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c8ea25ca-7788-4e40-a05e-d6a1db6bba38",
+                "nodeTo": "33ab346e-bb20-4d1b-88c3-65e858d5b294",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c1906d4e-cec9-4ece-8cd6-1b700694d355",
+                "nodeTo": "33ab346e-bb20-4d1b-88c3-65e858d5b294",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "33ab346e-bb20-4d1b-88c3-65e858d5b294",
+                "nodeTo": "4b067dcb-8813-4d9e-ac55-40b286069c59",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c1906d4e-cec9-4ece-8cd6-1b700694d355",
+                "nodeTo": "9ecd6403-64a8-48b8-a374-ea66367d74d5",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c1906d4e-cec9-4ece-8cd6-1b700694d355",
+                "nodeTo": "585776e1-4777-4887-a30c-b4612dd78887",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c8ea25ca-7788-4e40-a05e-d6a1db6bba38",
+                "nodeTo": "9ecd6403-64a8-48b8-a374-ea66367d74d5",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c8ea25ca-7788-4e40-a05e-d6a1db6bba38",
+                "nodeTo": "585776e1-4777-4887-a30c-b4612dd78887",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9ecd6403-64a8-48b8-a374-ea66367d74d5",
+                "nodeTo": "026d724d-2353-4078-be4e-8b161a1beb60",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "585776e1-4777-4887-a30c-b4612dd78887",
+                "nodeTo": "026d724d-2353-4078-be4e-8b161a1beb60",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9ecd6403-64a8-48b8-a374-ea66367d74d5",
+                "nodeTo": "d236aee7-6c6d-4983-bebe-277b7e4bbb23",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "585776e1-4777-4887-a30c-b4612dd78887",
+                "nodeTo": "d236aee7-6c6d-4983-bebe-277b7e4bbb23",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9ecd6403-64a8-48b8-a374-ea66367d74d5",
+                "nodeTo": "546c9d70-2eb3-4235-9bcb-cdca0ca96490",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "585776e1-4777-4887-a30c-b4612dd78887",
+                "nodeTo": "546c9d70-2eb3-4235-9bcb-cdca0ca96490",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-01 15:29:47"
+}

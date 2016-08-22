@@ -1,0 +1,82 @@
+{
+    "uuid": 565,
+    "text": "binge drinking link to overeating",
+    "graph": {
+        "version": 1,
+        "guid": "8d0d7c90-8747-446b-88d8-64d3887c9cb4",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "link",
+                "id": "2cc783a7-dd12-4c31-a9ec-5969942a26c1",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "61b9dd78-dae7-4b9b-929b-575825084744",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "binge",
+                "id": "e82a043e-44cc-4134-a7cb-980dacde045b",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "drinking",
+                "id": "0c8e871c-02de-4528-a9b7-be3c9b6735c7",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "overeating",
+                "id": "3ae953b4-ac7d-42e0-8024-35cb76258d3d",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "e82a043e-44cc-4134-a7cb-980dacde045b",
+                "nodeTo": "2cc783a7-dd12-4c31-a9ec-5969942a26c1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0c8e871c-02de-4528-a9b7-be3c9b6735c7",
+                "nodeTo": "2cc783a7-dd12-4c31-a9ec-5969942a26c1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e82a043e-44cc-4134-a7cb-980dacde045b",
+                "nodeTo": "61b9dd78-dae7-4b9b-929b-575825084744",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0c8e871c-02de-4528-a9b7-be3c9b6735c7",
+                "nodeTo": "61b9dd78-dae7-4b9b-929b-575825084744",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2cc783a7-dd12-4c31-a9ec-5969942a26c1",
+                "nodeTo": "3ae953b4-ac7d-42e0-8024-35cb76258d3d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "61b9dd78-dae7-4b9b-929b-575825084744",
+                "nodeTo": "3ae953b4-ac7d-42e0-8024-35cb76258d3d",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-07 17:41:55"
+}

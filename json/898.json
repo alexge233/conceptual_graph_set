@@ -1,0 +1,196 @@
+{
+    "uuid": 898,
+    "text": "cartilage is flexible tissue that provides padding where bones come together in joint",
+    "graph": {
+        "version": 1,
+        "guid": "4a926d30-6199-4db2-824e-ca0400985b85",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "is",
+                "id": "c60536d3-615b-4963-ac0a-cb9b1cdb7470",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "that",
+                "id": "c80500ea-cd82-495c-8266-42a8c6450133",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "provides",
+                "id": "72b378da-623d-4132-8d82-87565c120e2d",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "where",
+                "id": "7dd78b63-334e-4e69-a0b7-dbd506844341",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "come",
+                "id": "8e0b58be-737e-48c6-9b62-502964e5256e",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "together",
+                "id": "c8410cd3-6340-40ca-8c5e-7ed27daa1c31",
+                "postag": "NA",
+                "index": 10
+            },
+            {
+                "label": "in",
+                "id": "5c6e86eb-1971-4ea8-962e-99cdbacbd90d",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "cartilage",
+                "id": "867bc2d7-760e-4078-b003-4920320c3a4c",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "flexible",
+                "id": "ea58e39d-3931-4b43-8e99-b0e23ae75bd1",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "tissue",
+                "id": "a3d94e77-7a5b-4c2d-a6b1-0a6217a23b13",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "padding",
+                "id": "923b5cd1-2507-450b-951a-27378761b89a",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "bones",
+                "id": "5dd154da-db6d-4282-b059-7de85b1891de",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "joint",
+                "id": "57e4071d-412e-48a2-8c8b-397174d35c0d",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "867bc2d7-760e-4078-b003-4920320c3a4c",
+                "nodeTo": "c60536d3-615b-4963-ac0a-cb9b1cdb7470",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c60536d3-615b-4963-ac0a-cb9b1cdb7470",
+                "nodeTo": "ea58e39d-3931-4b43-8e99-b0e23ae75bd1",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c60536d3-615b-4963-ac0a-cb9b1cdb7470",
+                "nodeTo": "a3d94e77-7a5b-4c2d-a6b1-0a6217a23b13",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ea58e39d-3931-4b43-8e99-b0e23ae75bd1",
+                "nodeTo": "c80500ea-cd82-495c-8266-42a8c6450133",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ea58e39d-3931-4b43-8e99-b0e23ae75bd1",
+                "nodeTo": "72b378da-623d-4132-8d82-87565c120e2d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a3d94e77-7a5b-4c2d-a6b1-0a6217a23b13",
+                "nodeTo": "c80500ea-cd82-495c-8266-42a8c6450133",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a3d94e77-7a5b-4c2d-a6b1-0a6217a23b13",
+                "nodeTo": "72b378da-623d-4132-8d82-87565c120e2d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c80500ea-cd82-495c-8266-42a8c6450133",
+                "nodeTo": "923b5cd1-2507-450b-951a-27378761b89a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "72b378da-623d-4132-8d82-87565c120e2d",
+                "nodeTo": "923b5cd1-2507-450b-951a-27378761b89a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "923b5cd1-2507-450b-951a-27378761b89a",
+                "nodeTo": "7dd78b63-334e-4e69-a0b7-dbd506844341",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7dd78b63-334e-4e69-a0b7-dbd506844341",
+                "nodeTo": "5dd154da-db6d-4282-b059-7de85b1891de",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5dd154da-db6d-4282-b059-7de85b1891de",
+                "nodeTo": "8e0b58be-737e-48c6-9b62-502964e5256e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5dd154da-db6d-4282-b059-7de85b1891de",
+                "nodeTo": "c8410cd3-6340-40ca-8c5e-7ed27daa1c31",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5dd154da-db6d-4282-b059-7de85b1891de",
+                "nodeTo": "5c6e86eb-1971-4ea8-962e-99cdbacbd90d",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8e0b58be-737e-48c6-9b62-502964e5256e",
+                "nodeTo": "57e4071d-412e-48a2-8c8b-397174d35c0d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c8410cd3-6340-40ca-8c5e-7ed27daa1c31",
+                "nodeTo": "57e4071d-412e-48a2-8c8b-397174d35c0d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5c6e86eb-1971-4ea8-962e-99cdbacbd90d",
+                "nodeTo": "57e4071d-412e-48a2-8c8b-397174d35c0d",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-21 14:55:25"
+}

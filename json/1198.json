@@ -1,0 +1,184 @@
+{
+    "uuid": 1198,
+    "text": "community action not enough to reduce problem drinking and related harms",
+    "graph": {
+        "version": 1,
+        "guid": "3907e549-dd0d-41b4-a3a5-11d5e135c00c",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "not",
+                "id": "ce4b5393-462d-4963-ae30-47d1ddd0eceb",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "2dc5dae8-19d7-4873-a7a0-d2b877e9278a",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "reduce",
+                "id": "5011469d-79b3-4296-91b4-55bd84732ec0",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "6d471194-633c-42b8-86ab-9831ec385051",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "community",
+                "id": "50027334-24b3-4655-89db-7bc662ae8e96",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "action",
+                "id": "d8ab8b4b-e1a3-4b53-a19e-2d3b1ccb2d56",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "enough",
+                "id": "7671a6b7-c28c-4119-851e-7b5e72a0683b",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "problem",
+                "id": "c620ee68-76eb-4c74-94a3-a61e85c71248",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "drinking",
+                "id": "8c8990b0-58b2-4b60-8ec9-16c9aa3dd285",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "related",
+                "id": "2264d252-aec4-4500-832c-e42d71eb29d5",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "harms",
+                "id": "19708293-edda-45a5-8a2b-17cd4ea870ab",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "50027334-24b3-4655-89db-7bc662ae8e96",
+                "nodeTo": "ce4b5393-462d-4963-ae30-47d1ddd0eceb",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d8ab8b4b-e1a3-4b53-a19e-2d3b1ccb2d56",
+                "nodeTo": "ce4b5393-462d-4963-ae30-47d1ddd0eceb",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ce4b5393-462d-4963-ae30-47d1ddd0eceb",
+                "nodeTo": "7671a6b7-c28c-4119-851e-7b5e72a0683b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7671a6b7-c28c-4119-851e-7b5e72a0683b",
+                "nodeTo": "2dc5dae8-19d7-4873-a7a0-d2b877e9278a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7671a6b7-c28c-4119-851e-7b5e72a0683b",
+                "nodeTo": "5011469d-79b3-4296-91b4-55bd84732ec0",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2dc5dae8-19d7-4873-a7a0-d2b877e9278a",
+                "nodeTo": "c620ee68-76eb-4c74-94a3-a61e85c71248",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5011469d-79b3-4296-91b4-55bd84732ec0",
+                "nodeTo": "c620ee68-76eb-4c74-94a3-a61e85c71248",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2dc5dae8-19d7-4873-a7a0-d2b877e9278a",
+                "nodeTo": "8c8990b0-58b2-4b60-8ec9-16c9aa3dd285",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5011469d-79b3-4296-91b4-55bd84732ec0",
+                "nodeTo": "8c8990b0-58b2-4b60-8ec9-16c9aa3dd285",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c620ee68-76eb-4c74-94a3-a61e85c71248",
+                "nodeTo": "6d471194-633c-42b8-86ab-9831ec385051",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8c8990b0-58b2-4b60-8ec9-16c9aa3dd285",
+                "nodeTo": "6d471194-633c-42b8-86ab-9831ec385051",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6d471194-633c-42b8-86ab-9831ec385051",
+                "nodeTo": "2264d252-aec4-4500-832c-e42d71eb29d5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6d471194-633c-42b8-86ab-9831ec385051",
+                "nodeTo": "19708293-edda-45a5-8a2b-17cd4ea870ab",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2dc5dae8-19d7-4873-a7a0-d2b877e9278a",
+                "nodeTo": "19708293-edda-45a5-8a2b-17cd4ea870ab",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5011469d-79b3-4296-91b4-55bd84732ec0",
+                "nodeTo": "19708293-edda-45a5-8a2b-17cd4ea870ab",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2dc5dae8-19d7-4873-a7a0-d2b877e9278a",
+                "nodeTo": "2264d252-aec4-4500-832c-e42d71eb29d5",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5011469d-79b3-4296-91b4-55bd84732ec0",
+                "nodeTo": "2264d252-aec4-4500-832c-e42d71eb29d5",
+                "index": 4,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-25 22:00:31"
+}

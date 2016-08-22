@@ -1,0 +1,142 @@
+{
+    "uuid": 375,
+    "text": "Animal hoarding is lesser known problem for public health welfare",
+    "graph": {
+        "version": 1,
+        "guid": "4d462285-c017-4c99-ad58-0816e9b2327c",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "is",
+                "id": "7cb1b6ad-2e1b-46da-be6b-425795784807",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "bbc3abd8-3288-43a8-999c-2200e3894b47",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Animal",
+                "id": "0b425351-d7bb-4b5c-baab-71bb4b5923bb",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "hoarding",
+                "id": "81dad229-0689-42a2-8aed-b5ca62b8068a",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "known",
+                "id": "a38d1495-33c3-473e-b70c-321aae46174b",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "lesser",
+                "id": "783c1622-d089-47ad-b086-8b918b022274",
+                "postag": "NA",
+                "index": 3
+            },
+            {
+                "label": "problem",
+                "id": "dcc97bba-e231-43d7-a188-69519dd6d407",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "public",
+                "id": "1d9b538d-93a2-4715-b296-8a8bc5635d9d",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "health",
+                "id": "149b6bca-26b9-4111-a764-51d89ac07329",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "welfare",
+                "id": "6019ed78-7e33-4e76-8857-8c80041d9146",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "0b425351-d7bb-4b5c-baab-71bb4b5923bb",
+                "nodeTo": "7cb1b6ad-2e1b-46da-be6b-425795784807",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "81dad229-0689-42a2-8aed-b5ca62b8068a",
+                "nodeTo": "7cb1b6ad-2e1b-46da-be6b-425795784807",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7cb1b6ad-2e1b-46da-be6b-425795784807",
+                "nodeTo": "783c1622-d089-47ad-b086-8b918b022274",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7cb1b6ad-2e1b-46da-be6b-425795784807",
+                "nodeTo": "a38d1495-33c3-473e-b70c-321aae46174b",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7cb1b6ad-2e1b-46da-be6b-425795784807",
+                "nodeTo": "dcc97bba-e231-43d7-a188-69519dd6d407",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "783c1622-d089-47ad-b086-8b918b022274",
+                "nodeTo": "bbc3abd8-3288-43a8-999c-2200e3894b47",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a38d1495-33c3-473e-b70c-321aae46174b",
+                "nodeTo": "bbc3abd8-3288-43a8-999c-2200e3894b47",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "dcc97bba-e231-43d7-a188-69519dd6d407",
+                "nodeTo": "bbc3abd8-3288-43a8-999c-2200e3894b47",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bbc3abd8-3288-43a8-999c-2200e3894b47",
+                "nodeTo": "1d9b538d-93a2-4715-b296-8a8bc5635d9d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "bbc3abd8-3288-43a8-999c-2200e3894b47",
+                "nodeTo": "149b6bca-26b9-4111-a764-51d89ac07329",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "bbc3abd8-3288-43a8-999c-2200e3894b47",
+                "nodeTo": "6019ed78-7e33-4e76-8857-8c80041d9146",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-16 17:18:10"
+}

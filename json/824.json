@@ -1,0 +1,94 @@
+{
+    "uuid": 824,
+    "text": "Cancer drugs block dementia linked brain inflammation",
+    "graph": {
+        "version": 1,
+        "guid": "6baa08b4-0173-49c3-beba-ae252b43c47c",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "block",
+                "id": "9be8bbeb-e079-4733-88ed-b2ca1e98506c",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "linked",
+                "id": "47d04d0a-38c6-4a81-918b-e2469cd8dce5",
+                "postag": "NA",
+                "index": 4
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Cancer",
+                "id": "8364279b-8c3c-4d58-8e13-e1cc89e4d951",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "drugs",
+                "id": "3ad1a656-e826-410e-8028-7c2260a80e9a",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "dementia",
+                "id": "949897e1-18eb-4d5d-908d-0547322ecbc0",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "brain",
+                "id": "527b6303-c80e-459a-ae94-766e8c1789b9",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "inflammation",
+                "id": "a802b125-185d-4bb2-b803-eca409a645a3",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "8364279b-8c3c-4d58-8e13-e1cc89e4d951",
+                "nodeTo": "9be8bbeb-e079-4733-88ed-b2ca1e98506c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3ad1a656-e826-410e-8028-7c2260a80e9a",
+                "nodeTo": "9be8bbeb-e079-4733-88ed-b2ca1e98506c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9be8bbeb-e079-4733-88ed-b2ca1e98506c",
+                "nodeTo": "949897e1-18eb-4d5d-908d-0547322ecbc0",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "949897e1-18eb-4d5d-908d-0547322ecbc0",
+                "nodeTo": "47d04d0a-38c6-4a81-918b-e2469cd8dce5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "47d04d0a-38c6-4a81-918b-e2469cd8dce5",
+                "nodeTo": "527b6303-c80e-459a-ae94-766e8c1789b9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "47d04d0a-38c6-4a81-918b-e2469cd8dce5",
+                "nodeTo": "a802b125-185d-4bb2-b803-eca409a645a3",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-16 19:27:30"
+}

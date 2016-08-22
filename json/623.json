@@ -1,0 +1,154 @@
+{
+    "uuid": 623,
+    "text": "Doctors get their patients blood pressure soaring while nurses dont",
+    "graph": {
+        "version": 1,
+        "guid": "20440739-d829-4d91-bbc5-b450155346b5",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "get",
+                "id": "9a83ddd4-22e8-4c30-b520-80be9a0eeaa2",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "soaring",
+                "id": "44ab7aa5-7051-40a3-be3c-1a02cc0307aa",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "while",
+                "id": "ca55269b-4c52-4ea3-9834-59a255613149",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "dont",
+                "id": "c2e44549-0e48-43cc-961b-abe33839eed0",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Doctors",
+                "id": "43ce83ee-c7b5-4788-8c60-b1ce3062eded",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "their",
+                "id": "be94a26d-38ad-4e24-813b-a64107d01b94",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "patients",
+                "id": "4bec2b54-81a6-4329-a8c9-e874d16a534e",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "blood",
+                "id": "ac30ab29-dc46-4a69-a717-361b1a2998a6",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "pressure",
+                "id": "36412d71-428c-47b4-aec1-9a302e026dcd",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "nurses",
+                "id": "3a597d44-bb2a-4662-9bac-9ca11a0e0132",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "43ce83ee-c7b5-4788-8c60-b1ce3062eded",
+                "nodeTo": "9a83ddd4-22e8-4c30-b520-80be9a0eeaa2",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9a83ddd4-22e8-4c30-b520-80be9a0eeaa2",
+                "nodeTo": "be94a26d-38ad-4e24-813b-a64107d01b94",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9a83ddd4-22e8-4c30-b520-80be9a0eeaa2",
+                "nodeTo": "4bec2b54-81a6-4329-a8c9-e874d16a534e",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9a83ddd4-22e8-4c30-b520-80be9a0eeaa2",
+                "nodeTo": "ac30ab29-dc46-4a69-a717-361b1a2998a6",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9a83ddd4-22e8-4c30-b520-80be9a0eeaa2",
+                "nodeTo": "36412d71-428c-47b4-aec1-9a302e026dcd",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ac30ab29-dc46-4a69-a717-361b1a2998a6",
+                "nodeTo": "44ab7aa5-7051-40a3-be3c-1a02cc0307aa",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "36412d71-428c-47b4-aec1-9a302e026dcd",
+                "nodeTo": "44ab7aa5-7051-40a3-be3c-1a02cc0307aa",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4bec2b54-81a6-4329-a8c9-e874d16a534e",
+                "nodeTo": "44ab7aa5-7051-40a3-be3c-1a02cc0307aa",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4bec2b54-81a6-4329-a8c9-e874d16a534e",
+                "nodeTo": "ca55269b-4c52-4ea3-9834-59a255613149",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ac30ab29-dc46-4a69-a717-361b1a2998a6",
+                "nodeTo": "ca55269b-4c52-4ea3-9834-59a255613149",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "36412d71-428c-47b4-aec1-9a302e026dcd",
+                "nodeTo": "ca55269b-4c52-4ea3-9834-59a255613149",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ca55269b-4c52-4ea3-9834-59a255613149",
+                "nodeTo": "3a597d44-bb2a-4662-9bac-9ca11a0e0132",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3a597d44-bb2a-4662-9bac-9ca11a0e0132",
+                "nodeTo": "c2e44549-0e48-43cc-961b-abe33839eed0",
+                "index": 1,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2015-01-08 19:44:24"
+}

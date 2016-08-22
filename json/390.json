@@ -1,0 +1,166 @@
+{
+    "uuid": 390,
+    "text": "findings may lead to more effective treatments for alcoholism",
+    "graph": {
+        "version": 1,
+        "guid": "48886937-66c3-496a-89d5-4b65d872ea3e",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "may",
+                "id": "dcad8b12-7601-403a-a541-dd4e8e6c4a73",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "lead",
+                "id": "182ca36d-b557-4184-b2b4-bd26a26ac4ac",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "7577e550-a76c-40de-92e0-3babd5e71ab2",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "40bb0ec3-9bab-4e94-91e1-cb4b11c73069",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "findings",
+                "id": "0408da0b-7d87-498c-8817-a5e2e142be4c",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "more",
+                "id": "7d5cac8d-8080-4839-807c-ee06ea0e1e45",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "effective",
+                "id": "e48a35e7-0955-4ce1-bc8d-e369b1389158",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "treatments",
+                "id": "d8cdb5be-7cb0-4b28-8dc7-4d4d19393a79",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "alcoholism",
+                "id": "b10d56a7-467c-4ebd-bd14-5377d720b013",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "0408da0b-7d87-498c-8817-a5e2e142be4c",
+                "nodeTo": "dcad8b12-7601-403a-a541-dd4e8e6c4a73",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0408da0b-7d87-498c-8817-a5e2e142be4c",
+                "nodeTo": "182ca36d-b557-4184-b2b4-bd26a26ac4ac",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0408da0b-7d87-498c-8817-a5e2e142be4c",
+                "nodeTo": "7577e550-a76c-40de-92e0-3babd5e71ab2",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "dcad8b12-7601-403a-a541-dd4e8e6c4a73",
+                "nodeTo": "7d5cac8d-8080-4839-807c-ee06ea0e1e45",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "182ca36d-b557-4184-b2b4-bd26a26ac4ac",
+                "nodeTo": "7d5cac8d-8080-4839-807c-ee06ea0e1e45",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7577e550-a76c-40de-92e0-3babd5e71ab2",
+                "nodeTo": "7d5cac8d-8080-4839-807c-ee06ea0e1e45",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "dcad8b12-7601-403a-a541-dd4e8e6c4a73",
+                "nodeTo": "e48a35e7-0955-4ce1-bc8d-e369b1389158",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "182ca36d-b557-4184-b2b4-bd26a26ac4ac",
+                "nodeTo": "e48a35e7-0955-4ce1-bc8d-e369b1389158",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7577e550-a76c-40de-92e0-3babd5e71ab2",
+                "nodeTo": "e48a35e7-0955-4ce1-bc8d-e369b1389158",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "dcad8b12-7601-403a-a541-dd4e8e6c4a73",
+                "nodeTo": "d8cdb5be-7cb0-4b28-8dc7-4d4d19393a79",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "182ca36d-b557-4184-b2b4-bd26a26ac4ac",
+                "nodeTo": "d8cdb5be-7cb0-4b28-8dc7-4d4d19393a79",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7577e550-a76c-40de-92e0-3babd5e71ab2",
+                "nodeTo": "d8cdb5be-7cb0-4b28-8dc7-4d4d19393a79",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7d5cac8d-8080-4839-807c-ee06ea0e1e45",
+                "nodeTo": "40bb0ec3-9bab-4e94-91e1-cb4b11c73069",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e48a35e7-0955-4ce1-bc8d-e369b1389158",
+                "nodeTo": "40bb0ec3-9bab-4e94-91e1-cb4b11c73069",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d8cdb5be-7cb0-4b28-8dc7-4d4d19393a79",
+                "nodeTo": "40bb0ec3-9bab-4e94-91e1-cb4b11c73069",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "40bb0ec3-9bab-4e94-91e1-cb4b11c73069",
+                "nodeTo": "b10d56a7-467c-4ebd-bd14-5377d720b013",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-17 14:46:28"
+}

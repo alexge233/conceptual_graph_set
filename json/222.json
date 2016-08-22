@@ -1,0 +1,166 @@
+{
+    "uuid": 222,
+    "text": "This risk assessment is based on presence of sub-threshold psychotic-like symptoms",
+    "graph": {
+        "version": 1,
+        "guid": "7e22d969-0de0-49a2-baac-06bbadd206b2",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "is",
+                "id": "c2b734d6-21c2-4e77-8604-40d54d3cc044",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "based",
+                "id": "0146e5ab-4b59-41c2-b5b8-4704eecaae15",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "on",
+                "id": "0716a100-00a6-4690-b94b-322c86488e65",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "d6d3e17b-098a-4a58-b807-e9ba425eecae",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "This",
+                "id": "cb0349d7-698e-4700-ab61-bc192b0da235",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "risk",
+                "id": "0dede7dc-519d-438c-95d9-4ea7260b3e21",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "assessment",
+                "id": "00452a20-e396-4a74-8e78-e5d7b920c498",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "presence",
+                "id": "95ee59c0-9587-4ece-9871-07de583d5752",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "sub-threshold",
+                "id": "db850574-4975-4795-9bc5-104000569b8d",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "psychotic-like",
+                "id": "78b8e701-7a26-4442-9eb0-39de5ed1717e",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "symptoms",
+                "id": "bc75a713-5481-4403-9636-cdc704e05a27",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "cb0349d7-698e-4700-ab61-bc192b0da235",
+                "nodeTo": "c2b734d6-21c2-4e77-8604-40d54d3cc044",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0dede7dc-519d-438c-95d9-4ea7260b3e21",
+                "nodeTo": "c2b734d6-21c2-4e77-8604-40d54d3cc044",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "00452a20-e396-4a74-8e78-e5d7b920c498",
+                "nodeTo": "c2b734d6-21c2-4e77-8604-40d54d3cc044",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cb0349d7-698e-4700-ab61-bc192b0da235",
+                "nodeTo": "0146e5ab-4b59-41c2-b5b8-4704eecaae15",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0dede7dc-519d-438c-95d9-4ea7260b3e21",
+                "nodeTo": "0146e5ab-4b59-41c2-b5b8-4704eecaae15",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "00452a20-e396-4a74-8e78-e5d7b920c498",
+                "nodeTo": "0146e5ab-4b59-41c2-b5b8-4704eecaae15",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0dede7dc-519d-438c-95d9-4ea7260b3e21",
+                "nodeTo": "0716a100-00a6-4690-b94b-322c86488e65",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "00452a20-e396-4a74-8e78-e5d7b920c498",
+                "nodeTo": "0716a100-00a6-4690-b94b-322c86488e65",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0146e5ab-4b59-41c2-b5b8-4704eecaae15",
+                "nodeTo": "95ee59c0-9587-4ece-9871-07de583d5752",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0716a100-00a6-4690-b94b-322c86488e65",
+                "nodeTo": "95ee59c0-9587-4ece-9871-07de583d5752",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "95ee59c0-9587-4ece-9871-07de583d5752",
+                "nodeTo": "d6d3e17b-098a-4a58-b807-e9ba425eecae",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d6d3e17b-098a-4a58-b807-e9ba425eecae",
+                "nodeTo": "db850574-4975-4795-9bc5-104000569b8d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d6d3e17b-098a-4a58-b807-e9ba425eecae",
+                "nodeTo": "78b8e701-7a26-4442-9eb0-39de5ed1717e",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d6d3e17b-098a-4a58-b807-e9ba425eecae",
+                "nodeTo": "bc75a713-5481-4403-9636-cdc704e05a27",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-11-23 17:23:42"
+}

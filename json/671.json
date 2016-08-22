@@ -1,0 +1,160 @@
+{
+    "uuid": 671,
+    "text": "human safety thresholds for endocrine disrupting chemicals may be inaccurate",
+    "graph": {
+        "version": 1,
+        "guid": "099e2913-5b0d-43ee-99cd-e85339425002",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "for",
+                "id": "dd3bc694-c479-4eb3-83d3-ca1661aed277",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "disrupting",
+                "id": "e73ebe23-24a0-445c-bd09-8079aeb41255",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "may",
+                "id": "96a205d5-54b7-40c0-80cd-3868a6835554",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "be",
+                "id": "e507a388-d7c7-4db5-9874-d6c33a33a870",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "human",
+                "id": "327389cc-b0e7-42ee-a845-4c1550c08e7a",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "safety",
+                "id": "17629b9b-15a6-4aba-ae31-a6ce124ac91d",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "thresholds",
+                "id": "616d2088-4d25-4650-9b4d-01586a747da9",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "endocrine",
+                "id": "a4a5ec1c-3395-4ece-90d1-5d44b7c3c130",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "chemicals",
+                "id": "c42c0e34-d8d0-4eac-a312-5703336c3858",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "inaccurate",
+                "id": "1c8b2324-a64e-4b80-8473-4018eed728a8",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "327389cc-b0e7-42ee-a845-4c1550c08e7a",
+                "nodeTo": "dd3bc694-c479-4eb3-83d3-ca1661aed277",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "17629b9b-15a6-4aba-ae31-a6ce124ac91d",
+                "nodeTo": "dd3bc694-c479-4eb3-83d3-ca1661aed277",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "616d2088-4d25-4650-9b4d-01586a747da9",
+                "nodeTo": "dd3bc694-c479-4eb3-83d3-ca1661aed277",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "dd3bc694-c479-4eb3-83d3-ca1661aed277",
+                "nodeTo": "a4a5ec1c-3395-4ece-90d1-5d44b7c3c130",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a4a5ec1c-3395-4ece-90d1-5d44b7c3c130",
+                "nodeTo": "e73ebe23-24a0-445c-bd09-8079aeb41255",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e73ebe23-24a0-445c-bd09-8079aeb41255",
+                "nodeTo": "c42c0e34-d8d0-4eac-a312-5703336c3858",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "327389cc-b0e7-42ee-a845-4c1550c08e7a",
+                "nodeTo": "96a205d5-54b7-40c0-80cd-3868a6835554",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "17629b9b-15a6-4aba-ae31-a6ce124ac91d",
+                "nodeTo": "96a205d5-54b7-40c0-80cd-3868a6835554",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "616d2088-4d25-4650-9b4d-01586a747da9",
+                "nodeTo": "96a205d5-54b7-40c0-80cd-3868a6835554",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "327389cc-b0e7-42ee-a845-4c1550c08e7a",
+                "nodeTo": "e507a388-d7c7-4db5-9874-d6c33a33a870",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "17629b9b-15a6-4aba-ae31-a6ce124ac91d",
+                "nodeTo": "e507a388-d7c7-4db5-9874-d6c33a33a870",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "616d2088-4d25-4650-9b4d-01586a747da9",
+                "nodeTo": "e507a388-d7c7-4db5-9874-d6c33a33a870",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "96a205d5-54b7-40c0-80cd-3868a6835554",
+                "nodeTo": "1c8b2324-a64e-4b80-8473-4018eed728a8",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e507a388-d7c7-4db5-9874-d6c33a33a870",
+                "nodeTo": "1c8b2324-a64e-4b80-8473-4018eed728a8",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-09 20:38:05"
+}

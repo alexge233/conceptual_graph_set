@@ -1,0 +1,202 @@
+{
+    "uuid": 695,
+    "text": "brain reserve and cognitive reserve confer long term protective effect against cognitive decline",
+    "graph": {
+        "version": 1,
+        "guid": "a9830c28-6bd4-4063-999d-077e6a57970a",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "and",
+                "id": "e7159b5a-6400-49c1-b8d6-d16a466d42c6",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "confer",
+                "id": "91ec436c-b69d-4a9c-8737-e33865d299a1",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "against",
+                "id": "e82d8d80-e7c6-4851-9476-217dd25cd9eb",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "brain",
+                "id": "9d359b38-2472-4d26-8b01-46d4437e34b3",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "reserve",
+                "id": "d56da766-0bb6-45a0-b850-1aabb9602b7a",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "cognitive",
+                "id": "4d83d870-4707-4642-a92d-474ebb266e08",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "reserve",
+                "id": "9c77a078-7e9b-4a9a-83ba-6186de66dd64",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "long",
+                "id": "778c0a2a-52b8-45c9-816d-aee55ea60754",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "term",
+                "id": "22bc9e1d-9331-40c2-ac54-a0616c10aac2",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "protective",
+                "id": "d45ce7a0-544b-43be-b552-7b9da3a46bb4",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "effect",
+                "id": "8022304d-2da5-4995-ace3-2caa0742896e",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "cognitive",
+                "id": "96295c6d-81da-4715-a080-bc1547428d19",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "decline",
+                "id": "eb1b9c26-9bdc-44c7-8287-d47e2d2a3d37",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "9d359b38-2472-4d26-8b01-46d4437e34b3",
+                "nodeTo": "e7159b5a-6400-49c1-b8d6-d16a466d42c6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d56da766-0bb6-45a0-b850-1aabb9602b7a",
+                "nodeTo": "e7159b5a-6400-49c1-b8d6-d16a466d42c6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e7159b5a-6400-49c1-b8d6-d16a466d42c6",
+                "nodeTo": "4d83d870-4707-4642-a92d-474ebb266e08",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e7159b5a-6400-49c1-b8d6-d16a466d42c6",
+                "nodeTo": "9c77a078-7e9b-4a9a-83ba-6186de66dd64",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9d359b38-2472-4d26-8b01-46d4437e34b3",
+                "nodeTo": "91ec436c-b69d-4a9c-8737-e33865d299a1",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d56da766-0bb6-45a0-b850-1aabb9602b7a",
+                "nodeTo": "91ec436c-b69d-4a9c-8737-e33865d299a1",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4d83d870-4707-4642-a92d-474ebb266e08",
+                "nodeTo": "91ec436c-b69d-4a9c-8737-e33865d299a1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9c77a078-7e9b-4a9a-83ba-6186de66dd64",
+                "nodeTo": "91ec436c-b69d-4a9c-8737-e33865d299a1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "91ec436c-b69d-4a9c-8737-e33865d299a1",
+                "nodeTo": "778c0a2a-52b8-45c9-816d-aee55ea60754",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "91ec436c-b69d-4a9c-8737-e33865d299a1",
+                "nodeTo": "22bc9e1d-9331-40c2-ac54-a0616c10aac2",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "91ec436c-b69d-4a9c-8737-e33865d299a1",
+                "nodeTo": "d45ce7a0-544b-43be-b552-7b9da3a46bb4",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "91ec436c-b69d-4a9c-8737-e33865d299a1",
+                "nodeTo": "8022304d-2da5-4995-ace3-2caa0742896e",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "778c0a2a-52b8-45c9-816d-aee55ea60754",
+                "nodeTo": "e82d8d80-e7c6-4851-9476-217dd25cd9eb",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "22bc9e1d-9331-40c2-ac54-a0616c10aac2",
+                "nodeTo": "e82d8d80-e7c6-4851-9476-217dd25cd9eb",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d45ce7a0-544b-43be-b552-7b9da3a46bb4",
+                "nodeTo": "e82d8d80-e7c6-4851-9476-217dd25cd9eb",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8022304d-2da5-4995-ace3-2caa0742896e",
+                "nodeTo": "e82d8d80-e7c6-4851-9476-217dd25cd9eb",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e82d8d80-e7c6-4851-9476-217dd25cd9eb",
+                "nodeTo": "96295c6d-81da-4715-a080-bc1547428d19",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e82d8d80-e7c6-4851-9476-217dd25cd9eb",
+                "nodeTo": "eb1b9c26-9bdc-44c7-8287-d47e2d2a3d37",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-12 13:09:18"
+}

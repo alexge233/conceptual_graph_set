@@ -1,0 +1,256 @@
+{
+    "uuid": 761,
+    "text": "new study did not find calcium supplement intake increases risk of cardiovascular disease in women",
+    "graph": {
+        "version": 1,
+        "guid": "70ca9019-ac7a-4762-a1c6-b57c031692c6",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "did",
+                "id": "8c433919-d155-44c6-8486-ab241455a7a3",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "not",
+                "id": "a1cca8bd-036e-4e80-b060-20c804b9c17d",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "find",
+                "id": "06e07a9e-584a-4bd9-b85b-39c02968724d",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "increases",
+                "id": "06dcce61-2ad5-434c-a347-0a85843a6a7a",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "5c8beddd-6721-4159-ba55-0a1aa9cd3ce8",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "c6337478-e6a3-4383-ab3e-c27cde2362c5",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "new",
+                "id": "dba10ce7-8b2e-4740-93db-bd0dc6954eec",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "study",
+                "id": "ade31b88-274e-4a18-b070-c87d8e830266",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "calcium",
+                "id": "cd4005bc-cd0b-4110-b1d0-d7e360796300",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "supplement",
+                "id": "62a2d910-0593-4b28-b6d1-7a2d4019214a",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "intake",
+                "id": "1d3bc493-1e7d-4660-bd38-679462561c43",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "risk",
+                "id": "c8a34982-1cc0-4619-92dc-61aebeac01cd",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "cardiovascular",
+                "id": "14914b54-7456-473c-8d92-a4d8ba72d885",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "disease",
+                "id": "0434b701-6ada-4d7c-a81e-e03cb616ece2",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "women",
+                "id": "50b5ed32-2223-4ecc-89a6-133e19c79544",
+                "index": 14,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "dba10ce7-8b2e-4740-93db-bd0dc6954eec",
+                "nodeTo": "8c433919-d155-44c6-8486-ab241455a7a3",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ade31b88-274e-4a18-b070-c87d8e830266",
+                "nodeTo": "8c433919-d155-44c6-8486-ab241455a7a3",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "dba10ce7-8b2e-4740-93db-bd0dc6954eec",
+                "nodeTo": "a1cca8bd-036e-4e80-b060-20c804b9c17d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ade31b88-274e-4a18-b070-c87d8e830266",
+                "nodeTo": "a1cca8bd-036e-4e80-b060-20c804b9c17d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "dba10ce7-8b2e-4740-93db-bd0dc6954eec",
+                "nodeTo": "06e07a9e-584a-4bd9-b85b-39c02968724d",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ade31b88-274e-4a18-b070-c87d8e830266",
+                "nodeTo": "06e07a9e-584a-4bd9-b85b-39c02968724d",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8c433919-d155-44c6-8486-ab241455a7a3",
+                "nodeTo": "cd4005bc-cd0b-4110-b1d0-d7e360796300",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a1cca8bd-036e-4e80-b060-20c804b9c17d",
+                "nodeTo": "cd4005bc-cd0b-4110-b1d0-d7e360796300",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "06e07a9e-584a-4bd9-b85b-39c02968724d",
+                "nodeTo": "cd4005bc-cd0b-4110-b1d0-d7e360796300",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8c433919-d155-44c6-8486-ab241455a7a3",
+                "nodeTo": "62a2d910-0593-4b28-b6d1-7a2d4019214a",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a1cca8bd-036e-4e80-b060-20c804b9c17d",
+                "nodeTo": "62a2d910-0593-4b28-b6d1-7a2d4019214a",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8c433919-d155-44c6-8486-ab241455a7a3",
+                "nodeTo": "1d3bc493-1e7d-4660-bd38-679462561c43",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a1cca8bd-036e-4e80-b060-20c804b9c17d",
+                "nodeTo": "1d3bc493-1e7d-4660-bd38-679462561c43",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "06e07a9e-584a-4bd9-b85b-39c02968724d",
+                "nodeTo": "62a2d910-0593-4b28-b6d1-7a2d4019214a",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "06e07a9e-584a-4bd9-b85b-39c02968724d",
+                "nodeTo": "1d3bc493-1e7d-4660-bd38-679462561c43",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "cd4005bc-cd0b-4110-b1d0-d7e360796300",
+                "nodeTo": "06dcce61-2ad5-434c-a347-0a85843a6a7a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "62a2d910-0593-4b28-b6d1-7a2d4019214a",
+                "nodeTo": "06dcce61-2ad5-434c-a347-0a85843a6a7a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1d3bc493-1e7d-4660-bd38-679462561c43",
+                "nodeTo": "06dcce61-2ad5-434c-a347-0a85843a6a7a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "06dcce61-2ad5-434c-a347-0a85843a6a7a",
+                "nodeTo": "c8a34982-1cc0-4619-92dc-61aebeac01cd",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c8a34982-1cc0-4619-92dc-61aebeac01cd",
+                "nodeTo": "5c8beddd-6721-4159-ba55-0a1aa9cd3ce8",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5c8beddd-6721-4159-ba55-0a1aa9cd3ce8",
+                "nodeTo": "14914b54-7456-473c-8d92-a4d8ba72d885",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5c8beddd-6721-4159-ba55-0a1aa9cd3ce8",
+                "nodeTo": "0434b701-6ada-4d7c-a81e-e03cb616ece2",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "14914b54-7456-473c-8d92-a4d8ba72d885",
+                "nodeTo": "c6337478-e6a3-4383-ab3e-c27cde2362c5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0434b701-6ada-4d7c-a81e-e03cb616ece2",
+                "nodeTo": "c6337478-e6a3-4383-ab3e-c27cde2362c5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c6337478-e6a3-4383-ab3e-c27cde2362c5",
+                "nodeTo": "50b5ed32-2223-4ecc-89a6-133e19c79544",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-13 21:10:17"
+}

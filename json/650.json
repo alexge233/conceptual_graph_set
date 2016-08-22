@@ -1,0 +1,118 @@
+{
+    "uuid": 650,
+    "text": "Boston marathon bombing survivors cope with aftermath",
+    "graph": {
+        "version": 1,
+        "guid": "8d094802-b14b-4b30-97e3-ca9c63b47292",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "cope",
+                "id": "3310d2dc-6209-465b-895c-0734056c155a",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "with",
+                "id": "5ea56414-143a-40ca-a991-e065e9eaa3a8",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Boston",
+                "id": "4d36ea90-6ddc-408d-86c6-a21e677cda7c",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "marathon",
+                "id": "4983d1b8-e76e-4614-911e-094bbd4d3921",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "bombing",
+                "id": "b1d1b138-4be2-4aa8-a857-a928d63487ee",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "survivors",
+                "id": "93e787c6-5c20-4514-9d05-05beabd6451b",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "aftermath",
+                "id": "15a747e2-b23a-4e92-9c69-d77cec0e8087",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "4d36ea90-6ddc-408d-86c6-a21e677cda7c",
+                "nodeTo": "3310d2dc-6209-465b-895c-0734056c155a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4d36ea90-6ddc-408d-86c6-a21e677cda7c",
+                "nodeTo": "5ea56414-143a-40ca-a991-e065e9eaa3a8",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4983d1b8-e76e-4614-911e-094bbd4d3921",
+                "nodeTo": "3310d2dc-6209-465b-895c-0734056c155a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4983d1b8-e76e-4614-911e-094bbd4d3921",
+                "nodeTo": "5ea56414-143a-40ca-a991-e065e9eaa3a8",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b1d1b138-4be2-4aa8-a857-a928d63487ee",
+                "nodeTo": "3310d2dc-6209-465b-895c-0734056c155a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b1d1b138-4be2-4aa8-a857-a928d63487ee",
+                "nodeTo": "5ea56414-143a-40ca-a991-e065e9eaa3a8",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "93e787c6-5c20-4514-9d05-05beabd6451b",
+                "nodeTo": "3310d2dc-6209-465b-895c-0734056c155a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "93e787c6-5c20-4514-9d05-05beabd6451b",
+                "nodeTo": "5ea56414-143a-40ca-a991-e065e9eaa3a8",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3310d2dc-6209-465b-895c-0734056c155a",
+                "nodeTo": "15a747e2-b23a-4e92-9c69-d77cec0e8087",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5ea56414-143a-40ca-a991-e065e9eaa3a8",
+                "nodeTo": "15a747e2-b23a-4e92-9c69-d77cec0e8087",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-09 18:30:55"
+}

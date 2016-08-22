@@ -1,0 +1,136 @@
+{
+    "uuid": 130,
+    "text": "MicroRNA could be key target for bowel cancer treatment",
+    "graph": {
+        "version": 1,
+        "guid": "97524ddc-4b90-4136-971a-90d83826422e",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "could",
+                "id": "39da6126-c574-464e-978d-7b9a74a2e856",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "be",
+                "id": "33c1b45e-a5ea-4c31-ac6e-7bb27e8bd95e",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "d509030d-aa09-433a-838c-604d96b0105d",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "MicroRNA",
+                "id": "d70ab273-62c9-4660-a4d6-c18497419555",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "key",
+                "id": "93e6445b-d2bc-446d-b686-28b4e8496a3e",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "target",
+                "id": "6a97a30d-d70c-444a-b21a-51770c0163d0",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "bowel",
+                "id": "075103dc-3cde-4a6e-bed9-286e7d737cca",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "cancer",
+                "id": "51aaee0c-099b-4be4-ac85-3e5536c482d4",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "treatment",
+                "id": "a183901d-b2c5-4742-86ed-25663cc06b97",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "d70ab273-62c9-4660-a4d6-c18497419555",
+                "nodeTo": "39da6126-c574-464e-978d-7b9a74a2e856",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d70ab273-62c9-4660-a4d6-c18497419555",
+                "nodeTo": "33c1b45e-a5ea-4c31-ac6e-7bb27e8bd95e",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "39da6126-c574-464e-978d-7b9a74a2e856",
+                "nodeTo": "93e6445b-d2bc-446d-b686-28b4e8496a3e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "39da6126-c574-464e-978d-7b9a74a2e856",
+                "nodeTo": "6a97a30d-d70c-444a-b21a-51770c0163d0",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "33c1b45e-a5ea-4c31-ac6e-7bb27e8bd95e",
+                "nodeTo": "93e6445b-d2bc-446d-b686-28b4e8496a3e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "33c1b45e-a5ea-4c31-ac6e-7bb27e8bd95e",
+                "nodeTo": "6a97a30d-d70c-444a-b21a-51770c0163d0",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6a97a30d-d70c-444a-b21a-51770c0163d0",
+                "nodeTo": "d509030d-aa09-433a-838c-604d96b0105d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d509030d-aa09-433a-838c-604d96b0105d",
+                "nodeTo": "075103dc-3cde-4a6e-bed9-286e7d737cca",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d509030d-aa09-433a-838c-604d96b0105d",
+                "nodeTo": "51aaee0c-099b-4be4-ac85-3e5536c482d4",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d509030d-aa09-433a-838c-604d96b0105d",
+                "nodeTo": "a183901d-b2c5-4742-86ed-25663cc06b97",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "93e6445b-d2bc-446d-b686-28b4e8496a3e",
+                "nodeTo": "d509030d-aa09-433a-838c-604d96b0105d",
+                "index": 1,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2014-10-29 23:40:53"
+}

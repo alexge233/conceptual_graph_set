@@ -1,0 +1,82 @@
+{
+    "uuid": 1043,
+    "text": "Chronic pain may be inherited",
+    "graph": {
+        "version": 1,
+        "guid": "a313eac9-5830-4bc9-993c-b709110b6c26",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "may",
+                "id": "4b2e440e-7450-425c-881c-20d7679dbc23",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "be",
+                "id": "2147961b-088b-4348-ac91-9cae562dd349",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Chronic",
+                "id": "33698154-9574-49d6-9718-0ce0a5491c82",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "pain",
+                "id": "1be57c1c-5373-42d5-bc39-7dd384e260e0",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "inherited",
+                "id": "205c9dea-b853-4c0d-91aa-ad6c08a47314",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "33698154-9574-49d6-9718-0ce0a5491c82",
+                "nodeTo": "4b2e440e-7450-425c-881c-20d7679dbc23",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1be57c1c-5373-42d5-bc39-7dd384e260e0",
+                "nodeTo": "4b2e440e-7450-425c-881c-20d7679dbc23",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "33698154-9574-49d6-9718-0ce0a5491c82",
+                "nodeTo": "2147961b-088b-4348-ac91-9cae562dd349",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1be57c1c-5373-42d5-bc39-7dd384e260e0",
+                "nodeTo": "2147961b-088b-4348-ac91-9cae562dd349",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4b2e440e-7450-425c-881c-20d7679dbc23",
+                "nodeTo": "205c9dea-b853-4c0d-91aa-ad6c08a47314",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2147961b-088b-4348-ac91-9cae562dd349",
+                "nodeTo": "205c9dea-b853-4c0d-91aa-ad6c08a47314",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-04 16:50:01"
+}

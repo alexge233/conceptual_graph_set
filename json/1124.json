@@ -1,0 +1,322 @@
+{
+    "uuid": 1124,
+    "text": "Findings show that tea fruit juice and soft drink consumption are not linked to cirrhosis mortality risk",
+    "graph": {
+        "version": 1,
+        "guid": "557a6645-94e6-41e0-b5c5-e54aba0aa306",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "show",
+                "id": "d51a7430-3411-4de3-9b39-084806293b90",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "that",
+                "id": "b0491ddd-baad-4a8b-8c4c-44b4dcb009c8",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "e238694c-3912-4da0-9bad-e8b21029aaa7",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "are",
+                "id": "093d5910-da8c-48ce-a308-53446da4315b",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "not",
+                "id": "e907868b-7493-462e-ab90-90e9198e1c21",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "72d6c144-e0ae-4532-9965-a8522891d38a",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Findings",
+                "id": "52db4b7a-47b0-431d-855d-a2a606c95e4a",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "tea",
+                "id": "779cac42-e2a1-4787-87b7-5e9159c28790",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "fruit",
+                "id": "01b48c66-a0e7-4143-ac56-7bd3e1cd0e4a",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "juice",
+                "id": "982c1a9a-18c7-4471-acad-485435ab813d",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "soft",
+                "id": "8d5978d3-bbb2-414c-b1c6-0ecb50e065de",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "drink",
+                "id": "508b1704-1737-4c82-87e8-b10d210cec68",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "consumption",
+                "id": "5c112ea4-4ca9-49d1-b064-2b326358095d",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "linked",
+                "id": "400d3787-11e0-42ae-a525-b94655cdb7b9",
+                "postag": "NA",
+                "index": 12
+            },
+            {
+                "label": "cirrhosis",
+                "id": "363510eb-e782-4556-9a62-19d7845a99c1",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "mortality",
+                "id": "19a61bb3-47a9-4981-8e4a-15c9a8d8ba6d",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "risk",
+                "id": "eb2c6cce-3385-4391-995d-203a610836e4",
+                "index": 16,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "52db4b7a-47b0-431d-855d-a2a606c95e4a",
+                "nodeTo": "d51a7430-3411-4de3-9b39-084806293b90",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "52db4b7a-47b0-431d-855d-a2a606c95e4a",
+                "nodeTo": "b0491ddd-baad-4a8b-8c4c-44b4dcb009c8",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d51a7430-3411-4de3-9b39-084806293b90",
+                "nodeTo": "779cac42-e2a1-4787-87b7-5e9159c28790",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b0491ddd-baad-4a8b-8c4c-44b4dcb009c8",
+                "nodeTo": "779cac42-e2a1-4787-87b7-5e9159c28790",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d51a7430-3411-4de3-9b39-084806293b90",
+                "nodeTo": "01b48c66-a0e7-4143-ac56-7bd3e1cd0e4a",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d51a7430-3411-4de3-9b39-084806293b90",
+                "nodeTo": "982c1a9a-18c7-4471-acad-485435ab813d",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b0491ddd-baad-4a8b-8c4c-44b4dcb009c8",
+                "nodeTo": "01b48c66-a0e7-4143-ac56-7bd3e1cd0e4a",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b0491ddd-baad-4a8b-8c4c-44b4dcb009c8",
+                "nodeTo": "982c1a9a-18c7-4471-acad-485435ab813d",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "01b48c66-a0e7-4143-ac56-7bd3e1cd0e4a",
+                "nodeTo": "e238694c-3912-4da0-9bad-e8b21029aaa7",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "982c1a9a-18c7-4471-acad-485435ab813d",
+                "nodeTo": "e238694c-3912-4da0-9bad-e8b21029aaa7",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e238694c-3912-4da0-9bad-e8b21029aaa7",
+                "nodeTo": "8d5978d3-bbb2-414c-b1c6-0ecb50e065de",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e238694c-3912-4da0-9bad-e8b21029aaa7",
+                "nodeTo": "508b1704-1737-4c82-87e8-b10d210cec68",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d51a7430-3411-4de3-9b39-084806293b90",
+                "nodeTo": "8d5978d3-bbb2-414c-b1c6-0ecb50e065de",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b0491ddd-baad-4a8b-8c4c-44b4dcb009c8",
+                "nodeTo": "508b1704-1737-4c82-87e8-b10d210cec68",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d51a7430-3411-4de3-9b39-084806293b90",
+                "nodeTo": "5c112ea4-4ca9-49d1-b064-2b326358095d",
+                "index": 5,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b0491ddd-baad-4a8b-8c4c-44b4dcb009c8",
+                "nodeTo": "5c112ea4-4ca9-49d1-b064-2b326358095d",
+                "index": 5,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "779cac42-e2a1-4787-87b7-5e9159c28790",
+                "nodeTo": "093d5910-da8c-48ce-a308-53446da4315b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "779cac42-e2a1-4787-87b7-5e9159c28790",
+                "nodeTo": "e907868b-7493-462e-ab90-90e9198e1c21",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5c112ea4-4ca9-49d1-b064-2b326358095d",
+                "nodeTo": "093d5910-da8c-48ce-a308-53446da4315b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5c112ea4-4ca9-49d1-b064-2b326358095d",
+                "nodeTo": "e907868b-7493-462e-ab90-90e9198e1c21",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "01b48c66-a0e7-4143-ac56-7bd3e1cd0e4a",
+                "nodeTo": "093d5910-da8c-48ce-a308-53446da4315b",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "01b48c66-a0e7-4143-ac56-7bd3e1cd0e4a",
+                "nodeTo": "e907868b-7493-462e-ab90-90e9198e1c21",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "982c1a9a-18c7-4471-acad-485435ab813d",
+                "nodeTo": "093d5910-da8c-48ce-a308-53446da4315b",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "982c1a9a-18c7-4471-acad-485435ab813d",
+                "nodeTo": "e907868b-7493-462e-ab90-90e9198e1c21",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8d5978d3-bbb2-414c-b1c6-0ecb50e065de",
+                "nodeTo": "093d5910-da8c-48ce-a308-53446da4315b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8d5978d3-bbb2-414c-b1c6-0ecb50e065de",
+                "nodeTo": "e907868b-7493-462e-ab90-90e9198e1c21",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "508b1704-1737-4c82-87e8-b10d210cec68",
+                "nodeTo": "093d5910-da8c-48ce-a308-53446da4315b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "508b1704-1737-4c82-87e8-b10d210cec68",
+                "nodeTo": "e907868b-7493-462e-ab90-90e9198e1c21",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "093d5910-da8c-48ce-a308-53446da4315b",
+                "nodeTo": "400d3787-11e0-42ae-a525-b94655cdb7b9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e907868b-7493-462e-ab90-90e9198e1c21",
+                "nodeTo": "400d3787-11e0-42ae-a525-b94655cdb7b9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "400d3787-11e0-42ae-a525-b94655cdb7b9",
+                "nodeTo": "72d6c144-e0ae-4532-9965-a8522891d38a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "72d6c144-e0ae-4532-9965-a8522891d38a",
+                "nodeTo": "363510eb-e782-4556-9a62-19d7845a99c1",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "72d6c144-e0ae-4532-9965-a8522891d38a",
+                "nodeTo": "19a61bb3-47a9-4981-8e4a-15c9a8d8ba6d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "72d6c144-e0ae-4532-9965-a8522891d38a",
+                "nodeTo": "eb2c6cce-3385-4391-995d-203a610836e4",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-23 18:00:39"
+}

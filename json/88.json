@@ -1,0 +1,466 @@
+{
+    "uuid": 88,
+    "text": "We are especially interested in optimizing healthy stress hormone production in young adolescents because we know from other research that healthy stress hormone patterns may protect against development of physical and mental health problems",
+    "graph": {
+        "version": 1,
+        "guid": "08c08760-cce3-4d91-b836-2e9cdeb65c45",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "are",
+                "id": "8cad18b2-9809-415e-adbb-737047506a34",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "b4d6509a-bedd-4bc2-9644-5db68470d2b6",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "optimizing",
+                "id": "90ea82b6-d53b-4db3-a9d5-d007cb09d12c",
+                "postag": "NA",
+                "index": 5
+            },
+            {
+                "label": "in",
+                "id": "b53ba3ae-64cb-4c55-8724-2b6a9de82b58",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "because",
+                "id": "119a5eb4-8d0c-477a-b268-cca903be859c",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "know",
+                "id": "a98098ec-4ad7-4700-8133-8a6a4d14c502",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "from",
+                "id": "b7166e01-5ebd-4d77-a6ab-7c15d325b512",
+                "index": 16,
+                "postag": "NA"
+            },
+            {
+                "label": "that",
+                "id": "c37cc15b-78a8-4a07-aec7-aabed2da2644",
+                "postag": "NA",
+                "index": 19
+            },
+            {
+                "label": "protect",
+                "id": "31b17c6e-041c-489d-aa69-293cbc745164",
+                "index": 25,
+                "postag": "NA"
+            },
+            {
+                "label": "against",
+                "id": "b479cea2-8b77-4b41-a565-4ae21cec46b8",
+                "postag": "NA",
+                "index": 26
+            },
+            {
+                "label": "of",
+                "id": "20cd7075-5b97-4d72-8d31-bb110cc13e72",
+                "index": 28,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "d0bcd7a7-5d93-43b6-a873-b7d9102beca6",
+                "index": 30,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "We",
+                "id": "3859e478-7d2b-4b05-8b82-0e18d856b6e6",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "especially",
+                "id": "706654bb-9386-4792-b0db-988d6a40316e",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "healthy",
+                "id": "e4bb8a54-c4a2-46d0-8962-42cabcb66891",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "stress",
+                "id": "00db7aca-95db-4a28-9a93-cacb555451ca",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "hormone",
+                "id": "c82c6605-d769-400e-b736-7429eac2dc22",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "young",
+                "id": "bcdc6d09-704c-475d-bb84-53759e835d35",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "adolescents",
+                "id": "cd736b26-540a-49a8-82ea-9910614669e9",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "we",
+                "id": "d33a5050-508c-4852-83b7-4465038a1535",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "other",
+                "id": "67e4b1c2-41d0-48e6-b8ce-4e0ba5ed5540",
+                "index": 17,
+                "postag": "NA"
+            },
+            {
+                "label": "research",
+                "id": "5010b811-9572-4a68-b34b-33a8840c994b",
+                "index": 18,
+                "postag": "NA"
+            },
+            {
+                "label": "healthy",
+                "id": "198a68a1-80a4-4ee4-bee7-493c2c5b2258",
+                "index": 20,
+                "postag": "NA"
+            },
+            {
+                "label": "stress",
+                "id": "b8c74209-ba54-4294-a672-1c41493d4265",
+                "index": 21,
+                "postag": "NA"
+            },
+            {
+                "label": "hormone",
+                "id": "6a5958a4-5e72-4d5b-b354-874213562323",
+                "index": 22,
+                "postag": "NA"
+            },
+            {
+                "label": "patterns",
+                "id": "397432d5-4a15-4870-9cdd-45e54872a9c9",
+                "index": 23,
+                "postag": "NA"
+            },
+            {
+                "label": "may",
+                "id": "7bc0d87c-9d08-4911-99e3-aac33ea1307e",
+                "index": 24,
+                "postag": "NA"
+            },
+            {
+                "label": "development",
+                "id": "c73756b6-2608-4d3e-9158-5659259ba161",
+                "index": 27,
+                "postag": "NA"
+            },
+            {
+                "label": "physical",
+                "id": "c9893090-be64-4e87-9b22-6eb83d425a7a",
+                "index": 29,
+                "postag": "NA"
+            },
+            {
+                "label": "mental",
+                "id": "ba80be70-a377-4794-b8c3-a9ed6551eccc",
+                "index": 31,
+                "postag": "NA"
+            },
+            {
+                "label": "health",
+                "id": "a294ed25-2173-41c8-a991-40220471710d",
+                "index": 32,
+                "postag": "NA"
+            },
+            {
+                "label": "problems",
+                "id": "ce26cbc8-79b7-403e-a135-1511c316aeac",
+                "index": 33,
+                "postag": "NA"
+            },
+            {
+                "label": "interested",
+                "id": "81c1ec92-caa1-4440-93ad-5bb310aa84c4",
+                "postag": "NA",
+                "index": 3
+            },
+            {
+                "label": "production",
+                "id": "92eb22a5-daea-4b8d-8809-d47bced92ceb",
+                "postag": "NA",
+                "index": 9
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "3859e478-7d2b-4b05-8b82-0e18d856b6e6",
+                "nodeTo": "8cad18b2-9809-415e-adbb-737047506a34",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8cad18b2-9809-415e-adbb-737047506a34",
+                "nodeTo": "706654bb-9386-4792-b0db-988d6a40316e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e4bb8a54-c4a2-46d0-8962-42cabcb66891",
+                "nodeTo": "b53ba3ae-64cb-4c55-8724-2b6a9de82b58",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "00db7aca-95db-4a28-9a93-cacb555451ca",
+                "nodeTo": "b53ba3ae-64cb-4c55-8724-2b6a9de82b58",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c82c6605-d769-400e-b736-7429eac2dc22",
+                "nodeTo": "b53ba3ae-64cb-4c55-8724-2b6a9de82b58",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b53ba3ae-64cb-4c55-8724-2b6a9de82b58",
+                "nodeTo": "bcdc6d09-704c-475d-bb84-53759e835d35",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b53ba3ae-64cb-4c55-8724-2b6a9de82b58",
+                "nodeTo": "cd736b26-540a-49a8-82ea-9910614669e9",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "119a5eb4-8d0c-477a-b268-cca903be859c",
+                "nodeTo": "d33a5050-508c-4852-83b7-4465038a1535",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d33a5050-508c-4852-83b7-4465038a1535",
+                "nodeTo": "a98098ec-4ad7-4700-8133-8a6a4d14c502",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d33a5050-508c-4852-83b7-4465038a1535",
+                "nodeTo": "b7166e01-5ebd-4d77-a6ab-7c15d325b512",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b7166e01-5ebd-4d77-a6ab-7c15d325b512",
+                "nodeTo": "67e4b1c2-41d0-48e6-b8ce-4e0ba5ed5540",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b7166e01-5ebd-4d77-a6ab-7c15d325b512",
+                "nodeTo": "5010b811-9572-4a68-b34b-33a8840c994b",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c37cc15b-78a8-4a07-aec7-aabed2da2644",
+                "nodeTo": "198a68a1-80a4-4ee4-bee7-493c2c5b2258",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c37cc15b-78a8-4a07-aec7-aabed2da2644",
+                "nodeTo": "b8c74209-ba54-4294-a672-1c41493d4265",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c37cc15b-78a8-4a07-aec7-aabed2da2644",
+                "nodeTo": "6a5958a4-5e72-4d5b-b354-874213562323",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c37cc15b-78a8-4a07-aec7-aabed2da2644",
+                "nodeTo": "397432d5-4a15-4870-9cdd-45e54872a9c9",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7bc0d87c-9d08-4911-99e3-aac33ea1307e",
+                "nodeTo": "31b17c6e-041c-489d-aa69-293cbc745164",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "198a68a1-80a4-4ee4-bee7-493c2c5b2258",
+                "nodeTo": "31b17c6e-041c-489d-aa69-293cbc745164",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b8c74209-ba54-4294-a672-1c41493d4265",
+                "nodeTo": "31b17c6e-041c-489d-aa69-293cbc745164",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6a5958a4-5e72-4d5b-b354-874213562323",
+                "nodeTo": "31b17c6e-041c-489d-aa69-293cbc745164",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "397432d5-4a15-4870-9cdd-45e54872a9c9",
+                "nodeTo": "31b17c6e-041c-489d-aa69-293cbc745164",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a98098ec-4ad7-4700-8133-8a6a4d14c502",
+                "nodeTo": "7bc0d87c-9d08-4911-99e3-aac33ea1307e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b479cea2-8b77-4b41-a565-4ae21cec46b8",
+                "nodeTo": "c73756b6-2608-4d3e-9158-5659259ba161",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "31b17c6e-041c-489d-aa69-293cbc745164",
+                "nodeTo": "c73756b6-2608-4d3e-9158-5659259ba161",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c73756b6-2608-4d3e-9158-5659259ba161",
+                "nodeTo": "20cd7075-5b97-4d72-8d31-bb110cc13e72",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "20cd7075-5b97-4d72-8d31-bb110cc13e72",
+                "nodeTo": "c9893090-be64-4e87-9b22-6eb83d425a7a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c9893090-be64-4e87-9b22-6eb83d425a7a",
+                "nodeTo": "d0bcd7a7-5d93-43b6-a873-b7d9102beca6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d0bcd7a7-5d93-43b6-a873-b7d9102beca6",
+                "nodeTo": "ba80be70-a377-4794-b8c3-a9ed6551eccc",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d0bcd7a7-5d93-43b6-a873-b7d9102beca6",
+                "nodeTo": "a294ed25-2173-41c8-a991-40220471710d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d0bcd7a7-5d93-43b6-a873-b7d9102beca6",
+                "nodeTo": "ce26cbc8-79b7-403e-a135-1511c316aeac",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8cad18b2-9809-415e-adbb-737047506a34",
+                "nodeTo": "81c1ec92-caa1-4440-93ad-5bb310aa84c4",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "81c1ec92-caa1-4440-93ad-5bb310aa84c4",
+                "nodeTo": "b4d6509a-bedd-4bc2-9644-5db68470d2b6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "81c1ec92-caa1-4440-93ad-5bb310aa84c4",
+                "nodeTo": "90ea82b6-d53b-4db3-a9d5-d007cb09d12c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b4d6509a-bedd-4bc2-9644-5db68470d2b6",
+                "nodeTo": "e4bb8a54-c4a2-46d0-8962-42cabcb66891",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b4d6509a-bedd-4bc2-9644-5db68470d2b6",
+                "nodeTo": "00db7aca-95db-4a28-9a93-cacb555451ca",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b4d6509a-bedd-4bc2-9644-5db68470d2b6",
+                "nodeTo": "c82c6605-d769-400e-b736-7429eac2dc22",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "81c1ec92-caa1-4440-93ad-5bb310aa84c4",
+                "nodeTo": "119a5eb4-8d0c-477a-b268-cca903be859c",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "706654bb-9386-4792-b0db-988d6a40316e",
+                "nodeTo": "119a5eb4-8d0c-477a-b268-cca903be859c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b4d6509a-bedd-4bc2-9644-5db68470d2b6",
+                "nodeTo": "92eb22a5-daea-4b8d-8809-d47bced92ceb",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "90ea82b6-d53b-4db3-a9d5-d007cb09d12c",
+                "nodeTo": "92eb22a5-daea-4b8d-8809-d47bced92ceb",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "92eb22a5-daea-4b8d-8809-d47bced92ceb",
+                "nodeTo": "b53ba3ae-64cb-4c55-8724-2b6a9de82b58",
+                "index": 1,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2015-03-27 21:10:55"
+}

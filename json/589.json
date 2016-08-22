@@ -1,0 +1,154 @@
+{
+    "uuid": 589,
+    "text": "Biomarkers in HPV negative squamous cell carcinomas of head neck",
+    "graph": {
+        "version": 1,
+        "guid": "e65c60d2-3017-4429-884a-17b7edc87686",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "in",
+                "id": "77dd1807-3764-49d7-b0ea-bc884ab1b943",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "d9e7ed13-44c7-4457-8140-bde1373c2023",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Biomarkers",
+                "id": "09d157c6-97b8-4910-88cd-e617a756de6d",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "HPV",
+                "id": "2ce3c440-3e86-40d6-9b8b-aaac6a7ea596",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "negative",
+                "id": "0e235b34-6195-4b9b-a8a8-ee8acb1ee28e",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "squamous",
+                "id": "9ac31a0d-512e-4462-9e2a-78397e81d1c2",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "cell",
+                "id": "cc9b7c2d-c44d-493d-ba9e-da7e8c8e53dc",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "carcinomas",
+                "id": "d8b7e3c9-1b94-4c4a-a136-7b61568ea78b",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "head",
+                "id": "6a23c220-d373-49b3-8be1-9dbbc69412c1",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "neck",
+                "id": "278bd74e-2156-48c8-9ebc-93ccb79d3a45",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "09d157c6-97b8-4910-88cd-e617a756de6d",
+                "nodeTo": "77dd1807-3764-49d7-b0ea-bc884ab1b943",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "77dd1807-3764-49d7-b0ea-bc884ab1b943",
+                "nodeTo": "2ce3c440-3e86-40d6-9b8b-aaac6a7ea596",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "77dd1807-3764-49d7-b0ea-bc884ab1b943",
+                "nodeTo": "0e235b34-6195-4b9b-a8a8-ee8acb1ee28e",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "77dd1807-3764-49d7-b0ea-bc884ab1b943",
+                "nodeTo": "9ac31a0d-512e-4462-9e2a-78397e81d1c2",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "77dd1807-3764-49d7-b0ea-bc884ab1b943",
+                "nodeTo": "cc9b7c2d-c44d-493d-ba9e-da7e8c8e53dc",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "77dd1807-3764-49d7-b0ea-bc884ab1b943",
+                "nodeTo": "d8b7e3c9-1b94-4c4a-a136-7b61568ea78b",
+                "index": 5,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2ce3c440-3e86-40d6-9b8b-aaac6a7ea596",
+                "nodeTo": "d9e7ed13-44c7-4457-8140-bde1373c2023",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0e235b34-6195-4b9b-a8a8-ee8acb1ee28e",
+                "nodeTo": "d9e7ed13-44c7-4457-8140-bde1373c2023",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9ac31a0d-512e-4462-9e2a-78397e81d1c2",
+                "nodeTo": "d9e7ed13-44c7-4457-8140-bde1373c2023",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cc9b7c2d-c44d-493d-ba9e-da7e8c8e53dc",
+                "nodeTo": "d9e7ed13-44c7-4457-8140-bde1373c2023",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d8b7e3c9-1b94-4c4a-a136-7b61568ea78b",
+                "nodeTo": "d9e7ed13-44c7-4457-8140-bde1373c2023",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d9e7ed13-44c7-4457-8140-bde1373c2023",
+                "nodeTo": "6a23c220-d373-49b3-8be1-9dbbc69412c1",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d9e7ed13-44c7-4457-8140-bde1373c2023",
+                "nodeTo": "278bd74e-2156-48c8-9ebc-93ccb79d3a45",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-07 21:22:55"
+}

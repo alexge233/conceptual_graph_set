@@ -1,0 +1,118 @@
+{
+    "uuid": 849,
+    "text": "Cancers potential on-off switch linked to epigenetics",
+    "graph": {
+        "version": 1,
+        "guid": "28e23699-56c9-4068-89e1-676a495391d3",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "linked",
+                "id": "1ac6d54d-d0c2-47ec-93c8-092a26645d27",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "42730991-bd9d-453c-acd0-43aee7215373",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Cancers",
+                "id": "aad03c92-7042-43ba-a730-64e8e087894c",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "potential",
+                "id": "b33d242d-6900-4379-8c31-04bbc72d4c8b",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "on-off",
+                "id": "20d6e2ba-3c85-46c1-8315-3951956a8ca1",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "switch",
+                "id": "472e6441-29da-4d96-9b08-aad56e052bec",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "epigenetics",
+                "id": "b78653b8-3c22-4c5e-9048-e00b659de8e3",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "aad03c92-7042-43ba-a730-64e8e087894c",
+                "nodeTo": "1ac6d54d-d0c2-47ec-93c8-092a26645d27",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b33d242d-6900-4379-8c31-04bbc72d4c8b",
+                "nodeTo": "1ac6d54d-d0c2-47ec-93c8-092a26645d27",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "20d6e2ba-3c85-46c1-8315-3951956a8ca1",
+                "nodeTo": "1ac6d54d-d0c2-47ec-93c8-092a26645d27",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "472e6441-29da-4d96-9b08-aad56e052bec",
+                "nodeTo": "1ac6d54d-d0c2-47ec-93c8-092a26645d27",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "aad03c92-7042-43ba-a730-64e8e087894c",
+                "nodeTo": "42730991-bd9d-453c-acd0-43aee7215373",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b33d242d-6900-4379-8c31-04bbc72d4c8b",
+                "nodeTo": "42730991-bd9d-453c-acd0-43aee7215373",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "20d6e2ba-3c85-46c1-8315-3951956a8ca1",
+                "nodeTo": "42730991-bd9d-453c-acd0-43aee7215373",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "472e6441-29da-4d96-9b08-aad56e052bec",
+                "nodeTo": "42730991-bd9d-453c-acd0-43aee7215373",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1ac6d54d-d0c2-47ec-93c8-092a26645d27",
+                "nodeTo": "b78653b8-3c22-4c5e-9048-e00b659de8e3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "42730991-bd9d-453c-acd0-43aee7215373",
+                "nodeTo": "b78653b8-3c22-4c5e-9048-e00b659de8e3",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-19 13:03:35"
+}

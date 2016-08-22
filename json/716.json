@@ -1,0 +1,268 @@
+{
+    "uuid": 716,
+    "text": "biomedical engineering breakthrough could speed soft tissue injury recovery and limit disfigurement from radical cancer surgeries",
+    "graph": {
+        "version": 1,
+        "guid": "b0b1da9a-4012-4ed9-8140-8added7e3b23",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "could",
+                "id": "d47d9e20-5dc3-475e-b966-d02da0e6cab5",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "speed",
+                "id": "2581a0d0-9573-4d70-8c63-52ae0c848b5c",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "ee8c6ee3-a1e7-41e2-a0cb-969e5b6c69b5",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "limit",
+                "id": "a58b497c-8c26-4044-b7ed-3e7272b540b2",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "from",
+                "id": "0e9274ed-99b3-4c8b-bc2d-7c427a26b18b",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "biomedical",
+                "id": "73c643a7-2650-488c-8b3b-926e26c2d68c",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "engineering",
+                "id": "98bd7549-3728-45d1-8d65-31b45de9b9c0",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "breakthrough",
+                "id": "7c7d1011-1e38-4ac4-9d39-589a06715386",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "soft",
+                "id": "46de6bc4-10cc-4808-9e63-144474e7451b",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "tissue",
+                "id": "56013388-6130-4b88-a486-e3cdae453b7d",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "injury",
+                "id": "ad39a9db-5587-4407-a0ea-2176e288a73a",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "recovery",
+                "id": "47076786-6462-45ea-b0c5-35da12541426",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "disfigurement",
+                "id": "4bcb1c94-7538-4395-9900-30d79172d62d",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "radical",
+                "id": "15a1d2d8-4b6b-4215-8b56-83a43d91c729",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "cancer",
+                "id": "1b96103d-d1d1-4d7d-8a66-3ee627855d75",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "surgeries",
+                "id": "22bbc01b-3091-4025-ae64-152375be7eda",
+                "index": 15,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "73c643a7-2650-488c-8b3b-926e26c2d68c",
+                "nodeTo": "d47d9e20-5dc3-475e-b966-d02da0e6cab5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "73c643a7-2650-488c-8b3b-926e26c2d68c",
+                "nodeTo": "2581a0d0-9573-4d70-8c63-52ae0c848b5c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "98bd7549-3728-45d1-8d65-31b45de9b9c0",
+                "nodeTo": "d47d9e20-5dc3-475e-b966-d02da0e6cab5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "98bd7549-3728-45d1-8d65-31b45de9b9c0",
+                "nodeTo": "2581a0d0-9573-4d70-8c63-52ae0c848b5c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7c7d1011-1e38-4ac4-9d39-589a06715386",
+                "nodeTo": "d47d9e20-5dc3-475e-b966-d02da0e6cab5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7c7d1011-1e38-4ac4-9d39-589a06715386",
+                "nodeTo": "2581a0d0-9573-4d70-8c63-52ae0c848b5c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d47d9e20-5dc3-475e-b966-d02da0e6cab5",
+                "nodeTo": "46de6bc4-10cc-4808-9e63-144474e7451b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d47d9e20-5dc3-475e-b966-d02da0e6cab5",
+                "nodeTo": "56013388-6130-4b88-a486-e3cdae453b7d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d47d9e20-5dc3-475e-b966-d02da0e6cab5",
+                "nodeTo": "ad39a9db-5587-4407-a0ea-2176e288a73a",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d47d9e20-5dc3-475e-b966-d02da0e6cab5",
+                "nodeTo": "47076786-6462-45ea-b0c5-35da12541426",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2581a0d0-9573-4d70-8c63-52ae0c848b5c",
+                "nodeTo": "46de6bc4-10cc-4808-9e63-144474e7451b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2581a0d0-9573-4d70-8c63-52ae0c848b5c",
+                "nodeTo": "56013388-6130-4b88-a486-e3cdae453b7d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2581a0d0-9573-4d70-8c63-52ae0c848b5c",
+                "nodeTo": "ad39a9db-5587-4407-a0ea-2176e288a73a",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2581a0d0-9573-4d70-8c63-52ae0c848b5c",
+                "nodeTo": "47076786-6462-45ea-b0c5-35da12541426",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "73c643a7-2650-488c-8b3b-926e26c2d68c",
+                "nodeTo": "ee8c6ee3-a1e7-41e2-a0cb-969e5b6c69b5",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "98bd7549-3728-45d1-8d65-31b45de9b9c0",
+                "nodeTo": "ee8c6ee3-a1e7-41e2-a0cb-969e5b6c69b5",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7c7d1011-1e38-4ac4-9d39-589a06715386",
+                "nodeTo": "ee8c6ee3-a1e7-41e2-a0cb-969e5b6c69b5",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "73c643a7-2650-488c-8b3b-926e26c2d68c",
+                "nodeTo": "a58b497c-8c26-4044-b7ed-3e7272b540b2",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "98bd7549-3728-45d1-8d65-31b45de9b9c0",
+                "nodeTo": "a58b497c-8c26-4044-b7ed-3e7272b540b2",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7c7d1011-1e38-4ac4-9d39-589a06715386",
+                "nodeTo": "a58b497c-8c26-4044-b7ed-3e7272b540b2",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ee8c6ee3-a1e7-41e2-a0cb-969e5b6c69b5",
+                "nodeTo": "4bcb1c94-7538-4395-9900-30d79172d62d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a58b497c-8c26-4044-b7ed-3e7272b540b2",
+                "nodeTo": "4bcb1c94-7538-4395-9900-30d79172d62d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4bcb1c94-7538-4395-9900-30d79172d62d",
+                "nodeTo": "0e9274ed-99b3-4c8b-bc2d-7c427a26b18b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0e9274ed-99b3-4c8b-bc2d-7c427a26b18b",
+                "nodeTo": "15a1d2d8-4b6b-4215-8b56-83a43d91c729",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0e9274ed-99b3-4c8b-bc2d-7c427a26b18b",
+                "nodeTo": "1b96103d-d1d1-4d7d-8a66-3ee627855d75",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0e9274ed-99b3-4c8b-bc2d-7c427a26b18b",
+                "nodeTo": "22bbc01b-3091-4025-ae64-152375be7eda",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-12 18:36:42"
+}

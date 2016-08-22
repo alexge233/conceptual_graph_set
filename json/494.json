@@ -1,0 +1,166 @@
+{
+    "uuid": 494,
+    "text": "findings could form basis for test to diagnose disease in early stages",
+    "graph": {
+        "version": 1,
+        "guid": "2b232583-4eab-4ad8-969a-82a4031b3714",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "could",
+                "id": "3181e4ad-d62e-498d-8d3b-ca0179920263",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "form",
+                "id": "c4ed12d0-69b7-40ba-8ed0-6ed62359d96a",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "597c5803-6a3d-4eb6-858c-986cea059beb",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "77978941-d8a4-46da-b84b-be6b93163429",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "diagnose",
+                "id": "cc2b49c7-c01e-4cd7-a469-52350d99d00e",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "29aa8cca-bb5b-4672-8917-16769234935b",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "findings",
+                "id": "47c50abd-e4b3-4501-a0e3-4b9e0c632381",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "basis",
+                "id": "b51dac00-a3ec-4725-b07a-2087d9d3194c",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "test",
+                "id": "8682db4c-b882-4a95-900e-866a3d616d75",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "disease",
+                "id": "8d81b794-6c06-4c81-ae09-74b14db54710",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "early",
+                "id": "c0b940b1-e362-4c36-ab92-976346d4b844",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "stages",
+                "id": "118605dc-c6a4-4167-a98c-8611da711d30",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "47c50abd-e4b3-4501-a0e3-4b9e0c632381",
+                "nodeTo": "3181e4ad-d62e-498d-8d3b-ca0179920263",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "47c50abd-e4b3-4501-a0e3-4b9e0c632381",
+                "nodeTo": "c4ed12d0-69b7-40ba-8ed0-6ed62359d96a",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3181e4ad-d62e-498d-8d3b-ca0179920263",
+                "nodeTo": "b51dac00-a3ec-4725-b07a-2087d9d3194c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c4ed12d0-69b7-40ba-8ed0-6ed62359d96a",
+                "nodeTo": "b51dac00-a3ec-4725-b07a-2087d9d3194c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b51dac00-a3ec-4725-b07a-2087d9d3194c",
+                "nodeTo": "597c5803-6a3d-4eb6-858c-986cea059beb",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "597c5803-6a3d-4eb6-858c-986cea059beb",
+                "nodeTo": "8682db4c-b882-4a95-900e-866a3d616d75",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8682db4c-b882-4a95-900e-866a3d616d75",
+                "nodeTo": "77978941-d8a4-46da-b84b-be6b93163429",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8682db4c-b882-4a95-900e-866a3d616d75",
+                "nodeTo": "cc2b49c7-c01e-4cd7-a469-52350d99d00e",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "77978941-d8a4-46da-b84b-be6b93163429",
+                "nodeTo": "8d81b794-6c06-4c81-ae09-74b14db54710",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "cc2b49c7-c01e-4cd7-a469-52350d99d00e",
+                "nodeTo": "8d81b794-6c06-4c81-ae09-74b14db54710",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8d81b794-6c06-4c81-ae09-74b14db54710",
+                "nodeTo": "29aa8cca-bb5b-4672-8917-16769234935b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "29aa8cca-bb5b-4672-8917-16769234935b",
+                "nodeTo": "c0b940b1-e362-4c36-ab92-976346d4b844",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "29aa8cca-bb5b-4672-8917-16769234935b",
+                "nodeTo": "118605dc-c6a4-4167-a98c-8611da711d30",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-19 14:55:32"
+}

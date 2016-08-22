@@ -1,0 +1,166 @@
+{
+    "uuid": 516,
+    "text": "When it comes to detecting lies you should trust your instinct",
+    "graph": {
+        "version": 1,
+        "guid": "1552ab2e-6a68-47c8-88ad-86e7d2e2d951",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "When",
+                "id": "a7a5106d-16da-4236-a27d-e15dccb0b3b6",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "comes",
+                "id": "710eea70-5aa4-414d-baa7-83a11be92279",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "87a07b9c-7b79-4836-b866-584e898642e7",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "detecting",
+                "id": "c08272bb-3c7c-46ad-8293-495cc31792d1",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "should",
+                "id": "37b14c4c-7c00-4870-95ee-6d7add721d0a",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "trust",
+                "id": "a222e055-e028-46ea-93a0-0db5b41d9268",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "it",
+                "id": "c48981cb-6395-4250-ae4c-c712624e6185",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "lies",
+                "id": "9160779d-e585-41dd-8324-69cca3c76d8e",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "you",
+                "id": "dcac7b09-2e70-4545-abda-3c7ddc4e2c10",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "your",
+                "id": "1b93a08e-0b20-4a27-8a2d-bba2708a40b3",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "instinct",
+                "id": "822c7a5c-6733-4be0-8eb2-c8394c668671",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "a7a5106d-16da-4236-a27d-e15dccb0b3b6",
+                "nodeTo": "c48981cb-6395-4250-ae4c-c712624e6185",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c48981cb-6395-4250-ae4c-c712624e6185",
+                "nodeTo": "710eea70-5aa4-414d-baa7-83a11be92279",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c48981cb-6395-4250-ae4c-c712624e6185",
+                "nodeTo": "87a07b9c-7b79-4836-b866-584e898642e7",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c48981cb-6395-4250-ae4c-c712624e6185",
+                "nodeTo": "c08272bb-3c7c-46ad-8293-495cc31792d1",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "87a07b9c-7b79-4836-b866-584e898642e7",
+                "nodeTo": "9160779d-e585-41dd-8324-69cca3c76d8e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c08272bb-3c7c-46ad-8293-495cc31792d1",
+                "nodeTo": "9160779d-e585-41dd-8324-69cca3c76d8e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "710eea70-5aa4-414d-baa7-83a11be92279",
+                "nodeTo": "9160779d-e585-41dd-8324-69cca3c76d8e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a7a5106d-16da-4236-a27d-e15dccb0b3b6",
+                "nodeTo": "dcac7b09-2e70-4545-abda-3c7ddc4e2c10",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "dcac7b09-2e70-4545-abda-3c7ddc4e2c10",
+                "nodeTo": "37b14c4c-7c00-4870-95ee-6d7add721d0a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "dcac7b09-2e70-4545-abda-3c7ddc4e2c10",
+                "nodeTo": "a222e055-e028-46ea-93a0-0db5b41d9268",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "37b14c4c-7c00-4870-95ee-6d7add721d0a",
+                "nodeTo": "1b93a08e-0b20-4a27-8a2d-bba2708a40b3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "37b14c4c-7c00-4870-95ee-6d7add721d0a",
+                "nodeTo": "822c7a5c-6733-4be0-8eb2-c8394c668671",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a222e055-e028-46ea-93a0-0db5b41d9268",
+                "nodeTo": "1b93a08e-0b20-4a27-8a2d-bba2708a40b3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a222e055-e028-46ea-93a0-0db5b41d9268",
+                "nodeTo": "822c7a5c-6733-4be0-8eb2-c8394c668671",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-23 19:39:53"
+}

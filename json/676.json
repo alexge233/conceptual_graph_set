@@ -1,0 +1,166 @@
+{
+    "uuid": 676,
+    "text": "brain changes associated with casual marijuana use in young adults",
+    "graph": {
+        "version": 1,
+        "guid": "4b05ca5c-674e-4e06-9be6-b375790611a3",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "associated",
+                "id": "2825aa89-3c4a-49aa-8db3-ace4dad05ecd",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "with",
+                "id": "51b1b0d8-d006-45d9-b793-7b01711a814d",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "e169c389-73c4-4524-a374-a281adbcb24c",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "brain",
+                "id": "661e6aeb-e01e-4ce9-bcd9-99124ed05198",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "changes",
+                "id": "27555256-c911-4d99-bc0a-032a9a4ab619",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "casual",
+                "id": "e26b0b35-70ca-4977-b6a4-c505b3809c97",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "marijuana",
+                "id": "b82b8200-60bb-463a-86d5-8951e18a3448",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "use",
+                "id": "3c57ee5e-7ddb-4cd2-ab7a-9ea43b7d4545",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "young",
+                "id": "de3ddca4-257d-4384-8a63-17dc3e496ee0",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "adults",
+                "id": "66295189-ad56-48ea-b921-e727e75ad2c1",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "661e6aeb-e01e-4ce9-bcd9-99124ed05198",
+                "nodeTo": "2825aa89-3c4a-49aa-8db3-ace4dad05ecd",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "27555256-c911-4d99-bc0a-032a9a4ab619",
+                "nodeTo": "2825aa89-3c4a-49aa-8db3-ace4dad05ecd",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "661e6aeb-e01e-4ce9-bcd9-99124ed05198",
+                "nodeTo": "51b1b0d8-d006-45d9-b793-7b01711a814d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "27555256-c911-4d99-bc0a-032a9a4ab619",
+                "nodeTo": "51b1b0d8-d006-45d9-b793-7b01711a814d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2825aa89-3c4a-49aa-8db3-ace4dad05ecd",
+                "nodeTo": "e26b0b35-70ca-4977-b6a4-c505b3809c97",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "51b1b0d8-d006-45d9-b793-7b01711a814d",
+                "nodeTo": "e26b0b35-70ca-4977-b6a4-c505b3809c97",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2825aa89-3c4a-49aa-8db3-ace4dad05ecd",
+                "nodeTo": "b82b8200-60bb-463a-86d5-8951e18a3448",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "51b1b0d8-d006-45d9-b793-7b01711a814d",
+                "nodeTo": "b82b8200-60bb-463a-86d5-8951e18a3448",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2825aa89-3c4a-49aa-8db3-ace4dad05ecd",
+                "nodeTo": "3c57ee5e-7ddb-4cd2-ab7a-9ea43b7d4545",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "51b1b0d8-d006-45d9-b793-7b01711a814d",
+                "nodeTo": "3c57ee5e-7ddb-4cd2-ab7a-9ea43b7d4545",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e26b0b35-70ca-4977-b6a4-c505b3809c97",
+                "nodeTo": "e169c389-73c4-4524-a374-a281adbcb24c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b82b8200-60bb-463a-86d5-8951e18a3448",
+                "nodeTo": "e169c389-73c4-4524-a374-a281adbcb24c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3c57ee5e-7ddb-4cd2-ab7a-9ea43b7d4545",
+                "nodeTo": "e169c389-73c4-4524-a374-a281adbcb24c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e169c389-73c4-4524-a374-a281adbcb24c",
+                "nodeTo": "de3ddca4-257d-4384-8a63-17dc3e496ee0",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e169c389-73c4-4524-a374-a281adbcb24c",
+                "nodeTo": "66295189-ad56-48ea-b921-e727e75ad2c1",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-09 20:59:40"
+}

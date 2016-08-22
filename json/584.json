@@ -1,0 +1,166 @@
+{
+    "uuid": 584,
+    "text": "They do so through finely tuned means of communication",
+    "graph": {
+        "version": 1,
+        "guid": "ed79ac60-7320-4e1e-8d27-06564080e013",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "do",
+                "id": "cc220051-8e34-4a9e-bdb6-49784e0ab47e",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "so",
+                "id": "1d675753-dc22-4329-91b4-34e64170dc59",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "through",
+                "id": "b614a7ec-b53e-41e1-8e86-293b2950150e",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "b17b2385-7492-4108-ad9b-eb7c8d12b0ba",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "They",
+                "id": "cb39dbbe-aed6-43a2-9474-47ec59b0c641",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "finely",
+                "id": "36d29294-6695-421b-b098-76936b32aed7",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "tuned",
+                "id": "15161d40-4329-4eaa-9a45-86335be36bd2",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "means",
+                "id": "b7a6190d-d215-4eec-b078-6c727d5903dd",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "communication",
+                "id": "8aa8b45c-e408-472a-9e90-4e05738449d2",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "cb39dbbe-aed6-43a2-9474-47ec59b0c641",
+                "nodeTo": "cc220051-8e34-4a9e-bdb6-49784e0ab47e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cb39dbbe-aed6-43a2-9474-47ec59b0c641",
+                "nodeTo": "1d675753-dc22-4329-91b4-34e64170dc59",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cb39dbbe-aed6-43a2-9474-47ec59b0c641",
+                "nodeTo": "b614a7ec-b53e-41e1-8e86-293b2950150e",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cc220051-8e34-4a9e-bdb6-49784e0ab47e",
+                "nodeTo": "36d29294-6695-421b-b098-76936b32aed7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "cc220051-8e34-4a9e-bdb6-49784e0ab47e",
+                "nodeTo": "15161d40-4329-4eaa-9a45-86335be36bd2",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "cc220051-8e34-4a9e-bdb6-49784e0ab47e",
+                "nodeTo": "b7a6190d-d215-4eec-b078-6c727d5903dd",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1d675753-dc22-4329-91b4-34e64170dc59",
+                "nodeTo": "36d29294-6695-421b-b098-76936b32aed7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1d675753-dc22-4329-91b4-34e64170dc59",
+                "nodeTo": "15161d40-4329-4eaa-9a45-86335be36bd2",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1d675753-dc22-4329-91b4-34e64170dc59",
+                "nodeTo": "b7a6190d-d215-4eec-b078-6c727d5903dd",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b614a7ec-b53e-41e1-8e86-293b2950150e",
+                "nodeTo": "36d29294-6695-421b-b098-76936b32aed7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b614a7ec-b53e-41e1-8e86-293b2950150e",
+                "nodeTo": "15161d40-4329-4eaa-9a45-86335be36bd2",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b614a7ec-b53e-41e1-8e86-293b2950150e",
+                "nodeTo": "b7a6190d-d215-4eec-b078-6c727d5903dd",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "36d29294-6695-421b-b098-76936b32aed7",
+                "nodeTo": "b17b2385-7492-4108-ad9b-eb7c8d12b0ba",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "15161d40-4329-4eaa-9a45-86335be36bd2",
+                "nodeTo": "b17b2385-7492-4108-ad9b-eb7c8d12b0ba",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b7a6190d-d215-4eec-b078-6c727d5903dd",
+                "nodeTo": "b17b2385-7492-4108-ad9b-eb7c8d12b0ba",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b17b2385-7492-4108-ad9b-eb7c8d12b0ba",
+                "nodeTo": "8aa8b45c-e408-472a-9e90-4e05738449d2",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-07 20:29:37"
+}

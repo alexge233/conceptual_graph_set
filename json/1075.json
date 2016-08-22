@@ -1,0 +1,352 @@
+{
+    "uuid": 1075,
+    "text": "rogue bits of DNA spin off copy of themselves and jump to another DNA location often causing harmful mutations",
+    "graph": {
+        "version": 1,
+        "guid": "5ccc6619-155d-4aad-b39a-b88dc3d755b0",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "of",
+                "id": "e0ea0235-4841-49cb-8939-97808b5a59c8",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "spin",
+                "id": "c2225215-a743-4b26-adca-4234c9e54634",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "off",
+                "id": "d375a72b-3b9c-484b-a957-3e29134a0b0c",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "2a4e3782-489b-45a7-ab0b-e464c27a169d",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "81c7c561-a241-421e-9b55-4a2760939706",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "jump",
+                "id": "481e3848-78a6-4b76-a4e6-80eca657e837",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "5a202d87-259e-4577-b509-34d021d9c891",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "often",
+                "id": "0734342b-b347-4a78-8270-72b3ca6e3222",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "causing",
+                "id": "cddae791-422c-41dd-b77d-4a2101c1e75b",
+                "index": 16,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "rogue",
+                "id": "0a07b195-b349-41e4-a5d0-e2d76aa96024",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "bits",
+                "id": "d7233c3b-28e7-4358-950e-0c5cb988a453",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "DNA",
+                "id": "57e979d8-4c93-4a57-9c5a-4582917dcb3c",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "copy",
+                "id": "95a50b54-72a8-4555-b26d-032ee23a8551",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "themselves",
+                "id": "d0721261-3685-4e0c-b241-5672a4c69bc5",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "another",
+                "id": "1b2e1ba3-036e-4b03-ac8b-305678d4cd16",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "DNA",
+                "id": "c7d72a4e-63b8-4305-a574-2a88a796c69c",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "location",
+                "id": "0a008748-a2a5-46a7-b53c-b9ac61420c8b",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "harmful",
+                "id": "01139222-d8e6-44c5-82b6-bad7027453c4",
+                "index": 17,
+                "postag": "NA"
+            },
+            {
+                "label": "mutations",
+                "id": "60c140ba-8d38-4a97-9ed4-cee195ede51a",
+                "index": 18,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "0a07b195-b349-41e4-a5d0-e2d76aa96024",
+                "nodeTo": "e0ea0235-4841-49cb-8939-97808b5a59c8",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d7233c3b-28e7-4358-950e-0c5cb988a453",
+                "nodeTo": "e0ea0235-4841-49cb-8939-97808b5a59c8",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e0ea0235-4841-49cb-8939-97808b5a59c8",
+                "nodeTo": "57e979d8-4c93-4a57-9c5a-4582917dcb3c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0a07b195-b349-41e4-a5d0-e2d76aa96024",
+                "nodeTo": "c2225215-a743-4b26-adca-4234c9e54634",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d7233c3b-28e7-4358-950e-0c5cb988a453",
+                "nodeTo": "c2225215-a743-4b26-adca-4234c9e54634",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0a07b195-b349-41e4-a5d0-e2d76aa96024",
+                "nodeTo": "d375a72b-3b9c-484b-a957-3e29134a0b0c",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d7233c3b-28e7-4358-950e-0c5cb988a453",
+                "nodeTo": "d375a72b-3b9c-484b-a957-3e29134a0b0c",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c2225215-a743-4b26-adca-4234c9e54634",
+                "nodeTo": "95a50b54-72a8-4555-b26d-032ee23a8551",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d375a72b-3b9c-484b-a957-3e29134a0b0c",
+                "nodeTo": "95a50b54-72a8-4555-b26d-032ee23a8551",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "95a50b54-72a8-4555-b26d-032ee23a8551",
+                "nodeTo": "2a4e3782-489b-45a7-ab0b-e464c27a169d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2a4e3782-489b-45a7-ab0b-e464c27a169d",
+                "nodeTo": "d0721261-3685-4e0c-b241-5672a4c69bc5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0a07b195-b349-41e4-a5d0-e2d76aa96024",
+                "nodeTo": "81c7c561-a241-421e-9b55-4a2760939706",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d7233c3b-28e7-4358-950e-0c5cb988a453",
+                "nodeTo": "81c7c561-a241-421e-9b55-4a2760939706",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "81c7c561-a241-421e-9b55-4a2760939706",
+                "nodeTo": "95a50b54-72a8-4555-b26d-032ee23a8551",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0a07b195-b349-41e4-a5d0-e2d76aa96024",
+                "nodeTo": "481e3848-78a6-4b76-a4e6-80eca657e837",
+                "index": 5,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d7233c3b-28e7-4358-950e-0c5cb988a453",
+                "nodeTo": "481e3848-78a6-4b76-a4e6-80eca657e837",
+                "index": 5,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0a07b195-b349-41e4-a5d0-e2d76aa96024",
+                "nodeTo": "5a202d87-259e-4577-b509-34d021d9c891",
+                "index": 6,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d7233c3b-28e7-4358-950e-0c5cb988a453",
+                "nodeTo": "5a202d87-259e-4577-b509-34d021d9c891",
+                "index": 6,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "81c7c561-a241-421e-9b55-4a2760939706",
+                "nodeTo": "1b2e1ba3-036e-4b03-ac8b-305678d4cd16",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "481e3848-78a6-4b76-a4e6-80eca657e837",
+                "nodeTo": "1b2e1ba3-036e-4b03-ac8b-305678d4cd16",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5a202d87-259e-4577-b509-34d021d9c891",
+                "nodeTo": "1b2e1ba3-036e-4b03-ac8b-305678d4cd16",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "81c7c561-a241-421e-9b55-4a2760939706",
+                "nodeTo": "c7d72a4e-63b8-4305-a574-2a88a796c69c",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "481e3848-78a6-4b76-a4e6-80eca657e837",
+                "nodeTo": "c7d72a4e-63b8-4305-a574-2a88a796c69c",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5a202d87-259e-4577-b509-34d021d9c891",
+                "nodeTo": "c7d72a4e-63b8-4305-a574-2a88a796c69c",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "81c7c561-a241-421e-9b55-4a2760939706",
+                "nodeTo": "0a008748-a2a5-46a7-b53c-b9ac61420c8b",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "481e3848-78a6-4b76-a4e6-80eca657e837",
+                "nodeTo": "0a008748-a2a5-46a7-b53c-b9ac61420c8b",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5a202d87-259e-4577-b509-34d021d9c891",
+                "nodeTo": "0a008748-a2a5-46a7-b53c-b9ac61420c8b",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1b2e1ba3-036e-4b03-ac8b-305678d4cd16",
+                "nodeTo": "0734342b-b347-4a78-8270-72b3ca6e3222",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c7d72a4e-63b8-4305-a574-2a88a796c69c",
+                "nodeTo": "0734342b-b347-4a78-8270-72b3ca6e3222",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0a008748-a2a5-46a7-b53c-b9ac61420c8b",
+                "nodeTo": "0734342b-b347-4a78-8270-72b3ca6e3222",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1b2e1ba3-036e-4b03-ac8b-305678d4cd16",
+                "nodeTo": "cddae791-422c-41dd-b77d-4a2101c1e75b",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c7d72a4e-63b8-4305-a574-2a88a796c69c",
+                "nodeTo": "cddae791-422c-41dd-b77d-4a2101c1e75b",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0a008748-a2a5-46a7-b53c-b9ac61420c8b",
+                "nodeTo": "cddae791-422c-41dd-b77d-4a2101c1e75b",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0734342b-b347-4a78-8270-72b3ca6e3222",
+                "nodeTo": "01139222-d8e6-44c5-82b6-bad7027453c4",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "cddae791-422c-41dd-b77d-4a2101c1e75b",
+                "nodeTo": "01139222-d8e6-44c5-82b6-bad7027453c4",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0734342b-b347-4a78-8270-72b3ca6e3222",
+                "nodeTo": "60c140ba-8d38-4a97-9ed4-cee195ede51a",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "cddae791-422c-41dd-b77d-4a2101c1e75b",
+                "nodeTo": "60c140ba-8d38-4a97-9ed4-cee195ede51a",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-05 19:57:27"
+}

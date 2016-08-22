@@ -1,0 +1,190 @@
+{
+    "uuid": 241,
+    "text": "new study determines that transcription factor SLUG plays role in regulating stem cell function",
+    "graph": {
+        "version": 1,
+        "guid": "d05217ee-5611-4d71-b939-a7932ea0a63a",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "determines",
+                "id": "182dc10e-6c74-44dc-ae36-c5a398b9cd95",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "plays",
+                "id": "70b0d0bd-7c42-47a5-b3bb-4dd61d23c401",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "1972aaab-c199-4b69-81db-3736d265ad3a",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "regulating",
+                "id": "7da79727-2b44-4a4e-aed1-02d793c7ee52",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "new",
+                "id": "98b8c78d-c9cc-4da9-ab41-71ca1e91e95b",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "study",
+                "id": "e118664e-247a-4790-8214-a542c46d39d7",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "that",
+                "id": "e402a1e5-d87a-41cb-b717-ba83ac949ce0",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "transcription",
+                "id": "841e52ad-49dc-4407-801e-671362c0d811",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "factor",
+                "id": "6bb90167-0b89-4b25-9866-7d8e0b8d68b0",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "SLUG",
+                "id": "b82c5491-ae4b-4b8b-8294-061eb37e625e",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "role",
+                "id": "1700bd16-a602-4ca5-a921-cdc51cda2010",
+                "postag": "NA",
+                "index": 8
+            },
+            {
+                "label": "stem",
+                "id": "4bcbe69a-e11d-47ca-bbcc-1d156a710585",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "cell",
+                "id": "d525d1da-8b1b-4de2-b939-38edebade46e",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "function",
+                "id": "14777c44-083d-4db4-9172-cd7a42515ec7",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "98b8c78d-c9cc-4da9-ab41-71ca1e91e95b",
+                "nodeTo": "182dc10e-6c74-44dc-ae36-c5a398b9cd95",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e118664e-247a-4790-8214-a542c46d39d7",
+                "nodeTo": "182dc10e-6c74-44dc-ae36-c5a398b9cd95",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "182dc10e-6c74-44dc-ae36-c5a398b9cd95",
+                "nodeTo": "e402a1e5-d87a-41cb-b717-ba83ac949ce0",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "182dc10e-6c74-44dc-ae36-c5a398b9cd95",
+                "nodeTo": "841e52ad-49dc-4407-801e-671362c0d811",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "182dc10e-6c74-44dc-ae36-c5a398b9cd95",
+                "nodeTo": "6bb90167-0b89-4b25-9866-7d8e0b8d68b0",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "182dc10e-6c74-44dc-ae36-c5a398b9cd95",
+                "nodeTo": "b82c5491-ae4b-4b8b-8294-061eb37e625e",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "841e52ad-49dc-4407-801e-671362c0d811",
+                "nodeTo": "70b0d0bd-7c42-47a5-b3bb-4dd61d23c401",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6bb90167-0b89-4b25-9866-7d8e0b8d68b0",
+                "nodeTo": "70b0d0bd-7c42-47a5-b3bb-4dd61d23c401",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b82c5491-ae4b-4b8b-8294-061eb37e625e",
+                "nodeTo": "70b0d0bd-7c42-47a5-b3bb-4dd61d23c401",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "70b0d0bd-7c42-47a5-b3bb-4dd61d23c401",
+                "nodeTo": "1700bd16-a602-4ca5-a921-cdc51cda2010",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1700bd16-a602-4ca5-a921-cdc51cda2010",
+                "nodeTo": "1972aaab-c199-4b69-81db-3736d265ad3a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1700bd16-a602-4ca5-a921-cdc51cda2010",
+                "nodeTo": "7da79727-2b44-4a4e-aed1-02d793c7ee52",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7da79727-2b44-4a4e-aed1-02d793c7ee52",
+                "nodeTo": "4bcbe69a-e11d-47ca-bbcc-1d156a710585",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7da79727-2b44-4a4e-aed1-02d793c7ee52",
+                "nodeTo": "d525d1da-8b1b-4de2-b939-38edebade46e",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7da79727-2b44-4a4e-aed1-02d793c7ee52",
+                "nodeTo": "14777c44-083d-4db4-9172-cd7a42515ec7",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-01 16:20:50"
+}

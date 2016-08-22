@@ -1,0 +1,106 @@
+{
+    "uuid": 294,
+    "text": "Benefits of Trastuzumab Herceptin outweigh risk of harm",
+    "graph": {
+        "version": 1,
+        "guid": "75e0c242-31ba-4180-956d-d23d846e8190",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "of",
+                "id": "7acc1b70-b69c-4b62-9900-1c418c360891",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "outweigh",
+                "id": "d6312ecd-a418-4e29-b9d6-ba6944984e22",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "bbe64bad-dbb2-4e1a-9064-bc7609929d36",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Benefits",
+                "id": "7d6d8352-eca4-46cd-bb64-5d1d8b574827",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "Trastuzumab",
+                "id": "e831594a-d19c-485b-84e6-52a053688831",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "Herceptin",
+                "id": "75c65dcb-a2b1-43a9-85e5-e06bb6b1e1d5",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "risk",
+                "id": "b845b5c0-9595-4de9-9b41-728ed5ba5ce6",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "harm",
+                "id": "b3e8c0d4-0b3e-46b3-b3b6-7ddc11ea1b2a",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "7d6d8352-eca4-46cd-bb64-5d1d8b574827",
+                "nodeTo": "7acc1b70-b69c-4b62-9900-1c418c360891",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7acc1b70-b69c-4b62-9900-1c418c360891",
+                "nodeTo": "e831594a-d19c-485b-84e6-52a053688831",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7acc1b70-b69c-4b62-9900-1c418c360891",
+                "nodeTo": "75c65dcb-a2b1-43a9-85e5-e06bb6b1e1d5",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7d6d8352-eca4-46cd-bb64-5d1d8b574827",
+                "nodeTo": "d6312ecd-a418-4e29-b9d6-ba6944984e22",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d6312ecd-a418-4e29-b9d6-ba6944984e22",
+                "nodeTo": "b845b5c0-9595-4de9-9b41-728ed5ba5ce6",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b845b5c0-9595-4de9-9b41-728ed5ba5ce6",
+                "nodeTo": "bbe64bad-dbb2-4e1a-9064-bc7609929d36",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bbe64bad-dbb2-4e1a-9064-bc7609929d36",
+                "nodeTo": "b3e8c0d4-0b3e-46b3-b3b6-7ddc11ea1b2a",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-04 11:59:40"
+}

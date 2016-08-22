@@ -1,0 +1,166 @@
+{
+    "uuid": 549,
+    "text": "better sleep predicts longer survival time for women with advanced breast cancer",
+    "graph": {
+        "version": 1,
+        "guid": "ee8b71b5-be25-4176-aadc-507d0b86b01e",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "predicts",
+                "id": "620c4d0a-9925-4199-aa4e-4c9bce291902",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "dbb16a6e-bcd6-427a-a03e-b788772e601e",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "with",
+                "id": "b91687c8-b606-4d1c-8b28-1a3214077143",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "better",
+                "id": "36cb6763-ed84-4b35-8b29-1409528c89a9",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "sleep",
+                "id": "085eb166-e706-4156-8917-939c04930445",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "longer",
+                "id": "1d3c7115-2696-4059-89d0-e5bb5b2c2801",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "survival",
+                "id": "d023a364-514e-4912-9c0d-3c5875dc314c",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "time",
+                "id": "32b83a30-b713-4298-8710-c9a99ea24323",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "women",
+                "id": "3e574115-5228-4219-bd3e-516b555a09b0",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "advanced",
+                "id": "ea4035b8-396c-4003-ac36-1820d8ae9543",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "breast",
+                "id": "336076d4-b005-4a51-8764-33594165a32d",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "cancer",
+                "id": "568498a3-cbe9-4893-805a-b20d314a738a",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "36cb6763-ed84-4b35-8b29-1409528c89a9",
+                "nodeTo": "620c4d0a-9925-4199-aa4e-4c9bce291902",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "085eb166-e706-4156-8917-939c04930445",
+                "nodeTo": "620c4d0a-9925-4199-aa4e-4c9bce291902",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "620c4d0a-9925-4199-aa4e-4c9bce291902",
+                "nodeTo": "1d3c7115-2696-4059-89d0-e5bb5b2c2801",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "620c4d0a-9925-4199-aa4e-4c9bce291902",
+                "nodeTo": "d023a364-514e-4912-9c0d-3c5875dc314c",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "620c4d0a-9925-4199-aa4e-4c9bce291902",
+                "nodeTo": "32b83a30-b713-4298-8710-c9a99ea24323",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1d3c7115-2696-4059-89d0-e5bb5b2c2801",
+                "nodeTo": "dbb16a6e-bcd6-427a-a03e-b788772e601e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d023a364-514e-4912-9c0d-3c5875dc314c",
+                "nodeTo": "dbb16a6e-bcd6-427a-a03e-b788772e601e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "32b83a30-b713-4298-8710-c9a99ea24323",
+                "nodeTo": "dbb16a6e-bcd6-427a-a03e-b788772e601e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "dbb16a6e-bcd6-427a-a03e-b788772e601e",
+                "nodeTo": "3e574115-5228-4219-bd3e-516b555a09b0",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3e574115-5228-4219-bd3e-516b555a09b0",
+                "nodeTo": "b91687c8-b606-4d1c-8b28-1a3214077143",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b91687c8-b606-4d1c-8b28-1a3214077143",
+                "nodeTo": "ea4035b8-396c-4003-ac36-1820d8ae9543",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b91687c8-b606-4d1c-8b28-1a3214077143",
+                "nodeTo": "336076d4-b005-4a51-8764-33594165a32d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b91687c8-b606-4d1c-8b28-1a3214077143",
+                "nodeTo": "568498a3-cbe9-4893-805a-b20d314a738a",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-05 19:28:15"
+}

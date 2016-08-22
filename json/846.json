@@ -1,0 +1,106 @@
+{
+    "uuid": 846,
+    "text": "Story of scientist who isolated Epstein Barr virus",
+    "graph": {
+        "version": 1,
+        "guid": "dba0d75c-ccd9-447e-9386-a229ecdd76c5",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "of",
+                "id": "e958a2c2-044b-45e2-a7e4-ce51e9b2619d",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "who",
+                "id": "8ca6982b-aa88-45c5-bc77-709b6932c55e",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "isolated",
+                "id": "66a91ead-3637-4150-ad68-5e2bbd2745c6",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Story",
+                "id": "59e30547-c53e-44a2-abc2-0e45aa8598ac",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "scientist",
+                "id": "b8b16462-7148-4706-8532-59c8d1d3b546",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "Epstein",
+                "id": "cb10a199-0261-475b-8c18-2b3899dc08ce",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "Barr",
+                "id": "353a4434-9e6a-4743-889b-3c3b81eb1581",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "virus",
+                "id": "25c82b04-443d-4708-9976-172757922d93",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "59e30547-c53e-44a2-abc2-0e45aa8598ac",
+                "nodeTo": "e958a2c2-044b-45e2-a7e4-ce51e9b2619d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e958a2c2-044b-45e2-a7e4-ce51e9b2619d",
+                "nodeTo": "b8b16462-7148-4706-8532-59c8d1d3b546",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b8b16462-7148-4706-8532-59c8d1d3b546",
+                "nodeTo": "8ca6982b-aa88-45c5-bc77-709b6932c55e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b8b16462-7148-4706-8532-59c8d1d3b546",
+                "nodeTo": "66a91ead-3637-4150-ad68-5e2bbd2745c6",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "66a91ead-3637-4150-ad68-5e2bbd2745c6",
+                "nodeTo": "cb10a199-0261-475b-8c18-2b3899dc08ce",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "66a91ead-3637-4150-ad68-5e2bbd2745c6",
+                "nodeTo": "353a4434-9e6a-4743-889b-3c3b81eb1581",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "66a91ead-3637-4150-ad68-5e2bbd2745c6",
+                "nodeTo": "25c82b04-443d-4708-9976-172757922d93",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-16 21:07:42"
+}

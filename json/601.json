@@ -1,0 +1,82 @@
+{
+    "uuid": 601,
+    "text": "Black male incarceration can compromise",
+    "graph": {
+        "version": 1,
+        "guid": "7621e53e-0aa3-467b-997a-7bcca44e5257",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "can",
+                "id": "db23e0a9-4418-4a5a-b355-c1141ea80728",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "compromise",
+                "id": "70d89065-ee97-4512-a1d5-b922697ea5b1",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Black",
+                "id": "ade27431-e5e5-40d5-a9e3-b5a36a853d31",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "male",
+                "id": "2d9a4db0-8316-447c-8208-b36e04e7bc00",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "incarceration",
+                "id": "225ba997-60c6-41e4-9aaa-b015e305c00e",
+                "index": 2,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "ade27431-e5e5-40d5-a9e3-b5a36a853d31",
+                "nodeTo": "db23e0a9-4418-4a5a-b355-c1141ea80728",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ade27431-e5e5-40d5-a9e3-b5a36a853d31",
+                "nodeTo": "70d89065-ee97-4512-a1d5-b922697ea5b1",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2d9a4db0-8316-447c-8208-b36e04e7bc00",
+                "nodeTo": "db23e0a9-4418-4a5a-b355-c1141ea80728",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2d9a4db0-8316-447c-8208-b36e04e7bc00",
+                "nodeTo": "70d89065-ee97-4512-a1d5-b922697ea5b1",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "225ba997-60c6-41e4-9aaa-b015e305c00e",
+                "nodeTo": "db23e0a9-4418-4a5a-b355-c1141ea80728",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "225ba997-60c6-41e4-9aaa-b015e305c00e",
+                "nodeTo": "70d89065-ee97-4512-a1d5-b922697ea5b1",
+                "index": 2,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2015-01-08 18:11:27"
+}

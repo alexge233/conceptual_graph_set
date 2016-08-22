@@ -1,0 +1,142 @@
+{
+    "uuid": 495,
+    "text": "Bacteria survive longer in contact lens cleaning solution than previously thought",
+    "graph": {
+        "version": 1,
+        "guid": "ca169392-3a0c-48ad-8659-7214c535b882",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "survive",
+                "id": "dbaa2da7-3a02-4829-9ebe-0b9248e06546",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "4467e444-2ea5-4887-b880-be7e58a3e609",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "than",
+                "id": "0753c324-7561-43d1-835b-367d4eebd575",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Bacteria",
+                "id": "9b08b6a1-3c1d-420d-8158-8a9e57ec55e3",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "longer",
+                "id": "051bd30a-53d7-41b8-aa52-c176c7d0519a",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "contact",
+                "id": "c6624531-2aa7-4689-822e-b5e4518db94d",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "lens",
+                "id": "44e440b0-a726-40d4-a24d-7b7b033739b9",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "cleaning",
+                "id": "acb0b006-305c-49d8-9710-1985764cae19",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "solution",
+                "id": "55a5648e-1e0b-45d0-a931-321204e96bce",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "previously",
+                "id": "c728d317-ec17-4356-aa6c-c66b03d439aa",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "thought",
+                "id": "8c413d67-9025-4ac9-8ae7-0e188be1c01e",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "9b08b6a1-3c1d-420d-8158-8a9e57ec55e3",
+                "nodeTo": "dbaa2da7-3a02-4829-9ebe-0b9248e06546",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "dbaa2da7-3a02-4829-9ebe-0b9248e06546",
+                "nodeTo": "051bd30a-53d7-41b8-aa52-c176c7d0519a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "051bd30a-53d7-41b8-aa52-c176c7d0519a",
+                "nodeTo": "4467e444-2ea5-4887-b880-be7e58a3e609",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4467e444-2ea5-4887-b880-be7e58a3e609",
+                "nodeTo": "c6624531-2aa7-4689-822e-b5e4518db94d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4467e444-2ea5-4887-b880-be7e58a3e609",
+                "nodeTo": "44e440b0-a726-40d4-a24d-7b7b033739b9",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4467e444-2ea5-4887-b880-be7e58a3e609",
+                "nodeTo": "acb0b006-305c-49d8-9710-1985764cae19",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4467e444-2ea5-4887-b880-be7e58a3e609",
+                "nodeTo": "55a5648e-1e0b-45d0-a931-321204e96bce",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "051bd30a-53d7-41b8-aa52-c176c7d0519a",
+                "nodeTo": "0753c324-7561-43d1-835b-367d4eebd575",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0753c324-7561-43d1-835b-367d4eebd575",
+                "nodeTo": "c728d317-ec17-4356-aa6c-c66b03d439aa",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0753c324-7561-43d1-835b-367d4eebd575",
+                "nodeTo": "8c413d67-9025-4ac9-8ae7-0e188be1c01e",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-19 15:00:18"
+}

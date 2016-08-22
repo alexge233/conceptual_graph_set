@@ -1,0 +1,136 @@
+{
+    "uuid": 597,
+    "text": "biting vs chewing cutting their food helps kids behave better",
+    "graph": {
+        "version": 1,
+        "guid": "45d1d4da-933e-4e67-8221-33aeadea7ca4",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "vs",
+                "id": "cb541eea-4316-432e-9e79-22209a0e5457",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "cutting",
+                "id": "165178c7-750b-478b-8d32-4425a92c49c4",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "helps",
+                "id": "51cb3b52-7951-470b-ad8b-e804e5693870",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "behave",
+                "id": "e530442a-310a-49d9-ad34-a796e38257ba",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "biting",
+                "id": "a48c03dd-57d1-47ce-ab16-0dc65d94406a",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "chewing",
+                "id": "a3a91b0b-e125-44d9-a16e-9177a590d335",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "their",
+                "id": "ab38bb87-152d-4c68-b450-06870c1c3aab",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "food",
+                "id": "5b123659-daa8-4661-9e9c-16059c21c7d7",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "kids",
+                "id": "6d47c802-0675-47b4-8443-36b3183e0ad7",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "better",
+                "id": "dea4454a-4870-4b01-a8c4-b47d156c364d",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "a48c03dd-57d1-47ce-ab16-0dc65d94406a",
+                "nodeTo": "cb541eea-4316-432e-9e79-22209a0e5457",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cb541eea-4316-432e-9e79-22209a0e5457",
+                "nodeTo": "a3a91b0b-e125-44d9-a16e-9177a590d335",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a3a91b0b-e125-44d9-a16e-9177a590d335",
+                "nodeTo": "165178c7-750b-478b-8d32-4425a92c49c4",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "165178c7-750b-478b-8d32-4425a92c49c4",
+                "nodeTo": "ab38bb87-152d-4c68-b450-06870c1c3aab",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "165178c7-750b-478b-8d32-4425a92c49c4",
+                "nodeTo": "5b123659-daa8-4661-9e9c-16059c21c7d7",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ab38bb87-152d-4c68-b450-06870c1c3aab",
+                "nodeTo": "51cb3b52-7951-470b-ad8b-e804e5693870",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5b123659-daa8-4661-9e9c-16059c21c7d7",
+                "nodeTo": "51cb3b52-7951-470b-ad8b-e804e5693870",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "51cb3b52-7951-470b-ad8b-e804e5693870",
+                "nodeTo": "6d47c802-0675-47b4-8443-36b3183e0ad7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6d47c802-0675-47b4-8443-36b3183e0ad7",
+                "nodeTo": "e530442a-310a-49d9-ad34-a796e38257ba",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e530442a-310a-49d9-ad34-a796e38257ba",
+                "nodeTo": "dea4454a-4870-4b01-a8c4-b47d156c364d",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-07 21:59:02"
+}

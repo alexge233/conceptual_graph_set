@@ -1,0 +1,208 @@
+{
+    "uuid": 505,
+    "text": "researchers found that cancers with mutation in BRAF gene require copper to promote tumor growth",
+    "graph": {
+        "version": 1,
+        "guid": "15176113-b52b-4042-951a-07569dde7ee4",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "found",
+                "id": "d83e7a4d-7145-420a-ad21-84d3ec6737ee",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "that",
+                "id": "95a5386d-581b-4957-b632-99e567e8949d",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "with",
+                "id": "aa366c6c-58a4-4404-9d8a-1d1383c72670",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "a064071b-d357-4664-9339-c1ce5d59a45c",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "require",
+                "id": "a8beb08d-c0d1-4891-8c48-01d1277325ab",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "b6536286-8edb-41dc-aa1b-6115a6ee312a",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "promote",
+                "id": "ca84aa65-8152-4674-8164-19e647d60762",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "researchers",
+                "id": "ec6d54a0-8337-4ad6-9521-7767571202bb",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "cancers",
+                "id": "add87d37-59a3-4e6b-a762-ce46896dc8e9",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "mutation",
+                "id": "28308111-7a77-4c0d-a30d-17c5509c23c7",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "BRAF",
+                "id": "9d5c4d9d-87ec-4586-9a87-55c9313bcde9",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "gene",
+                "id": "479dc799-b643-45e4-a0a1-8c8203c6e816",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "copper",
+                "id": "a0245c65-942e-42c8-99b0-5e6197d0aab4",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "tumor",
+                "id": "73516a08-c185-4c3c-a121-4e6ae3ca1ad9",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "growth",
+                "id": "bb969d0b-31da-4a00-a71d-e3e07aa5a3c2",
+                "index": 14,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "ec6d54a0-8337-4ad6-9521-7767571202bb",
+                "nodeTo": "d83e7a4d-7145-420a-ad21-84d3ec6737ee",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ec6d54a0-8337-4ad6-9521-7767571202bb",
+                "nodeTo": "95a5386d-581b-4957-b632-99e567e8949d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d83e7a4d-7145-420a-ad21-84d3ec6737ee",
+                "nodeTo": "add87d37-59a3-4e6b-a762-ce46896dc8e9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "95a5386d-581b-4957-b632-99e567e8949d",
+                "nodeTo": "add87d37-59a3-4e6b-a762-ce46896dc8e9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "add87d37-59a3-4e6b-a762-ce46896dc8e9",
+                "nodeTo": "aa366c6c-58a4-4404-9d8a-1d1383c72670",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "aa366c6c-58a4-4404-9d8a-1d1383c72670",
+                "nodeTo": "28308111-7a77-4c0d-a30d-17c5509c23c7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "28308111-7a77-4c0d-a30d-17c5509c23c7",
+                "nodeTo": "a064071b-d357-4664-9339-c1ce5d59a45c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a064071b-d357-4664-9339-c1ce5d59a45c",
+                "nodeTo": "9d5c4d9d-87ec-4586-9a87-55c9313bcde9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a064071b-d357-4664-9339-c1ce5d59a45c",
+                "nodeTo": "479dc799-b643-45e4-a0a1-8c8203c6e816",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "add87d37-59a3-4e6b-a762-ce46896dc8e9",
+                "nodeTo": "a8beb08d-c0d1-4891-8c48-01d1277325ab",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a8beb08d-c0d1-4891-8c48-01d1277325ab",
+                "nodeTo": "a0245c65-942e-42c8-99b0-5e6197d0aab4",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b6536286-8edb-41dc-aa1b-6115a6ee312a",
+                "nodeTo": "73516a08-c185-4c3c-a121-4e6ae3ca1ad9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ca84aa65-8152-4674-8164-19e647d60762",
+                "nodeTo": "73516a08-c185-4c3c-a121-4e6ae3ca1ad9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b6536286-8edb-41dc-aa1b-6115a6ee312a",
+                "nodeTo": "bb969d0b-31da-4a00-a71d-e3e07aa5a3c2",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ca84aa65-8152-4674-8164-19e647d60762",
+                "nodeTo": "bb969d0b-31da-4a00-a71d-e3e07aa5a3c2",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "add87d37-59a3-4e6b-a762-ce46896dc8e9",
+                "nodeTo": "b6536286-8edb-41dc-aa1b-6115a6ee312a",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "add87d37-59a3-4e6b-a762-ce46896dc8e9",
+                "nodeTo": "ca84aa65-8152-4674-8164-19e647d60762",
+                "index": 4,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2014-12-23 18:22:17"
+}

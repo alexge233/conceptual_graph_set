@@ -1,0 +1,82 @@
+{
+    "uuid": 380,
+    "text": "Antenatal classes for better mother-baby bonding",
+    "graph": {
+        "version": 1,
+        "guid": "3653c416-c099-4b82-9b8c-a063a8901b70",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "for",
+                "id": "971d4ddd-d58d-4e49-9c18-548279b601c8",
+                "index": 2,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Antenatal",
+                "id": "72e68284-e900-4513-9deb-a671c20eea54",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "classes",
+                "id": "b31672dd-6ad8-44a0-96c2-ec6a10d5701d",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "better",
+                "id": "227b35c0-8bd3-4b0e-9c80-157e7770d5d6",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "mother-baby",
+                "id": "e77642ab-2619-4ea3-85e9-ed22ba6c402a",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "bonding",
+                "id": "95489b87-8381-4412-9119-bd44e8ba9a5d",
+                "postag": "NA",
+                "index": 5
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "72e68284-e900-4513-9deb-a671c20eea54",
+                "nodeTo": "971d4ddd-d58d-4e49-9c18-548279b601c8",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b31672dd-6ad8-44a0-96c2-ec6a10d5701d",
+                "nodeTo": "971d4ddd-d58d-4e49-9c18-548279b601c8",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "971d4ddd-d58d-4e49-9c18-548279b601c8",
+                "nodeTo": "227b35c0-8bd3-4b0e-9c80-157e7770d5d6",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "971d4ddd-d58d-4e49-9c18-548279b601c8",
+                "nodeTo": "e77642ab-2619-4ea3-85e9-ed22ba6c402a",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "971d4ddd-d58d-4e49-9c18-548279b601c8",
+                "nodeTo": "95489b87-8381-4412-9119-bd44e8ba9a5d",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-16 17:40:06"
+}

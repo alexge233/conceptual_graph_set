@@ -1,0 +1,322 @@
+{
+    "uuid": 1237,
+    "text": "roughly one out of three kids screened for high cholesterol between ages of 9 and 11 has borderline or high cholesterol",
+    "graph": {
+        "version": 1,
+        "guid": "4a5aeb19-24a0-427e-a993-53b662a9c85b",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "roughly",
+                "id": "d951da02-9949-4971-9a24-946ee6757970",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "out",
+                "id": "2735a13d-4e61-44e8-988c-2e3c3cd24de6",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "b4ec3798-e489-4364-b22a-183ab27c6bdd",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "screened",
+                "id": "67a9c627-03ca-4949-84cc-82734c9946e1",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "7d340e72-c80d-45a8-b856-52978c0cb03a",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "between",
+                "id": "ea897259-205b-4022-a6a0-e277a718cca2",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "86b019b9-a477-402e-9987-2da131cc1353",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "09ac6a2e-ebc0-4936-8b91-5bb9cee619ca",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "has",
+                "id": "122097d3-1063-4951-a39a-73d125d08375",
+                "index": 16,
+                "postag": "NA"
+            },
+            {
+                "label": "or",
+                "id": "3e247934-93b1-43cb-8b32-13b0906ad033",
+                "index": 18,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "one",
+                "id": "8ebd1b45-baa4-4427-9c96-51b3266454c9",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "three",
+                "id": "299be797-433e-4467-8354-ab2b37dc9050",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "kids",
+                "id": "d7a3e666-5d33-41ad-9335-7dcea98325ee",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "high",
+                "id": "293a122c-cd74-4b65-bdb1-2369a2251926",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "cholesterol",
+                "id": "8146d741-ae69-4b10-aa00-e8e21187365c",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "ages",
+                "id": "213a34e4-be96-46dd-bd55-248ab155a4a5",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": 9,
+                "id": "e53c0372-07e5-48be-bb52-78a2623634eb",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": 11,
+                "id": "8a33890e-e8b4-4160-828e-82ad7847b446",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "borderline",
+                "id": "b6975bae-9b55-43d5-8778-ead0e0344245",
+                "index": 17,
+                "postag": "NA"
+            },
+            {
+                "label": "high",
+                "id": "53992de6-a484-470b-9dde-838b57c7c296",
+                "index": 19,
+                "postag": "NA"
+            },
+            {
+                "label": "cholesterol",
+                "id": "9a264cec-82d4-4422-9e0c-43b5570aa1d5",
+                "index": 20,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "d951da02-9949-4971-9a24-946ee6757970",
+                "nodeTo": "8ebd1b45-baa4-4427-9c96-51b3266454c9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8ebd1b45-baa4-4427-9c96-51b3266454c9",
+                "nodeTo": "2735a13d-4e61-44e8-988c-2e3c3cd24de6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8ebd1b45-baa4-4427-9c96-51b3266454c9",
+                "nodeTo": "b4ec3798-e489-4364-b22a-183ab27c6bdd",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2735a13d-4e61-44e8-988c-2e3c3cd24de6",
+                "nodeTo": "d7a3e666-5d33-41ad-9335-7dcea98325ee",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b4ec3798-e489-4364-b22a-183ab27c6bdd",
+                "nodeTo": "d7a3e666-5d33-41ad-9335-7dcea98325ee",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2735a13d-4e61-44e8-988c-2e3c3cd24de6",
+                "nodeTo": "299be797-433e-4467-8354-ab2b37dc9050",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b4ec3798-e489-4364-b22a-183ab27c6bdd",
+                "nodeTo": "299be797-433e-4467-8354-ab2b37dc9050",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "299be797-433e-4467-8354-ab2b37dc9050",
+                "nodeTo": "67a9c627-03ca-4949-84cc-82734c9946e1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d7a3e666-5d33-41ad-9335-7dcea98325ee",
+                "nodeTo": "67a9c627-03ca-4949-84cc-82734c9946e1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "299be797-433e-4467-8354-ab2b37dc9050",
+                "nodeTo": "7d340e72-c80d-45a8-b856-52978c0cb03a",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d7a3e666-5d33-41ad-9335-7dcea98325ee",
+                "nodeTo": "7d340e72-c80d-45a8-b856-52978c0cb03a",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "67a9c627-03ca-4949-84cc-82734c9946e1",
+                "nodeTo": "293a122c-cd74-4b65-bdb1-2369a2251926",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7d340e72-c80d-45a8-b856-52978c0cb03a",
+                "nodeTo": "293a122c-cd74-4b65-bdb1-2369a2251926",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "67a9c627-03ca-4949-84cc-82734c9946e1",
+                "nodeTo": "8146d741-ae69-4b10-aa00-e8e21187365c",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7d340e72-c80d-45a8-b856-52978c0cb03a",
+                "nodeTo": "8146d741-ae69-4b10-aa00-e8e21187365c",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "299be797-433e-4467-8354-ab2b37dc9050",
+                "nodeTo": "ea897259-205b-4022-a6a0-e277a718cca2",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d7a3e666-5d33-41ad-9335-7dcea98325ee",
+                "nodeTo": "ea897259-205b-4022-a6a0-e277a718cca2",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ea897259-205b-4022-a6a0-e277a718cca2",
+                "nodeTo": "213a34e4-be96-46dd-bd55-248ab155a4a5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "213a34e4-be96-46dd-bd55-248ab155a4a5",
+                "nodeTo": "86b019b9-a477-402e-9987-2da131cc1353",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "86b019b9-a477-402e-9987-2da131cc1353",
+                "nodeTo": "e53c0372-07e5-48be-bb52-78a2623634eb",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e53c0372-07e5-48be-bb52-78a2623634eb",
+                "nodeTo": "09ac6a2e-ebc0-4936-8b91-5bb9cee619ca",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "09ac6a2e-ebc0-4936-8b91-5bb9cee619ca",
+                "nodeTo": "8a33890e-e8b4-4160-828e-82ad7847b446",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "86b019b9-a477-402e-9987-2da131cc1353",
+                "nodeTo": "8a33890e-e8b4-4160-828e-82ad7847b446",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8ebd1b45-baa4-4427-9c96-51b3266454c9",
+                "nodeTo": "122097d3-1063-4951-a39a-73d125d08375",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "122097d3-1063-4951-a39a-73d125d08375",
+                "nodeTo": "b6975bae-9b55-43d5-8778-ead0e0344245",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b6975bae-9b55-43d5-8778-ead0e0344245",
+                "nodeTo": "3e247934-93b1-43cb-8b32-13b0906ad033",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3e247934-93b1-43cb-8b32-13b0906ad033",
+                "nodeTo": "53992de6-a484-470b-9dde-838b57c7c296",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3e247934-93b1-43cb-8b32-13b0906ad033",
+                "nodeTo": "9a264cec-82d4-4422-9e0c-43b5570aa1d5",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "122097d3-1063-4951-a39a-73d125d08375",
+                "nodeTo": "53992de6-a484-470b-9dde-838b57c7c296",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "122097d3-1063-4951-a39a-73d125d08375",
+                "nodeTo": "9a264cec-82d4-4422-9e0c-43b5570aa1d5",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-03-02 18:57:50"
+}

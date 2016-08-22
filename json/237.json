@@ -1,0 +1,202 @@
+{
+    "uuid": 237,
+    "text": "Hotel guests can be gently persuaded to reduce number of towels they use each day",
+    "graph": {
+        "version": 1,
+        "guid": "8c192b9b-2a1c-4aa7-8b2b-27bd14a4c3d9",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "can",
+                "id": "8205c959-e929-4868-a9d7-a5059abbeee1",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "be",
+                "id": "c7bc246c-7578-43ec-b304-64a14e60d9d0",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "persuaded",
+                "id": "92842a48-6087-4a7b-9ed8-95518b182dbe",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "reduce",
+                "id": "63ab8200-2e25-4424-bb35-b47a2b3528a1",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "3753cae6-ea97-4d55-9be1-b07c180402d2",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "use",
+                "id": "a7aa1ddb-8090-4907-9154-a1deadc5c32c",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "each",
+                "id": "6b39515b-2c1d-42c0-a1ee-08503107a7c6",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Hotel",
+                "id": "d8c2904a-be3d-41b7-bcc6-5b8795c2cac0",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "guests",
+                "id": "b5a792bc-a2d3-40bd-92da-18717c25ec9d",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "gently",
+                "id": "129d2b2e-ea09-4693-840b-aaea4613069d",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "c992cb9a-caa5-44d5-9ac3-cec4c7a166b0",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "number",
+                "id": "89536419-58da-48bc-9bbd-387592d66284",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "towels",
+                "id": "beb6d386-daab-4559-8dec-a49b6a6da0cc",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "they",
+                "id": "8e8e2e65-1521-40da-8775-a619302ad0a9",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "day",
+                "id": "9eddd713-3957-483a-a73b-dd48ab4e8c30",
+                "index": 14,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "d8c2904a-be3d-41b7-bcc6-5b8795c2cac0",
+                "nodeTo": "8205c959-e929-4868-a9d7-a5059abbeee1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b5a792bc-a2d3-40bd-92da-18717c25ec9d",
+                "nodeTo": "8205c959-e929-4868-a9d7-a5059abbeee1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d8c2904a-be3d-41b7-bcc6-5b8795c2cac0",
+                "nodeTo": "c7bc246c-7578-43ec-b304-64a14e60d9d0",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b5a792bc-a2d3-40bd-92da-18717c25ec9d",
+                "nodeTo": "c7bc246c-7578-43ec-b304-64a14e60d9d0",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8205c959-e929-4868-a9d7-a5059abbeee1",
+                "nodeTo": "129d2b2e-ea09-4693-840b-aaea4613069d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c7bc246c-7578-43ec-b304-64a14e60d9d0",
+                "nodeTo": "129d2b2e-ea09-4693-840b-aaea4613069d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "129d2b2e-ea09-4693-840b-aaea4613069d",
+                "nodeTo": "92842a48-6087-4a7b-9ed8-95518b182dbe",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "92842a48-6087-4a7b-9ed8-95518b182dbe",
+                "nodeTo": "c992cb9a-caa5-44d5-9ac3-cec4c7a166b0",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c992cb9a-caa5-44d5-9ac3-cec4c7a166b0",
+                "nodeTo": "63ab8200-2e25-4424-bb35-b47a2b3528a1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "63ab8200-2e25-4424-bb35-b47a2b3528a1",
+                "nodeTo": "89536419-58da-48bc-9bbd-387592d66284",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "89536419-58da-48bc-9bbd-387592d66284",
+                "nodeTo": "3753cae6-ea97-4d55-9be1-b07c180402d2",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3753cae6-ea97-4d55-9be1-b07c180402d2",
+                "nodeTo": "beb6d386-daab-4559-8dec-a49b6a6da0cc",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8e8e2e65-1521-40da-8775-a619302ad0a9",
+                "nodeTo": "a7aa1ddb-8090-4907-9154-a1deadc5c32c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8e8e2e65-1521-40da-8775-a619302ad0a9",
+                "nodeTo": "6b39515b-2c1d-42c0-a1ee-08503107a7c6",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6b39515b-2c1d-42c0-a1ee-08503107a7c6",
+                "nodeTo": "9eddd713-3957-483a-a73b-dd48ab4e8c30",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a7aa1ddb-8090-4907-9154-a1deadc5c32c",
+                "nodeTo": "beb6d386-daab-4559-8dec-a49b6a6da0cc",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-01 16:11:04"
+}

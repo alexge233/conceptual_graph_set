@@ -1,0 +1,244 @@
+{
+    "uuid": 460,
+    "text": "No other pet has adjusted to human lifestyles as well as this four legged animal",
+    "graph": {
+        "version": 1,
+        "guid": "c9a2b76d-9b75-49ca-b9e0-574d6c498617",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "has",
+                "id": "29729083-18ac-4d84-8bd3-d6898639ce57",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "21547bc5-4b26-4235-8959-1a30a7c7da77",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "adjusted",
+                "id": "d9a43ca2-5568-4751-be72-9b0737bc6ad6",
+                "postag": "NA",
+                "index": 4
+            },
+            {
+                "label": "as",
+                "id": "3016de53-b600-4166-89db-5b029ca916dc",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "as",
+                "id": "1a4a8e75-a1d8-4cca-8107-66380bc6162a",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "No",
+                "id": "581beeaa-400e-4ad9-80ba-bc337d4ed790",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "other",
+                "id": "421e9dc6-da1d-4c8d-add0-5e00547b570b",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "pet",
+                "id": "becbd14c-cbb9-4462-b9d1-775b12542ba1",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "human",
+                "id": "d5571d74-6226-461a-b2b0-9a685b5ea4b5",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "lifestyles",
+                "id": "6c93edd1-70a4-47b3-90c9-5a14b803b51c",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "well",
+                "id": "dc2246b2-0895-4074-b9e6-652ad62a1517",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "this",
+                "id": "41393556-5be3-4082-8133-a251b3da57a7",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "four",
+                "id": "10be4d15-367a-4a67-9731-6b94d99dc07a",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "legged",
+                "id": "73a32569-4218-49a2-ab0d-3d702d1bad59",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "animal",
+                "id": "419b8507-e3ae-4549-811a-41328dc4861d",
+                "index": 14,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "581beeaa-400e-4ad9-80ba-bc337d4ed790",
+                "nodeTo": "29729083-18ac-4d84-8bd3-d6898639ce57",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "421e9dc6-da1d-4c8d-add0-5e00547b570b",
+                "nodeTo": "29729083-18ac-4d84-8bd3-d6898639ce57",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "becbd14c-cbb9-4462-b9d1-775b12542ba1",
+                "nodeTo": "29729083-18ac-4d84-8bd3-d6898639ce57",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "581beeaa-400e-4ad9-80ba-bc337d4ed790",
+                "nodeTo": "d9a43ca2-5568-4751-be72-9b0737bc6ad6",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "421e9dc6-da1d-4c8d-add0-5e00547b570b",
+                "nodeTo": "d9a43ca2-5568-4751-be72-9b0737bc6ad6",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "becbd14c-cbb9-4462-b9d1-775b12542ba1",
+                "nodeTo": "d9a43ca2-5568-4751-be72-9b0737bc6ad6",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "581beeaa-400e-4ad9-80ba-bc337d4ed790",
+                "nodeTo": "21547bc5-4b26-4235-8959-1a30a7c7da77",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "421e9dc6-da1d-4c8d-add0-5e00547b570b",
+                "nodeTo": "21547bc5-4b26-4235-8959-1a30a7c7da77",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "becbd14c-cbb9-4462-b9d1-775b12542ba1",
+                "nodeTo": "21547bc5-4b26-4235-8959-1a30a7c7da77",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "29729083-18ac-4d84-8bd3-d6898639ce57",
+                "nodeTo": "d5571d74-6226-461a-b2b0-9a685b5ea4b5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d9a43ca2-5568-4751-be72-9b0737bc6ad6",
+                "nodeTo": "d5571d74-6226-461a-b2b0-9a685b5ea4b5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "21547bc5-4b26-4235-8959-1a30a7c7da77",
+                "nodeTo": "d5571d74-6226-461a-b2b0-9a685b5ea4b5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "29729083-18ac-4d84-8bd3-d6898639ce57",
+                "nodeTo": "6c93edd1-70a4-47b3-90c9-5a14b803b51c",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d9a43ca2-5568-4751-be72-9b0737bc6ad6",
+                "nodeTo": "6c93edd1-70a4-47b3-90c9-5a14b803b51c",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "21547bc5-4b26-4235-8959-1a30a7c7da77",
+                "nodeTo": "6c93edd1-70a4-47b3-90c9-5a14b803b51c",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d5571d74-6226-461a-b2b0-9a685b5ea4b5",
+                "nodeTo": "3016de53-b600-4166-89db-5b029ca916dc",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6c93edd1-70a4-47b3-90c9-5a14b803b51c",
+                "nodeTo": "3016de53-b600-4166-89db-5b029ca916dc",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3016de53-b600-4166-89db-5b029ca916dc",
+                "nodeTo": "dc2246b2-0895-4074-b9e6-652ad62a1517",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "dc2246b2-0895-4074-b9e6-652ad62a1517",
+                "nodeTo": "1a4a8e75-a1d8-4cca-8107-66380bc6162a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1a4a8e75-a1d8-4cca-8107-66380bc6162a",
+                "nodeTo": "41393556-5be3-4082-8133-a251b3da57a7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1a4a8e75-a1d8-4cca-8107-66380bc6162a",
+                "nodeTo": "10be4d15-367a-4a67-9731-6b94d99dc07a",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1a4a8e75-a1d8-4cca-8107-66380bc6162a",
+                "nodeTo": "73a32569-4218-49a2-ab0d-3d702d1bad59",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1a4a8e75-a1d8-4cca-8107-66380bc6162a",
+                "nodeTo": "419b8507-e3ae-4549-811a-41328dc4861d",
+                "index": 4,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-18 20:31:40"
+}

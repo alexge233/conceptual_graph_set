@@ -1,0 +1,118 @@
+{
+    "uuid": 963,
+    "text": "some countries open their collective wallets more than others",
+    "graph": {
+        "version": 1,
+        "guid": "58449946-11be-44c7-a0b2-119302817810",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "open",
+                "id": "eeda1756-90b1-4c7e-b920-46c6ba41be91",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "than",
+                "id": "0736d632-47e1-4c6e-873e-45cb2d8e5643",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "some",
+                "id": "3e4de502-cdc4-4ade-8011-233c868b000c",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "countries",
+                "id": "35074eee-6cd2-4d13-8986-01e279a01a12",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "their",
+                "id": "63e32541-cbae-40ba-9026-b692b8411162",
+                "postag": "NA",
+                "index": 3
+            },
+            {
+                "label": "collective",
+                "id": "27b65036-4886-458b-8509-e0109331b687",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "wallets",
+                "id": "01b37bc3-766a-4211-9c6a-403c0357560b",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "more",
+                "id": "5614615a-e163-4649-840a-e1343ad42c20",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "others",
+                "id": "45648b3b-68a1-47b3-b3d9-d427cb93153e",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "3e4de502-cdc4-4ade-8011-233c868b000c",
+                "nodeTo": "eeda1756-90b1-4c7e-b920-46c6ba41be91",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "35074eee-6cd2-4d13-8986-01e279a01a12",
+                "nodeTo": "eeda1756-90b1-4c7e-b920-46c6ba41be91",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "eeda1756-90b1-4c7e-b920-46c6ba41be91",
+                "nodeTo": "63e32541-cbae-40ba-9026-b692b8411162",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "eeda1756-90b1-4c7e-b920-46c6ba41be91",
+                "nodeTo": "27b65036-4886-458b-8509-e0109331b687",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "eeda1756-90b1-4c7e-b920-46c6ba41be91",
+                "nodeTo": "01b37bc3-766a-4211-9c6a-403c0357560b",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "eeda1756-90b1-4c7e-b920-46c6ba41be91",
+                "nodeTo": "5614615a-e163-4649-840a-e1343ad42c20",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5614615a-e163-4649-840a-e1343ad42c20",
+                "nodeTo": "0736d632-47e1-4c6e-873e-45cb2d8e5643",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0736d632-47e1-4c6e-873e-45cb2d8e5643",
+                "nodeTo": "45648b3b-68a1-47b3-b3d9-d427cb93153e",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-26 14:44:11"
+}

@@ -1,0 +1,70 @@
+{
+    "uuid": 467,
+    "text": "Austrias bearded lady wins Eurovision",
+    "graph": {
+        "version": 1,
+        "guid": "65eba6d2-ab93-4969-bd71-a6a6d7401d27",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "wins",
+                "id": "6864d861-b1d8-4407-ade5-2d5ad3c2e95e",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Austrias",
+                "id": "0c03b538-99cc-49b5-8634-7de2751b5c54",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "bearded",
+                "id": "a8655423-1ede-442d-adb0-466c67803733",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "lady",
+                "id": "99b49e11-a95d-422c-bbbe-0dcb432c1908",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "Eurovision",
+                "id": "4850b4da-55a5-4944-9cbe-b6983e70a355",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "0c03b538-99cc-49b5-8634-7de2751b5c54",
+                "nodeTo": "6864d861-b1d8-4407-ade5-2d5ad3c2e95e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a8655423-1ede-442d-adb0-466c67803733",
+                "nodeTo": "6864d861-b1d8-4407-ade5-2d5ad3c2e95e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "99b49e11-a95d-422c-bbbe-0dcb432c1908",
+                "nodeTo": "6864d861-b1d8-4407-ade5-2d5ad3c2e95e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6864d861-b1d8-4407-ade5-2d5ad3c2e95e",
+                "nodeTo": "4850b4da-55a5-4944-9cbe-b6983e70a355",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-18 20:51:28"
+}

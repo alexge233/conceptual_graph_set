@@ -1,0 +1,94 @@
+{
+    "uuid": 428,
+    "text": "are statins good for your love life",
+    "graph": {
+        "version": 1,
+        "guid": "380c147b-cce7-4b8a-9a1b-bb7cdb17860b",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "are",
+                "id": "c6c83030-eb7a-4934-b2d8-63bae2ecc40d",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "95475d12-e972-4a43-9a0d-976bd1363cae",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "statins",
+                "id": "471a6b3e-9558-46c4-91c4-2e38b470dda8",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "good",
+                "id": "5bcc5cee-add1-4baa-b58e-ea6e6a7ce528",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "your",
+                "id": "87b02987-082a-4ad2-91e5-c020cdc43ec5",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "love",
+                "id": "d19bde47-3c41-4429-9a05-9e035a57b1b1",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "life",
+                "id": "7e8115d7-3cb6-4e89-9262-d7c3e4874233",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "c6c83030-eb7a-4934-b2d8-63bae2ecc40d",
+                "nodeTo": "471a6b3e-9558-46c4-91c4-2e38b470dda8",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c6c83030-eb7a-4934-b2d8-63bae2ecc40d",
+                "nodeTo": "5bcc5cee-add1-4baa-b58e-ea6e6a7ce528",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5bcc5cee-add1-4baa-b58e-ea6e6a7ce528",
+                "nodeTo": "95475d12-e972-4a43-9a0d-976bd1363cae",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "95475d12-e972-4a43-9a0d-976bd1363cae",
+                "nodeTo": "87b02987-082a-4ad2-91e5-c020cdc43ec5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "95475d12-e972-4a43-9a0d-976bd1363cae",
+                "nodeTo": "d19bde47-3c41-4429-9a05-9e035a57b1b1",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "95475d12-e972-4a43-9a0d-976bd1363cae",
+                "nodeTo": "7e8115d7-3cb6-4e89-9262-d7c3e4874233",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-18 16:04:47"
+}

@@ -1,0 +1,118 @@
+{
+    "uuid": 1096,
+    "text": "nursing traditions often trump evidence based practice",
+    "graph": {
+        "version": 1,
+        "guid": "6a2298b3-7e75-419a-8a1c-3328cc3ae914",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "often",
+                "id": "53ea12e9-d765-4cd5-b4b8-76a3566301c6",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "trump",
+                "id": "220984eb-9d84-4898-adce-ad2340aa5217",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "nursing",
+                "id": "882b1d00-2307-4d18-81e2-46e4cbe49a68",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "traditions",
+                "id": "e6b255ec-2e61-4009-8612-7a96da217620",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "evidence",
+                "id": "a5675d2b-80c2-43e9-ad22-43b0749c675b",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "based",
+                "id": "83c050bd-eec1-4dbc-bc56-458e0da28295",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "practice",
+                "id": "9c59d66d-6556-4ccb-9082-753c648a8c5e",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "882b1d00-2307-4d18-81e2-46e4cbe49a68",
+                "nodeTo": "53ea12e9-d765-4cd5-b4b8-76a3566301c6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e6b255ec-2e61-4009-8612-7a96da217620",
+                "nodeTo": "53ea12e9-d765-4cd5-b4b8-76a3566301c6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "882b1d00-2307-4d18-81e2-46e4cbe49a68",
+                "nodeTo": "220984eb-9d84-4898-adce-ad2340aa5217",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e6b255ec-2e61-4009-8612-7a96da217620",
+                "nodeTo": "220984eb-9d84-4898-adce-ad2340aa5217",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "53ea12e9-d765-4cd5-b4b8-76a3566301c6",
+                "nodeTo": "a5675d2b-80c2-43e9-ad22-43b0749c675b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "220984eb-9d84-4898-adce-ad2340aa5217",
+                "nodeTo": "a5675d2b-80c2-43e9-ad22-43b0749c675b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "53ea12e9-d765-4cd5-b4b8-76a3566301c6",
+                "nodeTo": "83c050bd-eec1-4dbc-bc56-458e0da28295",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "220984eb-9d84-4898-adce-ad2340aa5217",
+                "nodeTo": "83c050bd-eec1-4dbc-bc56-458e0da28295",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "53ea12e9-d765-4cd5-b4b8-76a3566301c6",
+                "nodeTo": "9c59d66d-6556-4ccb-9082-753c648a8c5e",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "220984eb-9d84-4898-adce-ad2340aa5217",
+                "nodeTo": "9c59d66d-6556-4ccb-9082-753c648a8c5e",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-11 15:55:23"
+}

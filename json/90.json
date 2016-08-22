@@ -1,0 +1,274 @@
+{
+    "uuid": 90,
+    "text": "chairman of Englands health watchdog has told BBC there are hospitals where you would not want to go as patient",
+    "graph": {
+        "version": 1,
+        "guid": "29068078-a64b-4d52-9283-bb96974bd56d",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "of",
+                "id": "ccba4086-5982-4102-91b1-295600dba72c",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "has",
+                "id": "a302295d-21c2-43d3-9068-91dc86e65e99",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "told",
+                "id": "1a17c0c6-228e-42d2-a697-96c0d2eaa05c",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "are",
+                "id": "6492aa08-a2dd-4586-9949-c87eb81399a8",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "there",
+                "id": "428ba809-4a72-49e4-a9e1-246c71566919",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "where",
+                "id": "1c0046c6-2a49-4410-b1da-27bde9abb9e1",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "would",
+                "id": "e8dab3ae-58b1-457a-a2ee-2b91734e41d8",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "not",
+                "id": "643ca310-56e1-4386-aab3-0c91ce1b3ea7",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "want",
+                "id": "ba89707c-ec96-48e9-aab6-d324597eb36d",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "as",
+                "id": "14eb9821-5779-490c-88ec-cb22ee5a337e",
+                "index": 18,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "chairman",
+                "id": "0c769523-84ab-416e-aa91-0e2180eacea6",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "Englands",
+                "id": "9db10321-1dda-4cae-b77c-cdd5086b764c",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "health",
+                "id": "1c2b7711-8d30-4e39-943a-1bd84c6cca2e",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "watchdog",
+                "id": "23e8ae2c-1a48-4762-924a-051d2ebe51c9",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "BBC",
+                "id": "b2cbccc9-454a-46a9-b5bc-b56064051b9e",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "hospitals",
+                "id": "b21b063c-b75c-45dd-8924-31a447964acb",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "you",
+                "id": "a0d37495-d10c-41d6-bd84-65e0e236b50c",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "go",
+                "id": "09299188-e82b-451a-8480-88040de08149",
+                "index": 17,
+                "postag": "NA"
+            },
+            {
+                "label": "patient",
+                "id": "539e1b6e-79ca-4616-ae43-730e5b6ae5c8",
+                "index": 19,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "59678c67-93d7-4416-91bb-123ed3bc1410",
+                "postag": "NA",
+                "index": 16
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "0c769523-84ab-416e-aa91-0e2180eacea6",
+                "nodeTo": "ccba4086-5982-4102-91b1-295600dba72c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ccba4086-5982-4102-91b1-295600dba72c",
+                "nodeTo": "9db10321-1dda-4cae-b77c-cdd5086b764c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ccba4086-5982-4102-91b1-295600dba72c",
+                "nodeTo": "1c2b7711-8d30-4e39-943a-1bd84c6cca2e",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ccba4086-5982-4102-91b1-295600dba72c",
+                "nodeTo": "23e8ae2c-1a48-4762-924a-051d2ebe51c9",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0c769523-84ab-416e-aa91-0e2180eacea6",
+                "nodeTo": "a302295d-21c2-43d3-9068-91dc86e65e99",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0c769523-84ab-416e-aa91-0e2180eacea6",
+                "nodeTo": "1a17c0c6-228e-42d2-a697-96c0d2eaa05c",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1a17c0c6-228e-42d2-a697-96c0d2eaa05c",
+                "nodeTo": "b2cbccc9-454a-46a9-b5bc-b56064051b9e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b2cbccc9-454a-46a9-b5bc-b56064051b9e",
+                "nodeTo": "428ba809-4a72-49e4-a9e1-246c71566919",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b2cbccc9-454a-46a9-b5bc-b56064051b9e",
+                "nodeTo": "6492aa08-a2dd-4586-9949-c87eb81399a8",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "428ba809-4a72-49e4-a9e1-246c71566919",
+                "nodeTo": "9db10321-1dda-4cae-b77c-cdd5086b764c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6492aa08-a2dd-4586-9949-c87eb81399a8",
+                "nodeTo": "b21b063c-b75c-45dd-8924-31a447964acb",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b21b063c-b75c-45dd-8924-31a447964acb",
+                "nodeTo": "1c0046c6-2a49-4410-b1da-27bde9abb9e1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1c0046c6-2a49-4410-b1da-27bde9abb9e1",
+                "nodeTo": "a0d37495-d10c-41d6-bd84-65e0e236b50c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a0d37495-d10c-41d6-bd84-65e0e236b50c",
+                "nodeTo": "e8dab3ae-58b1-457a-a2ee-2b91734e41d8",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a0d37495-d10c-41d6-bd84-65e0e236b50c",
+                "nodeTo": "643ca310-56e1-4386-aab3-0c91ce1b3ea7",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a0d37495-d10c-41d6-bd84-65e0e236b50c",
+                "nodeTo": "ba89707c-ec96-48e9-aab6-d324597eb36d",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "643ca310-56e1-4386-aab3-0c91ce1b3ea7",
+                "nodeTo": "09299188-e82b-451a-8480-88040de08149",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "09299188-e82b-451a-8480-88040de08149",
+                "nodeTo": "14eb9821-5779-490c-88ec-cb22ee5a337e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "14eb9821-5779-490c-88ec-cb22ee5a337e",
+                "nodeTo": "539e1b6e-79ca-4616-ae43-730e5b6ae5c8",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ba89707c-ec96-48e9-aab6-d324597eb36d",
+                "nodeTo": "59678c67-93d7-4416-91bb-123ed3bc1410",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ba89707c-ec96-48e9-aab6-d324597eb36d",
+                "nodeTo": "09299188-e82b-451a-8480-88040de08149",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "643ca310-56e1-4386-aab3-0c91ce1b3ea7",
+                "nodeTo": "59678c67-93d7-4416-91bb-123ed3bc1410",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "59678c67-93d7-4416-91bb-123ed3bc1410",
+                "nodeTo": "14eb9821-5779-490c-88ec-cb22ee5a337e",
+                "index": 1,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2014-11-06 08:50:03"
+}

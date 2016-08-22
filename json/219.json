@@ -1,0 +1,106 @@
+{
+    "uuid": 219,
+    "text": "7-year-old Colorado girl recovers from bubonic plague",
+    "graph": {
+        "version": 1,
+        "guid": "1c252229-0a4e-4d8b-89d5-5543db79882c",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "recovers",
+                "id": "3521cde5-e873-4aa3-b2d6-033b4d6780a8",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "from",
+                "id": "43adc053-9b6d-430b-9021-36c40b6ab56e",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "7-year-old",
+                "id": "7e297920-9cc6-4a75-a8c6-42052152d123",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "Colorado",
+                "id": "8b703248-1abc-46ce-9a50-aea466950191",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "girl",
+                "id": "91866861-8ea2-417c-951d-c13d6e2a5836",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "bubonic",
+                "id": "338a0d42-e72e-4b76-ab13-081d0d7d55d6",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "plague",
+                "id": "bb11251a-d4e1-48b4-8bb3-a9a7c93b9655",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "7e297920-9cc6-4a75-a8c6-42052152d123",
+                "nodeTo": "3521cde5-e873-4aa3-b2d6-033b4d6780a8",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8b703248-1abc-46ce-9a50-aea466950191",
+                "nodeTo": "3521cde5-e873-4aa3-b2d6-033b4d6780a8",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "91866861-8ea2-417c-951d-c13d6e2a5836",
+                "nodeTo": "3521cde5-e873-4aa3-b2d6-033b4d6780a8",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7e297920-9cc6-4a75-a8c6-42052152d123",
+                "nodeTo": "43adc053-9b6d-430b-9021-36c40b6ab56e",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8b703248-1abc-46ce-9a50-aea466950191",
+                "nodeTo": "43adc053-9b6d-430b-9021-36c40b6ab56e",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "91866861-8ea2-417c-951d-c13d6e2a5836",
+                "nodeTo": "43adc053-9b6d-430b-9021-36c40b6ab56e",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "43adc053-9b6d-430b-9021-36c40b6ab56e",
+                "nodeTo": "338a0d42-e72e-4b76-ab13-081d0d7d55d6",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "43adc053-9b6d-430b-9021-36c40b6ab56e",
+                "nodeTo": "bb11251a-d4e1-48b4-8bb3-a9a7c93b9655",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-11-18 02:19:30"
+}

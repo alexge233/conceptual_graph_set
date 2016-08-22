@@ -1,0 +1,238 @@
+{
+    "uuid": 166,
+    "text": "Eating more portions of fruit and vegetables per day provides health benefit and would save more lives",
+    "graph": {
+        "version": 1,
+        "guid": "98e7b85e-e180-48de-9e81-ae10e8509a60",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "Eating",
+                "id": "6da060b7-78a1-4b32-9c8a-313b08cd64bc",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "c95eb7ab-64b9-4c63-9b29-10365c026c14",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "e3b77281-2380-4d61-b6a0-bcb43e4891d6",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "per",
+                "id": "1dca6b78-a93c-4485-a57b-2c81b48020d4",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "provides",
+                "id": "cb4b4164-07ab-41d8-a68c-2e536170d878",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "110c9ae0-c4d5-4951-a0cc-2c97090c3a7c",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "would",
+                "id": "b9973aac-21db-4d61-93c2-2d40304b725b",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "save",
+                "id": "930aea31-5690-4425-a9de-c48031c5d744",
+                "index": 14,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "more",
+                "id": "0dc8acc4-0736-4c91-bd02-0784bba98811",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "portions",
+                "id": "548890a9-d045-457e-85ec-4a10462d2c97",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "fruit",
+                "id": "6de1a8c0-34a1-4d85-8760-45d9b2825c76",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "vegetables",
+                "id": "38c0ea9c-60e9-4656-8778-6c1db6774009",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "day",
+                "id": "803e299d-1eac-4047-8b2c-d7d0dc38db19",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "health",
+                "id": "ec6b055b-0ca1-4311-aa3b-5e0d76ad6dbe",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "benefit",
+                "id": "90b34cc9-08e6-4e2b-9d77-de3d3bbc4e1a",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "more",
+                "id": "6735db07-4bb4-46ab-a42b-50c6c7aacec4",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "lives",
+                "id": "b0b76a58-43be-4c11-a6be-276061e89ee9",
+                "index": 16,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "6da060b7-78a1-4b32-9c8a-313b08cd64bc",
+                "nodeTo": "0dc8acc4-0736-4c91-bd02-0784bba98811",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6da060b7-78a1-4b32-9c8a-313b08cd64bc",
+                "nodeTo": "548890a9-d045-457e-85ec-4a10462d2c97",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "548890a9-d045-457e-85ec-4a10462d2c97",
+                "nodeTo": "c95eb7ab-64b9-4c63-9b29-10365c026c14",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c95eb7ab-64b9-4c63-9b29-10365c026c14",
+                "nodeTo": "6de1a8c0-34a1-4d85-8760-45d9b2825c76",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6de1a8c0-34a1-4d85-8760-45d9b2825c76",
+                "nodeTo": "e3b77281-2380-4d61-b6a0-bcb43e4891d6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e3b77281-2380-4d61-b6a0-bcb43e4891d6",
+                "nodeTo": "38c0ea9c-60e9-4656-8778-6c1db6774009",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "548890a9-d045-457e-85ec-4a10462d2c97",
+                "nodeTo": "1dca6b78-a93c-4485-a57b-2c81b48020d4",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1dca6b78-a93c-4485-a57b-2c81b48020d4",
+                "nodeTo": "803e299d-1eac-4047-8b2c-d7d0dc38db19",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0dc8acc4-0736-4c91-bd02-0784bba98811",
+                "nodeTo": "cb4b4164-07ab-41d8-a68c-2e536170d878",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "548890a9-d045-457e-85ec-4a10462d2c97",
+                "nodeTo": "cb4b4164-07ab-41d8-a68c-2e536170d878",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cb4b4164-07ab-41d8-a68c-2e536170d878",
+                "nodeTo": "ec6b055b-0ca1-4311-aa3b-5e0d76ad6dbe",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "cb4b4164-07ab-41d8-a68c-2e536170d878",
+                "nodeTo": "90b34cc9-08e6-4e2b-9d77-de3d3bbc4e1a",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0dc8acc4-0736-4c91-bd02-0784bba98811",
+                "nodeTo": "110c9ae0-c4d5-4951-a0cc-2c97090c3a7c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0dc8acc4-0736-4c91-bd02-0784bba98811",
+                "nodeTo": "b9973aac-21db-4d61-93c2-2d40304b725b",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0dc8acc4-0736-4c91-bd02-0784bba98811",
+                "nodeTo": "930aea31-5690-4425-a9de-c48031c5d744",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "548890a9-d045-457e-85ec-4a10462d2c97",
+                "nodeTo": "110c9ae0-c4d5-4951-a0cc-2c97090c3a7c",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "548890a9-d045-457e-85ec-4a10462d2c97",
+                "nodeTo": "b9973aac-21db-4d61-93c2-2d40304b725b",
+                "index": 5,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "548890a9-d045-457e-85ec-4a10462d2c97",
+                "nodeTo": "930aea31-5690-4425-a9de-c48031c5d744",
+                "index": 6,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "930aea31-5690-4425-a9de-c48031c5d744",
+                "nodeTo": "6735db07-4bb4-46ab-a42b-50c6c7aacec4",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "930aea31-5690-4425-a9de-c48031c5d744",
+                "nodeTo": "b0b76a58-43be-4c11-a6be-276061e89ee9",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-03-28 01:47:03"
+}

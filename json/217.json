@@ -1,0 +1,250 @@
+{
+    "uuid": 217,
+    "text": "ancient virus has been brought back to life after lying dormant for 30000 years in Siberian permafrost",
+    "graph": {
+        "version": 1,
+        "guid": "9c7aa7c0-dd30-4570-98ac-4bb9b99c1b81",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "has",
+                "id": "16ad90ac-230d-4d00-a2cc-52206b83accd",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "been",
+                "id": "28ea031e-a197-4708-a6ce-a35b9648783a",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "after",
+                "id": "9201e6d4-73ab-4cc1-a030-302b73d98cd1",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "lying",
+                "id": "3ada3bb9-64e7-4c3d-8c1a-d3ec5ad99106",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "c977de67-9e35-46ae-82cd-9b17d180ed41",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "brought",
+                "id": "26131684-4558-44b9-a5e4-b03dc049e3bc",
+                "postag": "NA",
+                "index": 4
+            },
+            {
+                "label": "in",
+                "id": "0197546b-a2a0-4460-a8d1-52772ba43eb3",
+                "index": 14,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "ancient",
+                "id": "cd127e8c-837a-4b28-9b5c-3b21d3213638",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "virus",
+                "id": "cd6c6263-9e92-4d36-bd7d-a135107eed3e",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "back",
+                "id": "9179bb65-c098-4618-8e03-17558cc95231",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "life",
+                "id": "d7c694a0-6024-4a5b-8a7b-8d2174e1d74b",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "dormant",
+                "id": "b90a6dd3-5754-47d5-a1e6-c2c6dd6b1462",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "d01022c0-38dd-4661-8be3-5040ca6b13b4",
+                "postag": "NA",
+                "index": 6
+            },
+            {
+                "label": 30000,
+                "id": "77102932-47e4-4b13-9156-42e0d394321b",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "years",
+                "id": "209d12e5-671e-4a02-8211-e32d16147e3a",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "Siberian",
+                "id": "ae85eab9-9b0e-4b95-a710-590924a071ca",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "permafrost",
+                "id": "9052a8e6-60a8-4d00-ae24-40088ee4d714",
+                "index": 16,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "cd127e8c-837a-4b28-9b5c-3b21d3213638",
+                "nodeTo": "16ad90ac-230d-4d00-a2cc-52206b83accd",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cd127e8c-837a-4b28-9b5c-3b21d3213638",
+                "nodeTo": "28ea031e-a197-4708-a6ce-a35b9648783a",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cd6c6263-9e92-4d36-bd7d-a135107eed3e",
+                "nodeTo": "16ad90ac-230d-4d00-a2cc-52206b83accd",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cd6c6263-9e92-4d36-bd7d-a135107eed3e",
+                "nodeTo": "28ea031e-a197-4708-a6ce-a35b9648783a",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d7c694a0-6024-4a5b-8a7b-8d2174e1d74b",
+                "nodeTo": "9201e6d4-73ab-4cc1-a030-302b73d98cd1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d7c694a0-6024-4a5b-8a7b-8d2174e1d74b",
+                "nodeTo": "3ada3bb9-64e7-4c3d-8c1a-d3ec5ad99106",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3ada3bb9-64e7-4c3d-8c1a-d3ec5ad99106",
+                "nodeTo": "b90a6dd3-5754-47d5-a1e6-c2c6dd6b1462",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b90a6dd3-5754-47d5-a1e6-c2c6dd6b1462",
+                "nodeTo": "c977de67-9e35-46ae-82cd-9b17d180ed41",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cd127e8c-837a-4b28-9b5c-3b21d3213638",
+                "nodeTo": "26131684-4558-44b9-a5e4-b03dc049e3bc",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cd6c6263-9e92-4d36-bd7d-a135107eed3e",
+                "nodeTo": "26131684-4558-44b9-a5e4-b03dc049e3bc",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "26131684-4558-44b9-a5e4-b03dc049e3bc",
+                "nodeTo": "9179bb65-c098-4618-8e03-17558cc95231",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "26131684-4558-44b9-a5e4-b03dc049e3bc",
+                "nodeTo": "d01022c0-38dd-4661-8be3-5040ca6b13b4",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "26131684-4558-44b9-a5e4-b03dc049e3bc",
+                "nodeTo": "d7c694a0-6024-4a5b-8a7b-8d2174e1d74b",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9179bb65-c098-4618-8e03-17558cc95231",
+                "nodeTo": "9201e6d4-73ab-4cc1-a030-302b73d98cd1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d01022c0-38dd-4661-8be3-5040ca6b13b4",
+                "nodeTo": "9201e6d4-73ab-4cc1-a030-302b73d98cd1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9179bb65-c098-4618-8e03-17558cc95231",
+                "nodeTo": "3ada3bb9-64e7-4c3d-8c1a-d3ec5ad99106",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d01022c0-38dd-4661-8be3-5040ca6b13b4",
+                "nodeTo": "3ada3bb9-64e7-4c3d-8c1a-d3ec5ad99106",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c977de67-9e35-46ae-82cd-9b17d180ed41",
+                "nodeTo": "77102932-47e4-4b13-9156-42e0d394321b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c977de67-9e35-46ae-82cd-9b17d180ed41",
+                "nodeTo": "209d12e5-671e-4a02-8211-e32d16147e3a",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b90a6dd3-5754-47d5-a1e6-c2c6dd6b1462",
+                "nodeTo": "0197546b-a2a0-4460-a8d1-52772ba43eb3",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0197546b-a2a0-4460-a8d1-52772ba43eb3",
+                "nodeTo": "ae85eab9-9b0e-4b95-a710-590924a071ca",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0197546b-a2a0-4460-a8d1-52772ba43eb3",
+                "nodeTo": "9052a8e6-60a8-4d00-ae24-40088ee4d714",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-11-18 02:09:26"
+}

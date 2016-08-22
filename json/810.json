@@ -1,0 +1,82 @@
+{
+    "uuid": 810,
+    "text": "sexy wood elf with pointy ears",
+    "graph": {
+        "version": 1,
+        "guid": "24659d81-7a1a-40c0-964b-d2698eccb2dc",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "with",
+                "id": "634a6978-bea8-45d0-82c0-433ce5834ba2",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "sexy",
+                "id": "89838309-35be-416a-b68c-507ea434a711",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "wood",
+                "id": "7c0be520-33e0-4c98-9d71-bc64d1240341",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "elf",
+                "id": "9b52b650-5591-497a-a167-706d3a0662d9",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "pointy",
+                "id": "10bb0aa6-1e24-434c-881a-0d4325d87350",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "ears",
+                "id": "34588ae5-9566-4044-a9dc-809e0a6b7e86",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "89838309-35be-416a-b68c-507ea434a711",
+                "nodeTo": "634a6978-bea8-45d0-82c0-433ce5834ba2",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7c0be520-33e0-4c98-9d71-bc64d1240341",
+                "nodeTo": "634a6978-bea8-45d0-82c0-433ce5834ba2",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9b52b650-5591-497a-a167-706d3a0662d9",
+                "nodeTo": "634a6978-bea8-45d0-82c0-433ce5834ba2",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "634a6978-bea8-45d0-82c0-433ce5834ba2",
+                "nodeTo": "10bb0aa6-1e24-434c-881a-0d4325d87350",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "634a6978-bea8-45d0-82c0-433ce5834ba2",
+                "nodeTo": "34588ae5-9566-4044-a9dc-809e0a6b7e86",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-16 18:33:14"
+}

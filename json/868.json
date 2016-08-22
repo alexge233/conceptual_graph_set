@@ -1,0 +1,118 @@
+{
+    "uuid": 868,
+    "text": "Individuals with known CVD should take daily aspirin",
+    "graph": {
+        "version": 1,
+        "guid": "a95574d9-7c0b-4597-8693-e0351664446d",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "with",
+                "id": "37dcccb2-563c-49ce-bb22-eb0c31cd3409",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "should",
+                "id": "6e15cc6d-11d8-4aae-a2d8-e8e7795a9e4b",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "take",
+                "id": "4eed7a05-2a7b-4641-90de-091c2087a244",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Individuals",
+                "id": "393a59a0-e9c7-4b8e-90de-492ec00ab369",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "known",
+                "id": "0b58475d-9b8c-454b-9061-abb728c57233",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "CVD",
+                "id": "0ec27009-6aba-4239-831d-3549aad1647a",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "daily",
+                "id": "3ced7b74-10e3-4c4c-9a2c-9c25c0bb31bc",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "aspirin",
+                "id": "34416052-4036-4b9d-a82e-c75e62ee11db",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "393a59a0-e9c7-4b8e-90de-492ec00ab369",
+                "nodeTo": "37dcccb2-563c-49ce-bb22-eb0c31cd3409",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "37dcccb2-563c-49ce-bb22-eb0c31cd3409",
+                "nodeTo": "0b58475d-9b8c-454b-9061-abb728c57233",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "37dcccb2-563c-49ce-bb22-eb0c31cd3409",
+                "nodeTo": "0ec27009-6aba-4239-831d-3549aad1647a",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "393a59a0-e9c7-4b8e-90de-492ec00ab369",
+                "nodeTo": "6e15cc6d-11d8-4aae-a2d8-e8e7795a9e4b",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "393a59a0-e9c7-4b8e-90de-492ec00ab369",
+                "nodeTo": "4eed7a05-2a7b-4641-90de-091c2087a244",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6e15cc6d-11d8-4aae-a2d8-e8e7795a9e4b",
+                "nodeTo": "3ced7b74-10e3-4c4c-9a2c-9c25c0bb31bc",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4eed7a05-2a7b-4641-90de-091c2087a244",
+                "nodeTo": "3ced7b74-10e3-4c4c-9a2c-9c25c0bb31bc",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6e15cc6d-11d8-4aae-a2d8-e8e7795a9e4b",
+                "nodeTo": "34416052-4036-4b9d-a82e-c75e62ee11db",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4eed7a05-2a7b-4641-90de-091c2087a244",
+                "nodeTo": "34416052-4036-4b9d-a82e-c75e62ee11db",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-19 21:37:15"
+}

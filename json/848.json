@@ -1,0 +1,250 @@
+{
+    "uuid": 848,
+    "text": "overhaul of way cancer waiting times are measured is expected to be trialled throughout Wales",
+    "graph": {
+        "version": 1,
+        "guid": "8e98b176-932c-4cb8-9202-a1452377b2da",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "overhaul",
+                "id": "3be449bc-77d5-4085-a2ae-2e1cbd9a5d27",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "2cd333a4-39a0-4a0d-a7eb-29aba3baec1a",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "are",
+                "id": "4e63ba96-6016-4822-a399-70d4a79dd4c1",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "measured",
+                "id": "e9e36244-4b73-4462-93c4-2c879870ce11",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "is",
+                "id": "2d78eb6c-c6ed-4e22-905d-4c614d206337",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "8bc35e3c-69b6-4b7b-9093-d1d602002c36",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "be",
+                "id": "513c6dcc-3c7d-4ee4-b00a-5309031417bb",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "trialled",
+                "id": "c16d9602-020d-4aed-876d-5a5114404967",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "throughout",
+                "id": "90de0a76-a8ee-40e2-8815-e32205590bdd",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "way",
+                "id": "2c04143b-b1e4-489e-a8a7-0a140d89a745",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "cancer",
+                "id": "19a16001-0822-49e7-a140-224e81895508",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "waiting",
+                "id": "31aedc08-0654-4952-b68a-46446ba8e714",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "times",
+                "id": "8119c701-087c-4e64-839d-185044ec7350",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "expected",
+                "id": "79a92636-0835-4dc7-9ee0-71ddd0e43e14",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "Wales",
+                "id": "0e5ced94-5de6-411a-8b76-319ee8e957e3",
+                "index": 14,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "3be449bc-77d5-4085-a2ae-2e1cbd9a5d27",
+                "nodeTo": "2c04143b-b1e4-489e-a8a7-0a140d89a745",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2cd333a4-39a0-4a0d-a7eb-29aba3baec1a",
+                "nodeTo": "2c04143b-b1e4-489e-a8a7-0a140d89a745",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3be449bc-77d5-4085-a2ae-2e1cbd9a5d27",
+                "nodeTo": "19a16001-0822-49e7-a140-224e81895508",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2cd333a4-39a0-4a0d-a7eb-29aba3baec1a",
+                "nodeTo": "19a16001-0822-49e7-a140-224e81895508",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3be449bc-77d5-4085-a2ae-2e1cbd9a5d27",
+                "nodeTo": "31aedc08-0654-4952-b68a-46446ba8e714",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2cd333a4-39a0-4a0d-a7eb-29aba3baec1a",
+                "nodeTo": "31aedc08-0654-4952-b68a-46446ba8e714",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3be449bc-77d5-4085-a2ae-2e1cbd9a5d27",
+                "nodeTo": "8119c701-087c-4e64-839d-185044ec7350",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2cd333a4-39a0-4a0d-a7eb-29aba3baec1a",
+                "nodeTo": "8119c701-087c-4e64-839d-185044ec7350",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "19a16001-0822-49e7-a140-224e81895508",
+                "nodeTo": "4e63ba96-6016-4822-a399-70d4a79dd4c1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "31aedc08-0654-4952-b68a-46446ba8e714",
+                "nodeTo": "4e63ba96-6016-4822-a399-70d4a79dd4c1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8119c701-087c-4e64-839d-185044ec7350",
+                "nodeTo": "4e63ba96-6016-4822-a399-70d4a79dd4c1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "19a16001-0822-49e7-a140-224e81895508",
+                "nodeTo": "e9e36244-4b73-4462-93c4-2c879870ce11",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "31aedc08-0654-4952-b68a-46446ba8e714",
+                "nodeTo": "e9e36244-4b73-4462-93c4-2c879870ce11",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8119c701-087c-4e64-839d-185044ec7350",
+                "nodeTo": "e9e36244-4b73-4462-93c4-2c879870ce11",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2c04143b-b1e4-489e-a8a7-0a140d89a745",
+                "nodeTo": "2d78eb6c-c6ed-4e22-905d-4c614d206337",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2d78eb6c-c6ed-4e22-905d-4c614d206337",
+                "nodeTo": "79a92636-0835-4dc7-9ee0-71ddd0e43e14",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "79a92636-0835-4dc7-9ee0-71ddd0e43e14",
+                "nodeTo": "8bc35e3c-69b6-4b7b-9093-d1d602002c36",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "79a92636-0835-4dc7-9ee0-71ddd0e43e14",
+                "nodeTo": "513c6dcc-3c7d-4ee4-b00a-5309031417bb",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "79a92636-0835-4dc7-9ee0-71ddd0e43e14",
+                "nodeTo": "c16d9602-020d-4aed-876d-5a5114404967",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "79a92636-0835-4dc7-9ee0-71ddd0e43e14",
+                "nodeTo": "90de0a76-a8ee-40e2-8815-e32205590bdd",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8bc35e3c-69b6-4b7b-9093-d1d602002c36",
+                "nodeTo": "0e5ced94-5de6-411a-8b76-319ee8e957e3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "513c6dcc-3c7d-4ee4-b00a-5309031417bb",
+                "nodeTo": "0e5ced94-5de6-411a-8b76-319ee8e957e3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c16d9602-020d-4aed-876d-5a5114404967",
+                "nodeTo": "0e5ced94-5de6-411a-8b76-319ee8e957e3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "90de0a76-a8ee-40e2-8815-e32205590bdd",
+                "nodeTo": "0e5ced94-5de6-411a-8b76-319ee8e957e3",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-16 21:11:25"
+}

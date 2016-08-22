@@ -1,0 +1,226 @@
+{
+    "uuid": 1184,
+    "text": "It requires use of general anesthesia and is associated with uncommon but potentially life threatening complications",
+    "graph": {
+        "version": 1,
+        "guid": "3830ebcb-ce16-4153-a534-3d9111c8c855",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "requires",
+                "id": "7872a5b5-c478-497d-8825-4c9a633cd05b",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "d1a36464-9986-4abd-a973-1e58613bbd7d",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "2d85765e-4a11-41ca-beb8-61c102516e52",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "is",
+                "id": "484e4523-0e9b-4a40-9bae-89868da30d35",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "associated",
+                "id": "452058dd-4d06-4804-88a5-7ae7ebe23dd3",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "with",
+                "id": "1aa55cb4-a09e-4de7-9e82-a9ee12764559",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "but",
+                "id": "e0da848d-a454-463a-a60e-417c3ee6ccb7",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "It",
+                "id": "27d97d6d-c838-40a8-82c8-8060daa1dcbd",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "use",
+                "id": "84cec9b1-ad3e-4071-be20-95e92db91339",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "general",
+                "id": "6a513539-5887-4d78-ae62-16a1a0d5e038",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "anesthesia",
+                "id": "ec6c4d12-0ccd-4038-9474-c0a19d84c56d",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "uncommon",
+                "id": "ec0b45d9-a4eb-4e2e-86d7-3d83ce5479e0",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "potentially",
+                "id": "1212c392-8117-4ae0-8897-c21e5339173e",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "life",
+                "id": "42871dec-ee11-4383-ab85-cceb071ba97e",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "threatening",
+                "id": "72295679-3430-4d5e-9c89-83d1d955a74c",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "complications",
+                "id": "e2603581-0187-409e-ba0a-1c8bad9b2a26",
+                "index": 15,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "27d97d6d-c838-40a8-82c8-8060daa1dcbd",
+                "nodeTo": "7872a5b5-c478-497d-8825-4c9a633cd05b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7872a5b5-c478-497d-8825-4c9a633cd05b",
+                "nodeTo": "84cec9b1-ad3e-4071-be20-95e92db91339",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "84cec9b1-ad3e-4071-be20-95e92db91339",
+                "nodeTo": "d1a36464-9986-4abd-a973-1e58613bbd7d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d1a36464-9986-4abd-a973-1e58613bbd7d",
+                "nodeTo": "6a513539-5887-4d78-ae62-16a1a0d5e038",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d1a36464-9986-4abd-a973-1e58613bbd7d",
+                "nodeTo": "ec6c4d12-0ccd-4038-9474-c0a19d84c56d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "27d97d6d-c838-40a8-82c8-8060daa1dcbd",
+                "nodeTo": "2d85765e-4a11-41ca-beb8-61c102516e52",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2d85765e-4a11-41ca-beb8-61c102516e52",
+                "nodeTo": "84cec9b1-ad3e-4071-be20-95e92db91339",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "27d97d6d-c838-40a8-82c8-8060daa1dcbd",
+                "nodeTo": "484e4523-0e9b-4a40-9bae-89868da30d35",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "27d97d6d-c838-40a8-82c8-8060daa1dcbd",
+                "nodeTo": "452058dd-4d06-4804-88a5-7ae7ebe23dd3",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "27d97d6d-c838-40a8-82c8-8060daa1dcbd",
+                "nodeTo": "1aa55cb4-a09e-4de7-9e82-a9ee12764559",
+                "index": 5,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2d85765e-4a11-41ca-beb8-61c102516e52",
+                "nodeTo": "ec0b45d9-a4eb-4e2e-86d7-3d83ce5479e0",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "484e4523-0e9b-4a40-9bae-89868da30d35",
+                "nodeTo": "ec0b45d9-a4eb-4e2e-86d7-3d83ce5479e0",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "452058dd-4d06-4804-88a5-7ae7ebe23dd3",
+                "nodeTo": "ec0b45d9-a4eb-4e2e-86d7-3d83ce5479e0",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1aa55cb4-a09e-4de7-9e82-a9ee12764559",
+                "nodeTo": "ec0b45d9-a4eb-4e2e-86d7-3d83ce5479e0",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ec0b45d9-a4eb-4e2e-86d7-3d83ce5479e0",
+                "nodeTo": "e0da848d-a454-463a-a60e-417c3ee6ccb7",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e0da848d-a454-463a-a60e-417c3ee6ccb7",
+                "nodeTo": "1212c392-8117-4ae0-8897-c21e5339173e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e0da848d-a454-463a-a60e-417c3ee6ccb7",
+                "nodeTo": "42871dec-ee11-4383-ab85-cceb071ba97e",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e0da848d-a454-463a-a60e-417c3ee6ccb7",
+                "nodeTo": "72295679-3430-4d5e-9c89-83d1d955a74c",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e0da848d-a454-463a-a60e-417c3ee6ccb7",
+                "nodeTo": "e2603581-0187-409e-ba0a-1c8bad9b2a26",
+                "index": 4,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-25 19:22:48"
+}

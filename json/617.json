@@ -1,0 +1,160 @@
+{
+    "uuid": 617,
+    "text": "However these effects can be counterbalanced by fresh young red blood cells",
+    "graph": {
+        "version": 1,
+        "guid": "19928a8c-c11c-40a1-990b-7805d4e4ae37",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "However",
+                "id": "a9ad7696-5c45-4582-a84d-dee2dc7045e2",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "these",
+                "id": "30abddc4-3190-4db2-9d76-e2c141672a32",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "can",
+                "id": "6c882891-1a73-486e-9075-16416e7ab343",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "be",
+                "id": "1dda3ce8-7738-43a5-8d00-ac5099eed365",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "by",
+                "id": "4e38ba82-d272-4e9a-9c9a-95e9590e89c1",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "effects",
+                "id": "a9e0ab0a-56a7-4654-8e74-377e2064244b",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "counterbalanced",
+                "id": "5312072b-6c4b-49de-bbc0-268835198919",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "fresh",
+                "id": "161b341a-9d04-4e8e-a3b5-003399acc80a",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "young",
+                "id": "02d4b330-b7b5-45e8-b0ad-c2a83b3676cc",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "red",
+                "id": "0b84a2b6-e963-4123-8972-1aa9baae8653",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "blood",
+                "id": "686079c9-7150-45c7-9906-04b42e17574e",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "cells",
+                "id": "9dd47cdc-c3ec-4e89-acb6-85c077eb2dce",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "a9ad7696-5c45-4582-a84d-dee2dc7045e2",
+                "nodeTo": "a9e0ab0a-56a7-4654-8e74-377e2064244b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "30abddc4-3190-4db2-9d76-e2c141672a32",
+                "nodeTo": "a9e0ab0a-56a7-4654-8e74-377e2064244b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a9e0ab0a-56a7-4654-8e74-377e2064244b",
+                "nodeTo": "6c882891-1a73-486e-9075-16416e7ab343",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a9e0ab0a-56a7-4654-8e74-377e2064244b",
+                "nodeTo": "1dda3ce8-7738-43a5-8d00-ac5099eed365",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6c882891-1a73-486e-9075-16416e7ab343",
+                "nodeTo": "5312072b-6c4b-49de-bbc0-268835198919",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1dda3ce8-7738-43a5-8d00-ac5099eed365",
+                "nodeTo": "5312072b-6c4b-49de-bbc0-268835198919",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5312072b-6c4b-49de-bbc0-268835198919",
+                "nodeTo": "4e38ba82-d272-4e9a-9c9a-95e9590e89c1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4e38ba82-d272-4e9a-9c9a-95e9590e89c1",
+                "nodeTo": "161b341a-9d04-4e8e-a3b5-003399acc80a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4e38ba82-d272-4e9a-9c9a-95e9590e89c1",
+                "nodeTo": "02d4b330-b7b5-45e8-b0ad-c2a83b3676cc",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4e38ba82-d272-4e9a-9c9a-95e9590e89c1",
+                "nodeTo": "0b84a2b6-e963-4123-8972-1aa9baae8653",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4e38ba82-d272-4e9a-9c9a-95e9590e89c1",
+                "nodeTo": "686079c9-7150-45c7-9906-04b42e17574e",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4e38ba82-d272-4e9a-9c9a-95e9590e89c1",
+                "nodeTo": "9dd47cdc-c3ec-4e89-acb6-85c077eb2dce",
+                "index": 5,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-08 19:21:26"
+}

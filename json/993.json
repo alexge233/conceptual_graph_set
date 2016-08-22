@@ -1,0 +1,274 @@
+{
+    "uuid": 993,
+    "text": "Millions of children in UK are being given penicillin at too low dose putting them at risk of persistent infections",
+    "graph": {
+        "version": 1,
+        "guid": "60a5db28-54d5-4032-b027-880418763560",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "of",
+                "id": "9a740635-d894-4bae-be41-9d996b170493",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "ed4d7380-2524-4644-ab39-7887b6e69556",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "are",
+                "id": "9a6e6cd5-e116-451e-a2b2-607d191114da",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "being",
+                "id": "8eb5ec4b-ae30-47dc-8c7e-6687b68302ac",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "given",
+                "id": "5721644c-259e-4a64-a945-8e0b5645dbc3",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "at",
+                "id": "79bd7d2c-1b71-4ac1-822c-6979c2d956c1",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "putting",
+                "id": "a9390d94-1185-46b8-9c78-b2ab728c42c8",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "at",
+                "id": "144ca00e-4ec9-4a94-80b3-6ee6a7c44433",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "c621b37c-d589-427c-b036-1776c661dd40",
+                "index": 17,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Millions",
+                "id": "cd07a547-cc9d-49dd-8049-99a48b8ac07c",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "children",
+                "id": "cc2abea7-37d1-49c8-8617-31d26d13482c",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "UK",
+                "id": "06c013b3-8775-413d-8b98-62d417a19a80",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "penicillin",
+                "id": "709be4c2-0965-45a6-bc1c-594aedc92952",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "too",
+                "id": "73e94ee3-43b2-421c-a951-4521cd353675",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "low",
+                "id": "2bcdd90e-31d2-4558-9d7c-a40a92449862",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "dose",
+                "id": "35356372-6801-4317-a926-b0ccb4b56b71",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "them",
+                "id": "9d4950ea-61c3-49b3-b1e8-1b4a161aaace",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "risk",
+                "id": "8444ecb3-a765-4111-9b19-b460931b56a3",
+                "index": 16,
+                "postag": "NA"
+            },
+            {
+                "label": "persistent",
+                "id": "b12aa77e-50c5-4d23-8d03-03dcad960ee5",
+                "index": 18,
+                "postag": "NA"
+            },
+            {
+                "label": "infections",
+                "id": "ccc06938-9906-4435-a027-41738a425ad9",
+                "index": 19,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "cd07a547-cc9d-49dd-8049-99a48b8ac07c",
+                "nodeTo": "9a740635-d894-4bae-be41-9d996b170493",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9a740635-d894-4bae-be41-9d996b170493",
+                "nodeTo": "cc2abea7-37d1-49c8-8617-31d26d13482c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "cd07a547-cc9d-49dd-8049-99a48b8ac07c",
+                "nodeTo": "ed4d7380-2524-4644-ab39-7887b6e69556",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ed4d7380-2524-4644-ab39-7887b6e69556",
+                "nodeTo": "06c013b3-8775-413d-8b98-62d417a19a80",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "cd07a547-cc9d-49dd-8049-99a48b8ac07c",
+                "nodeTo": "9a6e6cd5-e116-451e-a2b2-607d191114da",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cd07a547-cc9d-49dd-8049-99a48b8ac07c",
+                "nodeTo": "8eb5ec4b-ae30-47dc-8c7e-6687b68302ac",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cd07a547-cc9d-49dd-8049-99a48b8ac07c",
+                "nodeTo": "5721644c-259e-4a64-a945-8e0b5645dbc3",
+                "index": 5,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9a6e6cd5-e116-451e-a2b2-607d191114da",
+                "nodeTo": "709be4c2-0965-45a6-bc1c-594aedc92952",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8eb5ec4b-ae30-47dc-8c7e-6687b68302ac",
+                "nodeTo": "709be4c2-0965-45a6-bc1c-594aedc92952",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5721644c-259e-4a64-a945-8e0b5645dbc3",
+                "nodeTo": "709be4c2-0965-45a6-bc1c-594aedc92952",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "709be4c2-0965-45a6-bc1c-594aedc92952",
+                "nodeTo": "79bd7d2c-1b71-4ac1-822c-6979c2d956c1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "79bd7d2c-1b71-4ac1-822c-6979c2d956c1",
+                "nodeTo": "73e94ee3-43b2-421c-a951-4521cd353675",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "79bd7d2c-1b71-4ac1-822c-6979c2d956c1",
+                "nodeTo": "2bcdd90e-31d2-4558-9d7c-a40a92449862",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "79bd7d2c-1b71-4ac1-822c-6979c2d956c1",
+                "nodeTo": "35356372-6801-4317-a926-b0ccb4b56b71",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "73e94ee3-43b2-421c-a951-4521cd353675",
+                "nodeTo": "a9390d94-1185-46b8-9c78-b2ab728c42c8",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2bcdd90e-31d2-4558-9d7c-a40a92449862",
+                "nodeTo": "a9390d94-1185-46b8-9c78-b2ab728c42c8",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "35356372-6801-4317-a926-b0ccb4b56b71",
+                "nodeTo": "a9390d94-1185-46b8-9c78-b2ab728c42c8",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a9390d94-1185-46b8-9c78-b2ab728c42c8",
+                "nodeTo": "9d4950ea-61c3-49b3-b1e8-1b4a161aaace",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9d4950ea-61c3-49b3-b1e8-1b4a161aaace",
+                "nodeTo": "144ca00e-4ec9-4a94-80b3-6ee6a7c44433",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "144ca00e-4ec9-4a94-80b3-6ee6a7c44433",
+                "nodeTo": "8444ecb3-a765-4111-9b19-b460931b56a3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8444ecb3-a765-4111-9b19-b460931b56a3",
+                "nodeTo": "c621b37c-d589-427c-b036-1776c661dd40",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c621b37c-d589-427c-b036-1776c661dd40",
+                "nodeTo": "b12aa77e-50c5-4d23-8d03-03dcad960ee5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c621b37c-d589-427c-b036-1776c661dd40",
+                "nodeTo": "ccc06938-9906-4435-a027-41738a425ad9",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-02 17:07:58"
+}

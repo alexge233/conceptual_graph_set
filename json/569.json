@@ -1,0 +1,154 @@
+{
+    "uuid": 569,
+    "text": "normally shaped like donut diseased cells instead have crescent like appearance",
+    "graph": {
+        "version": 1,
+        "guid": "d225c8bc-b89d-41c4-ad0b-6182a17c20be",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "shaped",
+                "id": "6db5449d-28c7-48d1-8b8b-30e48078849c",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "like",
+                "id": "b8e78a91-4721-403d-bad3-76c129d8d548",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "instead",
+                "id": "801677da-2209-424a-a181-40963bbdc230",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "have",
+                "id": "1238dbbd-2bb0-4265-a585-6721372209b2",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "like",
+                "id": "56090ee5-28bb-4206-a505-3601868a567d",
+                "postag": "NA",
+                "index": 9
+            }
+        ],
+        "concepts": [
+            {
+                "label": "normally",
+                "id": "da61844e-a484-4113-a74c-ec7cebe9da51",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "donut",
+                "id": "db2dc281-4979-45c3-a42b-b9129aab69b9",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "diseased",
+                "id": "d5154934-8b2b-4d28-a0be-e10c59e30535",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "cells",
+                "id": "e4dc9e39-86cc-430a-919a-0e0311327e83",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "crescent",
+                "id": "096dc156-3d4a-4acb-9bb2-ba744d916151",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "appearance",
+                "id": "73a22972-841a-44c0-91ac-69dbb9910e77",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "da61844e-a484-4113-a74c-ec7cebe9da51",
+                "nodeTo": "6db5449d-28c7-48d1-8b8b-30e48078849c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "da61844e-a484-4113-a74c-ec7cebe9da51",
+                "nodeTo": "b8e78a91-4721-403d-bad3-76c129d8d548",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6db5449d-28c7-48d1-8b8b-30e48078849c",
+                "nodeTo": "db2dc281-4979-45c3-a42b-b9129aab69b9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b8e78a91-4721-403d-bad3-76c129d8d548",
+                "nodeTo": "db2dc281-4979-45c3-a42b-b9129aab69b9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d5154934-8b2b-4d28-a0be-e10c59e30535",
+                "nodeTo": "801677da-2209-424a-a181-40963bbdc230",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e4dc9e39-86cc-430a-919a-0e0311327e83",
+                "nodeTo": "801677da-2209-424a-a181-40963bbdc230",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "801677da-2209-424a-a181-40963bbdc230",
+                "nodeTo": "da61844e-a484-4113-a74c-ec7cebe9da51",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d5154934-8b2b-4d28-a0be-e10c59e30535",
+                "nodeTo": "1238dbbd-2bb0-4265-a585-6721372209b2",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e4dc9e39-86cc-430a-919a-0e0311327e83",
+                "nodeTo": "1238dbbd-2bb0-4265-a585-6721372209b2",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1238dbbd-2bb0-4265-a585-6721372209b2",
+                "nodeTo": "096dc156-3d4a-4acb-9bb2-ba744d916151",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "096dc156-3d4a-4acb-9bb2-ba744d916151",
+                "nodeTo": "56090ee5-28bb-4206-a505-3601868a567d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "56090ee5-28bb-4206-a505-3601868a567d",
+                "nodeTo": "73a22972-841a-44c0-91ac-69dbb9910e77",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-07 17:51:59"
+}

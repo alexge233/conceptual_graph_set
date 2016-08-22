@@ -1,0 +1,82 @@
+{
+    "uuid": 776,
+    "text": "call to discover new antibiotics",
+    "graph": {
+        "version": 1,
+        "guid": "069e6264-7c85-4ca1-9ad5-802bb7d5ceb9",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "to",
+                "id": "d3d20492-7c75-4b59-8a66-653d6ade6e16",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "discover",
+                "id": "ba27a4ee-4640-44ce-8ec3-619120c7ca2c",
+                "index": 2,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "call",
+                "id": "88c2b9e3-452b-4cb8-b797-95b96a849e17",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "new",
+                "id": "313ad5b9-81d5-4c24-85c0-b1340c9c1386",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "antibiotics",
+                "id": "bd97c904-59d2-4e2b-845e-e1be08537cae",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "88c2b9e3-452b-4cb8-b797-95b96a849e17",
+                "nodeTo": "d3d20492-7c75-4b59-8a66-653d6ade6e16",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "88c2b9e3-452b-4cb8-b797-95b96a849e17",
+                "nodeTo": "ba27a4ee-4640-44ce-8ec3-619120c7ca2c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d3d20492-7c75-4b59-8a66-653d6ade6e16",
+                "nodeTo": "313ad5b9-81d5-4c24-85c0-b1340c9c1386",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ba27a4ee-4640-44ce-8ec3-619120c7ca2c",
+                "nodeTo": "313ad5b9-81d5-4c24-85c0-b1340c9c1386",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d3d20492-7c75-4b59-8a66-653d6ade6e16",
+                "nodeTo": "bd97c904-59d2-4e2b-845e-e1be08537cae",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ba27a4ee-4640-44ce-8ec3-619120c7ca2c",
+                "nodeTo": "bd97c904-59d2-4e2b-845e-e1be08537cae",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-15 19:25:27"
+}

@@ -1,0 +1,106 @@
+{
+    "uuid": 1177,
+    "text": "common sense health for young adult cancer survivors",
+    "graph": {
+        "version": 1,
+        "guid": "d49726eb-8889-47ce-aec5-2cc6cd46604d",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "for",
+                "id": "e1740199-9318-4e82-b893-0abd600e563c",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "common",
+                "id": "7407212e-a767-4c63-80db-e615600ed73b",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "sense",
+                "id": "c8b31924-554a-4667-ad9e-7b9ebbcc5e31",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "health",
+                "id": "05da5ca7-9534-443a-ab34-510c2371e247",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "young",
+                "id": "34291c67-0ab9-464d-9b08-4a76471865d3",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "adult",
+                "id": "7d2e8115-a2d5-4706-87cd-399cdab8b52c",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "cancer",
+                "id": "6d7bc84b-6e65-49d3-914d-606becb64d3d",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "survivors",
+                "id": "9dbc6a19-3bdc-41e3-b3ab-abe6de393126",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "7407212e-a767-4c63-80db-e615600ed73b",
+                "nodeTo": "e1740199-9318-4e82-b893-0abd600e563c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c8b31924-554a-4667-ad9e-7b9ebbcc5e31",
+                "nodeTo": "e1740199-9318-4e82-b893-0abd600e563c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "05da5ca7-9534-443a-ab34-510c2371e247",
+                "nodeTo": "e1740199-9318-4e82-b893-0abd600e563c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e1740199-9318-4e82-b893-0abd600e563c",
+                "nodeTo": "34291c67-0ab9-464d-9b08-4a76471865d3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e1740199-9318-4e82-b893-0abd600e563c",
+                "nodeTo": "7d2e8115-a2d5-4706-87cd-399cdab8b52c",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e1740199-9318-4e82-b893-0abd600e563c",
+                "nodeTo": "6d7bc84b-6e65-49d3-914d-606becb64d3d",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e1740199-9318-4e82-b893-0abd600e563c",
+                "nodeTo": "9dbc6a19-3bdc-41e3-b3ab-abe6de393126",
+                "index": 4,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-25 18:20:02"
+}

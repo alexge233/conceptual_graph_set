@@ -1,0 +1,292 @@
+{
+    "uuid": 1128,
+    "text": "five week psychological intervention can have beneficial effects for women dealing with stresses of breast cancer diagnosis and surgery",
+    "graph": {
+        "version": 1,
+        "guid": "e1b7712b-ad80-46a4-a299-eee3934a894e",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "can",
+                "id": "987a0e04-5dae-4617-8907-3c4584b9140d",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "have",
+                "id": "6170930c-8123-4cbc-b66b-1c9595c8b038",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "85569a8d-c96b-42ee-a60e-7ecb676e5bbb",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "dealing",
+                "id": "c0a8302b-ed88-47a9-b954-878ede79d97d",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "with",
+                "id": "4ad82c50-1ba0-45e6-91d3-acb7b7ca3d43",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "2e1e8b51-cc10-447d-9a51-495e3ec63c26",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "833bdcb3-0358-4259-bc69-cc7039aecc70",
+                "index": 17,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "five",
+                "id": "6d81e9b8-36d5-4454-9c38-eb0537e53324",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "week",
+                "id": "0b96d413-bbae-469c-a378-19c853bb9026",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "psychological",
+                "id": "b189a880-e0c7-477d-9b73-7225ee89901e",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "intervention",
+                "id": "556836a0-9229-4c5b-8b46-64ee7541c23d",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "beneficial",
+                "id": "5c344a52-5c4c-41d0-8d26-51dbb94658d7",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "effects",
+                "id": "cc148da5-75b0-4ec6-9a10-a8c60bc53d5c",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "women",
+                "id": "6ca4cd6c-27d4-43c7-8e8c-208eaa89a198",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "stresses",
+                "id": "206abd45-35d3-41db-9b69-dea7985368a7",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "breast",
+                "id": "caa9cd02-6dae-4791-b28d-82786a24e12e",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "cancer",
+                "id": "728a97ed-0e15-4764-ba3e-c142ad9030b3",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "diagnosis",
+                "id": "91880460-3cc6-432a-878d-2d0eb4e7d0b6",
+                "index": 16,
+                "postag": "NA"
+            },
+            {
+                "label": "surgery",
+                "id": "1517a7e2-5b88-421c-a565-48c5ebd770bc",
+                "index": 18,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "6d81e9b8-36d5-4454-9c38-eb0537e53324",
+                "nodeTo": "987a0e04-5dae-4617-8907-3c4584b9140d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0b96d413-bbae-469c-a378-19c853bb9026",
+                "nodeTo": "987a0e04-5dae-4617-8907-3c4584b9140d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b189a880-e0c7-477d-9b73-7225ee89901e",
+                "nodeTo": "987a0e04-5dae-4617-8907-3c4584b9140d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "556836a0-9229-4c5b-8b46-64ee7541c23d",
+                "nodeTo": "987a0e04-5dae-4617-8907-3c4584b9140d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6d81e9b8-36d5-4454-9c38-eb0537e53324",
+                "nodeTo": "6170930c-8123-4cbc-b66b-1c9595c8b038",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0b96d413-bbae-469c-a378-19c853bb9026",
+                "nodeTo": "6170930c-8123-4cbc-b66b-1c9595c8b038",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b189a880-e0c7-477d-9b73-7225ee89901e",
+                "nodeTo": "6170930c-8123-4cbc-b66b-1c9595c8b038",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "556836a0-9229-4c5b-8b46-64ee7541c23d",
+                "nodeTo": "6170930c-8123-4cbc-b66b-1c9595c8b038",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "987a0e04-5dae-4617-8907-3c4584b9140d",
+                "nodeTo": "5c344a52-5c4c-41d0-8d26-51dbb94658d7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6170930c-8123-4cbc-b66b-1c9595c8b038",
+                "nodeTo": "5c344a52-5c4c-41d0-8d26-51dbb94658d7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "987a0e04-5dae-4617-8907-3c4584b9140d",
+                "nodeTo": "cc148da5-75b0-4ec6-9a10-a8c60bc53d5c",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6170930c-8123-4cbc-b66b-1c9595c8b038",
+                "nodeTo": "cc148da5-75b0-4ec6-9a10-a8c60bc53d5c",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5c344a52-5c4c-41d0-8d26-51dbb94658d7",
+                "nodeTo": "85569a8d-c96b-42ee-a60e-7ecb676e5bbb",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cc148da5-75b0-4ec6-9a10-a8c60bc53d5c",
+                "nodeTo": "85569a8d-c96b-42ee-a60e-7ecb676e5bbb",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "85569a8d-c96b-42ee-a60e-7ecb676e5bbb",
+                "nodeTo": "6ca4cd6c-27d4-43c7-8e8c-208eaa89a198",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6ca4cd6c-27d4-43c7-8e8c-208eaa89a198",
+                "nodeTo": "c0a8302b-ed88-47a9-b954-878ede79d97d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6ca4cd6c-27d4-43c7-8e8c-208eaa89a198",
+                "nodeTo": "4ad82c50-1ba0-45e6-91d3-acb7b7ca3d43",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c0a8302b-ed88-47a9-b954-878ede79d97d",
+                "nodeTo": "206abd45-35d3-41db-9b69-dea7985368a7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4ad82c50-1ba0-45e6-91d3-acb7b7ca3d43",
+                "nodeTo": "206abd45-35d3-41db-9b69-dea7985368a7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "206abd45-35d3-41db-9b69-dea7985368a7",
+                "nodeTo": "2e1e8b51-cc10-447d-9a51-495e3ec63c26",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2e1e8b51-cc10-447d-9a51-495e3ec63c26",
+                "nodeTo": "caa9cd02-6dae-4791-b28d-82786a24e12e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2e1e8b51-cc10-447d-9a51-495e3ec63c26",
+                "nodeTo": "728a97ed-0e15-4764-ba3e-c142ad9030b3",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2e1e8b51-cc10-447d-9a51-495e3ec63c26",
+                "nodeTo": "91880460-3cc6-432a-878d-2d0eb4e7d0b6",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "caa9cd02-6dae-4791-b28d-82786a24e12e",
+                "nodeTo": "833bdcb3-0358-4259-bc69-cc7039aecc70",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "728a97ed-0e15-4764-ba3e-c142ad9030b3",
+                "nodeTo": "833bdcb3-0358-4259-bc69-cc7039aecc70",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "91880460-3cc6-432a-878d-2d0eb4e7d0b6",
+                "nodeTo": "833bdcb3-0358-4259-bc69-cc7039aecc70",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "833bdcb3-0358-4259-bc69-cc7039aecc70",
+                "nodeTo": "1517a7e2-5b88-421c-a565-48c5ebd770bc",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-23 18:37:46"
+}

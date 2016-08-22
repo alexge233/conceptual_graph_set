@@ -1,0 +1,184 @@
+{
+    "uuid": 902,
+    "text": "contagious yawning is linked more closely to age than tiredness or empathy",
+    "graph": {
+        "version": 1,
+        "guid": "39106b2c-1220-4771-8314-b53c3a30eb04",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "is",
+                "id": "ade2d986-4a82-4581-b976-e27b966803d7",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "linked",
+                "id": "6540eadd-76a8-4cbe-8874-65615e753a31",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "452a6431-b532-4571-8bc5-a3b6935ead50",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "than",
+                "id": "bdc6b819-130e-4490-b4de-5c6687b2c428",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "or",
+                "id": "ec01c1a9-0365-482e-a885-081517652908",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "contagious",
+                "id": "b3c3468d-2d70-4432-b434-d8ab277624d1",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "yawning",
+                "id": "a5aa0aa4-c80e-49ee-a0a5-0e66edd4320a",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "more",
+                "id": "baa7a6ed-87b9-4b2c-a0c0-7ba0d3349802",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "closely",
+                "id": "488bd02c-d6e6-4c40-aa56-57685458ee6a",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "age",
+                "id": "aa30ecc2-7369-43c8-a41b-225c5eb6a5d8",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "tiredness",
+                "id": "6a94c7a7-3ab9-443b-9837-d1b784ebe354",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "empathy",
+                "id": "72186793-33b3-4cdc-b1aa-1764915d851e",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "b3c3468d-2d70-4432-b434-d8ab277624d1",
+                "nodeTo": "ade2d986-4a82-4581-b976-e27b966803d7",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b3c3468d-2d70-4432-b434-d8ab277624d1",
+                "nodeTo": "6540eadd-76a8-4cbe-8874-65615e753a31",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a5aa0aa4-c80e-49ee-a0a5-0e66edd4320a",
+                "nodeTo": "ade2d986-4a82-4581-b976-e27b966803d7",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a5aa0aa4-c80e-49ee-a0a5-0e66edd4320a",
+                "nodeTo": "6540eadd-76a8-4cbe-8874-65615e753a31",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ade2d986-4a82-4581-b976-e27b966803d7",
+                "nodeTo": "baa7a6ed-87b9-4b2c-a0c0-7ba0d3349802",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6540eadd-76a8-4cbe-8874-65615e753a31",
+                "nodeTo": "baa7a6ed-87b9-4b2c-a0c0-7ba0d3349802",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ade2d986-4a82-4581-b976-e27b966803d7",
+                "nodeTo": "488bd02c-d6e6-4c40-aa56-57685458ee6a",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6540eadd-76a8-4cbe-8874-65615e753a31",
+                "nodeTo": "488bd02c-d6e6-4c40-aa56-57685458ee6a",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "baa7a6ed-87b9-4b2c-a0c0-7ba0d3349802",
+                "nodeTo": "452a6431-b532-4571-8bc5-a3b6935ead50",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "488bd02c-d6e6-4c40-aa56-57685458ee6a",
+                "nodeTo": "452a6431-b532-4571-8bc5-a3b6935ead50",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "452a6431-b532-4571-8bc5-a3b6935ead50",
+                "nodeTo": "aa30ecc2-7369-43c8-a41b-225c5eb6a5d8",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "baa7a6ed-87b9-4b2c-a0c0-7ba0d3349802",
+                "nodeTo": "bdc6b819-130e-4490-b4de-5c6687b2c428",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "488bd02c-d6e6-4c40-aa56-57685458ee6a",
+                "nodeTo": "bdc6b819-130e-4490-b4de-5c6687b2c428",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bdc6b819-130e-4490-b4de-5c6687b2c428",
+                "nodeTo": "6a94c7a7-3ab9-443b-9837-d1b784ebe354",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6a94c7a7-3ab9-443b-9837-d1b784ebe354",
+                "nodeTo": "ec01c1a9-0365-482e-a885-081517652908",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ec01c1a9-0365-482e-a885-081517652908",
+                "nodeTo": "72186793-33b3-4cdc-b1aa-1764915d851e",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-21 15:13:13"
+}

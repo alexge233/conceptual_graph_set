@@ -1,0 +1,142 @@
+{
+    "uuid": 782,
+    "text": "prime minister tells MPs state of NHS in Wales is scandal",
+    "graph": {
+        "version": 1,
+        "guid": "02762d82-5ab0-48eb-b2e7-7aeb14c63027",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "tells",
+                "id": "9051567a-4bd9-4aba-a13a-1793baa7347d",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "1ab917d3-b19d-4105-ad44-604173d42ab8",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "5c7b40ae-3a3b-40b9-b240-e535e643a4a5",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "is",
+                "id": "635e6b0a-814c-4b67-96d2-489127970703",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "prime",
+                "id": "bc90292a-b12d-4925-8b9b-4e85b845d43e",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "minister",
+                "id": "663ac489-0c2d-4204-9dcc-2406b032171a",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "MPs",
+                "id": "b85790bc-1cc0-4237-be13-71db98656d8c",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "state",
+                "id": "64d292bc-779b-440d-8d8e-d524b09e7d50",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "NHS",
+                "id": "b372d49a-7887-4621-ab0e-308675e52a52",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "Wales",
+                "id": "32ed6ee5-8856-46a1-8338-2061aecbb967",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "scandal",
+                "id": "04446adc-730d-49e4-8016-ac4e1bd1202c",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "bc90292a-b12d-4925-8b9b-4e85b845d43e",
+                "nodeTo": "9051567a-4bd9-4aba-a13a-1793baa7347d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "663ac489-0c2d-4204-9dcc-2406b032171a",
+                "nodeTo": "9051567a-4bd9-4aba-a13a-1793baa7347d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9051567a-4bd9-4aba-a13a-1793baa7347d",
+                "nodeTo": "b85790bc-1cc0-4237-be13-71db98656d8c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9051567a-4bd9-4aba-a13a-1793baa7347d",
+                "nodeTo": "64d292bc-779b-440d-8d8e-d524b09e7d50",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "64d292bc-779b-440d-8d8e-d524b09e7d50",
+                "nodeTo": "1ab917d3-b19d-4105-ad44-604173d42ab8",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1ab917d3-b19d-4105-ad44-604173d42ab8",
+                "nodeTo": "b372d49a-7887-4621-ab0e-308675e52a52",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b372d49a-7887-4621-ab0e-308675e52a52",
+                "nodeTo": "5c7b40ae-3a3b-40b9-b240-e535e643a4a5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5c7b40ae-3a3b-40b9-b240-e535e643a4a5",
+                "nodeTo": "32ed6ee5-8856-46a1-8338-2061aecbb967",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "64d292bc-779b-440d-8d8e-d524b09e7d50",
+                "nodeTo": "635e6b0a-814c-4b67-96d2-489127970703",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "635e6b0a-814c-4b67-96d2-489127970703",
+                "nodeTo": "04446adc-730d-49e4-8016-ac4e1bd1202c",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-15 19:53:40"
+}

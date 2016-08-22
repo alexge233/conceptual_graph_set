@@ -1,0 +1,76 @@
+{
+    "uuid": 245,
+    "text": "A&E waiting time targets improve",
+    "graph": {
+        "version": 1,
+        "guid": "b9998c13-6a58-48b6-8405-a5016e759b26",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "waiting",
+                "id": "2eb6a72b-9184-4b85-a19a-e80de6608eb3",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "improve",
+                "id": "3b869856-2695-4286-826a-7257557b7c9d",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "A&E",
+                "id": "a1349b4a-b4ac-4e13-b61c-a621c49c2ac7",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "time",
+                "id": "431b90b1-d5ee-49d9-92a3-38c2c98c3543",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "targets",
+                "id": "1bdac854-ceae-40dc-b5de-5d053aaa50d7",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "a1349b4a-b4ac-4e13-b61c-a621c49c2ac7",
+                "nodeTo": "2eb6a72b-9184-4b85-a19a-e80de6608eb3",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2eb6a72b-9184-4b85-a19a-e80de6608eb3",
+                "nodeTo": "431b90b1-d5ee-49d9-92a3-38c2c98c3543",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2eb6a72b-9184-4b85-a19a-e80de6608eb3",
+                "nodeTo": "1bdac854-ceae-40dc-b5de-5d053aaa50d7",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "431b90b1-d5ee-49d9-92a3-38c2c98c3543",
+                "nodeTo": "3b869856-2695-4286-826a-7257557b7c9d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1bdac854-ceae-40dc-b5de-5d053aaa50d7",
+                "nodeTo": "3b869856-2695-4286-826a-7257557b7c9d",
+                "index": 1,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2014-12-01 16:27:17"
+}

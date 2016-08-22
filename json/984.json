@@ -1,0 +1,238 @@
+{
+    "uuid": 984,
+    "text": "study found dysregulation of certain hormones in people who had been abused or neglected as children",
+    "graph": {
+        "version": 1,
+        "guid": "e2ee6265-1a3d-490c-b8dd-ac30750ea2ad",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "found",
+                "id": "4e66c161-b11a-4148-beb2-408ba687eba2",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "89921179-dcdd-41bc-bb52-cb9e22db2c3d",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "6e34ce0e-96e2-4ab9-8491-d41ac335e673",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "who",
+                "id": "a377cc62-628d-41a3-a887-98e633747225",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "had",
+                "id": "12d2c286-8003-46e1-863a-40d933ca1c5a",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "been",
+                "id": "edc3a307-36d7-4c23-8722-5ea4a6928e99",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "or",
+                "id": "72683766-a1ce-4c05-a100-68e6e2ec4b6c",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "as",
+                "id": "5475a10d-e083-4032-8528-1910b3bc3227",
+                "index": 14,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "study",
+                "id": "c490427b-6a8e-44e6-81a8-03773ba783d3",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "dysregulation",
+                "id": "d682ea45-01b2-42a9-9596-54c1b5b8c609",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "certain",
+                "id": "51a98269-78b1-4510-8a64-97b89d50edd0",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "hormones",
+                "id": "71bb2cdb-e4b0-437e-b4c4-0030768d8ec0",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "people",
+                "id": "54e82336-d0a4-425e-baa2-d659669d61e9",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "abused",
+                "id": "27d4bc72-4844-4454-ba23-e7d58e5b96b3",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "neglected",
+                "id": "a1325921-3022-46e7-9540-d0b3559d4aa2",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "children",
+                "id": "60cd804c-01cc-4b12-a944-6060584b7b4b",
+                "index": 15,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "c490427b-6a8e-44e6-81a8-03773ba783d3",
+                "nodeTo": "4e66c161-b11a-4148-beb2-408ba687eba2",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4e66c161-b11a-4148-beb2-408ba687eba2",
+                "nodeTo": "d682ea45-01b2-42a9-9596-54c1b5b8c609",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d682ea45-01b2-42a9-9596-54c1b5b8c609",
+                "nodeTo": "89921179-dcdd-41bc-bb52-cb9e22db2c3d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "89921179-dcdd-41bc-bb52-cb9e22db2c3d",
+                "nodeTo": "51a98269-78b1-4510-8a64-97b89d50edd0",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "89921179-dcdd-41bc-bb52-cb9e22db2c3d",
+                "nodeTo": "71bb2cdb-e4b0-437e-b4c4-0030768d8ec0",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "51a98269-78b1-4510-8a64-97b89d50edd0",
+                "nodeTo": "6e34ce0e-96e2-4ab9-8491-d41ac335e673",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "71bb2cdb-e4b0-437e-b4c4-0030768d8ec0",
+                "nodeTo": "6e34ce0e-96e2-4ab9-8491-d41ac335e673",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6e34ce0e-96e2-4ab9-8491-d41ac335e673",
+                "nodeTo": "54e82336-d0a4-425e-baa2-d659669d61e9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "54e82336-d0a4-425e-baa2-d659669d61e9",
+                "nodeTo": "a377cc62-628d-41a3-a887-98e633747225",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "54e82336-d0a4-425e-baa2-d659669d61e9",
+                "nodeTo": "12d2c286-8003-46e1-863a-40d933ca1c5a",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "54e82336-d0a4-425e-baa2-d659669d61e9",
+                "nodeTo": "edc3a307-36d7-4c23-8722-5ea4a6928e99",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a377cc62-628d-41a3-a887-98e633747225",
+                "nodeTo": "27d4bc72-4844-4454-ba23-e7d58e5b96b3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "12d2c286-8003-46e1-863a-40d933ca1c5a",
+                "nodeTo": "27d4bc72-4844-4454-ba23-e7d58e5b96b3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "edc3a307-36d7-4c23-8722-5ea4a6928e99",
+                "nodeTo": "27d4bc72-4844-4454-ba23-e7d58e5b96b3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "27d4bc72-4844-4454-ba23-e7d58e5b96b3",
+                "nodeTo": "72683766-a1ce-4c05-a100-68e6e2ec4b6c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "72683766-a1ce-4c05-a100-68e6e2ec4b6c",
+                "nodeTo": "a1325921-3022-46e7-9540-d0b3559d4aa2",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a377cc62-628d-41a3-a887-98e633747225",
+                "nodeTo": "a1325921-3022-46e7-9540-d0b3559d4aa2",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "12d2c286-8003-46e1-863a-40d933ca1c5a",
+                "nodeTo": "a1325921-3022-46e7-9540-d0b3559d4aa2",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "edc3a307-36d7-4c23-8722-5ea4a6928e99",
+                "nodeTo": "a1325921-3022-46e7-9540-d0b3559d4aa2",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "54e82336-d0a4-425e-baa2-d659669d61e9",
+                "nodeTo": "5475a10d-e083-4032-8528-1910b3bc3227",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5475a10d-e083-4032-8528-1910b3bc3227",
+                "nodeTo": "60cd804c-01cc-4b12-a944-6060584b7b4b",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-28 13:02:14"
+}

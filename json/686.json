@@ -1,0 +1,130 @@
+{
+    "uuid": 686,
+    "text": "new insight into how brain regulates its blood flow",
+    "graph": {
+        "version": 1,
+        "guid": "52b5a4d4-30b5-4c57-a957-52d1b93ed5ac",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "into",
+                "id": "948de7c2-5871-4b27-847a-9ba5ea4aea88",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "how",
+                "id": "1cc6bc55-588c-46e6-8915-12baed8a1a80",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "regulates",
+                "id": "3c758ec5-587e-4dc8-a826-e54688081b02",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "new",
+                "id": "2be1adc0-3041-4d23-8870-e54457d85aa1",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "insight",
+                "id": "3d6ce18b-d666-4497-9c01-7245c97d4cd0",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "brain",
+                "id": "86e87203-74de-476b-8c24-d25d0d2b9551",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "its",
+                "id": "ee6ece64-edca-4616-9656-9819ea438c16",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "blood",
+                "id": "53c6ebb5-8a72-40ad-954e-8eb96b9cac01",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "flow",
+                "id": "a654db1b-78a6-48ad-818b-8a26bbe9ce5e",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "2be1adc0-3041-4d23-8870-e54457d85aa1",
+                "nodeTo": "948de7c2-5871-4b27-847a-9ba5ea4aea88",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2be1adc0-3041-4d23-8870-e54457d85aa1",
+                "nodeTo": "1cc6bc55-588c-46e6-8915-12baed8a1a80",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3d6ce18b-d666-4497-9c01-7245c97d4cd0",
+                "nodeTo": "948de7c2-5871-4b27-847a-9ba5ea4aea88",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3d6ce18b-d666-4497-9c01-7245c97d4cd0",
+                "nodeTo": "1cc6bc55-588c-46e6-8915-12baed8a1a80",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "948de7c2-5871-4b27-847a-9ba5ea4aea88",
+                "nodeTo": "86e87203-74de-476b-8c24-d25d0d2b9551",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1cc6bc55-588c-46e6-8915-12baed8a1a80",
+                "nodeTo": "86e87203-74de-476b-8c24-d25d0d2b9551",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "86e87203-74de-476b-8c24-d25d0d2b9551",
+                "nodeTo": "3c758ec5-587e-4dc8-a826-e54688081b02",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3c758ec5-587e-4dc8-a826-e54688081b02",
+                "nodeTo": "ee6ece64-edca-4616-9656-9819ea438c16",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3c758ec5-587e-4dc8-a826-e54688081b02",
+                "nodeTo": "53c6ebb5-8a72-40ad-954e-8eb96b9cac01",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3c758ec5-587e-4dc8-a826-e54688081b02",
+                "nodeTo": "a654db1b-78a6-48ad-818b-8a26bbe9ce5e",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-09 21:56:29"
+}

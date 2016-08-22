@@ -1,0 +1,130 @@
+{
+    "uuid": 544,
+    "text": "Why parents who have stillbirth are now being listened to",
+    "graph": {
+        "version": 1,
+        "guid": "7d7215d1-dc8e-4712-8909-4987cc81b3c1",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "Why",
+                "id": "4d88dab2-04ab-48d0-8254-11017ac76515",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "who",
+                "id": "7a8ee4a7-87c1-4656-98dd-d69a6199e2ed",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "have",
+                "id": "36041126-4b66-4d40-9a88-c290e6825e40",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "are",
+                "id": "e5b4d745-3739-41d0-90b7-4bb3857e3007",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "being",
+                "id": "9d30abea-77a6-4773-9290-3b42ea58ac4e",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "listened",
+                "id": "325e0d96-a4b9-4c8d-a43d-383a46063447",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "c1a4e505-24d5-4255-8b3a-5339c1947d8b",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "parents",
+                "id": "75541c2e-b1b8-4ba9-8b7a-0b461c557174",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "stillbirth",
+                "id": "9d640354-1be9-4ddd-a959-56d00022ecab",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "now",
+                "id": "358b2cd9-80da-4625-b3d2-c1d328c96221",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "4d88dab2-04ab-48d0-8254-11017ac76515",
+                "nodeTo": "75541c2e-b1b8-4ba9-8b7a-0b461c557174",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "75541c2e-b1b8-4ba9-8b7a-0b461c557174",
+                "nodeTo": "7a8ee4a7-87c1-4656-98dd-d69a6199e2ed",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "75541c2e-b1b8-4ba9-8b7a-0b461c557174",
+                "nodeTo": "36041126-4b66-4d40-9a88-c290e6825e40",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "36041126-4b66-4d40-9a88-c290e6825e40",
+                "nodeTo": "9d640354-1be9-4ddd-a959-56d00022ecab",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "75541c2e-b1b8-4ba9-8b7a-0b461c557174",
+                "nodeTo": "e5b4d745-3739-41d0-90b7-4bb3857e3007",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e5b4d745-3739-41d0-90b7-4bb3857e3007",
+                "nodeTo": "358b2cd9-80da-4625-b3d2-c1d328c96221",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "358b2cd9-80da-4625-b3d2-c1d328c96221",
+                "nodeTo": "9d30abea-77a6-4773-9290-3b42ea58ac4e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "358b2cd9-80da-4625-b3d2-c1d328c96221",
+                "nodeTo": "325e0d96-a4b9-4c8d-a43d-383a46063447",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "358b2cd9-80da-4625-b3d2-c1d328c96221",
+                "nodeTo": "c1a4e505-24d5-4255-8b3a-5339c1947d8b",
+                "index": 3,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2014-12-31 19:57:05"
+}

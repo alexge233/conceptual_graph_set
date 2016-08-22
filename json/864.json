@@ -1,0 +1,58 @@
+{
+    "uuid": 864,
+    "text": "Cardiac care services discussed",
+    "graph": {
+        "version": 1,
+        "guid": "c220cb0b-4be3-490c-8b06-3dc9dec144b1",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "discussed",
+                "id": "214cc424-387d-4774-a6c2-515d72dc617c",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Cardiac",
+                "id": "a06a15e1-27de-4b38-a350-78eec3d3014a",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "care",
+                "id": "ac1acd4c-2630-4326-80c5-d32dd4cc6a77",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "services",
+                "id": "de9338bd-346d-4717-8847-a78a8a3c76c4",
+                "index": 2,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "a06a15e1-27de-4b38-a350-78eec3d3014a",
+                "nodeTo": "214cc424-387d-4774-a6c2-515d72dc617c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ac1acd4c-2630-4326-80c5-d32dd4cc6a77",
+                "nodeTo": "214cc424-387d-4774-a6c2-515d72dc617c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "de9338bd-346d-4717-8847-a78a8a3c76c4",
+                "nodeTo": "214cc424-387d-4774-a6c2-515d72dc617c",
+                "index": 1,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2015-01-19 21:16:27"
+}

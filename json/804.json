@@ -1,0 +1,202 @@
+{
+    "uuid": 804,
+    "text": "perceptions of risk around pregnancy and how this influences decisions about where to give birth",
+    "graph": {
+        "version": 1,
+        "guid": "57b65e33-7551-445e-aa2e-9281ba8ac1ca",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "of",
+                "id": "37759b35-e365-4c59-8494-396aec48c983",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "around",
+                "id": "60637723-6b9e-481b-85b1-e6b3e1dc2bee",
+                "postag": "NA",
+                "index": 3
+            },
+            {
+                "label": "and",
+                "id": "2d9de264-65c8-480c-b0a9-460c8b1b9dc7",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "how",
+                "id": "acd7c712-99e9-4409-b8c7-1435c1b1c518",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "influences",
+                "id": "85190b07-0b6a-4030-a039-80867600ee60",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "about",
+                "id": "d3a85e80-e918-414e-ba1d-7c33770748b4",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "b8b74677-c6ac-4d9b-8cde-7d06716a3bc8",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "give",
+                "id": "5e219b36-64ed-4eea-b962-12b3ed351b09",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "perceptions",
+                "id": "18798732-7cdc-4523-9819-eed3a79a6bc0",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "risk",
+                "id": "7c623ea7-e2ac-4e16-b148-6d02de1886c6",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "pregnancy",
+                "id": "d51db415-90d4-4077-80d5-6575aedb761d",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "this",
+                "id": "6db24685-e960-40d5-9594-a6454b25504b",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "decisions",
+                "id": "29b0eca6-9273-4b69-a632-e13885ce5b0d",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "where",
+                "id": "18821805-dc21-4bae-8410-eab4788a8d0c",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "birth",
+                "id": "75387358-dd6b-4e14-baa3-1d085ae59a73",
+                "index": 14,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "18798732-7cdc-4523-9819-eed3a79a6bc0",
+                "nodeTo": "37759b35-e365-4c59-8494-396aec48c983",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "37759b35-e365-4c59-8494-396aec48c983",
+                "nodeTo": "7c623ea7-e2ac-4e16-b148-6d02de1886c6",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7c623ea7-e2ac-4e16-b148-6d02de1886c6",
+                "nodeTo": "60637723-6b9e-481b-85b1-e6b3e1dc2bee",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "60637723-6b9e-481b-85b1-e6b3e1dc2bee",
+                "nodeTo": "d51db415-90d4-4077-80d5-6575aedb761d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2d9de264-65c8-480c-b0a9-460c8b1b9dc7",
+                "nodeTo": "6db24685-e960-40d5-9594-a6454b25504b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "acd7c712-99e9-4409-b8c7-1435c1b1c518",
+                "nodeTo": "6db24685-e960-40d5-9594-a6454b25504b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6db24685-e960-40d5-9594-a6454b25504b",
+                "nodeTo": "85190b07-0b6a-4030-a039-80867600ee60",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "85190b07-0b6a-4030-a039-80867600ee60",
+                "nodeTo": "29b0eca6-9273-4b69-a632-e13885ce5b0d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "29b0eca6-9273-4b69-a632-e13885ce5b0d",
+                "nodeTo": "d3a85e80-e918-414e-ba1d-7c33770748b4",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d3a85e80-e918-414e-ba1d-7c33770748b4",
+                "nodeTo": "18821805-dc21-4bae-8410-eab4788a8d0c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "18821805-dc21-4bae-8410-eab4788a8d0c",
+                "nodeTo": "b8b74677-c6ac-4d9b-8cde-7d06716a3bc8",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "18821805-dc21-4bae-8410-eab4788a8d0c",
+                "nodeTo": "5e219b36-64ed-4eea-b962-12b3ed351b09",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b8b74677-c6ac-4d9b-8cde-7d06716a3bc8",
+                "nodeTo": "75387358-dd6b-4e14-baa3-1d085ae59a73",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5e219b36-64ed-4eea-b962-12b3ed351b09",
+                "nodeTo": "75387358-dd6b-4e14-baa3-1d085ae59a73",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7c623ea7-e2ac-4e16-b148-6d02de1886c6",
+                "nodeTo": "2d9de264-65c8-480c-b0a9-460c8b1b9dc7",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7c623ea7-e2ac-4e16-b148-6d02de1886c6",
+                "nodeTo": "acd7c712-99e9-4409-b8c7-1435c1b1c518",
+                "index": 3,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2015-01-16 18:00:56"
+}

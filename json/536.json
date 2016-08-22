@@ -1,0 +1,94 @@
+{
+    "uuid": 536,
+    "text": "beneficial organisms react differently to parasite drug",
+    "graph": {
+        "version": 1,
+        "guid": "ec1484e8-2669-436c-b736-1cad38603694",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "react",
+                "id": "4abc5a06-2454-4a7d-a725-283c6dd2ece9",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "2379820b-aa0d-48bc-a2b2-6ad6548884b1",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "beneficial",
+                "id": "aaa7dcc2-43ad-4b9a-b8d3-4ed998e7d71a",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "organisms",
+                "id": "407c58a2-2806-4da2-b100-d2b63c166a93",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "differently",
+                "id": "b9a29ceb-1d24-4c00-989d-94ccdb2b0008",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "parasite",
+                "id": "a7316bd7-2457-497b-bc7e-00a41981dbea",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "drug",
+                "id": "8c6c2955-3e0a-48c6-854a-e898b1b0ed85",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "aaa7dcc2-43ad-4b9a-b8d3-4ed998e7d71a",
+                "nodeTo": "4abc5a06-2454-4a7d-a725-283c6dd2ece9",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "407c58a2-2806-4da2-b100-d2b63c166a93",
+                "nodeTo": "4abc5a06-2454-4a7d-a725-283c6dd2ece9",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4abc5a06-2454-4a7d-a725-283c6dd2ece9",
+                "nodeTo": "b9a29ceb-1d24-4c00-989d-94ccdb2b0008",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b9a29ceb-1d24-4c00-989d-94ccdb2b0008",
+                "nodeTo": "2379820b-aa0d-48bc-a2b2-6ad6548884b1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2379820b-aa0d-48bc-a2b2-6ad6548884b1",
+                "nodeTo": "a7316bd7-2457-497b-bc7e-00a41981dbea",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2379820b-aa0d-48bc-a2b2-6ad6548884b1",
+                "nodeTo": "8c6c2955-3e0a-48c6-854a-e898b1b0ed85",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-31 18:12:50"
+}

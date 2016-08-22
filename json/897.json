@@ -1,0 +1,136 @@
+{
+    "uuid": 897,
+    "text": "Osteoarthritis is marked by gradual disintegration of cartilage",
+    "graph": {
+        "version": 1,
+        "guid": "2c2721ee-baaa-4d05-b6dd-37269e0dbc02",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "is",
+                "id": "c7ec053d-000d-41d8-934c-09ca62d86dcb",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "marked",
+                "id": "e749d3be-a753-40bd-8958-53c2137a51b4",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "by",
+                "id": "07c0702b-137b-456d-a640-7cc406236433",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "da016a14-eb54-4634-89b8-a56982de0a9a",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Osteoarthritis",
+                "id": "34c06a0a-36d6-4a21-8e5b-c07c78c24aa7",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "gradual",
+                "id": "127e0d01-b261-41a4-9b3e-46586018a3b8",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "disintegration",
+                "id": "29520b63-7658-4640-a5d0-546aa6080d58",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "cartilage",
+                "id": "e1dcddc7-a074-4886-b85a-decb10c86465",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "34c06a0a-36d6-4a21-8e5b-c07c78c24aa7",
+                "nodeTo": "c7ec053d-000d-41d8-934c-09ca62d86dcb",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "34c06a0a-36d6-4a21-8e5b-c07c78c24aa7",
+                "nodeTo": "e749d3be-a753-40bd-8958-53c2137a51b4",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "34c06a0a-36d6-4a21-8e5b-c07c78c24aa7",
+                "nodeTo": "07c0702b-137b-456d-a640-7cc406236433",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c7ec053d-000d-41d8-934c-09ca62d86dcb",
+                "nodeTo": "127e0d01-b261-41a4-9b3e-46586018a3b8",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e749d3be-a753-40bd-8958-53c2137a51b4",
+                "nodeTo": "127e0d01-b261-41a4-9b3e-46586018a3b8",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "07c0702b-137b-456d-a640-7cc406236433",
+                "nodeTo": "127e0d01-b261-41a4-9b3e-46586018a3b8",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c7ec053d-000d-41d8-934c-09ca62d86dcb",
+                "nodeTo": "29520b63-7658-4640-a5d0-546aa6080d58",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e749d3be-a753-40bd-8958-53c2137a51b4",
+                "nodeTo": "29520b63-7658-4640-a5d0-546aa6080d58",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "07c0702b-137b-456d-a640-7cc406236433",
+                "nodeTo": "29520b63-7658-4640-a5d0-546aa6080d58",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "127e0d01-b261-41a4-9b3e-46586018a3b8",
+                "nodeTo": "da016a14-eb54-4634-89b8-a56982de0a9a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "29520b63-7658-4640-a5d0-546aa6080d58",
+                "nodeTo": "da016a14-eb54-4634-89b8-a56982de0a9a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "da016a14-eb54-4634-89b8-a56982de0a9a",
+                "nodeTo": "e1dcddc7-a074-4886-b85a-decb10c86465",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-21 14:53:03"
+}

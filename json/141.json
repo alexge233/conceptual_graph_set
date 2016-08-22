@@ -1,0 +1,82 @@
+{
+    "uuid": 141,
+    "text": "Most dangerous day of their life",
+    "graph": {
+        "version": 1,
+        "guid": "dbe64591-dbea-41a2-a24a-0a0ae237c790",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "of",
+                "id": "335d38c0-4c51-4c91-a7eb-2177cee846d6",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Most",
+                "id": "75db8841-3bc5-479b-87a2-6ba91d856109",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "dangerous",
+                "id": "c602cec7-9286-46d8-8b76-7c2a200bbd23",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "day",
+                "id": "14dd6975-a7ce-481a-a851-b11e0d8d1e90",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "their",
+                "id": "700de015-c384-4e52-bcb6-38d99b1338b1",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "life",
+                "id": "4d7587b4-e247-46ce-a781-934680d15200",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "75db8841-3bc5-479b-87a2-6ba91d856109",
+                "nodeTo": "335d38c0-4c51-4c91-a7eb-2177cee846d6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c602cec7-9286-46d8-8b76-7c2a200bbd23",
+                "nodeTo": "335d38c0-4c51-4c91-a7eb-2177cee846d6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "14dd6975-a7ce-481a-a851-b11e0d8d1e90",
+                "nodeTo": "335d38c0-4c51-4c91-a7eb-2177cee846d6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "335d38c0-4c51-4c91-a7eb-2177cee846d6",
+                "nodeTo": "700de015-c384-4e52-bcb6-38d99b1338b1",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "335d38c0-4c51-4c91-a7eb-2177cee846d6",
+                "nodeTo": "4d7587b4-e247-46ce-a781-934680d15200",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-10-30 00:20:35"
+}

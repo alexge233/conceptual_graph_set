@@ -1,0 +1,310 @@
+{
+    "uuid": 1098,
+    "text": "current reviews of clinical practice suggest that fewer than 15 percent of clinicians consistently implement evidence based care",
+    "graph": {
+        "version": 1,
+        "guid": "49ee058e-8705-4742-9cd1-db26ca1d0b8a",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "of",
+                "id": "975526c8-e98d-4daa-ac01-902b4c3bbcc9",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "suggest",
+                "id": "96ced258-c98c-40ac-bec9-73030a21a636",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "that",
+                "id": "54643091-6534-45d4-a61a-489780579853",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "fewer",
+                "id": "4aeb3b38-6e89-4228-92cb-78c68019c530",
+                "postag": "NA",
+                "index": 7
+            },
+            {
+                "label": "than",
+                "id": "73361e0d-e89a-4597-bc17-bb65a0ac058e",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "597789ab-ce60-4e8a-a09e-8d06cc9e8a11",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "consistently",
+                "id": "27903c9c-7cd1-4151-82e9-419cbdd705dd",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "implement",
+                "id": "1230618a-1d21-443e-bd85-57c63a84cda9",
+                "index": 14,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "current",
+                "id": "42515186-3d79-408b-a1a7-8c0485b31818",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "reviews",
+                "id": "99142e9e-2726-4dcd-a11d-35e0359e2c31",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "clinical",
+                "id": "c7b4178d-8dab-4aa2-884d-2906b22388c7",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "practice",
+                "id": "1a013537-2321-42d4-876e-68d91e4c37a4",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": 15,
+                "id": "260a3974-b28d-4263-984d-458501d087b9",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "percent",
+                "id": "b14b528a-d5b9-4308-b6b6-51c0205a1dd8",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "clinicians",
+                "id": "7bd2c198-22b6-4bd0-9aae-a0886232de87",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "evidence",
+                "id": "36d45a42-253b-4ddb-bb1d-01e1b427688d",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "based",
+                "id": "293d1736-0ca4-41b3-8e96-71550476765b",
+                "index": 16,
+                "postag": "NA"
+            },
+            {
+                "label": "care",
+                "id": "47aa64b6-bc01-4e40-8709-0210d410e595",
+                "index": 17,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "42515186-3d79-408b-a1a7-8c0485b31818",
+                "nodeTo": "975526c8-e98d-4daa-ac01-902b4c3bbcc9",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "99142e9e-2726-4dcd-a11d-35e0359e2c31",
+                "nodeTo": "975526c8-e98d-4daa-ac01-902b4c3bbcc9",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "975526c8-e98d-4daa-ac01-902b4c3bbcc9",
+                "nodeTo": "c7b4178d-8dab-4aa2-884d-2906b22388c7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "975526c8-e98d-4daa-ac01-902b4c3bbcc9",
+                "nodeTo": "1a013537-2321-42d4-876e-68d91e4c37a4",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "42515186-3d79-408b-a1a7-8c0485b31818",
+                "nodeTo": "96ced258-c98c-40ac-bec9-73030a21a636",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "99142e9e-2726-4dcd-a11d-35e0359e2c31",
+                "nodeTo": "96ced258-c98c-40ac-bec9-73030a21a636",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "42515186-3d79-408b-a1a7-8c0485b31818",
+                "nodeTo": "54643091-6534-45d4-a61a-489780579853",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "99142e9e-2726-4dcd-a11d-35e0359e2c31",
+                "nodeTo": "54643091-6534-45d4-a61a-489780579853",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "42515186-3d79-408b-a1a7-8c0485b31818",
+                "nodeTo": "4aeb3b38-6e89-4228-92cb-78c68019c530",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "99142e9e-2726-4dcd-a11d-35e0359e2c31",
+                "nodeTo": "4aeb3b38-6e89-4228-92cb-78c68019c530",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "42515186-3d79-408b-a1a7-8c0485b31818",
+                "nodeTo": "73361e0d-e89a-4597-bc17-bb65a0ac058e",
+                "index": 5,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "99142e9e-2726-4dcd-a11d-35e0359e2c31",
+                "nodeTo": "73361e0d-e89a-4597-bc17-bb65a0ac058e",
+                "index": 5,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "96ced258-c98c-40ac-bec9-73030a21a636",
+                "nodeTo": "260a3974-b28d-4263-984d-458501d087b9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "54643091-6534-45d4-a61a-489780579853",
+                "nodeTo": "260a3974-b28d-4263-984d-458501d087b9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4aeb3b38-6e89-4228-92cb-78c68019c530",
+                "nodeTo": "260a3974-b28d-4263-984d-458501d087b9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "73361e0d-e89a-4597-bc17-bb65a0ac058e",
+                "nodeTo": "260a3974-b28d-4263-984d-458501d087b9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "96ced258-c98c-40ac-bec9-73030a21a636",
+                "nodeTo": "b14b528a-d5b9-4308-b6b6-51c0205a1dd8",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "54643091-6534-45d4-a61a-489780579853",
+                "nodeTo": "b14b528a-d5b9-4308-b6b6-51c0205a1dd8",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4aeb3b38-6e89-4228-92cb-78c68019c530",
+                "nodeTo": "b14b528a-d5b9-4308-b6b6-51c0205a1dd8",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "73361e0d-e89a-4597-bc17-bb65a0ac058e",
+                "nodeTo": "b14b528a-d5b9-4308-b6b6-51c0205a1dd8",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "260a3974-b28d-4263-984d-458501d087b9",
+                "nodeTo": "597789ab-ce60-4e8a-a09e-8d06cc9e8a11",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b14b528a-d5b9-4308-b6b6-51c0205a1dd8",
+                "nodeTo": "597789ab-ce60-4e8a-a09e-8d06cc9e8a11",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "597789ab-ce60-4e8a-a09e-8d06cc9e8a11",
+                "nodeTo": "7bd2c198-22b6-4bd0-9aae-a0886232de87",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7bd2c198-22b6-4bd0-9aae-a0886232de87",
+                "nodeTo": "27903c9c-7cd1-4151-82e9-419cbdd705dd",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7bd2c198-22b6-4bd0-9aae-a0886232de87",
+                "nodeTo": "1230618a-1d21-443e-bd85-57c63a84cda9",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "27903c9c-7cd1-4151-82e9-419cbdd705dd",
+                "nodeTo": "36d45a42-253b-4ddb-bb1d-01e1b427688d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "27903c9c-7cd1-4151-82e9-419cbdd705dd",
+                "nodeTo": "293d1736-0ca4-41b3-8e96-71550476765b",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "27903c9c-7cd1-4151-82e9-419cbdd705dd",
+                "nodeTo": "47aa64b6-bc01-4e40-8709-0210d410e595",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1230618a-1d21-443e-bd85-57c63a84cda9",
+                "nodeTo": "36d45a42-253b-4ddb-bb1d-01e1b427688d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1230618a-1d21-443e-bd85-57c63a84cda9",
+                "nodeTo": "293d1736-0ca4-41b3-8e96-71550476765b",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1230618a-1d21-443e-bd85-57c63a84cda9",
+                "nodeTo": "47aa64b6-bc01-4e40-8709-0210d410e595",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-11 16:04:39"
+}

@@ -1,0 +1,154 @@
+{
+    "uuid": 615,
+    "text": "Blood cells reprogrammed into blood stem cells in mice",
+    "graph": {
+        "version": 1,
+        "guid": "e0bb359c-3189-40a8-bb30-7dbca7b5a7b3",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "reprogrammed",
+                "id": "b7658c57-da21-46b2-a204-8e2c10a7c778",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "into",
+                "id": "0c999245-6696-4a68-ade8-13c98d6617d3",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "85e2548d-8716-4a38-82eb-b4427d32dee0",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Blood",
+                "id": "3343ad65-677c-4043-8079-1eda1234c569",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "cells",
+                "id": "b2e60c14-2e93-46a9-9306-0ae78a4d18be",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "blood",
+                "id": "8d52d0c8-2114-4b30-90b1-06c13a592a62",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "stem",
+                "id": "d594b213-9c6c-4434-89de-416b674b577b",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "cells",
+                "id": "9504226a-545d-4a35-a51d-4e6d50c9644b",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "mice",
+                "id": "62cec62c-7cdc-4ec4-83a3-b77bee821ee0",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "3343ad65-677c-4043-8079-1eda1234c569",
+                "nodeTo": "b7658c57-da21-46b2-a204-8e2c10a7c778",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b2e60c14-2e93-46a9-9306-0ae78a4d18be",
+                "nodeTo": "b7658c57-da21-46b2-a204-8e2c10a7c778",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3343ad65-677c-4043-8079-1eda1234c569",
+                "nodeTo": "0c999245-6696-4a68-ade8-13c98d6617d3",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b2e60c14-2e93-46a9-9306-0ae78a4d18be",
+                "nodeTo": "0c999245-6696-4a68-ade8-13c98d6617d3",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b7658c57-da21-46b2-a204-8e2c10a7c778",
+                "nodeTo": "8d52d0c8-2114-4b30-90b1-06c13a592a62",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0c999245-6696-4a68-ade8-13c98d6617d3",
+                "nodeTo": "8d52d0c8-2114-4b30-90b1-06c13a592a62",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b7658c57-da21-46b2-a204-8e2c10a7c778",
+                "nodeTo": "d594b213-9c6c-4434-89de-416b674b577b",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0c999245-6696-4a68-ade8-13c98d6617d3",
+                "nodeTo": "d594b213-9c6c-4434-89de-416b674b577b",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b7658c57-da21-46b2-a204-8e2c10a7c778",
+                "nodeTo": "9504226a-545d-4a35-a51d-4e6d50c9644b",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0c999245-6696-4a68-ade8-13c98d6617d3",
+                "nodeTo": "9504226a-545d-4a35-a51d-4e6d50c9644b",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8d52d0c8-2114-4b30-90b1-06c13a592a62",
+                "nodeTo": "85e2548d-8716-4a38-82eb-b4427d32dee0",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d594b213-9c6c-4434-89de-416b674b577b",
+                "nodeTo": "85e2548d-8716-4a38-82eb-b4427d32dee0",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9504226a-545d-4a35-a51d-4e6d50c9644b",
+                "nodeTo": "85e2548d-8716-4a38-82eb-b4427d32dee0",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "85e2548d-8716-4a38-82eb-b4427d32dee0",
+                "nodeTo": "62cec62c-7cdc-4ec4-83a3-b77bee821ee0",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-08 19:14:32"
+}

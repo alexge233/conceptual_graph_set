@@ -1,0 +1,112 @@
+{
+    "uuid": 499,
+    "text": "engineered gut bacteria remembers what it saw",
+    "graph": {
+        "version": 1,
+        "guid": "b63e5c75-d187-4128-901c-a91906191542",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "remembers",
+                "id": "66948487-835d-44aa-bd0b-48d253e85dbe",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "what",
+                "id": "19589968-ea2e-4e68-a68d-42e434d9c357",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "saw",
+                "id": "cd6ac73d-52da-46ac-ba22-32da9b1a7273",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "engineered",
+                "id": "be804071-2814-40cd-8a47-e5d5c78b1e3c",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "gut",
+                "id": "190ba31b-515b-4c8d-873e-dd4230884a82",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "bacteria",
+                "id": "a06b07ce-473e-4ea1-9a49-edb3b186223e",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "it",
+                "id": "840b9467-8554-4915-8219-eda6b970c4e2",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "be804071-2814-40cd-8a47-e5d5c78b1e3c",
+                "nodeTo": "66948487-835d-44aa-bd0b-48d253e85dbe",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "be804071-2814-40cd-8a47-e5d5c78b1e3c",
+                "nodeTo": "19589968-ea2e-4e68-a68d-42e434d9c357",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "190ba31b-515b-4c8d-873e-dd4230884a82",
+                "nodeTo": "66948487-835d-44aa-bd0b-48d253e85dbe",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "190ba31b-515b-4c8d-873e-dd4230884a82",
+                "nodeTo": "19589968-ea2e-4e68-a68d-42e434d9c357",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a06b07ce-473e-4ea1-9a49-edb3b186223e",
+                "nodeTo": "66948487-835d-44aa-bd0b-48d253e85dbe",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a06b07ce-473e-4ea1-9a49-edb3b186223e",
+                "nodeTo": "19589968-ea2e-4e68-a68d-42e434d9c357",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "66948487-835d-44aa-bd0b-48d253e85dbe",
+                "nodeTo": "840b9467-8554-4915-8219-eda6b970c4e2",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "19589968-ea2e-4e68-a68d-42e434d9c357",
+                "nodeTo": "840b9467-8554-4915-8219-eda6b970c4e2",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "840b9467-8554-4915-8219-eda6b970c4e2",
+                "nodeTo": "cd6ac73d-52da-46ac-ba22-32da9b1a7273",
+                "index": 1,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2014-12-23 16:56:14"
+}

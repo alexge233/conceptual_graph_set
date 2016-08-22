@@ -1,0 +1,100 @@
+{
+    "uuid": 508,
+    "text": "ban cigarette filters to save environment",
+    "graph": {
+        "version": 1,
+        "guid": "de1c4b18-1919-4a65-8757-c4144d5c2093",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "ban",
+                "id": "a1edb26b-ec80-46db-8574-6b78cd7590e3",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "54885d03-5052-49a4-9025-e51b9684c69d",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "save",
+                "id": "0b046ccd-1961-462e-8897-1c312d716684",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "cigarette",
+                "id": "430d158a-5845-4433-9658-da36c88d25bb",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "filters",
+                "id": "e73b3758-2624-41eb-9491-20257cada825",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "environment",
+                "id": "4acb2717-e5c8-41c1-9819-08d1db59b748",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "a1edb26b-ec80-46db-8574-6b78cd7590e3",
+                "nodeTo": "430d158a-5845-4433-9658-da36c88d25bb",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a1edb26b-ec80-46db-8574-6b78cd7590e3",
+                "nodeTo": "e73b3758-2624-41eb-9491-20257cada825",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "430d158a-5845-4433-9658-da36c88d25bb",
+                "nodeTo": "54885d03-5052-49a4-9025-e51b9684c69d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "430d158a-5845-4433-9658-da36c88d25bb",
+                "nodeTo": "0b046ccd-1961-462e-8897-1c312d716684",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e73b3758-2624-41eb-9491-20257cada825",
+                "nodeTo": "54885d03-5052-49a4-9025-e51b9684c69d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e73b3758-2624-41eb-9491-20257cada825",
+                "nodeTo": "0b046ccd-1961-462e-8897-1c312d716684",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "54885d03-5052-49a4-9025-e51b9684c69d",
+                "nodeTo": "4acb2717-e5c8-41c1-9819-08d1db59b748",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0b046ccd-1961-462e-8897-1c312d716684",
+                "nodeTo": "4acb2717-e5c8-41c1-9819-08d1db59b748",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-23 18:39:12"
+}

@@ -1,0 +1,178 @@
+{
+    "uuid": 533,
+    "text": "Colm Donaghy chief executive of Belfast Health and Social Care Trust has resigned",
+    "graph": {
+        "version": 1,
+        "guid": "750448a7-a8ae-4d08-b48a-965d22338b0d",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "of",
+                "id": "26d0317b-0e08-4dba-9b3e-a2c85d63c510",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "eb69ab30-4e40-4eaa-9712-486797e1ac81",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "has",
+                "id": "88db0199-a199-46b3-80b4-222c74018b73",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Colm",
+                "id": "b2b2da49-77d4-479b-868b-2acade3259bb",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "Donaghy",
+                "id": "40435927-946e-4553-ba51-1db0606911d0",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "chief",
+                "id": "ce741492-9090-48b0-8244-1eb6bda2b6a3",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "executive",
+                "id": "a653a922-3be0-4c15-a07a-890394048ab2",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "Belfast",
+                "id": "e98644b4-2944-4cd9-95d4-43905bd925b3",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "Health",
+                "id": "78ada405-6be3-4934-821e-8086c2c235c6",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "Social",
+                "id": "e5897120-2546-42e8-b9b6-491ae46215ce",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "Care",
+                "id": "1da74336-4764-4bb8-a5bc-d9a246473303",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "Trust",
+                "id": "ab673a46-7312-4002-9ab7-253537b86e37",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "resigned",
+                "id": "7cb67541-2357-4273-a788-d93295312d61",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "ce741492-9090-48b0-8244-1eb6bda2b6a3",
+                "nodeTo": "26d0317b-0e08-4dba-9b3e-a2c85d63c510",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a653a922-3be0-4c15-a07a-890394048ab2",
+                "nodeTo": "26d0317b-0e08-4dba-9b3e-a2c85d63c510",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "26d0317b-0e08-4dba-9b3e-a2c85d63c510",
+                "nodeTo": "e98644b4-2944-4cd9-95d4-43905bd925b3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "26d0317b-0e08-4dba-9b3e-a2c85d63c510",
+                "nodeTo": "78ada405-6be3-4934-821e-8086c2c235c6",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e98644b4-2944-4cd9-95d4-43905bd925b3",
+                "nodeTo": "eb69ab30-4e40-4eaa-9712-486797e1ac81",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "78ada405-6be3-4934-821e-8086c2c235c6",
+                "nodeTo": "eb69ab30-4e40-4eaa-9712-486797e1ac81",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "eb69ab30-4e40-4eaa-9712-486797e1ac81",
+                "nodeTo": "e5897120-2546-42e8-b9b6-491ae46215ce",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "eb69ab30-4e40-4eaa-9712-486797e1ac81",
+                "nodeTo": "1da74336-4764-4bb8-a5bc-d9a246473303",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "eb69ab30-4e40-4eaa-9712-486797e1ac81",
+                "nodeTo": "ab673a46-7312-4002-9ab7-253537b86e37",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b2b2da49-77d4-479b-868b-2acade3259bb",
+                "nodeTo": "88db0199-a199-46b3-80b4-222c74018b73",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "40435927-946e-4553-ba51-1db0606911d0",
+                "nodeTo": "88db0199-a199-46b3-80b4-222c74018b73",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "88db0199-a199-46b3-80b4-222c74018b73",
+                "nodeTo": "7cb67541-2357-4273-a788-d93295312d61",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ce741492-9090-48b0-8244-1eb6bda2b6a3",
+                "nodeTo": "88db0199-a199-46b3-80b4-222c74018b73",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a653a922-3be0-4c15-a07a-890394048ab2",
+                "nodeTo": "88db0199-a199-46b3-80b4-222c74018b73",
+                "index": 2,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2014-12-31 17:57:47"
+}

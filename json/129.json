@@ -1,0 +1,82 @@
+{
+    "uuid": 129,
+    "text": "Marijuana refugees give cannabis to kids",
+    "graph": {
+        "version": 1,
+        "guid": "38e1693c-8234-4e8a-b0ee-d0464814843d",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "give",
+                "id": "26857cde-61d2-41d0-8b0a-8535a0b1d600",
+                "index": 2,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Marijuana",
+                "id": "2cb0e79a-3e8e-4009-8870-944635b049ac",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "refugees",
+                "id": "6b89da99-800c-42c2-9ac1-ad9a84d819d8",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "cannabis",
+                "id": "686a44dd-63d0-4e57-b8d8-2cd78162597e",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "kids",
+                "id": "2c684237-5d41-45bc-adca-82e239205973",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "6db12c02-e841-48be-b840-a1bbd985a288",
+                "postag": "NA",
+                "index": 4
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "2cb0e79a-3e8e-4009-8870-944635b049ac",
+                "nodeTo": "26857cde-61d2-41d0-8b0a-8535a0b1d600",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6b89da99-800c-42c2-9ac1-ad9a84d819d8",
+                "nodeTo": "26857cde-61d2-41d0-8b0a-8535a0b1d600",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "26857cde-61d2-41d0-8b0a-8535a0b1d600",
+                "nodeTo": "686a44dd-63d0-4e57-b8d8-2cd78162597e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "26857cde-61d2-41d0-8b0a-8535a0b1d600",
+                "nodeTo": "6db12c02-e841-48be-b840-a1bbd985a288",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "26857cde-61d2-41d0-8b0a-8535a0b1d600",
+                "nodeTo": "2c684237-5d41-45bc-adca-82e239205973",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-11-06 09:36:16"
+}

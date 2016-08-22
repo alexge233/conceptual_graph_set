@@ -1,0 +1,196 @@
+{
+    "uuid": 610,
+    "text": "Blocking DNA repair mechanisms could improve radiation therapy for deadly brain cancer",
+    "graph": {
+        "version": 1,
+        "guid": "70bb6650-eee7-4399-b0b7-d9166d550e43",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "Blocking",
+                "id": "8c455753-7806-4271-885c-628e030d0299",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "could",
+                "id": "80de2b75-c845-4c78-9eda-e1b31c07bdc1",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "improve",
+                "id": "852a0298-382a-4bdd-9178-8604ca261c77",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "daa5c72b-20db-4dea-8e39-de04cb28a165",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "DNA",
+                "id": "329262c8-91e7-47be-95c3-0bd0177b0d85",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "repair",
+                "id": "7104750b-a135-41ea-93ed-5e6848c9861c",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "mechanisms",
+                "id": "766d6d0d-a576-49ce-8de9-9919511a6551",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "radiation",
+                "id": "c810333e-eb93-4ed3-8eb8-3c291d259d37",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "therapy",
+                "id": "01e95276-816e-44e9-a119-7d299a301a9c",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "deadly",
+                "id": "bb956e39-7d17-429c-a301-89d9319b1549",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "brain",
+                "id": "0a0ac8a7-1baa-4b27-b448-7c6aad85a74a",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "cancer",
+                "id": "e233ed36-315c-49e9-aebb-d0e6caaee207",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "8c455753-7806-4271-885c-628e030d0299",
+                "nodeTo": "329262c8-91e7-47be-95c3-0bd0177b0d85",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8c455753-7806-4271-885c-628e030d0299",
+                "nodeTo": "7104750b-a135-41ea-93ed-5e6848c9861c",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8c455753-7806-4271-885c-628e030d0299",
+                "nodeTo": "766d6d0d-a576-49ce-8de9-9919511a6551",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "329262c8-91e7-47be-95c3-0bd0177b0d85",
+                "nodeTo": "80de2b75-c845-4c78-9eda-e1b31c07bdc1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "329262c8-91e7-47be-95c3-0bd0177b0d85",
+                "nodeTo": "852a0298-382a-4bdd-9178-8604ca261c77",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7104750b-a135-41ea-93ed-5e6848c9861c",
+                "nodeTo": "80de2b75-c845-4c78-9eda-e1b31c07bdc1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7104750b-a135-41ea-93ed-5e6848c9861c",
+                "nodeTo": "852a0298-382a-4bdd-9178-8604ca261c77",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "766d6d0d-a576-49ce-8de9-9919511a6551",
+                "nodeTo": "80de2b75-c845-4c78-9eda-e1b31c07bdc1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "766d6d0d-a576-49ce-8de9-9919511a6551",
+                "nodeTo": "852a0298-382a-4bdd-9178-8604ca261c77",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "80de2b75-c845-4c78-9eda-e1b31c07bdc1",
+                "nodeTo": "c810333e-eb93-4ed3-8eb8-3c291d259d37",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "80de2b75-c845-4c78-9eda-e1b31c07bdc1",
+                "nodeTo": "01e95276-816e-44e9-a119-7d299a301a9c",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "852a0298-382a-4bdd-9178-8604ca261c77",
+                "nodeTo": "c810333e-eb93-4ed3-8eb8-3c291d259d37",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "852a0298-382a-4bdd-9178-8604ca261c77",
+                "nodeTo": "01e95276-816e-44e9-a119-7d299a301a9c",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c810333e-eb93-4ed3-8eb8-3c291d259d37",
+                "nodeTo": "daa5c72b-20db-4dea-8e39-de04cb28a165",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "01e95276-816e-44e9-a119-7d299a301a9c",
+                "nodeTo": "daa5c72b-20db-4dea-8e39-de04cb28a165",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "daa5c72b-20db-4dea-8e39-de04cb28a165",
+                "nodeTo": "bb956e39-7d17-429c-a301-89d9319b1549",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "daa5c72b-20db-4dea-8e39-de04cb28a165",
+                "nodeTo": "0a0ac8a7-1baa-4b27-b448-7c6aad85a74a",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "daa5c72b-20db-4dea-8e39-de04cb28a165",
+                "nodeTo": "e233ed36-315c-49e9-aebb-d0e6caaee207",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-08 18:33:32"
+}

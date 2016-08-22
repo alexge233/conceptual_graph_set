@@ -1,0 +1,82 @@
+{
+    "uuid": 261,
+    "text": "actors affair apology breaks online records",
+    "graph": {
+        "version": 1,
+        "guid": "cedd8dcc-ac41-4722-a0ab-9e72b48b8093",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "breaks",
+                "id": "9cd75d5d-9294-49b5-b81b-01ea34453d0a",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "actors",
+                "id": "cd1cc15a-0a3a-4557-b09b-3b03ec356149",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "affair",
+                "id": "35be0bb1-a3a5-430d-8ad4-38402d271a9d",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "apology",
+                "id": "229177ec-947e-4cd4-ba4c-7ab830676713",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "online",
+                "id": "11e6016b-4084-4937-b098-348745bdb37c",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "records",
+                "id": "0cd81482-734d-47ca-b8d4-290e3a07e952",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "cd1cc15a-0a3a-4557-b09b-3b03ec356149",
+                "nodeTo": "9cd75d5d-9294-49b5-b81b-01ea34453d0a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "35be0bb1-a3a5-430d-8ad4-38402d271a9d",
+                "nodeTo": "9cd75d5d-9294-49b5-b81b-01ea34453d0a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "229177ec-947e-4cd4-ba4c-7ab830676713",
+                "nodeTo": "9cd75d5d-9294-49b5-b81b-01ea34453d0a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9cd75d5d-9294-49b5-b81b-01ea34453d0a",
+                "nodeTo": "11e6016b-4084-4937-b098-348745bdb37c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9cd75d5d-9294-49b5-b81b-01ea34453d0a",
+                "nodeTo": "0cd81482-734d-47ca-b8d4-290e3a07e952",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-03 12:53:14"
+}

@@ -1,0 +1,70 @@
+{
+    "uuid": 830,
+    "text": "Cancer hospital in licence breach",
+    "graph": {
+        "version": 1,
+        "guid": "7ba79036-a2b7-4751-a08c-732e9e6055e9",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "in",
+                "id": "7d987867-103e-47e6-9cc3-1b998424ad35",
+                "index": 2,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Cancer",
+                "id": "cbd760ab-077e-410b-a078-b67b7651e294",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "hospital",
+                "id": "0e2a4ac7-2edd-4c86-9a34-b61ea49a110e",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "licence",
+                "id": "0bea11ea-7432-4ae2-a907-3701b984db36",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "breach",
+                "id": "c675ab06-296c-46cc-80a5-c03a49d6490a",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "cbd760ab-077e-410b-a078-b67b7651e294",
+                "nodeTo": "7d987867-103e-47e6-9cc3-1b998424ad35",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0e2a4ac7-2edd-4c86-9a34-b61ea49a110e",
+                "nodeTo": "7d987867-103e-47e6-9cc3-1b998424ad35",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7d987867-103e-47e6-9cc3-1b998424ad35",
+                "nodeTo": "0bea11ea-7432-4ae2-a907-3701b984db36",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7d987867-103e-47e6-9cc3-1b998424ad35",
+                "nodeTo": "c675ab06-296c-46cc-80a5-c03a49d6490a",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-16 20:02:00"
+}

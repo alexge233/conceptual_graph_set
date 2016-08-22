@@ -1,0 +1,268 @@
+{
+    "uuid": 746,
+    "text": "Children can experience negative effects of bullying on their physical and mental health more than 40 years later",
+    "graph": {
+        "version": 1,
+        "guid": "ed5662d7-ed45-4dcd-ad29-0a303aae34ec",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "can",
+                "id": "bcc10d03-6a52-447c-b050-55b276534c96",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "experience",
+                "id": "34810a96-55ec-4090-8c86-e1ca89c78993",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "8430e1d7-bc00-4798-91a5-1b6390309b2d",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "on",
+                "id": "59ed2d78-3465-43bc-a1aa-3b76e1151bdc",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "their",
+                "id": "7da3e430-15b0-4b1b-94ae-ac9bc087671d",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "28d61230-cb73-4b80-a0dd-56224e118e88",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "than",
+                "id": "e168344c-8dd4-48b1-9cac-9244b7053aba",
+                "index": 14,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Children",
+                "id": "66a9c077-d7d0-46b4-ba14-be33779a21ec",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "negative",
+                "id": "09659d9c-bdbb-4880-a03a-d1cb805731bc",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "effects",
+                "id": "98bc8701-76c2-4522-98cc-9ae2ca0e82de",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "bullying",
+                "id": "5141d726-1bd5-4957-a7c3-65314ebaae2d",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "physical",
+                "id": "3b1238ac-820c-4137-93db-ca93b17b53c5",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "mental",
+                "id": "8e1c9477-2734-4dd5-8828-4e36478628eb",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "health",
+                "id": "3d27730c-a70a-41b9-8e1a-43bd2b8b2885",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "more",
+                "id": "d32e8be6-4b9e-466b-855b-8da36e340dbb",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": 40,
+                "id": "48a34b32-5104-4a90-8885-d0b835d3d62c",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "years",
+                "id": "bac907c8-1cc4-4aad-8847-6e832489e580",
+                "index": 16,
+                "postag": "NA"
+            },
+            {
+                "label": "later",
+                "id": "255c0b87-1a6b-4048-993e-b213c8774d57",
+                "index": 17,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "66a9c077-d7d0-46b4-ba14-be33779a21ec",
+                "nodeTo": "bcc10d03-6a52-447c-b050-55b276534c96",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "66a9c077-d7d0-46b4-ba14-be33779a21ec",
+                "nodeTo": "34810a96-55ec-4090-8c86-e1ca89c78993",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bcc10d03-6a52-447c-b050-55b276534c96",
+                "nodeTo": "09659d9c-bdbb-4880-a03a-d1cb805731bc",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "bcc10d03-6a52-447c-b050-55b276534c96",
+                "nodeTo": "98bc8701-76c2-4522-98cc-9ae2ca0e82de",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "34810a96-55ec-4090-8c86-e1ca89c78993",
+                "nodeTo": "09659d9c-bdbb-4880-a03a-d1cb805731bc",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "34810a96-55ec-4090-8c86-e1ca89c78993",
+                "nodeTo": "98bc8701-76c2-4522-98cc-9ae2ca0e82de",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "09659d9c-bdbb-4880-a03a-d1cb805731bc",
+                "nodeTo": "8430e1d7-bc00-4798-91a5-1b6390309b2d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "98bc8701-76c2-4522-98cc-9ae2ca0e82de",
+                "nodeTo": "8430e1d7-bc00-4798-91a5-1b6390309b2d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8430e1d7-bc00-4798-91a5-1b6390309b2d",
+                "nodeTo": "5141d726-1bd5-4957-a7c3-65314ebaae2d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "09659d9c-bdbb-4880-a03a-d1cb805731bc",
+                "nodeTo": "59ed2d78-3465-43bc-a1aa-3b76e1151bdc",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "98bc8701-76c2-4522-98cc-9ae2ca0e82de",
+                "nodeTo": "59ed2d78-3465-43bc-a1aa-3b76e1151bdc",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "09659d9c-bdbb-4880-a03a-d1cb805731bc",
+                "nodeTo": "7da3e430-15b0-4b1b-94ae-ac9bc087671d",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "98bc8701-76c2-4522-98cc-9ae2ca0e82de",
+                "nodeTo": "7da3e430-15b0-4b1b-94ae-ac9bc087671d",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "59ed2d78-3465-43bc-a1aa-3b76e1151bdc",
+                "nodeTo": "3b1238ac-820c-4137-93db-ca93b17b53c5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7da3e430-15b0-4b1b-94ae-ac9bc087671d",
+                "nodeTo": "3b1238ac-820c-4137-93db-ca93b17b53c5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3b1238ac-820c-4137-93db-ca93b17b53c5",
+                "nodeTo": "28d61230-cb73-4b80-a0dd-56224e118e88",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "28d61230-cb73-4b80-a0dd-56224e118e88",
+                "nodeTo": "8e1c9477-2734-4dd5-8828-4e36478628eb",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "28d61230-cb73-4b80-a0dd-56224e118e88",
+                "nodeTo": "3d27730c-a70a-41b9-8e1a-43bd2b8b2885",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "bcc10d03-6a52-447c-b050-55b276534c96",
+                "nodeTo": "d32e8be6-4b9e-466b-855b-8da36e340dbb",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "34810a96-55ec-4090-8c86-e1ca89c78993",
+                "nodeTo": "d32e8be6-4b9e-466b-855b-8da36e340dbb",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d32e8be6-4b9e-466b-855b-8da36e340dbb",
+                "nodeTo": "e168344c-8dd4-48b1-9cac-9244b7053aba",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e168344c-8dd4-48b1-9cac-9244b7053aba",
+                "nodeTo": "48a34b32-5104-4a90-8885-d0b835d3d62c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e168344c-8dd4-48b1-9cac-9244b7053aba",
+                "nodeTo": "bac907c8-1cc4-4aad-8847-6e832489e580",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e168344c-8dd4-48b1-9cac-9244b7053aba",
+                "nodeTo": "255c0b87-1a6b-4048-993e-b213c8774d57",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-12 21:56:01"
+}

@@ -1,0 +1,268 @@
+{
+    "uuid": 642,
+    "text": "study fails to confirm previous findings that body shape itself is independent risk factor for breast cancer",
+    "graph": {
+        "version": 1,
+        "guid": "675c2941-8628-4b58-bd48-0d9c5b2bc76b",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "fails",
+                "id": "ee7769a6-08cb-41ec-a84e-bc6805a1554b",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "41928a8b-4464-41aa-a889-39010b7e6889",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "confirm",
+                "id": "ca1490c2-1d80-45c1-8be4-08253857e957",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "that",
+                "id": "1e8562bd-ebeb-46e6-86ed-3cbe3ca0a85d",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "is",
+                "id": "676b4375-a26c-4192-aad9-90e327732e93",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "d3e1c3dd-7959-4d93-a0a3-050e335754a5",
+                "index": 14,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "study",
+                "id": "1b1a0b95-b1d1-4b97-9caa-0b8831ae94ec",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "previous",
+                "id": "d2226c1d-4349-4354-b526-728ca65d232a",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "findings",
+                "id": "9406024e-44bb-4be8-83da-09d7bc650657",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "body",
+                "id": "2e7798ed-6bbb-495e-9ac3-c239ba0a6b7c",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "shape",
+                "id": "aa2e2887-2d94-4e2a-bc46-4b04a6ba4831",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "itself",
+                "id": "59296bb8-2048-40ea-855e-7d525dd6182e",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "independent",
+                "id": "05492a79-a97b-4db7-a1ad-880d6863066c",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "risk",
+                "id": "a10c471c-76b0-4a88-ba57-926c8a179bd2",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "factor",
+                "id": "16b7cb9c-0750-4c97-a319-b90407a311bc",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "breast",
+                "id": "2048a4d1-e7b7-4b3e-a35d-b6c9c64a60be",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "cancer",
+                "id": "b325ec75-554b-42c1-b9e2-97dd1d20a3b2",
+                "index": 16,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "1b1a0b95-b1d1-4b97-9caa-0b8831ae94ec",
+                "nodeTo": "ee7769a6-08cb-41ec-a84e-bc6805a1554b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1b1a0b95-b1d1-4b97-9caa-0b8831ae94ec",
+                "nodeTo": "41928a8b-4464-41aa-a889-39010b7e6889",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1b1a0b95-b1d1-4b97-9caa-0b8831ae94ec",
+                "nodeTo": "ca1490c2-1d80-45c1-8be4-08253857e957",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ee7769a6-08cb-41ec-a84e-bc6805a1554b",
+                "nodeTo": "d2226c1d-4349-4354-b526-728ca65d232a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "41928a8b-4464-41aa-a889-39010b7e6889",
+                "nodeTo": "d2226c1d-4349-4354-b526-728ca65d232a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ca1490c2-1d80-45c1-8be4-08253857e957",
+                "nodeTo": "d2226c1d-4349-4354-b526-728ca65d232a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ee7769a6-08cb-41ec-a84e-bc6805a1554b",
+                "nodeTo": "9406024e-44bb-4be8-83da-09d7bc650657",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "41928a8b-4464-41aa-a889-39010b7e6889",
+                "nodeTo": "9406024e-44bb-4be8-83da-09d7bc650657",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ca1490c2-1d80-45c1-8be4-08253857e957",
+                "nodeTo": "9406024e-44bb-4be8-83da-09d7bc650657",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d2226c1d-4349-4354-b526-728ca65d232a",
+                "nodeTo": "1e8562bd-ebeb-46e6-86ed-3cbe3ca0a85d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9406024e-44bb-4be8-83da-09d7bc650657",
+                "nodeTo": "1e8562bd-ebeb-46e6-86ed-3cbe3ca0a85d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1e8562bd-ebeb-46e6-86ed-3cbe3ca0a85d",
+                "nodeTo": "2e7798ed-6bbb-495e-9ac3-c239ba0a6b7c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1e8562bd-ebeb-46e6-86ed-3cbe3ca0a85d",
+                "nodeTo": "aa2e2887-2d94-4e2a-bc46-4b04a6ba4831",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1e8562bd-ebeb-46e6-86ed-3cbe3ca0a85d",
+                "nodeTo": "59296bb8-2048-40ea-855e-7d525dd6182e",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2e7798ed-6bbb-495e-9ac3-c239ba0a6b7c",
+                "nodeTo": "676b4375-a26c-4192-aad9-90e327732e93",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "aa2e2887-2d94-4e2a-bc46-4b04a6ba4831",
+                "nodeTo": "676b4375-a26c-4192-aad9-90e327732e93",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "59296bb8-2048-40ea-855e-7d525dd6182e",
+                "nodeTo": "676b4375-a26c-4192-aad9-90e327732e93",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "676b4375-a26c-4192-aad9-90e327732e93",
+                "nodeTo": "05492a79-a97b-4db7-a1ad-880d6863066c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "676b4375-a26c-4192-aad9-90e327732e93",
+                "nodeTo": "a10c471c-76b0-4a88-ba57-926c8a179bd2",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "676b4375-a26c-4192-aad9-90e327732e93",
+                "nodeTo": "16b7cb9c-0750-4c97-a319-b90407a311bc",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "05492a79-a97b-4db7-a1ad-880d6863066c",
+                "nodeTo": "d3e1c3dd-7959-4d93-a0a3-050e335754a5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a10c471c-76b0-4a88-ba57-926c8a179bd2",
+                "nodeTo": "d3e1c3dd-7959-4d93-a0a3-050e335754a5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "16b7cb9c-0750-4c97-a319-b90407a311bc",
+                "nodeTo": "d3e1c3dd-7959-4d93-a0a3-050e335754a5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d3e1c3dd-7959-4d93-a0a3-050e335754a5",
+                "nodeTo": "2048a4d1-e7b7-4b3e-a35d-b6c9c64a60be",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d3e1c3dd-7959-4d93-a0a3-050e335754a5",
+                "nodeTo": "b325ec75-554b-42c1-b9e2-97dd1d20a3b2",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-08 20:58:12"
+}

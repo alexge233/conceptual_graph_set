@@ -1,0 +1,142 @@
+{
+    "uuid": 350,
+    "text": "Analysis supports use of risk equations to guide statin therapy",
+    "graph": {
+        "version": 1,
+        "guid": "ae0d822b-51aa-4cd1-86bb-86a05c843ebb",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "supports",
+                "id": "814bc798-860d-4028-8298-9d9986e97e2c",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "a66d0e5e-8e7a-4ee2-a7ec-18c554058186",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "b1a6a9e7-d271-42d4-a3ca-7522e9ccc4b1",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "guide",
+                "id": "87376256-e3ea-489d-8cac-393e765748cc",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Analysis",
+                "id": "9a59e01d-ccdd-44de-b513-3db3b285a0eb",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "use",
+                "id": "98a42a63-0207-46cc-b5d0-30aa7aec2472",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "risk",
+                "id": "dc471757-7425-4232-9cc9-52aac2534e71",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "equations",
+                "id": "73bd2995-1cd8-4e0c-9843-1cb978e55b5c",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "statin",
+                "id": "a4e6e713-00bd-4c9e-b571-a127d27c6477",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "therapy",
+                "id": "39b72763-60bb-4423-8797-47dcae452160",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "9a59e01d-ccdd-44de-b513-3db3b285a0eb",
+                "nodeTo": "814bc798-860d-4028-8298-9d9986e97e2c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "814bc798-860d-4028-8298-9d9986e97e2c",
+                "nodeTo": "98a42a63-0207-46cc-b5d0-30aa7aec2472",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "98a42a63-0207-46cc-b5d0-30aa7aec2472",
+                "nodeTo": "a66d0e5e-8e7a-4ee2-a7ec-18c554058186",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a66d0e5e-8e7a-4ee2-a7ec-18c554058186",
+                "nodeTo": "dc471757-7425-4232-9cc9-52aac2534e71",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a66d0e5e-8e7a-4ee2-a7ec-18c554058186",
+                "nodeTo": "73bd2995-1cd8-4e0c-9843-1cb978e55b5c",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "98a42a63-0207-46cc-b5d0-30aa7aec2472",
+                "nodeTo": "b1a6a9e7-d271-42d4-a3ca-7522e9ccc4b1",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "98a42a63-0207-46cc-b5d0-30aa7aec2472",
+                "nodeTo": "87376256-e3ea-489d-8cac-393e765748cc",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b1a6a9e7-d271-42d4-a3ca-7522e9ccc4b1",
+                "nodeTo": "a4e6e713-00bd-4c9e-b571-a127d27c6477",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "87376256-e3ea-489d-8cac-393e765748cc",
+                "nodeTo": "a4e6e713-00bd-4c9e-b571-a127d27c6477",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b1a6a9e7-d271-42d4-a3ca-7522e9ccc4b1",
+                "nodeTo": "39b72763-60bb-4423-8797-47dcae452160",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "87376256-e3ea-489d-8cac-393e765748cc",
+                "nodeTo": "39b72763-60bb-4423-8797-47dcae452160",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-16 15:46:10"
+}

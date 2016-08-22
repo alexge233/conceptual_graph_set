@@ -1,0 +1,232 @@
+{
+    "uuid": 317,
+    "text": "Ischemic strokes are most common and these occur when small clots interrupt blood supply to brain",
+    "graph": {
+        "version": 1,
+        "guid": "5112b9a2-dadb-4a0a-b8d2-197ee11650dc",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "are",
+                "id": "53236c3b-3269-4d60-8e39-a84da83491ac",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "02259ae2-9c45-4dc7-a997-c65564649525",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "occur",
+                "id": "165a85d8-99a8-4768-91b9-1dbc29820725",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "when",
+                "id": "b155708c-4e91-43e4-835b-88708290e76d",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "interrupt",
+                "id": "7582e93a-b28c-4b7a-b5c7-60853221565a",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "5a96b6ca-b782-4260-aeb5-013a7da1a007",
+                "index": 14,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Ischemic",
+                "id": "103588aa-6d25-40b9-9e57-199ae86db04d",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "strokes",
+                "id": "73b7c0c4-c8b8-4eb9-8ab1-4a17ed6a6971",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "most",
+                "id": "e72603b2-1ac6-48da-a10d-58845995bdb7",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "common",
+                "id": "63657742-a927-4599-a415-d4a4c8a2e677",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "these",
+                "id": "9b735600-c2ab-4498-b6be-438e0745b278",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "small",
+                "id": "be4bdea7-4b80-47b0-a828-2e4ed0367499",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "clots",
+                "id": "72792653-0491-43c5-97a7-58b337e561a8",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "blood",
+                "id": "1a70271b-5135-4548-b330-a53550dda497",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "supply",
+                "id": "22d8b556-8435-4d5d-9773-dd3e966e10c2",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "brain",
+                "id": "bc824505-c58d-4e85-b503-e6b776d1982c",
+                "index": 15,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "103588aa-6d25-40b9-9e57-199ae86db04d",
+                "nodeTo": "53236c3b-3269-4d60-8e39-a84da83491ac",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "73b7c0c4-c8b8-4eb9-8ab1-4a17ed6a6971",
+                "nodeTo": "53236c3b-3269-4d60-8e39-a84da83491ac",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "53236c3b-3269-4d60-8e39-a84da83491ac",
+                "nodeTo": "e72603b2-1ac6-48da-a10d-58845995bdb7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "53236c3b-3269-4d60-8e39-a84da83491ac",
+                "nodeTo": "63657742-a927-4599-a415-d4a4c8a2e677",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "103588aa-6d25-40b9-9e57-199ae86db04d",
+                "nodeTo": "02259ae2-9c45-4dc7-a997-c65564649525",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "73b7c0c4-c8b8-4eb9-8ab1-4a17ed6a6971",
+                "nodeTo": "02259ae2-9c45-4dc7-a997-c65564649525",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "02259ae2-9c45-4dc7-a997-c65564649525",
+                "nodeTo": "9b735600-c2ab-4498-b6be-438e0745b278",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9b735600-c2ab-4498-b6be-438e0745b278",
+                "nodeTo": "165a85d8-99a8-4768-91b9-1dbc29820725",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9b735600-c2ab-4498-b6be-438e0745b278",
+                "nodeTo": "b155708c-4e91-43e4-835b-88708290e76d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "165a85d8-99a8-4768-91b9-1dbc29820725",
+                "nodeTo": "be4bdea7-4b80-47b0-a828-2e4ed0367499",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "165a85d8-99a8-4768-91b9-1dbc29820725",
+                "nodeTo": "72792653-0491-43c5-97a7-58b337e561a8",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b155708c-4e91-43e4-835b-88708290e76d",
+                "nodeTo": "be4bdea7-4b80-47b0-a828-2e4ed0367499",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b155708c-4e91-43e4-835b-88708290e76d",
+                "nodeTo": "72792653-0491-43c5-97a7-58b337e561a8",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "be4bdea7-4b80-47b0-a828-2e4ed0367499",
+                "nodeTo": "7582e93a-b28c-4b7a-b5c7-60853221565a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "72792653-0491-43c5-97a7-58b337e561a8",
+                "nodeTo": "7582e93a-b28c-4b7a-b5c7-60853221565a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7582e93a-b28c-4b7a-b5c7-60853221565a",
+                "nodeTo": "1a70271b-5135-4548-b330-a53550dda497",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7582e93a-b28c-4b7a-b5c7-60853221565a",
+                "nodeTo": "22d8b556-8435-4d5d-9773-dd3e966e10c2",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1a70271b-5135-4548-b330-a53550dda497",
+                "nodeTo": "5a96b6ca-b782-4260-aeb5-013a7da1a007",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "22d8b556-8435-4d5d-9773-dd3e966e10c2",
+                "nodeTo": "5a96b6ca-b782-4260-aeb5-013a7da1a007",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5a96b6ca-b782-4260-aeb5-013a7da1a007",
+                "nodeTo": "bc824505-c58d-4e85-b503-e6b776d1982c",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-04 20:48:59"
+}

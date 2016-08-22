@@ -1,0 +1,226 @@
+{
+    "uuid": 1017,
+    "text": "Chimpanzees have almost same personality traits as humans and they are structured almost identically",
+    "graph": {
+        "version": 1,
+        "guid": "5d95d359-a9ba-43ca-9aa5-1a987344543a",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "have",
+                "id": "e25ad613-743d-4992-8d65-6967ae54c3b7",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "as",
+                "id": "ca94ec61-e1d6-42da-84e3-dc771c510881",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "41d73029-e931-43d2-b166-35dea552cee9",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "are",
+                "id": "659b5ad2-5744-4c2a-aa7e-2b9351b364a1",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "structured",
+                "id": "d945214d-12e9-4411-8000-5e9b607d5598",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Chimpanzees",
+                "id": "187d9789-5ca4-4064-8be0-4885a9575dc9",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "almost",
+                "id": "7b8905e5-23c3-45c4-a787-e3ee31e81218",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "same",
+                "id": "4e521406-4182-42b9-a98b-350ee86bea56",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "personality",
+                "id": "c6541d9a-9268-456a-b2a9-8b6a8613c099",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "traits",
+                "id": "8314c628-e464-4150-b988-165adad988eb",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "humans",
+                "id": "70ab68ea-102d-41ad-9491-484b32aadbb9",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "they",
+                "id": "1904e7e8-89d6-4ae7-9d9c-85d18b336d62",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "almost",
+                "id": "a13c9357-845c-45a1-b773-d46520da3557",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "identically",
+                "id": "81e75103-8689-41a0-8ad8-d19e22ea4c52",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "187d9789-5ca4-4064-8be0-4885a9575dc9",
+                "nodeTo": "e25ad613-743d-4992-8d65-6967ae54c3b7",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e25ad613-743d-4992-8d65-6967ae54c3b7",
+                "nodeTo": "7b8905e5-23c3-45c4-a787-e3ee31e81218",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e25ad613-743d-4992-8d65-6967ae54c3b7",
+                "nodeTo": "4e521406-4182-42b9-a98b-350ee86bea56",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e25ad613-743d-4992-8d65-6967ae54c3b7",
+                "nodeTo": "c6541d9a-9268-456a-b2a9-8b6a8613c099",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e25ad613-743d-4992-8d65-6967ae54c3b7",
+                "nodeTo": "8314c628-e464-4150-b988-165adad988eb",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7b8905e5-23c3-45c4-a787-e3ee31e81218",
+                "nodeTo": "ca94ec61-e1d6-42da-84e3-dc771c510881",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4e521406-4182-42b9-a98b-350ee86bea56",
+                "nodeTo": "ca94ec61-e1d6-42da-84e3-dc771c510881",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c6541d9a-9268-456a-b2a9-8b6a8613c099",
+                "nodeTo": "ca94ec61-e1d6-42da-84e3-dc771c510881",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8314c628-e464-4150-b988-165adad988eb",
+                "nodeTo": "ca94ec61-e1d6-42da-84e3-dc771c510881",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ca94ec61-e1d6-42da-84e3-dc771c510881",
+                "nodeTo": "70ab68ea-102d-41ad-9491-484b32aadbb9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7b8905e5-23c3-45c4-a787-e3ee31e81218",
+                "nodeTo": "41d73029-e931-43d2-b166-35dea552cee9",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4e521406-4182-42b9-a98b-350ee86bea56",
+                "nodeTo": "41d73029-e931-43d2-b166-35dea552cee9",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c6541d9a-9268-456a-b2a9-8b6a8613c099",
+                "nodeTo": "41d73029-e931-43d2-b166-35dea552cee9",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8314c628-e464-4150-b988-165adad988eb",
+                "nodeTo": "41d73029-e931-43d2-b166-35dea552cee9",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "41d73029-e931-43d2-b166-35dea552cee9",
+                "nodeTo": "1904e7e8-89d6-4ae7-9d9c-85d18b336d62",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1904e7e8-89d6-4ae7-9d9c-85d18b336d62",
+                "nodeTo": "659b5ad2-5744-4c2a-aa7e-2b9351b364a1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1904e7e8-89d6-4ae7-9d9c-85d18b336d62",
+                "nodeTo": "d945214d-12e9-4411-8000-5e9b607d5598",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "659b5ad2-5744-4c2a-aa7e-2b9351b364a1",
+                "nodeTo": "a13c9357-845c-45a1-b773-d46520da3557",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "659b5ad2-5744-4c2a-aa7e-2b9351b364a1",
+                "nodeTo": "81e75103-8689-41a0-8ad8-d19e22ea4c52",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d945214d-12e9-4411-8000-5e9b607d5598",
+                "nodeTo": "a13c9357-845c-45a1-b773-d46520da3557",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d945214d-12e9-4411-8000-5e9b607d5598",
+                "nodeTo": "81e75103-8689-41a0-8ad8-d19e22ea4c52",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-03 14:45:51"
+}

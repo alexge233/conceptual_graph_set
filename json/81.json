@@ -1,0 +1,70 @@
+{
+    "uuid": 81,
+    "text": "Hearing dog gave me confidence",
+    "graph": {
+        "version": 1,
+        "guid": "d0a433ce-a3a5-41e2-8530-17ac3b269980",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "gave",
+                "id": "d9dadad2-e68e-47e8-81e2-67787d239457",
+                "index": 2,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Hearing",
+                "id": "8069b6cd-4dc3-4c80-9836-b446e052e6d5",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "dog",
+                "id": "41e23aee-1284-4db0-a808-32c32cc07551",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "me",
+                "id": "3d87e70a-d506-4b44-9b5d-0155e49e911b",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "confidence",
+                "id": "bba70183-9691-48a8-ad73-43ec6ec79ba9",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "8069b6cd-4dc3-4c80-9836-b446e052e6d5",
+                "nodeTo": "d9dadad2-e68e-47e8-81e2-67787d239457",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "41e23aee-1284-4db0-a808-32c32cc07551",
+                "nodeTo": "d9dadad2-e68e-47e8-81e2-67787d239457",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d9dadad2-e68e-47e8-81e2-67787d239457",
+                "nodeTo": "3d87e70a-d506-4b44-9b5d-0155e49e911b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d9dadad2-e68e-47e8-81e2-67787d239457",
+                "nodeTo": "bba70183-9691-48a8-ad73-43ec6ec79ba9",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-10-24 20:15:38"
+}

@@ -1,0 +1,178 @@
+{
+    "uuid": 739,
+    "text": "technology for engineering human cells as therapies has been developed by scientists",
+    "graph": {
+        "version": 1,
+        "guid": "e54b6900-30c2-436e-b235-6e87c9ac79eb",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "for",
+                "id": "58e47387-a24e-48c6-82c3-02eebcc87a36",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "engineering",
+                "id": "3942ba37-42c2-4a60-aa05-1d65e4b07b26",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "as",
+                "id": "2ab56658-073d-4ede-853a-66db1961143b",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "has",
+                "id": "63e6c15e-dad5-47c4-b91b-b65bc2c20cd1",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "been",
+                "id": "e07ab649-1e74-4a91-a7c3-d78adb2d7ca3",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "by",
+                "id": "529e6260-29a9-49d6-9897-b889d80c3aa6",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "technology",
+                "id": "e4c3b29a-d9d5-4e38-92cd-e5d0e9c17dec",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "human",
+                "id": "936333dd-794d-499a-b557-c279123dd949",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "cells",
+                "id": "176dac10-c8e1-4c64-b58a-83631e7b13b2",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "therapies",
+                "id": "d5b2138a-6932-4979-acb6-5045d930127e",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "developed",
+                "id": "d0334ee7-9eb8-4d3e-b873-c3d79640937e",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "scientists",
+                "id": "7adbc9b6-4be4-4db5-a50c-549927c76bdc",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "e4c3b29a-d9d5-4e38-92cd-e5d0e9c17dec",
+                "nodeTo": "58e47387-a24e-48c6-82c3-02eebcc87a36",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e4c3b29a-d9d5-4e38-92cd-e5d0e9c17dec",
+                "nodeTo": "3942ba37-42c2-4a60-aa05-1d65e4b07b26",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "58e47387-a24e-48c6-82c3-02eebcc87a36",
+                "nodeTo": "936333dd-794d-499a-b557-c279123dd949",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3942ba37-42c2-4a60-aa05-1d65e4b07b26",
+                "nodeTo": "936333dd-794d-499a-b557-c279123dd949",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "58e47387-a24e-48c6-82c3-02eebcc87a36",
+                "nodeTo": "176dac10-c8e1-4c64-b58a-83631e7b13b2",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3942ba37-42c2-4a60-aa05-1d65e4b07b26",
+                "nodeTo": "176dac10-c8e1-4c64-b58a-83631e7b13b2",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "936333dd-794d-499a-b557-c279123dd949",
+                "nodeTo": "2ab56658-073d-4ede-853a-66db1961143b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "176dac10-c8e1-4c64-b58a-83631e7b13b2",
+                "nodeTo": "2ab56658-073d-4ede-853a-66db1961143b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2ab56658-073d-4ede-853a-66db1961143b",
+                "nodeTo": "d5b2138a-6932-4979-acb6-5045d930127e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e4c3b29a-d9d5-4e38-92cd-e5d0e9c17dec",
+                "nodeTo": "63e6c15e-dad5-47c4-b91b-b65bc2c20cd1",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e4c3b29a-d9d5-4e38-92cd-e5d0e9c17dec",
+                "nodeTo": "e07ab649-1e74-4a91-a7c3-d78adb2d7ca3",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "63e6c15e-dad5-47c4-b91b-b65bc2c20cd1",
+                "nodeTo": "d0334ee7-9eb8-4d3e-b873-c3d79640937e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e07ab649-1e74-4a91-a7c3-d78adb2d7ca3",
+                "nodeTo": "d0334ee7-9eb8-4d3e-b873-c3d79640937e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d0334ee7-9eb8-4d3e-b873-c3d79640937e",
+                "nodeTo": "529e6260-29a9-49d6-9897-b889d80c3aa6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "529e6260-29a9-49d6-9897-b889d80c3aa6",
+                "nodeTo": "7adbc9b6-4be4-4db5-a50c-549927c76bdc",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-12 21:33:51"
+}

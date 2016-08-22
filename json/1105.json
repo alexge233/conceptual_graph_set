@@ -1,0 +1,370 @@
+{
+    "uuid": 1105,
+    "text": "Health clinics that can provide primary care for low income patients may ease financial burden on both hospitals and insurance companies",
+    "graph": {
+        "version": 1,
+        "guid": "e5354080-59d1-4449-a89c-6d56c70b1d63",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "can",
+                "id": "a336b549-4019-4b04-8c3c-49eeed344ec1",
+                "postag": "NA",
+                "index": 3
+            },
+            {
+                "label": "that",
+                "id": "29e06366-ac3d-42d9-84c3-65604aa00778",
+                "postag": "NA",
+                "index": 2
+            },
+            {
+                "label": "provide",
+                "id": "e5a346b3-d76d-4a74-82ab-811bc39c4370",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "81e48449-57b2-4be4-b450-a705a87d11bb",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "may",
+                "id": "a4c587ee-5777-42b5-8435-46bba4a698c3",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "ease",
+                "id": "7327bb46-bc2d-482a-89e6-612a35a73c37",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "on",
+                "id": "9706aaad-1e04-47eb-ad94-098abd71b427",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "both",
+                "id": "68c416ec-9426-4302-9c8c-0e7e50c6004d",
+                "index": 16,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "311ccec8-1b54-4d36-9bc2-d1779019da8a",
+                "index": 18,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Health",
+                "id": "43a75b3a-97de-4985-b8b9-5c71a28c49c4",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "clinics",
+                "id": "b626eadd-1337-4a8d-a0b0-6769c3398ca8",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "primary",
+                "id": "e8402058-99c1-411b-aeee-d36c8a3cc5aa",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "care",
+                "id": "0a945a17-8962-4e54-9900-29a3308191d9",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "low",
+                "id": "ccc80387-2310-4e1d-a936-d90b614d2611",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "income",
+                "id": "9d6058e4-b3a4-424c-840c-5d0624d5790b",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "patients",
+                "id": "d01c8020-206b-4dcb-8be3-5577e4c8ae40",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "financial",
+                "id": "820d4770-5d9c-4c05-bb76-3513c5c5b43a",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "burden",
+                "id": "903b35ad-b010-4dc9-a6c5-b186a3dc9450",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "hospitals",
+                "id": "c2ae640d-d5a3-4035-9aa3-1a0e6ca3c6ac",
+                "index": 17,
+                "postag": "NA"
+            },
+            {
+                "label": "insurance",
+                "id": "8ad34c40-a181-4353-8d27-3d9969707136",
+                "index": 19,
+                "postag": "NA"
+            },
+            {
+                "label": "companies",
+                "id": "c94646cc-3530-4bd7-809d-7b8e1da96342",
+                "index": 20,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "43a75b3a-97de-4985-b8b9-5c71a28c49c4",
+                "nodeTo": "29e06366-ac3d-42d9-84c3-65604aa00778",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b626eadd-1337-4a8d-a0b0-6769c3398ca8",
+                "nodeTo": "29e06366-ac3d-42d9-84c3-65604aa00778",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "43a75b3a-97de-4985-b8b9-5c71a28c49c4",
+                "nodeTo": "a336b549-4019-4b04-8c3c-49eeed344ec1",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b626eadd-1337-4a8d-a0b0-6769c3398ca8",
+                "nodeTo": "a336b549-4019-4b04-8c3c-49eeed344ec1",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "43a75b3a-97de-4985-b8b9-5c71a28c49c4",
+                "nodeTo": "e5a346b3-d76d-4a74-82ab-811bc39c4370",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b626eadd-1337-4a8d-a0b0-6769c3398ca8",
+                "nodeTo": "e5a346b3-d76d-4a74-82ab-811bc39c4370",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "29e06366-ac3d-42d9-84c3-65604aa00778",
+                "nodeTo": "e8402058-99c1-411b-aeee-d36c8a3cc5aa",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "29e06366-ac3d-42d9-84c3-65604aa00778",
+                "nodeTo": "0a945a17-8962-4e54-9900-29a3308191d9",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a336b549-4019-4b04-8c3c-49eeed344ec1",
+                "nodeTo": "e8402058-99c1-411b-aeee-d36c8a3cc5aa",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a336b549-4019-4b04-8c3c-49eeed344ec1",
+                "nodeTo": "0a945a17-8962-4e54-9900-29a3308191d9",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e5a346b3-d76d-4a74-82ab-811bc39c4370",
+                "nodeTo": "e8402058-99c1-411b-aeee-d36c8a3cc5aa",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e5a346b3-d76d-4a74-82ab-811bc39c4370",
+                "nodeTo": "0a945a17-8962-4e54-9900-29a3308191d9",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e8402058-99c1-411b-aeee-d36c8a3cc5aa",
+                "nodeTo": "81e48449-57b2-4be4-b450-a705a87d11bb",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0a945a17-8962-4e54-9900-29a3308191d9",
+                "nodeTo": "81e48449-57b2-4be4-b450-a705a87d11bb",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "81e48449-57b2-4be4-b450-a705a87d11bb",
+                "nodeTo": "ccc80387-2310-4e1d-a936-d90b614d2611",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "81e48449-57b2-4be4-b450-a705a87d11bb",
+                "nodeTo": "9d6058e4-b3a4-424c-840c-5d0624d5790b",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "81e48449-57b2-4be4-b450-a705a87d11bb",
+                "nodeTo": "d01c8020-206b-4dcb-8be3-5577e4c8ae40",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "43a75b3a-97de-4985-b8b9-5c71a28c49c4",
+                "nodeTo": "a4c587ee-5777-42b5-8435-46bba4a698c3",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b626eadd-1337-4a8d-a0b0-6769c3398ca8",
+                "nodeTo": "a4c587ee-5777-42b5-8435-46bba4a698c3",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "43a75b3a-97de-4985-b8b9-5c71a28c49c4",
+                "nodeTo": "7327bb46-bc2d-482a-89e6-612a35a73c37",
+                "index": 5,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b626eadd-1337-4a8d-a0b0-6769c3398ca8",
+                "nodeTo": "7327bb46-bc2d-482a-89e6-612a35a73c37",
+                "index": 5,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a4c587ee-5777-42b5-8435-46bba4a698c3",
+                "nodeTo": "820d4770-5d9c-4c05-bb76-3513c5c5b43a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7327bb46-bc2d-482a-89e6-612a35a73c37",
+                "nodeTo": "820d4770-5d9c-4c05-bb76-3513c5c5b43a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a4c587ee-5777-42b5-8435-46bba4a698c3",
+                "nodeTo": "903b35ad-b010-4dc9-a6c5-b186a3dc9450",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7327bb46-bc2d-482a-89e6-612a35a73c37",
+                "nodeTo": "903b35ad-b010-4dc9-a6c5-b186a3dc9450",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "820d4770-5d9c-4c05-bb76-3513c5c5b43a",
+                "nodeTo": "9706aaad-1e04-47eb-ad94-098abd71b427",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "903b35ad-b010-4dc9-a6c5-b186a3dc9450",
+                "nodeTo": "9706aaad-1e04-47eb-ad94-098abd71b427",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "820d4770-5d9c-4c05-bb76-3513c5c5b43a",
+                "nodeTo": "68c416ec-9426-4302-9c8c-0e7e50c6004d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "903b35ad-b010-4dc9-a6c5-b186a3dc9450",
+                "nodeTo": "68c416ec-9426-4302-9c8c-0e7e50c6004d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9706aaad-1e04-47eb-ad94-098abd71b427",
+                "nodeTo": "c2ae640d-d5a3-4035-9aa3-1a0e6ca3c6ac",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "68c416ec-9426-4302-9c8c-0e7e50c6004d",
+                "nodeTo": "c2ae640d-d5a3-4035-9aa3-1a0e6ca3c6ac",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c2ae640d-d5a3-4035-9aa3-1a0e6ca3c6ac",
+                "nodeTo": "311ccec8-1b54-4d36-9bc2-d1779019da8a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "311ccec8-1b54-4d36-9bc2-d1779019da8a",
+                "nodeTo": "8ad34c40-a181-4353-8d27-3d9969707136",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "311ccec8-1b54-4d36-9bc2-d1779019da8a",
+                "nodeTo": "c94646cc-3530-4bd7-809d-7b8e1da96342",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9706aaad-1e04-47eb-ad94-098abd71b427",
+                "nodeTo": "8ad34c40-a181-4353-8d27-3d9969707136",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "68c416ec-9426-4302-9c8c-0e7e50c6004d",
+                "nodeTo": "8ad34c40-a181-4353-8d27-3d9969707136",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9706aaad-1e04-47eb-ad94-098abd71b427",
+                "nodeTo": "c94646cc-3530-4bd7-809d-7b8e1da96342",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "68c416ec-9426-4302-9c8c-0e7e50c6004d",
+                "nodeTo": "c94646cc-3530-4bd7-809d-7b8e1da96342",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-12 15:50:23"
+}

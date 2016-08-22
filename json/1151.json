@@ -1,0 +1,88 @@
+{
+    "uuid": 1151,
+    "text": "comeback of abandoned antibiotic : Trimethoprim",
+    "graph": {
+        "version": 1,
+        "guid": "7722764d-05bc-4ab6-8972-969373a2954e",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "of",
+                "id": "4739e641-db11-4b3e-b71b-a8bb1d952da3",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": ":",
+                "id": "943b9ba1-eb7b-4baa-a948-b352c9aaa63d",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "comeback",
+                "id": "eb922ccb-ac8b-4e1a-a510-6dcd3a3a8c1c",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "abandoned",
+                "id": "77cced33-9b29-48ea-9871-17004bde5ce3",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "antibiotic",
+                "id": "408e8d62-6dc0-43e9-903a-8a81a50bd175",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "Trimethoprim",
+                "id": "0bacb6c6-3c0e-4809-98b9-ac21b81c2ec4",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "eb922ccb-ac8b-4e1a-a510-6dcd3a3a8c1c",
+                "nodeTo": "4739e641-db11-4b3e-b71b-a8bb1d952da3",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4739e641-db11-4b3e-b71b-a8bb1d952da3",
+                "nodeTo": "77cced33-9b29-48ea-9871-17004bde5ce3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4739e641-db11-4b3e-b71b-a8bb1d952da3",
+                "nodeTo": "408e8d62-6dc0-43e9-903a-8a81a50bd175",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "77cced33-9b29-48ea-9871-17004bde5ce3",
+                "nodeTo": "943b9ba1-eb7b-4baa-a948-b352c9aaa63d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "408e8d62-6dc0-43e9-903a-8a81a50bd175",
+                "nodeTo": "943b9ba1-eb7b-4baa-a948-b352c9aaa63d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "943b9ba1-eb7b-4baa-a948-b352c9aaa63d",
+                "nodeTo": "0bacb6c6-3c0e-4809-98b9-ac21b81c2ec4",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-23 23:18:00"
+}

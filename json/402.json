@@ -1,0 +1,148 @@
+{
+    "uuid": 402,
+    "text": "What immune response should vaccine elicit to prevent HIV infection",
+    "graph": {
+        "version": 1,
+        "guid": "0d44b6a8-4e66-4564-916b-c802b3e531ea",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "What",
+                "id": "99de1070-4c27-4e66-b6d7-c95d2855bd02",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "should",
+                "id": "89ab45b5-81b9-4e23-9e00-243238bc74a9",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "elicit",
+                "id": "31c04b56-7149-4ce3-835e-6b0a7dd18c4b",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "prevent",
+                "id": "81884006-5092-4ed0-8698-2cebcb8b3da9",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "b0d549a0-4c1c-4e0e-8845-830972892893",
+                "postag": "NA",
+                "index": 6
+            }
+        ],
+        "concepts": [
+            {
+                "label": "immune",
+                "id": "ba776274-1da0-4d05-87bc-1e8b5dcb817e",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "response",
+                "id": "6edbaa3d-9675-44bc-86ec-0234da6c6cc0",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "vaccine",
+                "id": "790738b0-e7b2-435d-be22-d477466a0303",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "HIV",
+                "id": "390047be-5283-4524-acd6-63e90796b0e7",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "infection",
+                "id": "36de8183-cb50-4095-991b-825a59a42e9e",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "99de1070-4c27-4e66-b6d7-c95d2855bd02",
+                "nodeTo": "ba776274-1da0-4d05-87bc-1e8b5dcb817e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "99de1070-4c27-4e66-b6d7-c95d2855bd02",
+                "nodeTo": "6edbaa3d-9675-44bc-86ec-0234da6c6cc0",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6edbaa3d-9675-44bc-86ec-0234da6c6cc0",
+                "nodeTo": "89ab45b5-81b9-4e23-9e00-243238bc74a9",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ba776274-1da0-4d05-87bc-1e8b5dcb817e",
+                "nodeTo": "89ab45b5-81b9-4e23-9e00-243238bc74a9",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "89ab45b5-81b9-4e23-9e00-243238bc74a9",
+                "nodeTo": "790738b0-e7b2-435d-be22-d477466a0303",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "790738b0-e7b2-435d-be22-d477466a0303",
+                "nodeTo": "31c04b56-7149-4ce3-835e-6b0a7dd18c4b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "790738b0-e7b2-435d-be22-d477466a0303",
+                "nodeTo": "b0d549a0-4c1c-4e0e-8845-830972892893",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "790738b0-e7b2-435d-be22-d477466a0303",
+                "nodeTo": "81884006-5092-4ed0-8698-2cebcb8b3da9",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b0d549a0-4c1c-4e0e-8845-830972892893",
+                "nodeTo": "390047be-5283-4524-acd6-63e90796b0e7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "81884006-5092-4ed0-8698-2cebcb8b3da9",
+                "nodeTo": "390047be-5283-4524-acd6-63e90796b0e7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b0d549a0-4c1c-4e0e-8845-830972892893",
+                "nodeTo": "36de8183-cb50-4095-991b-825a59a42e9e",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "81884006-5092-4ed0-8698-2cebcb8b3da9",
+                "nodeTo": "36de8183-cb50-4095-991b-825a59a42e9e",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-17 16:02:20"
+}

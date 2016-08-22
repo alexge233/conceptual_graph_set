@@ -1,0 +1,100 @@
+{
+    "uuid": 966,
+    "text": "Charity calls for lung donor change",
+    "graph": {
+        "version": 1,
+        "guid": "c8204602-c6c6-44b2-84a1-90bb73859973",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "calls",
+                "id": "cb680729-306d-4359-a96e-ed2d5323454c",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "04aca033-c190-4cc8-8d0b-37be9844b2dd",
+                "index": 2,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Charity",
+                "id": "986e118a-0024-4801-9210-000d88ade43b",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "lung",
+                "id": "64190146-ad07-4c8b-8489-5c7719b8dd84",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "donor",
+                "id": "98203089-044c-4e0a-a520-95c065ebee69",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "change",
+                "id": "470b312b-a1dc-4366-b2dc-3cbee42c1b4a",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "986e118a-0024-4801-9210-000d88ade43b",
+                "nodeTo": "cb680729-306d-4359-a96e-ed2d5323454c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "986e118a-0024-4801-9210-000d88ade43b",
+                "nodeTo": "04aca033-c190-4cc8-8d0b-37be9844b2dd",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cb680729-306d-4359-a96e-ed2d5323454c",
+                "nodeTo": "64190146-ad07-4c8b-8489-5c7719b8dd84",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "cb680729-306d-4359-a96e-ed2d5323454c",
+                "nodeTo": "98203089-044c-4e0a-a520-95c065ebee69",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "cb680729-306d-4359-a96e-ed2d5323454c",
+                "nodeTo": "470b312b-a1dc-4366-b2dc-3cbee42c1b4a",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "04aca033-c190-4cc8-8d0b-37be9844b2dd",
+                "nodeTo": "64190146-ad07-4c8b-8489-5c7719b8dd84",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "04aca033-c190-4cc8-8d0b-37be9844b2dd",
+                "nodeTo": "98203089-044c-4e0a-a520-95c065ebee69",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "04aca033-c190-4cc8-8d0b-37be9844b2dd",
+                "nodeTo": "470b312b-a1dc-4366-b2dc-3cbee42c1b4a",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-28 12:04:32"
+}

@@ -1,0 +1,172 @@
+{
+    "uuid": 501,
+    "text": "bacterium fungus team up to cause virulent tooth decay in toddlers",
+    "graph": {
+        "version": 1,
+        "guid": "6b93a502-98a5-4da8-91e4-7e440806067c",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "to",
+                "id": "0507d6ab-4153-4805-84d1-c57b67660db7",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "team",
+                "id": "a81c2304-5930-4ec3-b47b-0b3aacdc874c",
+                "postag": "NA",
+                "index": 2
+            },
+            {
+                "label": "cause",
+                "id": "b9176114-01e8-4cb9-8897-cc5256790e87",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "9558bee5-3e0b-42e1-97cb-202bd8a7a578",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "bacterium",
+                "id": "09b21e38-85b2-4e43-9535-53685bb2e34c",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "fungus",
+                "id": "1c147861-6d6d-4882-951c-7bba6c9de41b",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "up",
+                "id": "d4d524dc-786a-4c46-b9e6-4e9384611000",
+                "postag": "NA",
+                "index": 3
+            },
+            {
+                "label": "virulent",
+                "id": "122d03d4-97a6-455e-9d10-aa90c3ec669d",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "tooth",
+                "id": "61b46a8a-4076-43dc-b0a1-1c38e9ab2530",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "decay",
+                "id": "89d17a16-a1e0-4182-b895-9119d22e7708",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "toddlers",
+                "id": "5293d452-7732-4c0c-946c-ab4a4dc9b910",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "09b21e38-85b2-4e43-9535-53685bb2e34c",
+                "nodeTo": "a81c2304-5930-4ec3-b47b-0b3aacdc874c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1c147861-6d6d-4882-951c-7bba6c9de41b",
+                "nodeTo": "a81c2304-5930-4ec3-b47b-0b3aacdc874c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a81c2304-5930-4ec3-b47b-0b3aacdc874c",
+                "nodeTo": "d4d524dc-786a-4c46-b9e6-4e9384611000",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d4d524dc-786a-4c46-b9e6-4e9384611000",
+                "nodeTo": "0507d6ab-4153-4805-84d1-c57b67660db7",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d4d524dc-786a-4c46-b9e6-4e9384611000",
+                "nodeTo": "b9176114-01e8-4cb9-8897-cc5256790e87",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0507d6ab-4153-4805-84d1-c57b67660db7",
+                "nodeTo": "122d03d4-97a6-455e-9d10-aa90c3ec669d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b9176114-01e8-4cb9-8897-cc5256790e87",
+                "nodeTo": "122d03d4-97a6-455e-9d10-aa90c3ec669d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0507d6ab-4153-4805-84d1-c57b67660db7",
+                "nodeTo": "61b46a8a-4076-43dc-b0a1-1c38e9ab2530",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b9176114-01e8-4cb9-8897-cc5256790e87",
+                "nodeTo": "61b46a8a-4076-43dc-b0a1-1c38e9ab2530",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0507d6ab-4153-4805-84d1-c57b67660db7",
+                "nodeTo": "89d17a16-a1e0-4182-b895-9119d22e7708",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b9176114-01e8-4cb9-8897-cc5256790e87",
+                "nodeTo": "89d17a16-a1e0-4182-b895-9119d22e7708",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "122d03d4-97a6-455e-9d10-aa90c3ec669d",
+                "nodeTo": "9558bee5-3e0b-42e1-97cb-202bd8a7a578",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "61b46a8a-4076-43dc-b0a1-1c38e9ab2530",
+                "nodeTo": "9558bee5-3e0b-42e1-97cb-202bd8a7a578",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "89d17a16-a1e0-4182-b895-9119d22e7708",
+                "nodeTo": "9558bee5-3e0b-42e1-97cb-202bd8a7a578",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9558bee5-3e0b-42e1-97cb-202bd8a7a578",
+                "nodeTo": "5293d452-7732-4c0c-946c-ab4a4dc9b910",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-23 17:18:28"
+}

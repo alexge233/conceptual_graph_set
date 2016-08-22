@@ -1,0 +1,184 @@
+{
+    "uuid": 644,
+    "text": "New research reveals that immunization can trigger distinct change in body odor",
+    "graph": {
+        "version": 1,
+        "guid": "03a46947-6e5e-4354-9b2c-c0289eae7db5",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "reveals",
+                "id": "aeda95a7-b6a1-4541-b202-59245c84abe9",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "that",
+                "id": "66a95a2e-13e6-4154-b52b-97ac46acb432",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "can",
+                "id": "695e60bd-65b0-40dd-b920-13704734586c",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "trigger",
+                "id": "53405a60-53a8-4797-b035-92012dac2387",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "30ed7dc9-d971-4a9a-8ee0-47e18c5ccdc1",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "New",
+                "id": "b7035d05-0e2e-4519-8a14-cc625b841234",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "research",
+                "id": "54a0b817-acec-4e98-ab52-4abee974b043",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "immunization",
+                "id": "0a019d86-811b-441d-a0c2-d9320a179c79",
+                "postag": "NA",
+                "index": 4
+            },
+            {
+                "label": "distinct",
+                "id": "c68dd533-3b86-42a7-b070-e89b91a1693a",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "change",
+                "id": "ae410c33-cd29-4001-86eb-ba7000cc094d",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "body",
+                "id": "58ea078b-77e1-47b3-8324-2a392e0c8719",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "odor",
+                "id": "b3198d32-b177-410c-b41b-ec9ccb84e183",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "b7035d05-0e2e-4519-8a14-cc625b841234",
+                "nodeTo": "aeda95a7-b6a1-4541-b202-59245c84abe9",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "54a0b817-acec-4e98-ab52-4abee974b043",
+                "nodeTo": "aeda95a7-b6a1-4541-b202-59245c84abe9",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b7035d05-0e2e-4519-8a14-cc625b841234",
+                "nodeTo": "66a95a2e-13e6-4154-b52b-97ac46acb432",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "54a0b817-acec-4e98-ab52-4abee974b043",
+                "nodeTo": "66a95a2e-13e6-4154-b52b-97ac46acb432",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "aeda95a7-b6a1-4541-b202-59245c84abe9",
+                "nodeTo": "0a019d86-811b-441d-a0c2-d9320a179c79",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "66a95a2e-13e6-4154-b52b-97ac46acb432",
+                "nodeTo": "0a019d86-811b-441d-a0c2-d9320a179c79",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0a019d86-811b-441d-a0c2-d9320a179c79",
+                "nodeTo": "695e60bd-65b0-40dd-b920-13704734586c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0a019d86-811b-441d-a0c2-d9320a179c79",
+                "nodeTo": "53405a60-53a8-4797-b035-92012dac2387",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "695e60bd-65b0-40dd-b920-13704734586c",
+                "nodeTo": "c68dd533-3b86-42a7-b070-e89b91a1693a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "53405a60-53a8-4797-b035-92012dac2387",
+                "nodeTo": "c68dd533-3b86-42a7-b070-e89b91a1693a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "695e60bd-65b0-40dd-b920-13704734586c",
+                "nodeTo": "ae410c33-cd29-4001-86eb-ba7000cc094d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "53405a60-53a8-4797-b035-92012dac2387",
+                "nodeTo": "ae410c33-cd29-4001-86eb-ba7000cc094d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c68dd533-3b86-42a7-b070-e89b91a1693a",
+                "nodeTo": "30ed7dc9-d971-4a9a-8ee0-47e18c5ccdc1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ae410c33-cd29-4001-86eb-ba7000cc094d",
+                "nodeTo": "30ed7dc9-d971-4a9a-8ee0-47e18c5ccdc1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "30ed7dc9-d971-4a9a-8ee0-47e18c5ccdc1",
+                "nodeTo": "58ea078b-77e1-47b3-8324-2a392e0c8719",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "30ed7dc9-d971-4a9a-8ee0-47e18c5ccdc1",
+                "nodeTo": "b3198d32-b177-410c-b41b-ec9ccb84e183",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-08 21:07:23"
+}

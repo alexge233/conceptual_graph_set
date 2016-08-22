@@ -1,0 +1,100 @@
+{
+    "uuid": 164,
+    "text": "Seven per day fruit and veg call",
+    "graph": {
+        "version": 1,
+        "guid": "ec65da39-2d9c-47dc-8e78-3d84ea03d7a9",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "per",
+                "id": "5ee8693b-807c-4a48-a827-4d0598596d2c",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "1ee2b238-c1ba-493b-a6da-b46435133240",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "call",
+                "id": "c286d481-01e6-4115-ba5b-dc2641396953",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Seven",
+                "id": "e9db29c1-2093-49ae-874d-3893625d9dbe",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "day",
+                "id": "4b163ac8-e5d1-4c13-998d-64412957e14e",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "fruit",
+                "id": "991b7d13-81b1-4ddb-9bcc-0463c4159991",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "veg",
+                "id": "6d135aa9-eaa0-46c2-b517-750775485887",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "e9db29c1-2093-49ae-874d-3893625d9dbe",
+                "nodeTo": "5ee8693b-807c-4a48-a827-4d0598596d2c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5ee8693b-807c-4a48-a827-4d0598596d2c",
+                "nodeTo": "4b163ac8-e5d1-4c13-998d-64412957e14e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "991b7d13-81b1-4ddb-9bcc-0463c4159991",
+                "nodeTo": "1ee2b238-c1ba-493b-a6da-b46435133240",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1ee2b238-c1ba-493b-a6da-b46435133240",
+                "nodeTo": "6d135aa9-eaa0-46c2-b517-750775485887",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "991b7d13-81b1-4ddb-9bcc-0463c4159991",
+                "nodeTo": "5ee8693b-807c-4a48-a827-4d0598596d2c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c286d481-01e6-4115-ba5b-dc2641396953",
+                "nodeTo": "e9db29c1-2093-49ae-874d-3893625d9dbe",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c286d481-01e6-4115-ba5b-dc2641396953",
+                "nodeTo": "991b7d13-81b1-4ddb-9bcc-0463c4159991",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-11-03 20:11:26"
+}

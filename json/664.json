@@ -1,0 +1,118 @@
+{
+    "uuid": 664,
+    "text": "Improving self-esteem provides real health benefits in seniors",
+    "graph": {
+        "version": 1,
+        "guid": "6804eb25-a123-4c1a-bc5c-3cc39bc57232",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "Improving",
+                "id": "402b03ec-67ee-4c2b-8de4-4dd497009294",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "provides",
+                "id": "b405c943-d422-4aa4-a75c-c88631b3878b",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "abba1574-80c7-4c2c-9685-59bb730d0691",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "self-esteem",
+                "id": "5b5a342e-8456-485b-a7aa-c05a25cea051",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "real",
+                "id": "43742ca9-c645-49e7-b601-ce3d8963c76a",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "health",
+                "id": "5a295a89-db9a-4618-b28b-2b946a22d79a",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "benefits",
+                "id": "a432a682-0a73-4124-aeea-20609bb9935e",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "seniors",
+                "id": "008da32a-1e62-4210-9c87-da7d9db1bea4",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "402b03ec-67ee-4c2b-8de4-4dd497009294",
+                "nodeTo": "5b5a342e-8456-485b-a7aa-c05a25cea051",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5b5a342e-8456-485b-a7aa-c05a25cea051",
+                "nodeTo": "b405c943-d422-4aa4-a75c-c88631b3878b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b405c943-d422-4aa4-a75c-c88631b3878b",
+                "nodeTo": "43742ca9-c645-49e7-b601-ce3d8963c76a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b405c943-d422-4aa4-a75c-c88631b3878b",
+                "nodeTo": "5a295a89-db9a-4618-b28b-2b946a22d79a",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b405c943-d422-4aa4-a75c-c88631b3878b",
+                "nodeTo": "a432a682-0a73-4124-aeea-20609bb9935e",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "43742ca9-c645-49e7-b601-ce3d8963c76a",
+                "nodeTo": "abba1574-80c7-4c2c-9685-59bb730d0691",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5a295a89-db9a-4618-b28b-2b946a22d79a",
+                "nodeTo": "abba1574-80c7-4c2c-9685-59bb730d0691",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a432a682-0a73-4124-aeea-20609bb9935e",
+                "nodeTo": "abba1574-80c7-4c2c-9685-59bb730d0691",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "abba1574-80c7-4c2c-9685-59bb730d0691",
+                "nodeTo": "008da32a-1e62-4210-9c87-da7d9db1bea4",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-09 19:14:42"
+}

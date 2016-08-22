@@ -1,0 +1,148 @@
+{
+    "uuid": 675,
+    "text": "Brain cell discovery could open doors to targeted cancer therapies",
+    "graph": {
+        "version": 1,
+        "guid": "dd453c09-7830-44ec-83b0-ed583d3eb4a8",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "could",
+                "id": "6dd0b989-a576-4649-8a8b-235229241e09",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "open",
+                "id": "9b17ed6b-734a-4b70-b2a9-223e425a173c",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "5ac83e14-c687-4d93-a8bc-05750d139919",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Brain",
+                "id": "687adc92-9677-4774-b35c-821e6d1db558",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "cell",
+                "id": "682de7de-8e50-4197-a91a-8367636330aa",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "discovery",
+                "id": "6281e43a-a8dc-4592-912d-b05a108d2c07",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "doors",
+                "id": "e3772959-ca5c-4720-be73-db38d24761c5",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "targeted",
+                "id": "37d0d8e2-87ea-4638-a747-0ed0b940da13",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "cancer",
+                "id": "a9474733-8404-4053-87bb-573cb1ac2919",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "therapies",
+                "id": "d032044c-1466-4870-b1e0-da9881a660a0",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "687adc92-9677-4774-b35c-821e6d1db558",
+                "nodeTo": "6dd0b989-a576-4649-8a8b-235229241e09",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "682de7de-8e50-4197-a91a-8367636330aa",
+                "nodeTo": "6dd0b989-a576-4649-8a8b-235229241e09",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6281e43a-a8dc-4592-912d-b05a108d2c07",
+                "nodeTo": "6dd0b989-a576-4649-8a8b-235229241e09",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "687adc92-9677-4774-b35c-821e6d1db558",
+                "nodeTo": "9b17ed6b-734a-4b70-b2a9-223e425a173c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "682de7de-8e50-4197-a91a-8367636330aa",
+                "nodeTo": "9b17ed6b-734a-4b70-b2a9-223e425a173c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6281e43a-a8dc-4592-912d-b05a108d2c07",
+                "nodeTo": "9b17ed6b-734a-4b70-b2a9-223e425a173c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6dd0b989-a576-4649-8a8b-235229241e09",
+                "nodeTo": "e3772959-ca5c-4720-be73-db38d24761c5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9b17ed6b-734a-4b70-b2a9-223e425a173c",
+                "nodeTo": "e3772959-ca5c-4720-be73-db38d24761c5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e3772959-ca5c-4720-be73-db38d24761c5",
+                "nodeTo": "5ac83e14-c687-4d93-a8bc-05750d139919",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5ac83e14-c687-4d93-a8bc-05750d139919",
+                "nodeTo": "37d0d8e2-87ea-4638-a747-0ed0b940da13",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5ac83e14-c687-4d93-a8bc-05750d139919",
+                "nodeTo": "a9474733-8404-4053-87bb-573cb1ac2919",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5ac83e14-c687-4d93-a8bc-05750d139919",
+                "nodeTo": "d032044c-1466-4870-b1e0-da9881a660a0",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-09 20:57:21"
+}

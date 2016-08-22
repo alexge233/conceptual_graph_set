@@ -1,0 +1,118 @@
+{
+    "uuid": 555,
+    "text": "Better tasting reduced fat desserts dressings sauces coming soon",
+    "graph": {
+        "version": 1,
+        "guid": "57a0c1cb-2571-4106-ad63-4a7406e8ba75",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "coming",
+                "id": "2dec6d3e-c641-4b88-ab93-ee67172ab2db",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "tasting",
+                "id": "66cbab4c-db49-42d8-9e09-ee5c23d0d378",
+                "postag": "NA",
+                "index": 1
+            },
+            {
+                "label": "reduced",
+                "id": "446cdcbe-9559-4d3b-b030-4061467502e6",
+                "postag": "NA",
+                "index": 2
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Better",
+                "id": "2e2963cc-3e99-42d5-96e5-414b83c390dc",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "fat",
+                "id": "0b9e9242-8e59-4090-81cd-29c71d858886",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "desserts",
+                "id": "2b3585e7-0285-4142-9d4a-1a3ad815a79d",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "dressings",
+                "id": "8dc61245-b84e-4091-a2ec-5eda05e3d15c",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "sauces",
+                "id": "82b8a589-d5e2-42d3-84ce-20176cd4d03e",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "soon",
+                "id": "e500944b-d4ac-4cb7-bb84-80ca21e05a82",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "66cbab4c-db49-42d8-9e09-ee5c23d0d378",
+                "nodeTo": "2e2963cc-3e99-42d5-96e5-414b83c390dc",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "446cdcbe-9559-4d3b-b030-4061467502e6",
+                "nodeTo": "0b9e9242-8e59-4090-81cd-29c71d858886",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2e2963cc-3e99-42d5-96e5-414b83c390dc",
+                "nodeTo": "2dec6d3e-c641-4b88-ab93-ee67172ab2db",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0b9e9242-8e59-4090-81cd-29c71d858886",
+                "nodeTo": "2dec6d3e-c641-4b88-ab93-ee67172ab2db",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8dc61245-b84e-4091-a2ec-5eda05e3d15c",
+                "nodeTo": "2dec6d3e-c641-4b88-ab93-ee67172ab2db",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2b3585e7-0285-4142-9d4a-1a3ad815a79d",
+                "nodeTo": "2dec6d3e-c641-4b88-ab93-ee67172ab2db",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "82b8a589-d5e2-42d3-84ce-20176cd4d03e",
+                "nodeTo": "2dec6d3e-c641-4b88-ab93-ee67172ab2db",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2dec6d3e-c641-4b88-ab93-ee67172ab2db",
+                "nodeTo": "e500944b-d4ac-4cb7-bb84-80ca21e05a82",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-05 20:09:21"
+}

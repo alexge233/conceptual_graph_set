@@ -1,0 +1,100 @@
+{
+    "uuid": 478,
+    "text": "group prepares autistic workers for tech jobs",
+    "graph": {
+        "version": 1,
+        "guid": "b5c0cd56-e53e-4010-9a06-1cca37915a99",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "prepares",
+                "id": "54115566-5d9d-401d-892d-179869512578",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "493d9e8c-22ba-449d-aac7-8499d2c17273",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "group",
+                "id": "9412d0e0-00cb-433e-982c-36d195ca631e",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "autistic",
+                "id": "bb71d99e-e669-4a46-8da4-bc5c3e4a6267",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "workers",
+                "id": "13cb5867-6a12-4047-bcb4-1a986e68e43e",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "tech",
+                "id": "1499668c-962b-4744-a1a3-79038cb5a5aa",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "jobs",
+                "id": "d1651667-5519-4e95-8a24-ad41dda7395a",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "9412d0e0-00cb-433e-982c-36d195ca631e",
+                "nodeTo": "54115566-5d9d-401d-892d-179869512578",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "54115566-5d9d-401d-892d-179869512578",
+                "nodeTo": "bb71d99e-e669-4a46-8da4-bc5c3e4a6267",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "54115566-5d9d-401d-892d-179869512578",
+                "nodeTo": "13cb5867-6a12-4047-bcb4-1a986e68e43e",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "bb71d99e-e669-4a46-8da4-bc5c3e4a6267",
+                "nodeTo": "493d9e8c-22ba-449d-aac7-8499d2c17273",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "13cb5867-6a12-4047-bcb4-1a986e68e43e",
+                "nodeTo": "493d9e8c-22ba-449d-aac7-8499d2c17273",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "493d9e8c-22ba-449d-aac7-8499d2c17273",
+                "nodeTo": "1499668c-962b-4744-a1a3-79038cb5a5aa",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "493d9e8c-22ba-449d-aac7-8499d2c17273",
+                "nodeTo": "d1651667-5519-4e95-8a24-ad41dda7395a",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-19 13:33:32"
+}

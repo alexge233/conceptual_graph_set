@@ -1,0 +1,196 @@
+{
+    "uuid": 525,
+    "text": "CAD stroke technology is capable of detecting signs of stroke from computed tomography CT scans",
+    "graph": {
+        "version": 1,
+        "guid": "6be66589-c824-4d2b-9ec7-186b8d718cd5",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "is",
+                "id": "8c1ac521-7d90-4ae0-90e1-bba2a0aac060",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "56744700-d339-4a90-9836-61c1446ab8e5",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "detecting",
+                "id": "94e3cd8c-497b-44b0-8436-683739bb2441",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "98b962c7-570c-4ccb-8a1c-b0507d854e56",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "from",
+                "id": "3537e8d0-c265-4705-8e9a-d1837d419a3a",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "CAD",
+                "id": "a17972a9-a3a2-4425-b2b3-61db62cd1209",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "stroke",
+                "id": "cc90a63e-8699-4b66-aa80-d469930c2b16",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "technology",
+                "id": "3b6b2aaa-6965-4e89-8227-09e94d4d3145",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "capable",
+                "id": "6a63e337-81cb-4ade-81dd-4aa0d1099e09",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "signs",
+                "id": "4badb631-d166-4209-88aa-59b37ee86709",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "stroke",
+                "id": "32743872-96a0-49a5-bb1b-03b24b90325b",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "computed",
+                "id": "9a97c267-4041-43be-9c02-7eb4059e6948",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "tomography",
+                "id": "c9d31b57-9ab7-4550-8339-9b152d27edba",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "CT",
+                "id": "d0c01b15-21cd-47bb-9c18-ccd6a7b856aa",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "scans",
+                "id": "b85c7581-bc5e-4732-a6dc-7d460469294a",
+                "index": 14,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "a17972a9-a3a2-4425-b2b3-61db62cd1209",
+                "nodeTo": "8c1ac521-7d90-4ae0-90e1-bba2a0aac060",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cc90a63e-8699-4b66-aa80-d469930c2b16",
+                "nodeTo": "8c1ac521-7d90-4ae0-90e1-bba2a0aac060",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3b6b2aaa-6965-4e89-8227-09e94d4d3145",
+                "nodeTo": "8c1ac521-7d90-4ae0-90e1-bba2a0aac060",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8c1ac521-7d90-4ae0-90e1-bba2a0aac060",
+                "nodeTo": "6a63e337-81cb-4ade-81dd-4aa0d1099e09",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6a63e337-81cb-4ade-81dd-4aa0d1099e09",
+                "nodeTo": "56744700-d339-4a90-9836-61c1446ab8e5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6a63e337-81cb-4ade-81dd-4aa0d1099e09",
+                "nodeTo": "94e3cd8c-497b-44b0-8436-683739bb2441",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "56744700-d339-4a90-9836-61c1446ab8e5",
+                "nodeTo": "4badb631-d166-4209-88aa-59b37ee86709",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "94e3cd8c-497b-44b0-8436-683739bb2441",
+                "nodeTo": "4badb631-d166-4209-88aa-59b37ee86709",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4badb631-d166-4209-88aa-59b37ee86709",
+                "nodeTo": "98b962c7-570c-4ccb-8a1c-b0507d854e56",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "98b962c7-570c-4ccb-8a1c-b0507d854e56",
+                "nodeTo": "32743872-96a0-49a5-bb1b-03b24b90325b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4badb631-d166-4209-88aa-59b37ee86709",
+                "nodeTo": "3537e8d0-c265-4705-8e9a-d1837d419a3a",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3537e8d0-c265-4705-8e9a-d1837d419a3a",
+                "nodeTo": "9a97c267-4041-43be-9c02-7eb4059e6948",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3537e8d0-c265-4705-8e9a-d1837d419a3a",
+                "nodeTo": "c9d31b57-9ab7-4550-8339-9b152d27edba",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3537e8d0-c265-4705-8e9a-d1837d419a3a",
+                "nodeTo": "d0c01b15-21cd-47bb-9c18-ccd6a7b856aa",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3537e8d0-c265-4705-8e9a-d1837d419a3a",
+                "nodeTo": "b85c7581-bc5e-4732-a6dc-7d460469294a",
+                "index": 4,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-24 17:18:44"
+}

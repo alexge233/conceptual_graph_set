@@ -1,0 +1,160 @@
+{
+    "uuid": 680,
+    "text": "Brain degeneration in Huntingtons disease caused by amino acid deficiency",
+    "graph": {
+        "version": 1,
+        "guid": "3a6498e1-a602-47c7-a051-297b6d6b84be",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "in",
+                "id": "1453e467-6480-4a89-9208-43331447136e",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "caused",
+                "id": "d227cb43-c322-47c4-beb8-e0b26c5952b0",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "by",
+                "id": "5a998eca-a857-4627-85c5-ccd05cb0d27c",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Brain",
+                "id": "6dbb8e8b-47a8-45d0-a3b2-ea97d57b6b47",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "degeneration",
+                "id": "6b7661ce-407e-43ae-bca3-a61c6031cc23",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "Huntingtons",
+                "id": "747ca32b-3d84-4804-a4a7-8842d7862a28",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "disease",
+                "id": "051736c0-cc08-4250-ad99-80dd5b8aa903",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "amino",
+                "id": "dc63db89-4848-4415-9412-eaad353e7538",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "acid",
+                "id": "48986525-b40a-4186-8044-4591678509e8",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "deficiency",
+                "id": "7894a3c2-451e-46c1-8e32-1a00b7ac64b0",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "6dbb8e8b-47a8-45d0-a3b2-ea97d57b6b47",
+                "nodeTo": "1453e467-6480-4a89-9208-43331447136e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6b7661ce-407e-43ae-bca3-a61c6031cc23",
+                "nodeTo": "1453e467-6480-4a89-9208-43331447136e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1453e467-6480-4a89-9208-43331447136e",
+                "nodeTo": "747ca32b-3d84-4804-a4a7-8842d7862a28",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1453e467-6480-4a89-9208-43331447136e",
+                "nodeTo": "051736c0-cc08-4250-ad99-80dd5b8aa903",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6dbb8e8b-47a8-45d0-a3b2-ea97d57b6b47",
+                "nodeTo": "d227cb43-c322-47c4-beb8-e0b26c5952b0",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6b7661ce-407e-43ae-bca3-a61c6031cc23",
+                "nodeTo": "d227cb43-c322-47c4-beb8-e0b26c5952b0",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6dbb8e8b-47a8-45d0-a3b2-ea97d57b6b47",
+                "nodeTo": "5a998eca-a857-4627-85c5-ccd05cb0d27c",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6b7661ce-407e-43ae-bca3-a61c6031cc23",
+                "nodeTo": "5a998eca-a857-4627-85c5-ccd05cb0d27c",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d227cb43-c322-47c4-beb8-e0b26c5952b0",
+                "nodeTo": "dc63db89-4848-4415-9412-eaad353e7538",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5a998eca-a857-4627-85c5-ccd05cb0d27c",
+                "nodeTo": "dc63db89-4848-4415-9412-eaad353e7538",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d227cb43-c322-47c4-beb8-e0b26c5952b0",
+                "nodeTo": "48986525-b40a-4186-8044-4591678509e8",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5a998eca-a857-4627-85c5-ccd05cb0d27c",
+                "nodeTo": "48986525-b40a-4186-8044-4591678509e8",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d227cb43-c322-47c4-beb8-e0b26c5952b0",
+                "nodeTo": "7894a3c2-451e-46c1-8e32-1a00b7ac64b0",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5a998eca-a857-4627-85c5-ccd05cb0d27c",
+                "nodeTo": "7894a3c2-451e-46c1-8e32-1a00b7ac64b0",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-09 21:24:39"
+}

@@ -1,0 +1,142 @@
+{
+    "uuid": 652,
+    "text": "Bone marrow fat tissue secretes hormone that helps body stay healthy",
+    "graph": {
+        "version": 1,
+        "guid": "d5b0bc86-b43a-4c58-b47d-9884e1c6a395",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "secretes",
+                "id": "5cd7bb9c-be4b-45a7-9714-ebe65ad86b16",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "that",
+                "id": "96ac6c0a-0831-445b-bcb1-1a82b2d4eec3",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "helps",
+                "id": "2211cd54-2b16-46ee-bcea-e372125be165",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "stay",
+                "id": "54227a09-4045-4a49-8719-3e29adb336ac",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Bone",
+                "id": "39a6ae40-ad87-4e54-a918-318a1461ca60",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "marrow",
+                "id": "b6bc0605-6d56-466a-b4c6-dc92da7e2103",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "fat",
+                "id": "875d8a72-8b25-4770-bb9d-e20dd8d9377c",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "tissue",
+                "id": "2d95143b-c739-4bd3-a9b6-2d8989292c25",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "hormone",
+                "id": "5055a551-70d7-474c-991d-ac5c83a9a239",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "body",
+                "id": "02283c73-3099-46da-92c7-4bdd72da4ebc",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "healthy",
+                "id": "cb02a37c-65d5-4e77-8434-5e744a093e9b",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "39a6ae40-ad87-4e54-a918-318a1461ca60",
+                "nodeTo": "5cd7bb9c-be4b-45a7-9714-ebe65ad86b16",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b6bc0605-6d56-466a-b4c6-dc92da7e2103",
+                "nodeTo": "5cd7bb9c-be4b-45a7-9714-ebe65ad86b16",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "875d8a72-8b25-4770-bb9d-e20dd8d9377c",
+                "nodeTo": "5cd7bb9c-be4b-45a7-9714-ebe65ad86b16",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2d95143b-c739-4bd3-a9b6-2d8989292c25",
+                "nodeTo": "5cd7bb9c-be4b-45a7-9714-ebe65ad86b16",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5cd7bb9c-be4b-45a7-9714-ebe65ad86b16",
+                "nodeTo": "5055a551-70d7-474c-991d-ac5c83a9a239",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5055a551-70d7-474c-991d-ac5c83a9a239",
+                "nodeTo": "96ac6c0a-0831-445b-bcb1-1a82b2d4eec3",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5055a551-70d7-474c-991d-ac5c83a9a239",
+                "nodeTo": "2211cd54-2b16-46ee-bcea-e372125be165",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2211cd54-2b16-46ee-bcea-e372125be165",
+                "nodeTo": "02283c73-3099-46da-92c7-4bdd72da4ebc",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "02283c73-3099-46da-92c7-4bdd72da4ebc",
+                "nodeTo": "54227a09-4045-4a49-8719-3e29adb336ac",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "54227a09-4045-4a49-8719-3e29adb336ac",
+                "nodeTo": "cb02a37c-65d5-4e77-8434-5e744a093e9b",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-09 18:37:34"
+}

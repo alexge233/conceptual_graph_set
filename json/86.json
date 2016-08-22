@@ -1,0 +1,196 @@
+{
+    "uuid": 86,
+    "text": "New research reveals how youth who work with horses experience substantial reduction in stress",
+    "graph": {
+        "version": 1,
+        "guid": "c80cdcae-5509-4072-9694-cdc3491d4b9b",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "reveals",
+                "id": "7e8416a5-d162-446a-8d7a-ee1094862ae5",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "how",
+                "id": "3de93691-8d78-40cc-aaea-43e46ce89275",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "who",
+                "id": "b48e496a-9a5d-47d1-b8b1-692bd8d375b6",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "with",
+                "id": "0b7db41d-9963-4511-9a28-71b8eee7e33a",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "experience",
+                "id": "7cc788d5-ba52-470d-9899-24ac3c1de3ee",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "c8996272-6598-4034-bd0b-74cb041d85ea",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "New",
+                "id": "bcbea2ac-0745-492b-9258-184715d285e3",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "research",
+                "id": "37d748a9-7e95-46cd-8bce-e345d6b938d5",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "youth",
+                "id": "0b2a4aca-3c0c-4ec7-be95-839dca686e93",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "work",
+                "id": "72574c93-370b-4a32-863d-87eda8a60454",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "horses",
+                "id": "a8a0a354-cd90-48c2-974a-63ee4c69b91a",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "substantial",
+                "id": "c7a80233-8cac-40ea-bee6-451e125c2635",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "reduction",
+                "id": "85e2ce19-29ed-4b67-9d45-3034127d2c11",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "stress",
+                "id": "b3d7dc98-d4c5-4a6a-b233-49b717031dbb",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "bcbea2ac-0745-492b-9258-184715d285e3",
+                "nodeTo": "7e8416a5-d162-446a-8d7a-ee1094862ae5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bcbea2ac-0745-492b-9258-184715d285e3",
+                "nodeTo": "3de93691-8d78-40cc-aaea-43e46ce89275",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "37d748a9-7e95-46cd-8bce-e345d6b938d5",
+                "nodeTo": "7e8416a5-d162-446a-8d7a-ee1094862ae5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "37d748a9-7e95-46cd-8bce-e345d6b938d5",
+                "nodeTo": "3de93691-8d78-40cc-aaea-43e46ce89275",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7e8416a5-d162-446a-8d7a-ee1094862ae5",
+                "nodeTo": "0b2a4aca-3c0c-4ec7-be95-839dca686e93",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3de93691-8d78-40cc-aaea-43e46ce89275",
+                "nodeTo": "0b2a4aca-3c0c-4ec7-be95-839dca686e93",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0b2a4aca-3c0c-4ec7-be95-839dca686e93",
+                "nodeTo": "b48e496a-9a5d-47d1-b8b1-692bd8d375b6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b48e496a-9a5d-47d1-b8b1-692bd8d375b6",
+                "nodeTo": "72574c93-370b-4a32-863d-87eda8a60454",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "72574c93-370b-4a32-863d-87eda8a60454",
+                "nodeTo": "0b7db41d-9963-4511-9a28-71b8eee7e33a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0b7db41d-9963-4511-9a28-71b8eee7e33a",
+                "nodeTo": "a8a0a354-cd90-48c2-974a-63ee4c69b91a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0b2a4aca-3c0c-4ec7-be95-839dca686e93",
+                "nodeTo": "7cc788d5-ba52-470d-9899-24ac3c1de3ee",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7cc788d5-ba52-470d-9899-24ac3c1de3ee",
+                "nodeTo": "c7a80233-8cac-40ea-bee6-451e125c2635",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7cc788d5-ba52-470d-9899-24ac3c1de3ee",
+                "nodeTo": "85e2ce19-29ed-4b67-9d45-3034127d2c11",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c7a80233-8cac-40ea-bee6-451e125c2635",
+                "nodeTo": "c8996272-6598-4034-bd0b-74cb041d85ea",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "85e2ce19-29ed-4b67-9d45-3034127d2c11",
+                "nodeTo": "c8996272-6598-4034-bd0b-74cb041d85ea",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c8996272-6598-4034-bd0b-74cb041d85ea",
+                "nodeTo": "b3d7dc98-d4c5-4a6a-b233-49b717031dbb",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-03-27 20:42:45"
+}

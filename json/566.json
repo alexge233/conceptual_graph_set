@@ -1,0 +1,184 @@
+{
+    "uuid": 566,
+    "text": "Biochemical cascade causes bone marrow inflammation leading to serious blood disorders",
+    "graph": {
+        "version": 1,
+        "guid": "3d1151dd-c476-4805-9180-e09c7d79cd05",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "causes",
+                "id": "a16c5075-35ad-4721-9107-0cce70dcbecc",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "leading",
+                "id": "ca702cac-2200-4267-a659-370e4b19b3aa",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "61719b28-72b9-4567-a47c-35b162393bbe",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Biochemical",
+                "id": "42163371-b879-475c-8577-b22bad148ac7",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "cascade",
+                "id": "3e6978c0-a631-4552-b6cc-729d8e7c87d2",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "bone",
+                "id": "192c5ee2-66b1-4aab-93e3-9a030d60090c",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "marrow",
+                "id": "44438190-432a-48ca-b77c-5c49324e7c2d",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "inflammation",
+                "id": "b94a6c18-89a2-4a22-a24c-83d05462c160",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "serious",
+                "id": "ac209500-23b1-4de7-ae95-13c5a391c224",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "blood",
+                "id": "3dbc060b-116e-45ec-83a8-a8c74a859eed",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "disorders",
+                "id": "47d6d756-be43-4d8d-b037-42371bbd003b",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "42163371-b879-475c-8577-b22bad148ac7",
+                "nodeTo": "a16c5075-35ad-4721-9107-0cce70dcbecc",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3e6978c0-a631-4552-b6cc-729d8e7c87d2",
+                "nodeTo": "a16c5075-35ad-4721-9107-0cce70dcbecc",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a16c5075-35ad-4721-9107-0cce70dcbecc",
+                "nodeTo": "192c5ee2-66b1-4aab-93e3-9a030d60090c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a16c5075-35ad-4721-9107-0cce70dcbecc",
+                "nodeTo": "44438190-432a-48ca-b77c-5c49324e7c2d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a16c5075-35ad-4721-9107-0cce70dcbecc",
+                "nodeTo": "b94a6c18-89a2-4a22-a24c-83d05462c160",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "192c5ee2-66b1-4aab-93e3-9a030d60090c",
+                "nodeTo": "ca702cac-2200-4267-a659-370e4b19b3aa",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "44438190-432a-48ca-b77c-5c49324e7c2d",
+                "nodeTo": "ca702cac-2200-4267-a659-370e4b19b3aa",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b94a6c18-89a2-4a22-a24c-83d05462c160",
+                "nodeTo": "ca702cac-2200-4267-a659-370e4b19b3aa",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "192c5ee2-66b1-4aab-93e3-9a030d60090c",
+                "nodeTo": "61719b28-72b9-4567-a47c-35b162393bbe",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "44438190-432a-48ca-b77c-5c49324e7c2d",
+                "nodeTo": "61719b28-72b9-4567-a47c-35b162393bbe",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b94a6c18-89a2-4a22-a24c-83d05462c160",
+                "nodeTo": "61719b28-72b9-4567-a47c-35b162393bbe",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ca702cac-2200-4267-a659-370e4b19b3aa",
+                "nodeTo": "ac209500-23b1-4de7-ae95-13c5a391c224",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ca702cac-2200-4267-a659-370e4b19b3aa",
+                "nodeTo": "3dbc060b-116e-45ec-83a8-a8c74a859eed",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ca702cac-2200-4267-a659-370e4b19b3aa",
+                "nodeTo": "47d6d756-be43-4d8d-b037-42371bbd003b",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "61719b28-72b9-4567-a47c-35b162393bbe",
+                "nodeTo": "ac209500-23b1-4de7-ae95-13c5a391c224",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "61719b28-72b9-4567-a47c-35b162393bbe",
+                "nodeTo": "3dbc060b-116e-45ec-83a8-a8c74a859eed",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "61719b28-72b9-4567-a47c-35b162393bbe",
+                "nodeTo": "47d6d756-be43-4d8d-b037-42371bbd003b",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-07 17:43:32"
+}

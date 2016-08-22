@@ -1,0 +1,190 @@
+{
+    "uuid": 92,
+    "text": "Researchers have discovered new way to grow fully functioning corneas using human stem cells",
+    "graph": {
+        "version": 1,
+        "guid": "8d949d6a-b4ac-485d-916c-ce3889cb9c62",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "have",
+                "id": "a9ec0234-97e9-4914-92d6-391c258a795c",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "discovered",
+                "id": "6923b7b8-31d9-4710-9179-1283a62e7a5b",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "grow",
+                "id": "d048a89a-cba0-4a6a-8e78-ce9901bb5915",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "using",
+                "id": "69d990ba-cdb1-4233-ab26-427dce0cd518",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Researchers",
+                "id": "3e06713e-4add-4e20-a715-c9e4b151eecc",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "new",
+                "id": "15b449d4-2689-4746-abaa-b6872538aa0c",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "way",
+                "id": "766092d3-b122-476d-93b2-4210052c3d3a",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "fully",
+                "id": "6170ce7c-351c-4282-b9b2-8eb7829d274e",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "functioning",
+                "id": "273ae7c2-9be9-4c1a-92b2-11eb8063da5b",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "corneas",
+                "id": "deaab5d7-70ab-4bbb-93e4-a4d5c169c4b3",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "human",
+                "id": "33248353-14a5-46ac-b0eb-9074165eee41",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "stem",
+                "id": "6ec1ded5-80ad-4ea2-894a-b35cab374cc0",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "cells",
+                "id": "dab60b3d-25c8-47dd-b16c-21879a16d828",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "bd89094b-51c3-4a57-b33a-244010130bb3",
+                "postag": "NA",
+                "index": 5
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "3e06713e-4add-4e20-a715-c9e4b151eecc",
+                "nodeTo": "a9ec0234-97e9-4914-92d6-391c258a795c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3e06713e-4add-4e20-a715-c9e4b151eecc",
+                "nodeTo": "6923b7b8-31d9-4710-9179-1283a62e7a5b",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6923b7b8-31d9-4710-9179-1283a62e7a5b",
+                "nodeTo": "15b449d4-2689-4746-abaa-b6872538aa0c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6923b7b8-31d9-4710-9179-1283a62e7a5b",
+                "nodeTo": "766092d3-b122-476d-93b2-4210052c3d3a",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d048a89a-cba0-4a6a-8e78-ce9901bb5915",
+                "nodeTo": "6170ce7c-351c-4282-b9b2-8eb7829d274e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d048a89a-cba0-4a6a-8e78-ce9901bb5915",
+                "nodeTo": "273ae7c2-9be9-4c1a-92b2-11eb8063da5b",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d048a89a-cba0-4a6a-8e78-ce9901bb5915",
+                "nodeTo": "deaab5d7-70ab-4bbb-93e4-a4d5c169c4b3",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3e06713e-4add-4e20-a715-c9e4b151eecc",
+                "nodeTo": "69d990ba-cdb1-4233-ab26-427dce0cd518",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "69d990ba-cdb1-4233-ab26-427dce0cd518",
+                "nodeTo": "33248353-14a5-46ac-b0eb-9074165eee41",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "69d990ba-cdb1-4233-ab26-427dce0cd518",
+                "nodeTo": "6ec1ded5-80ad-4ea2-894a-b35cab374cc0",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "69d990ba-cdb1-4233-ab26-427dce0cd518",
+                "nodeTo": "dab60b3d-25c8-47dd-b16c-21879a16d828",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6923b7b8-31d9-4710-9179-1283a62e7a5b",
+                "nodeTo": "bd89094b-51c3-4a57-b33a-244010130bb3",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "bd89094b-51c3-4a57-b33a-244010130bb3",
+                "nodeTo": "d048a89a-cba0-4a6a-8e78-ce9901bb5915",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "15b449d4-2689-4746-abaa-b6872538aa0c",
+                "nodeTo": "d048a89a-cba0-4a6a-8e78-ce9901bb5915",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "766092d3-b122-476d-93b2-4210052c3d3a",
+                "nodeTo": "d048a89a-cba0-4a6a-8e78-ce9901bb5915",
+                "index": 1,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2014-11-06 10:09:03"
+}

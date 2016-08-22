@@ -1,0 +1,70 @@
+{
+    "uuid": 811,
+    "text": "hulking ogre with blue skin",
+    "graph": {
+        "version": 1,
+        "guid": "19464468-e049-4b66-b685-5b538ed23c81",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "with",
+                "id": "d5b99211-1d68-4e12-8e8b-c924414d96a6",
+                "index": 2,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "hulking",
+                "id": "83830da7-ccac-471d-940c-8975e67e6c9a",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "ogre",
+                "id": "06a26e71-e827-4953-834a-a1c5b528ae80",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "blue",
+                "id": "a5b192dd-b16e-45d3-bc25-20386c07a26b",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "skin",
+                "id": "d98086e2-d301-4520-adc3-3d3708750636",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "83830da7-ccac-471d-940c-8975e67e6c9a",
+                "nodeTo": "d5b99211-1d68-4e12-8e8b-c924414d96a6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "06a26e71-e827-4953-834a-a1c5b528ae80",
+                "nodeTo": "d5b99211-1d68-4e12-8e8b-c924414d96a6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d5b99211-1d68-4e12-8e8b-c924414d96a6",
+                "nodeTo": "a5b192dd-b16e-45d3-bc25-20386c07a26b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d5b99211-1d68-4e12-8e8b-c924414d96a6",
+                "nodeTo": "d98086e2-d301-4520-adc3-3d3708750636",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-16 18:33:47"
+}

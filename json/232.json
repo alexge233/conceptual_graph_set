@@ -1,0 +1,238 @@
+{
+    "uuid": 232,
+    "text": "When individuals engage in risky business transactions with each other they may end up being disappointed",
+    "graph": {
+        "version": 1,
+        "guid": "75ba3468-32ec-4acd-bb94-dd683cd98a11",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "When",
+                "id": "dbb44cb5-0006-49da-9948-7828b9a55e74",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "engage",
+                "id": "799840ed-bb3b-43a0-88cd-a79c87089735",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "8453aea0-5c71-408c-bd2c-167b0a27c2a3",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "with",
+                "id": "d72c26bb-e441-4252-8039-a55b7e70044d",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "may",
+                "id": "260dc803-2b60-4128-b694-c354c28beb8b",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "end",
+                "id": "69d71d1b-399e-4935-8501-1607551909c0",
+                "postag": "NA",
+                "index": 12
+            },
+            {
+                "label": "being",
+                "id": "2ddb105b-a0b2-420c-b445-e280d85e57e4",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "disappointed",
+                "id": "049057e6-c9ee-4496-9d70-10202356e86d",
+                "postag": "NA",
+                "index": 15
+            }
+        ],
+        "concepts": [
+            {
+                "label": "individuals",
+                "id": "b92d0b4c-9c38-4932-8ed1-80ca4e170782",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "risky",
+                "id": "4d1230b1-1ca7-4a27-9a15-ede221493c8c",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "business",
+                "id": "018c3b96-780d-4d62-999b-39e0825abea9",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "transactions",
+                "id": "a39e4588-85a7-4971-ae0c-2436718a5c27",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "each",
+                "id": "09ee1925-bcab-46e7-8012-85bc31974909",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "other",
+                "id": "886d1450-950d-4d57-a67b-46710780c12b",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "they",
+                "id": "66262704-a78b-4d84-b02a-e0629cbcd26c",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "up",
+                "id": "2847173e-2ae1-4537-b2ce-0a29138dac0d",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "dbb44cb5-0006-49da-9948-7828b9a55e74",
+                "nodeTo": "b92d0b4c-9c38-4932-8ed1-80ca4e170782",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b92d0b4c-9c38-4932-8ed1-80ca4e170782",
+                "nodeTo": "799840ed-bb3b-43a0-88cd-a79c87089735",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b92d0b4c-9c38-4932-8ed1-80ca4e170782",
+                "nodeTo": "8453aea0-5c71-408c-bd2c-167b0a27c2a3",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "799840ed-bb3b-43a0-88cd-a79c87089735",
+                "nodeTo": "4d1230b1-1ca7-4a27-9a15-ede221493c8c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8453aea0-5c71-408c-bd2c-167b0a27c2a3",
+                "nodeTo": "4d1230b1-1ca7-4a27-9a15-ede221493c8c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "799840ed-bb3b-43a0-88cd-a79c87089735",
+                "nodeTo": "018c3b96-780d-4d62-999b-39e0825abea9",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8453aea0-5c71-408c-bd2c-167b0a27c2a3",
+                "nodeTo": "018c3b96-780d-4d62-999b-39e0825abea9",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "799840ed-bb3b-43a0-88cd-a79c87089735",
+                "nodeTo": "a39e4588-85a7-4971-ae0c-2436718a5c27",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8453aea0-5c71-408c-bd2c-167b0a27c2a3",
+                "nodeTo": "a39e4588-85a7-4971-ae0c-2436718a5c27",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4d1230b1-1ca7-4a27-9a15-ede221493c8c",
+                "nodeTo": "d72c26bb-e441-4252-8039-a55b7e70044d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "018c3b96-780d-4d62-999b-39e0825abea9",
+                "nodeTo": "d72c26bb-e441-4252-8039-a55b7e70044d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a39e4588-85a7-4971-ae0c-2436718a5c27",
+                "nodeTo": "d72c26bb-e441-4252-8039-a55b7e70044d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d72c26bb-e441-4252-8039-a55b7e70044d",
+                "nodeTo": "09ee1925-bcab-46e7-8012-85bc31974909",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d72c26bb-e441-4252-8039-a55b7e70044d",
+                "nodeTo": "886d1450-950d-4d57-a67b-46710780c12b",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "66262704-a78b-4d84-b02a-e0629cbcd26c",
+                "nodeTo": "260dc803-2b60-4128-b694-c354c28beb8b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "66262704-a78b-4d84-b02a-e0629cbcd26c",
+                "nodeTo": "69d71d1b-399e-4935-8501-1607551909c0",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "69d71d1b-399e-4935-8501-1607551909c0",
+                "nodeTo": "2847173e-2ae1-4537-b2ce-0a29138dac0d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2847173e-2ae1-4537-b2ce-0a29138dac0d",
+                "nodeTo": "2ddb105b-a0b2-420c-b445-e280d85e57e4",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b92d0b4c-9c38-4932-8ed1-80ca4e170782",
+                "nodeTo": "260dc803-2b60-4128-b694-c354c28beb8b",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b92d0b4c-9c38-4932-8ed1-80ca4e170782",
+                "nodeTo": "69d71d1b-399e-4935-8501-1607551909c0",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2847173e-2ae1-4537-b2ce-0a29138dac0d",
+                "nodeTo": "049057e6-c9ee-4496-9d70-10202356e86d",
+                "index": 2,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2014-12-01 15:50:57"
+}

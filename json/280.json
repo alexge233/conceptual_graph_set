@@ -1,0 +1,268 @@
+{
+    "uuid": 280,
+    "text": "Medulloblastoma is diagnosed in about 400 children annually in US making it most common pediatric brain tumor",
+    "graph": {
+        "version": 1,
+        "guid": "c8185193-0267-48e1-8a0e-1abe1d7578e2",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "is",
+                "id": "c6686355-28c0-45a5-8bc6-12580aa51d15",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "28bb8b80-0514-4200-ab96-50e27d7cb385",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "diagnosed",
+                "id": "1c3314c1-4691-49a2-94b7-249c26cb5ee4",
+                "postag": "NA",
+                "index": 2
+            },
+            {
+                "label": "in",
+                "id": "70be1c33-cb5a-4c23-aba0-a9300ba8c968",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "making",
+                "id": "d177ebc3-99d2-40d0-812b-94e4068c0bdd",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "most",
+                "id": "d9c0c35d-e6cc-41b3-9373-a953a0332d3a",
+                "postag": "NA",
+                "index": 12
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Medulloblastoma",
+                "id": "17be3c10-9ac1-426e-a090-69d5aa72e423",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "about",
+                "id": "4a747ed2-b370-4c1c-95e1-277d6e6d8ebe",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": 400,
+                "id": "73d2b1e7-cdec-4206-b77b-5418b4bdb65b",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "children",
+                "id": "ac6d4b74-2dc0-4e7c-830d-0e8a0e8966e4",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "annually",
+                "id": "7daa1e81-a731-4b6e-8d94-cd6ce4754bb3",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "US",
+                "id": "54eea286-1826-43e2-a7cb-b186725e0236",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "it",
+                "id": "a0e34119-433a-40da-bcb4-0db99277bd48",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "common",
+                "id": "d1c72273-624a-4c69-abde-4157570b253c",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "pediatric",
+                "id": "acd773ce-81ca-4b3d-9436-d0a3100bd770",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "brain",
+                "id": "35580b8c-16d8-451e-b03d-14d26a307d42",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "tumor",
+                "id": "7a22ac4d-1a30-48dd-84e1-c2cea47bbda6",
+                "index": 16,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "17be3c10-9ac1-426e-a090-69d5aa72e423",
+                "nodeTo": "c6686355-28c0-45a5-8bc6-12580aa51d15",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "28bb8b80-0514-4200-ab96-50e27d7cb385",
+                "nodeTo": "4a747ed2-b370-4c1c-95e1-277d6e6d8ebe",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "28bb8b80-0514-4200-ab96-50e27d7cb385",
+                "nodeTo": "73d2b1e7-cdec-4206-b77b-5418b4bdb65b",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "28bb8b80-0514-4200-ab96-50e27d7cb385",
+                "nodeTo": "ac6d4b74-2dc0-4e7c-830d-0e8a0e8966e4",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "17be3c10-9ac1-426e-a090-69d5aa72e423",
+                "nodeTo": "1c3314c1-4691-49a2-94b7-249c26cb5ee4",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "17be3c10-9ac1-426e-a090-69d5aa72e423",
+                "nodeTo": "28bb8b80-0514-4200-ab96-50e27d7cb385",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1c3314c1-4691-49a2-94b7-249c26cb5ee4",
+                "nodeTo": "4a747ed2-b370-4c1c-95e1-277d6e6d8ebe",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1c3314c1-4691-49a2-94b7-249c26cb5ee4",
+                "nodeTo": "73d2b1e7-cdec-4206-b77b-5418b4bdb65b",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1c3314c1-4691-49a2-94b7-249c26cb5ee4",
+                "nodeTo": "ac6d4b74-2dc0-4e7c-830d-0e8a0e8966e4",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c6686355-28c0-45a5-8bc6-12580aa51d15",
+                "nodeTo": "4a747ed2-b370-4c1c-95e1-277d6e6d8ebe",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c6686355-28c0-45a5-8bc6-12580aa51d15",
+                "nodeTo": "73d2b1e7-cdec-4206-b77b-5418b4bdb65b",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c6686355-28c0-45a5-8bc6-12580aa51d15",
+                "nodeTo": "ac6d4b74-2dc0-4e7c-830d-0e8a0e8966e4",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c6686355-28c0-45a5-8bc6-12580aa51d15",
+                "nodeTo": "7daa1e81-a731-4b6e-8d94-cd6ce4754bb3",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1c3314c1-4691-49a2-94b7-249c26cb5ee4",
+                "nodeTo": "7daa1e81-a731-4b6e-8d94-cd6ce4754bb3",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7daa1e81-a731-4b6e-8d94-cd6ce4754bb3",
+                "nodeTo": "70be1c33-cb5a-4c23-aba0-a9300ba8c968",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "70be1c33-cb5a-4c23-aba0-a9300ba8c968",
+                "nodeTo": "54eea286-1826-43e2-a7cb-b186725e0236",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4a747ed2-b370-4c1c-95e1-277d6e6d8ebe",
+                "nodeTo": "d177ebc3-99d2-40d0-812b-94e4068c0bdd",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "73d2b1e7-cdec-4206-b77b-5418b4bdb65b",
+                "nodeTo": "d177ebc3-99d2-40d0-812b-94e4068c0bdd",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ac6d4b74-2dc0-4e7c-830d-0e8a0e8966e4",
+                "nodeTo": "d177ebc3-99d2-40d0-812b-94e4068c0bdd",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d177ebc3-99d2-40d0-812b-94e4068c0bdd",
+                "nodeTo": "a0e34119-433a-40da-bcb4-0db99277bd48",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a0e34119-433a-40da-bcb4-0db99277bd48",
+                "nodeTo": "d9c0c35d-e6cc-41b3-9373-a953a0332d3a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d9c0c35d-e6cc-41b3-9373-a953a0332d3a",
+                "nodeTo": "d1c72273-624a-4c69-abde-4157570b253c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d9c0c35d-e6cc-41b3-9373-a953a0332d3a",
+                "nodeTo": "acd773ce-81ca-4b3d-9436-d0a3100bd770",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d9c0c35d-e6cc-41b3-9373-a953a0332d3a",
+                "nodeTo": "35580b8c-16d8-451e-b03d-14d26a307d42",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d9c0c35d-e6cc-41b3-9373-a953a0332d3a",
+                "nodeTo": "7a22ac4d-1a30-48dd-84e1-c2cea47bbda6",
+                "index": 4,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-03 14:46:17"
+}

@@ -1,0 +1,154 @@
+{
+    "uuid": 413,
+    "text": "Antioxidants can protect against omega 6 damage or promote it",
+    "graph": {
+        "version": 1,
+        "guid": "6b6c06cc-30ee-4503-be02-3d0a8092c9a6",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "can",
+                "id": "35546420-5b69-461e-9e83-27acd586865b",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "protect",
+                "id": "4c994843-aaa1-4234-83d6-89b8a660bcad",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "against",
+                "id": "ba562573-a322-4a64-b773-820820bd5710",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "or",
+                "id": "91b07a7a-ea85-437c-949b-2abb7d91abe6",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "promote",
+                "id": "e7a8ca89-ad53-4bdb-b550-c901b966c20a",
+                "postag": "NA",
+                "index": 8
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Antioxidants",
+                "id": "7cdab283-67cd-4eee-8454-16b74a09c9b9",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "omega",
+                "id": "857a6530-d1b3-4b75-8027-5468abc3d796",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": 6,
+                "id": "ae4643ed-a430-4342-be70-737ae8c00d88",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "damage",
+                "id": "54ac551d-ab83-4e60-bec3-ee20d11eb0ba",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "it",
+                "id": "aeca55b9-9de2-4d9d-893b-d2133e2698c7",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "7cdab283-67cd-4eee-8454-16b74a09c9b9",
+                "nodeTo": "35546420-5b69-461e-9e83-27acd586865b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7cdab283-67cd-4eee-8454-16b74a09c9b9",
+                "nodeTo": "4c994843-aaa1-4234-83d6-89b8a660bcad",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "35546420-5b69-461e-9e83-27acd586865b",
+                "nodeTo": "857a6530-d1b3-4b75-8027-5468abc3d796",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4c994843-aaa1-4234-83d6-89b8a660bcad",
+                "nodeTo": "857a6530-d1b3-4b75-8027-5468abc3d796",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "35546420-5b69-461e-9e83-27acd586865b",
+                "nodeTo": "ae4643ed-a430-4342-be70-737ae8c00d88",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4c994843-aaa1-4234-83d6-89b8a660bcad",
+                "nodeTo": "ae4643ed-a430-4342-be70-737ae8c00d88",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ba562573-a322-4a64-b773-820820bd5710",
+                "nodeTo": "54ac551d-ab83-4e60-bec3-ee20d11eb0ba",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "857a6530-d1b3-4b75-8027-5468abc3d796",
+                "nodeTo": "ba562573-a322-4a64-b773-820820bd5710",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ae4643ed-a430-4342-be70-737ae8c00d88",
+                "nodeTo": "ba562573-a322-4a64-b773-820820bd5710",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "54ac551d-ab83-4e60-bec3-ee20d11eb0ba",
+                "nodeTo": "91b07a7a-ea85-437c-949b-2abb7d91abe6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "54ac551d-ab83-4e60-bec3-ee20d11eb0ba",
+                "nodeTo": "e7a8ca89-ad53-4bdb-b550-c901b966c20a",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "91b07a7a-ea85-437c-949b-2abb7d91abe6",
+                "nodeTo": "aeca55b9-9de2-4d9d-893b-d2133e2698c7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e7a8ca89-ad53-4bdb-b550-c901b966c20a",
+                "nodeTo": "aeca55b9-9de2-4d9d-893b-d2133e2698c7",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-18 15:38:04"
+}

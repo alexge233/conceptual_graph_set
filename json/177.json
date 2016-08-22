@@ -1,0 +1,82 @@
+{
+    "uuid": 177,
+    "text": "Step forward in skin cancer fight",
+    "graph": {
+        "version": 1,
+        "guid": "58bec4b8-6863-4401-aca8-6e8666c3ad49",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "in",
+                "id": "830e22b6-1b14-435d-8e15-a6408d52e247",
+                "index": 2,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Step",
+                "id": "bcdb594c-6d1e-4d4c-81a5-7b5670119666",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "forward",
+                "id": "bbdcd0d3-9045-424c-834a-e1d1b25b3570",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "skin",
+                "id": "5c8bb15e-b8ba-4c4d-bcb5-27b005484610",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "cancer",
+                "id": "b5078559-0878-4397-b693-e59ed39a8274",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "fight",
+                "id": "6bac2960-05d0-4102-9db1-845cc2cc8ac9",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "bcdb594c-6d1e-4d4c-81a5-7b5670119666",
+                "nodeTo": "830e22b6-1b14-435d-8e15-a6408d52e247",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bbdcd0d3-9045-424c-834a-e1d1b25b3570",
+                "nodeTo": "830e22b6-1b14-435d-8e15-a6408d52e247",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "830e22b6-1b14-435d-8e15-a6408d52e247",
+                "nodeTo": "5c8bb15e-b8ba-4c4d-bcb5-27b005484610",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "830e22b6-1b14-435d-8e15-a6408d52e247",
+                "nodeTo": "b5078559-0878-4397-b693-e59ed39a8274",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "830e22b6-1b14-435d-8e15-a6408d52e247",
+                "nodeTo": "6bac2960-05d0-4102-9db1-845cc2cc8ac9",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-11-12 17:54:11"
+}

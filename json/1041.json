@@ -1,0 +1,232 @@
+{
+    "uuid": 1041,
+    "text": "men who show signs of chronic inflammation in non-cancerous prostate tissue may have nearly twice risk",
+    "graph": {
+        "version": 1,
+        "guid": "90710381-030e-43a5-b0d3-3677783c0d65",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "who",
+                "id": "2672a5c5-22d5-422a-827d-3cb284a8c940",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "show",
+                "id": "7c827799-a861-4bad-9b00-e8ede9ed02a1",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "ce15891c-a8a0-4615-a20c-c9bd6d580566",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "31ce7be3-a8ea-4081-847e-6d1045bd1925",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "may",
+                "id": "12169023-5147-4bdd-aee9-e11b4e226555",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "have",
+                "id": "76027a50-8683-4886-925e-e45dc682cbb2",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "men",
+                "id": "b4287d8d-0b9e-4997-b194-605cdd8a7d43",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "signs",
+                "id": "084225a8-ed82-4052-b494-225d78c98041",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "chronic",
+                "id": "b8d91449-4d0a-4b11-ba2b-1e03286b4eb4",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "inflammation",
+                "id": "862b041a-3395-42e8-bc84-db4779250696",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "non-cancerous",
+                "id": "1b1434d3-6daa-4c36-9be8-939704b66332",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "prostate",
+                "id": "18aec8d9-c245-4105-a503-4a208bc0bed4",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "tissue",
+                "id": "8e5448c3-d3be-4449-b541-07dc9e5149ec",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "nearly",
+                "id": "264cc12e-ee2a-470c-a051-154ce69e5a47",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "twice",
+                "id": "e0d84395-d112-4559-a910-c2479719ed10",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "risk",
+                "id": "45391165-2151-4d5d-a592-9de794d4d6a3",
+                "index": 15,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "b4287d8d-0b9e-4997-b194-605cdd8a7d43",
+                "nodeTo": "2672a5c5-22d5-422a-827d-3cb284a8c940",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b4287d8d-0b9e-4997-b194-605cdd8a7d43",
+                "nodeTo": "7c827799-a861-4bad-9b00-e8ede9ed02a1",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2672a5c5-22d5-422a-827d-3cb284a8c940",
+                "nodeTo": "084225a8-ed82-4052-b494-225d78c98041",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7c827799-a861-4bad-9b00-e8ede9ed02a1",
+                "nodeTo": "084225a8-ed82-4052-b494-225d78c98041",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "084225a8-ed82-4052-b494-225d78c98041",
+                "nodeTo": "ce15891c-a8a0-4615-a20c-c9bd6d580566",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ce15891c-a8a0-4615-a20c-c9bd6d580566",
+                "nodeTo": "b8d91449-4d0a-4b11-ba2b-1e03286b4eb4",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ce15891c-a8a0-4615-a20c-c9bd6d580566",
+                "nodeTo": "862b041a-3395-42e8-bc84-db4779250696",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "862b041a-3395-42e8-bc84-db4779250696",
+                "nodeTo": "31ce7be3-a8ea-4081-847e-6d1045bd1925",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b8d91449-4d0a-4b11-ba2b-1e03286b4eb4",
+                "nodeTo": "31ce7be3-a8ea-4081-847e-6d1045bd1925",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "31ce7be3-a8ea-4081-847e-6d1045bd1925",
+                "nodeTo": "1b1434d3-6daa-4c36-9be8-939704b66332",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "31ce7be3-a8ea-4081-847e-6d1045bd1925",
+                "nodeTo": "18aec8d9-c245-4105-a503-4a208bc0bed4",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "31ce7be3-a8ea-4081-847e-6d1045bd1925",
+                "nodeTo": "8e5448c3-d3be-4449-b541-07dc9e5149ec",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b4287d8d-0b9e-4997-b194-605cdd8a7d43",
+                "nodeTo": "12169023-5147-4bdd-aee9-e11b4e226555",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b4287d8d-0b9e-4997-b194-605cdd8a7d43",
+                "nodeTo": "76027a50-8683-4886-925e-e45dc682cbb2",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "12169023-5147-4bdd-aee9-e11b4e226555",
+                "nodeTo": "264cc12e-ee2a-470c-a051-154ce69e5a47",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "76027a50-8683-4886-925e-e45dc682cbb2",
+                "nodeTo": "264cc12e-ee2a-470c-a051-154ce69e5a47",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "12169023-5147-4bdd-aee9-e11b4e226555",
+                "nodeTo": "e0d84395-d112-4559-a910-c2479719ed10",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "76027a50-8683-4886-925e-e45dc682cbb2",
+                "nodeTo": "e0d84395-d112-4559-a910-c2479719ed10",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "12169023-5147-4bdd-aee9-e11b4e226555",
+                "nodeTo": "45391165-2151-4d5d-a592-9de794d4d6a3",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "76027a50-8683-4886-925e-e45dc682cbb2",
+                "nodeTo": "45391165-2151-4d5d-a592-9de794d4d6a3",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-04 16:33:24"
+}

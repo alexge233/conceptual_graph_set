@@ -1,0 +1,106 @@
+{
+    "uuid": 409,
+    "text": "Antidepressants during pregnancy linked to preterm birth",
+    "graph": {
+        "version": 1,
+        "guid": "c0ea1689-1035-4b97-92b9-5b3bb169727d",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "during",
+                "id": "a4c9abe1-141d-4d58-a3c7-a5e4c3e2a53c",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "linked",
+                "id": "18cbc44a-b7e3-44d4-9733-76b7448001e3",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "3710a9d3-dee3-48d1-88ec-c354ba3e1255",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Antidepressants",
+                "id": "1bdcdde9-3616-4d51-bc7c-a5d8bdd17158",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "pregnancy",
+                "id": "11a505b3-739a-447b-92b5-08d41ce4a2ba",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "preterm",
+                "id": "ace8087e-a018-499b-8113-04e9417e7b75",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "birth",
+                "id": "ead74d7e-6288-4188-b402-627d9a6380b6",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "1bdcdde9-3616-4d51-bc7c-a5d8bdd17158",
+                "nodeTo": "a4c9abe1-141d-4d58-a3c7-a5e4c3e2a53c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a4c9abe1-141d-4d58-a3c7-a5e4c3e2a53c",
+                "nodeTo": "11a505b3-739a-447b-92b5-08d41ce4a2ba",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "11a505b3-739a-447b-92b5-08d41ce4a2ba",
+                "nodeTo": "18cbc44a-b7e3-44d4-9733-76b7448001e3",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "11a505b3-739a-447b-92b5-08d41ce4a2ba",
+                "nodeTo": "3710a9d3-dee3-48d1-88ec-c354ba3e1255",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "18cbc44a-b7e3-44d4-9733-76b7448001e3",
+                "nodeTo": "ace8087e-a018-499b-8113-04e9417e7b75",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3710a9d3-dee3-48d1-88ec-c354ba3e1255",
+                "nodeTo": "ace8087e-a018-499b-8113-04e9417e7b75",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "18cbc44a-b7e3-44d4-9733-76b7448001e3",
+                "nodeTo": "ead74d7e-6288-4188-b402-627d9a6380b6",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3710a9d3-dee3-48d1-88ec-c354ba3e1255",
+                "nodeTo": "ead74d7e-6288-4188-b402-627d9a6380b6",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-18 15:27:16"
+}

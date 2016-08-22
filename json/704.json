@@ -1,0 +1,136 @@
+{
+    "uuid": 704,
+    "text": "stronger adolescents teens have less risk of diabetes heart disease",
+    "graph": {
+        "version": 1,
+        "guid": "35d82b44-1c28-45be-96a4-257d33d09b32",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "have",
+                "id": "e3530900-5bc2-4079-a8dc-20c999e73392",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "ae9ed666-5eb7-4aa3-a53e-2619bd72dbcc",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "stronger",
+                "id": "8a023a42-a96b-4d50-9c2a-cccc84ab9e73",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "adolescents",
+                "id": "3e2cb428-65dc-45e6-994b-1440b6a8a9d5",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "teens",
+                "id": "18611c14-0dd7-41ab-95bb-c6908a765435",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "risk",
+                "id": "71ec3852-67b7-411b-8e78-ba32cd281e3d",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "less",
+                "id": "4d43849c-d30b-49cb-91b7-3258d059633a",
+                "postag": "NA",
+                "index": 4
+            },
+            {
+                "label": "diabetes",
+                "id": "79377120-33a3-42e3-9b5e-2048d69ac524",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "heart",
+                "id": "ce579d13-6780-48b6-86a1-dd7b4ea8e647",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "disease",
+                "id": "83022619-d206-45cc-aa67-26a2a4982417",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "8a023a42-a96b-4d50-9c2a-cccc84ab9e73",
+                "nodeTo": "e3530900-5bc2-4079-a8dc-20c999e73392",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3e2cb428-65dc-45e6-994b-1440b6a8a9d5",
+                "nodeTo": "e3530900-5bc2-4079-a8dc-20c999e73392",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "18611c14-0dd7-41ab-95bb-c6908a765435",
+                "nodeTo": "e3530900-5bc2-4079-a8dc-20c999e73392",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e3530900-5bc2-4079-a8dc-20c999e73392",
+                "nodeTo": "4d43849c-d30b-49cb-91b7-3258d059633a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e3530900-5bc2-4079-a8dc-20c999e73392",
+                "nodeTo": "71ec3852-67b7-411b-8e78-ba32cd281e3d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4d43849c-d30b-49cb-91b7-3258d059633a",
+                "nodeTo": "ae9ed666-5eb7-4aa3-a53e-2619bd72dbcc",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "71ec3852-67b7-411b-8e78-ba32cd281e3d",
+                "nodeTo": "ae9ed666-5eb7-4aa3-a53e-2619bd72dbcc",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ae9ed666-5eb7-4aa3-a53e-2619bd72dbcc",
+                "nodeTo": "79377120-33a3-42e3-9b5e-2048d69ac524",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ae9ed666-5eb7-4aa3-a53e-2619bd72dbcc",
+                "nodeTo": "ce579d13-6780-48b6-86a1-dd7b4ea8e647",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ae9ed666-5eb7-4aa3-a53e-2619bd72dbcc",
+                "nodeTo": "83022619-d206-45cc-aa67-26a2a4982417",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-12 14:08:18"
+}

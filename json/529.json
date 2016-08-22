@@ -1,0 +1,100 @@
+{
+    "uuid": 529,
+    "text": "Beer lovers tweet what they drink",
+    "graph": {
+        "version": 1,
+        "guid": "b93074e1-ea11-4a5e-a58b-2de2181b0957",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "tweet",
+                "id": "4a631430-9600-4951-892d-80b5c1a61987",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "what",
+                "id": "2a115608-8621-4aca-a199-7648aa3643e1",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Beer",
+                "id": "8eda5d48-4339-46ca-ac4d-e64754978741",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "lovers",
+                "id": "b2367c33-63d3-4823-8309-4c49c580e1b4",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "they",
+                "id": "374d0e99-2ea4-47ab-9cae-52b4c0123157",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "drink",
+                "id": "4e6c5350-6b23-4d96-99ac-a4d6b22306e6",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "8eda5d48-4339-46ca-ac4d-e64754978741",
+                "nodeTo": "4a631430-9600-4951-892d-80b5c1a61987",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8eda5d48-4339-46ca-ac4d-e64754978741",
+                "nodeTo": "2a115608-8621-4aca-a199-7648aa3643e1",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b2367c33-63d3-4823-8309-4c49c580e1b4",
+                "nodeTo": "4a631430-9600-4951-892d-80b5c1a61987",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b2367c33-63d3-4823-8309-4c49c580e1b4",
+                "nodeTo": "2a115608-8621-4aca-a199-7648aa3643e1",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4a631430-9600-4951-892d-80b5c1a61987",
+                "nodeTo": "374d0e99-2ea4-47ab-9cae-52b4c0123157",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4a631430-9600-4951-892d-80b5c1a61987",
+                "nodeTo": "4e6c5350-6b23-4d96-99ac-a4d6b22306e6",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2a115608-8621-4aca-a199-7648aa3643e1",
+                "nodeTo": "374d0e99-2ea4-47ab-9cae-52b4c0123157",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2a115608-8621-4aca-a199-7648aa3643e1",
+                "nodeTo": "4e6c5350-6b23-4d96-99ac-a4d6b22306e6",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-31 17:40:35"
+}

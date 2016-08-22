@@ -1,0 +1,148 @@
+{
+    "uuid": 278,
+    "text": "When person has cardiac arrest his or her heart stops beating",
+    "graph": {
+        "version": 1,
+        "guid": "b4a124c4-8196-4d52-adde-0381e597de33",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "When",
+                "id": "7e1ecbb4-6222-4a82-80ac-e23bce5813b3",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "has",
+                "id": "51c33c49-9410-4963-bdd2-5e0a0d3aeab6",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "or",
+                "id": "ecab8e9d-3135-4ec1-832d-d1c329a0dd85",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "his",
+                "id": "ed3700dc-71dd-415b-b2c2-219b4b31a1a4",
+                "postag": "NA",
+                "index": 5
+            },
+            {
+                "label": "her",
+                "id": "a530465a-3a65-4be0-8ee3-96545136ee07",
+                "postag": "NA",
+                "index": 7
+            },
+            {
+                "label": "stops",
+                "id": "1343dcae-d3a3-48d1-8533-223a7d535594",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "person",
+                "id": "8b0c8aaa-cc85-49ae-a848-064a889d8102",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "cardiac",
+                "id": "1ae52424-0c50-4ccd-8b2d-2e3ca07b370b",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "arrest",
+                "id": "304846b1-3b75-4b69-aa26-682ed5d55d5e",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "heart",
+                "id": "c958639e-a48a-4d6d-a242-5a4923c3a09b",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "beating",
+                "id": "d1c8d3a0-6da1-4cc6-94a3-50310d2b817a",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "7e1ecbb4-6222-4a82-80ac-e23bce5813b3",
+                "nodeTo": "8b0c8aaa-cc85-49ae-a848-064a889d8102",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8b0c8aaa-cc85-49ae-a848-064a889d8102",
+                "nodeTo": "51c33c49-9410-4963-bdd2-5e0a0d3aeab6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "51c33c49-9410-4963-bdd2-5e0a0d3aeab6",
+                "nodeTo": "1ae52424-0c50-4ccd-8b2d-2e3ca07b370b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "51c33c49-9410-4963-bdd2-5e0a0d3aeab6",
+                "nodeTo": "304846b1-3b75-4b69-aa26-682ed5d55d5e",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ed3700dc-71dd-415b-b2c2-219b4b31a1a4",
+                "nodeTo": "c958639e-a48a-4d6d-a242-5a4923c3a09b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a530465a-3a65-4be0-8ee3-96545136ee07",
+                "nodeTo": "c958639e-a48a-4d6d-a242-5a4923c3a09b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c958639e-a48a-4d6d-a242-5a4923c3a09b",
+                "nodeTo": "1343dcae-d3a3-48d1-8533-223a7d535594",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1343dcae-d3a3-48d1-8533-223a7d535594",
+                "nodeTo": "d1c8d3a0-6da1-4cc6-94a3-50310d2b817a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8b0c8aaa-cc85-49ae-a848-064a889d8102",
+                "nodeTo": "ed3700dc-71dd-415b-b2c2-219b4b31a1a4",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8b0c8aaa-cc85-49ae-a848-064a889d8102",
+                "nodeTo": "ecab8e9d-3135-4ec1-832d-d1c329a0dd85",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8b0c8aaa-cc85-49ae-a848-064a889d8102",
+                "nodeTo": "a530465a-3a65-4be0-8ee3-96545136ee07",
+                "index": 4,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2014-12-03 14:39:01"
+}

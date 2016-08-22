@@ -1,0 +1,148 @@
+{
+    "uuid": 1246,
+    "text": "researchers create their hydrogel stamps from agarose poured into molds",
+    "graph": {
+        "version": 1,
+        "guid": "b1deda87-9ba1-467c-a5ad-401372985174",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "create",
+                "id": "361ea44c-38c9-4c10-b891-e615eb34ac9c",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "from",
+                "id": "b24b3161-721a-41db-b569-d49896ec52b2",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "poured",
+                "id": "568a4896-c0ae-4838-813d-113941bd7dca",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "into",
+                "id": "351eabda-ce19-4270-928e-20c1861329c4",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "researchers",
+                "id": "2b760ab1-0ba4-40db-bc3b-2b65c8bb6133",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "their",
+                "id": "b076e7ae-4ebd-439b-92e6-9b1ce1671858",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "hydrogel",
+                "id": "d4837ec4-4755-4a9c-8215-7eed4d6aa841",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "stamps",
+                "id": "73007339-7e89-4cde-a10b-a46c6d2a4782",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "agarose",
+                "id": "d775e1ee-6617-4409-8e95-095d31d11a52",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "molds",
+                "id": "2ad34e42-c356-4524-b8e8-37a61d66ee4a",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "2b760ab1-0ba4-40db-bc3b-2b65c8bb6133",
+                "nodeTo": "361ea44c-38c9-4c10-b891-e615eb34ac9c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "361ea44c-38c9-4c10-b891-e615eb34ac9c",
+                "nodeTo": "b076e7ae-4ebd-439b-92e6-9b1ce1671858",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "361ea44c-38c9-4c10-b891-e615eb34ac9c",
+                "nodeTo": "d4837ec4-4755-4a9c-8215-7eed4d6aa841",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "361ea44c-38c9-4c10-b891-e615eb34ac9c",
+                "nodeTo": "73007339-7e89-4cde-a10b-a46c6d2a4782",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b076e7ae-4ebd-439b-92e6-9b1ce1671858",
+                "nodeTo": "b24b3161-721a-41db-b569-d49896ec52b2",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d4837ec4-4755-4a9c-8215-7eed4d6aa841",
+                "nodeTo": "b24b3161-721a-41db-b569-d49896ec52b2",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "73007339-7e89-4cde-a10b-a46c6d2a4782",
+                "nodeTo": "b24b3161-721a-41db-b569-d49896ec52b2",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b24b3161-721a-41db-b569-d49896ec52b2",
+                "nodeTo": "d775e1ee-6617-4409-8e95-095d31d11a52",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d775e1ee-6617-4409-8e95-095d31d11a52",
+                "nodeTo": "568a4896-c0ae-4838-813d-113941bd7dca",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d775e1ee-6617-4409-8e95-095d31d11a52",
+                "nodeTo": "351eabda-ce19-4270-928e-20c1861329c4",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "568a4896-c0ae-4838-813d-113941bd7dca",
+                "nodeTo": "2ad34e42-c356-4524-b8e8-37a61d66ee4a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "351eabda-ce19-4270-928e-20c1861329c4",
+                "nodeTo": "2ad34e42-c356-4524-b8e8-37a61d66ee4a",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-03-02 19:34:40"
+}

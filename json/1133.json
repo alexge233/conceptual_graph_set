@@ -1,0 +1,130 @@
+{
+    "uuid": 1133,
+    "text": "college kids need to change unhealthy ways",
+    "graph": {
+        "version": 1,
+        "guid": "03eeda32-5517-4157-a904-2cceab4e469e",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "need",
+                "id": "54546c84-adb6-48b4-8ccc-1b7ec39d691a",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "250c827d-acc2-4495-a5c4-e7a23440b089",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "change",
+                "id": "a1182374-e050-4a4d-9e26-26c20b5237c1",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "college",
+                "id": "116be387-c59d-46bb-9c75-3a2bc08b4d70",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "kids",
+                "id": "b791d7c8-4289-4833-bac3-3a405d43a275",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "unhealthy",
+                "id": "b00e3c0c-95da-46a7-85aa-d6dd6dd08792",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "ways",
+                "id": "5eb91ee1-c6bc-49cb-82a3-43b5e98a156e",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "116be387-c59d-46bb-9c75-3a2bc08b4d70",
+                "nodeTo": "54546c84-adb6-48b4-8ccc-1b7ec39d691a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "116be387-c59d-46bb-9c75-3a2bc08b4d70",
+                "nodeTo": "250c827d-acc2-4495-a5c4-e7a23440b089",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "116be387-c59d-46bb-9c75-3a2bc08b4d70",
+                "nodeTo": "a1182374-e050-4a4d-9e26-26c20b5237c1",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b791d7c8-4289-4833-bac3-3a405d43a275",
+                "nodeTo": "54546c84-adb6-48b4-8ccc-1b7ec39d691a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b791d7c8-4289-4833-bac3-3a405d43a275",
+                "nodeTo": "250c827d-acc2-4495-a5c4-e7a23440b089",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b791d7c8-4289-4833-bac3-3a405d43a275",
+                "nodeTo": "a1182374-e050-4a4d-9e26-26c20b5237c1",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "54546c84-adb6-48b4-8ccc-1b7ec39d691a",
+                "nodeTo": "b00e3c0c-95da-46a7-85aa-d6dd6dd08792",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "250c827d-acc2-4495-a5c4-e7a23440b089",
+                "nodeTo": "b00e3c0c-95da-46a7-85aa-d6dd6dd08792",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a1182374-e050-4a4d-9e26-26c20b5237c1",
+                "nodeTo": "b00e3c0c-95da-46a7-85aa-d6dd6dd08792",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "54546c84-adb6-48b4-8ccc-1b7ec39d691a",
+                "nodeTo": "5eb91ee1-c6bc-49cb-82a3-43b5e98a156e",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "250c827d-acc2-4495-a5c4-e7a23440b089",
+                "nodeTo": "5eb91ee1-c6bc-49cb-82a3-43b5e98a156e",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a1182374-e050-4a4d-9e26-26c20b5237c1",
+                "nodeTo": "5eb91ee1-c6bc-49cb-82a3-43b5e98a156e",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-23 19:03:56"
+}

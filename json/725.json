@@ -1,0 +1,292 @@
+{
+    "uuid": 725,
+    "text": "gene known to be associated with breast cancer susceptibility plays critical role in normal metabolic function of skeletal muscle",
+    "graph": {
+        "version": 1,
+        "guid": "b5224c38-998b-44dc-9e9d-d8451cd74082",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "known",
+                "id": "e71092b6-66e9-4085-bb7b-d1dd8ad00d62",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "be",
+                "id": "89d86bd3-879d-49d0-a7ac-76b5b57cc480",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "associated",
+                "id": "171a944b-eb3a-4aed-8313-209710ebe58d",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "with",
+                "id": "e18627b6-61b6-4a33-9686-e4e29d8e5886",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "plays",
+                "id": "66680ed6-c3e9-4624-81e6-9a02ca24be60",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "5e6dd9a1-d124-4b91-8d04-42362302084c",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "530a051c-1eec-43a4-94e3-860e55da0b3d",
+                "index": 16,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "gene",
+                "id": "eca4d4dc-e4c1-4da3-9476-d2d59e94e0a1",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "31800a1c-19a5-4b76-9368-4a550e5e6510",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "breast",
+                "id": "aa2bd505-548e-41b5-8538-b136bca83d4b",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "cancer",
+                "id": "75481bc4-95ab-4a81-bc4a-10ed99bd10ad",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "susceptibility",
+                "id": "599093d7-7b27-4015-9ce8-e9809315a7b7",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "critical",
+                "id": "aa05c31e-8850-44e5-8ba5-01b2b3978bdc",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "role",
+                "id": "e33be59e-102b-4e73-8b53-5432ba3dcd49",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "normal",
+                "id": "1c513394-78ba-4204-8879-8788accdb916",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "metabolic",
+                "id": "129112be-1e7b-420b-8311-e7e7d61a0194",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "function",
+                "id": "d54748cd-d5e1-4497-87e6-0cb864c557b6",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "skeletal",
+                "id": "e0e34c5a-093d-4e4a-89b6-b52e083dbde2",
+                "index": 17,
+                "postag": "NA"
+            },
+            {
+                "label": "muscle",
+                "id": "5310e7dd-4816-4b15-8561-d2b26ab1b18a",
+                "index": 18,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "eca4d4dc-e4c1-4da3-9476-d2d59e94e0a1",
+                "nodeTo": "e71092b6-66e9-4085-bb7b-d1dd8ad00d62",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e71092b6-66e9-4085-bb7b-d1dd8ad00d62",
+                "nodeTo": "31800a1c-19a5-4b76-9368-4a550e5e6510",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "31800a1c-19a5-4b76-9368-4a550e5e6510",
+                "nodeTo": "89d86bd3-879d-49d0-a7ac-76b5b57cc480",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "31800a1c-19a5-4b76-9368-4a550e5e6510",
+                "nodeTo": "171a944b-eb3a-4aed-8313-209710ebe58d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "31800a1c-19a5-4b76-9368-4a550e5e6510",
+                "nodeTo": "e18627b6-61b6-4a33-9686-e4e29d8e5886",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "89d86bd3-879d-49d0-a7ac-76b5b57cc480",
+                "nodeTo": "aa2bd505-548e-41b5-8538-b136bca83d4b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "89d86bd3-879d-49d0-a7ac-76b5b57cc480",
+                "nodeTo": "75481bc4-95ab-4a81-bc4a-10ed99bd10ad",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "89d86bd3-879d-49d0-a7ac-76b5b57cc480",
+                "nodeTo": "599093d7-7b27-4015-9ce8-e9809315a7b7",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "171a944b-eb3a-4aed-8313-209710ebe58d",
+                "nodeTo": "aa2bd505-548e-41b5-8538-b136bca83d4b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "171a944b-eb3a-4aed-8313-209710ebe58d",
+                "nodeTo": "75481bc4-95ab-4a81-bc4a-10ed99bd10ad",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "171a944b-eb3a-4aed-8313-209710ebe58d",
+                "nodeTo": "599093d7-7b27-4015-9ce8-e9809315a7b7",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e18627b6-61b6-4a33-9686-e4e29d8e5886",
+                "nodeTo": "aa2bd505-548e-41b5-8538-b136bca83d4b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e18627b6-61b6-4a33-9686-e4e29d8e5886",
+                "nodeTo": "75481bc4-95ab-4a81-bc4a-10ed99bd10ad",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e18627b6-61b6-4a33-9686-e4e29d8e5886",
+                "nodeTo": "599093d7-7b27-4015-9ce8-e9809315a7b7",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "eca4d4dc-e4c1-4da3-9476-d2d59e94e0a1",
+                "nodeTo": "66680ed6-c3e9-4624-81e6-9a02ca24be60",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "66680ed6-c3e9-4624-81e6-9a02ca24be60",
+                "nodeTo": "aa05c31e-8850-44e5-8ba5-01b2b3978bdc",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "66680ed6-c3e9-4624-81e6-9a02ca24be60",
+                "nodeTo": "e33be59e-102b-4e73-8b53-5432ba3dcd49",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "aa05c31e-8850-44e5-8ba5-01b2b3978bdc",
+                "nodeTo": "5e6dd9a1-d124-4b91-8d04-42362302084c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e33be59e-102b-4e73-8b53-5432ba3dcd49",
+                "nodeTo": "5e6dd9a1-d124-4b91-8d04-42362302084c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5e6dd9a1-d124-4b91-8d04-42362302084c",
+                "nodeTo": "1c513394-78ba-4204-8879-8788accdb916",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5e6dd9a1-d124-4b91-8d04-42362302084c",
+                "nodeTo": "129112be-1e7b-420b-8311-e7e7d61a0194",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5e6dd9a1-d124-4b91-8d04-42362302084c",
+                "nodeTo": "d54748cd-d5e1-4497-87e6-0cb864c557b6",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1c513394-78ba-4204-8879-8788accdb916",
+                "nodeTo": "530a051c-1eec-43a4-94e3-860e55da0b3d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "129112be-1e7b-420b-8311-e7e7d61a0194",
+                "nodeTo": "530a051c-1eec-43a4-94e3-860e55da0b3d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d54748cd-d5e1-4497-87e6-0cb864c557b6",
+                "nodeTo": "530a051c-1eec-43a4-94e3-860e55da0b3d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "530a051c-1eec-43a4-94e3-860e55da0b3d",
+                "nodeTo": "e0e34c5a-093d-4e4a-89b6-b52e083dbde2",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "530a051c-1eec-43a4-94e3-860e55da0b3d",
+                "nodeTo": "5310e7dd-4816-4b15-8561-d2b26ab1b18a",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-12 19:12:26"
+}

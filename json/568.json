@@ -1,0 +1,136 @@
+{
+    "uuid": 568,
+    "text": "sickling of red blood cells is hallmark of this disease",
+    "graph": {
+        "version": 1,
+        "guid": "b8c35bc0-9209-4e29-a8e7-138b03be2e2d",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "of",
+                "id": "433de349-c09e-4862-8657-e62a69b60b51",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "is",
+                "id": "cec981ee-edbe-4e92-9a1a-53b22d385483",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "2d3d3e30-1a43-4d83-a973-36c3b701dc5c",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "this",
+                "id": "a6d7a074-2ab8-4b11-8c80-3498308d96b3",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "sickling",
+                "id": "24427424-65d9-4ec8-83a8-b66d8c8513c5",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "red",
+                "id": "7de9bcae-c0e2-4771-aba5-4dd33ed62e24",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "blood",
+                "id": "cdb041cb-0a2a-4951-b8ac-890bb04ec11d",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "cells",
+                "id": "618824cb-829b-44bb-b230-98bbc8c9647d",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "hallmark",
+                "id": "60a9257d-7ba0-4187-80c4-ee342d20e9ae",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "disease",
+                "id": "481d149b-5b82-492b-991d-e67494e07a4a",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "24427424-65d9-4ec8-83a8-b66d8c8513c5",
+                "nodeTo": "433de349-c09e-4862-8657-e62a69b60b51",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "433de349-c09e-4862-8657-e62a69b60b51",
+                "nodeTo": "7de9bcae-c0e2-4771-aba5-4dd33ed62e24",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "433de349-c09e-4862-8657-e62a69b60b51",
+                "nodeTo": "cdb041cb-0a2a-4951-b8ac-890bb04ec11d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "433de349-c09e-4862-8657-e62a69b60b51",
+                "nodeTo": "618824cb-829b-44bb-b230-98bbc8c9647d",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "24427424-65d9-4ec8-83a8-b66d8c8513c5",
+                "nodeTo": "cec981ee-edbe-4e92-9a1a-53b22d385483",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cec981ee-edbe-4e92-9a1a-53b22d385483",
+                "nodeTo": "60a9257d-7ba0-4187-80c4-ee342d20e9ae",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "60a9257d-7ba0-4187-80c4-ee342d20e9ae",
+                "nodeTo": "2d3d3e30-1a43-4d83-a973-36c3b701dc5c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2d3d3e30-1a43-4d83-a973-36c3b701dc5c",
+                "nodeTo": "481d149b-5b82-492b-991d-e67494e07a4a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a6d7a074-2ab8-4b11-8c80-3498308d96b3",
+                "nodeTo": "481d149b-5b82-492b-991d-e67494e07a4a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "60a9257d-7ba0-4187-80c4-ee342d20e9ae",
+                "nodeTo": "a6d7a074-2ab8-4b11-8c80-3498308d96b3",
+                "index": 2,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2015-01-07 17:47:40"
+}

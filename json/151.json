@@ -1,0 +1,226 @@
+{
+    "uuid": 151,
+    "text": "Primary care doctors spend so much time on clerical duties that their time with patients is limited",
+    "graph": {
+        "version": 1,
+        "guid": "6541dec2-9268-433b-99a6-525a29769872",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "spend",
+                "id": "28991421-6170-4182-9a56-4d226c569e9d",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "on",
+                "id": "1c92307b-62cd-467d-96d7-e54295ad86e8",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "their",
+                "id": "dcc668d6-8e8b-4173-9dc0-43bac464e2b6",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "with",
+                "id": "298b1730-673b-4dd7-bc03-6138bb8dbe10",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "is",
+                "id": "3ae32237-1896-4903-be24-bc49c47448ed",
+                "index": 15,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Primary",
+                "id": "ec277a7c-5b14-48d3-aa65-34cae914d300",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "care",
+                "id": "442be729-2664-413d-a587-930680a20e76",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "doctors",
+                "id": "1c471be3-e873-4097-9542-ceab37a7cdd1",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "so",
+                "id": "a41cc5a9-6b38-4965-8ed9-3d42219b5ce3",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "much",
+                "id": "ed352ced-7c36-48a8-abb1-11788593343c",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "time",
+                "id": "c01e7177-b5ee-498a-8900-e707caac5060",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "clerical",
+                "id": "b96e5c53-7727-4128-b10a-32b9a95c0464",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "duties",
+                "id": "9ed9754a-b1c6-4992-adb4-1d957c3668e2",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "that",
+                "id": "55d011d2-ba1d-43a9-8077-b4cd9a3e1659",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "time",
+                "id": "c756b381-d625-4d49-ad90-25aa7c843858",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "patients",
+                "id": "0ed238d8-3bce-4d2d-ac23-9b3a0b902327",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "limited",
+                "id": "d0100992-289c-4d4c-bbee-cc58b8c98676",
+                "index": 16,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "ec277a7c-5b14-48d3-aa65-34cae914d300",
+                "nodeTo": "28991421-6170-4182-9a56-4d226c569e9d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "442be729-2664-413d-a587-930680a20e76",
+                "nodeTo": "28991421-6170-4182-9a56-4d226c569e9d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1c471be3-e873-4097-9542-ceab37a7cdd1",
+                "nodeTo": "28991421-6170-4182-9a56-4d226c569e9d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "28991421-6170-4182-9a56-4d226c569e9d",
+                "nodeTo": "a41cc5a9-6b38-4965-8ed9-3d42219b5ce3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "28991421-6170-4182-9a56-4d226c569e9d",
+                "nodeTo": "ed352ced-7c36-48a8-abb1-11788593343c",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "28991421-6170-4182-9a56-4d226c569e9d",
+                "nodeTo": "c01e7177-b5ee-498a-8900-e707caac5060",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c01e7177-b5ee-498a-8900-e707caac5060",
+                "nodeTo": "1c92307b-62cd-467d-96d7-e54295ad86e8",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1c92307b-62cd-467d-96d7-e54295ad86e8",
+                "nodeTo": "b96e5c53-7727-4128-b10a-32b9a95c0464",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1c92307b-62cd-467d-96d7-e54295ad86e8",
+                "nodeTo": "9ed9754a-b1c6-4992-adb4-1d957c3668e2",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "55d011d2-ba1d-43a9-8077-b4cd9a3e1659",
+                "nodeTo": "dcc668d6-8e8b-4173-9dc0-43bac464e2b6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "dcc668d6-8e8b-4173-9dc0-43bac464e2b6",
+                "nodeTo": "c756b381-d625-4d49-ad90-25aa7c843858",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c756b381-d625-4d49-ad90-25aa7c843858",
+                "nodeTo": "298b1730-673b-4dd7-bc03-6138bb8dbe10",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "298b1730-673b-4dd7-bc03-6138bb8dbe10",
+                "nodeTo": "0ed238d8-3bce-4d2d-ac23-9b3a0b902327",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c756b381-d625-4d49-ad90-25aa7c843858",
+                "nodeTo": "3ae32237-1896-4903-be24-bc49c47448ed",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3ae32237-1896-4903-be24-bc49c47448ed",
+                "nodeTo": "d0100992-289c-4d4c-bbee-cc58b8c98676",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ec277a7c-5b14-48d3-aa65-34cae914d300",
+                "nodeTo": "dcc668d6-8e8b-4173-9dc0-43bac464e2b6",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "442be729-2664-413d-a587-930680a20e76",
+                "nodeTo": "dcc668d6-8e8b-4173-9dc0-43bac464e2b6",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1c471be3-e873-4097-9542-ceab37a7cdd1",
+                "nodeTo": "dcc668d6-8e8b-4173-9dc0-43bac464e2b6",
+                "index": 2,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2014-11-03 17:35:28"
+}

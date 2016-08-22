@@ -1,0 +1,82 @@
+{
+    "uuid": 404,
+    "text": "Antidepressant may slow Alzheimers disease",
+    "graph": {
+        "version": 1,
+        "guid": "83131014-522c-4b29-8d1b-8e357780754e",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "may",
+                "id": "eb09ee3a-a782-4a3d-b8c4-890c1456e202",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "slow",
+                "id": "13d97b78-d2c3-439c-852d-ea27a00b313a",
+                "index": 2,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Antidepressant",
+                "id": "0e7c29b1-76a3-490b-9ad5-6a94496951ce",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "Alzheimers",
+                "id": "bc0e83e2-ec78-4cd1-955c-d78db754182d",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "disease",
+                "id": "23802b5d-c048-4860-a067-ac36e9cc8066",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "0e7c29b1-76a3-490b-9ad5-6a94496951ce",
+                "nodeTo": "eb09ee3a-a782-4a3d-b8c4-890c1456e202",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0e7c29b1-76a3-490b-9ad5-6a94496951ce",
+                "nodeTo": "13d97b78-d2c3-439c-852d-ea27a00b313a",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "eb09ee3a-a782-4a3d-b8c4-890c1456e202",
+                "nodeTo": "bc0e83e2-ec78-4cd1-955c-d78db754182d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "13d97b78-d2c3-439c-852d-ea27a00b313a",
+                "nodeTo": "bc0e83e2-ec78-4cd1-955c-d78db754182d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "eb09ee3a-a782-4a3d-b8c4-890c1456e202",
+                "nodeTo": "23802b5d-c048-4860-a067-ac36e9cc8066",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "13d97b78-d2c3-439c-852d-ea27a00b313a",
+                "nodeTo": "23802b5d-c048-4860-a067-ac36e9cc8066",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-18 15:16:30"
+}

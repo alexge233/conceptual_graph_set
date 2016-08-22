@@ -1,0 +1,94 @@
+{
+    "uuid": 520,
+    "text": "BBC trust chairman lord Patten steps down",
+    "graph": {
+        "version": 1,
+        "guid": "6ab66a00-2e47-4c7e-b5ee-db835771371e",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "steps",
+                "id": "88c372db-0222-40e1-97a4-88c79e612bbd",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "BBC",
+                "id": "dc888e6e-5d98-44ac-8689-a67837ae0029",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "trust",
+                "id": "0a8c4e95-1145-4ed3-a549-6c384b819044",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "chairman",
+                "id": "6789055e-3bd1-4325-9c0b-d5419c9d9915",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "lord",
+                "id": "ee250907-606d-408a-a331-2c9851a41493",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "Patten",
+                "id": "01c4e121-e03c-41ab-8185-823b78a8ceaa",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "down",
+                "id": "7d5cdea0-7538-455a-bbe1-c71994dd1c76",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "dc888e6e-5d98-44ac-8689-a67837ae0029",
+                "nodeTo": "88c372db-0222-40e1-97a4-88c79e612bbd",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0a8c4e95-1145-4ed3-a549-6c384b819044",
+                "nodeTo": "88c372db-0222-40e1-97a4-88c79e612bbd",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6789055e-3bd1-4325-9c0b-d5419c9d9915",
+                "nodeTo": "88c372db-0222-40e1-97a4-88c79e612bbd",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ee250907-606d-408a-a331-2c9851a41493",
+                "nodeTo": "88c372db-0222-40e1-97a4-88c79e612bbd",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "01c4e121-e03c-41ab-8185-823b78a8ceaa",
+                "nodeTo": "88c372db-0222-40e1-97a4-88c79e612bbd",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "88c372db-0222-40e1-97a4-88c79e612bbd",
+                "nodeTo": "7d5cdea0-7538-455a-bbe1-c71994dd1c76",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-24 16:58:48"
+}

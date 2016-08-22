@@ -1,0 +1,142 @@
+{
+    "uuid": 403,
+    "text": "Antibody could be used to target tumor causing protein",
+    "graph": {
+        "version": 1,
+        "guid": "c36578e7-b2db-422b-8461-40aca72a2597",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "could",
+                "id": "8ace3838-22da-421a-9b10-09c8c2cddd50",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "be",
+                "id": "0971e839-2011-4ab9-9cd9-e9dc4651d248",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "95deea3b-8db6-4aed-abe0-50e8002e89d1",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "target",
+                "id": "e19ca11b-a95e-41a2-b101-a761483c1372",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Antibody",
+                "id": "42ab3b6b-e150-4e12-8c36-a6495d50e6d2",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "used",
+                "id": "884e498d-0170-4a16-9503-ba67006b5788",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "tumor",
+                "id": "5672416b-d032-4d75-930b-83dcc7827009",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "causing",
+                "id": "edd74ea6-2de1-49de-b822-8a59779db066",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "protein",
+                "id": "50036777-5892-4c73-aeed-c630905b28a7",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "42ab3b6b-e150-4e12-8c36-a6495d50e6d2",
+                "nodeTo": "8ace3838-22da-421a-9b10-09c8c2cddd50",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "42ab3b6b-e150-4e12-8c36-a6495d50e6d2",
+                "nodeTo": "0971e839-2011-4ab9-9cd9-e9dc4651d248",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8ace3838-22da-421a-9b10-09c8c2cddd50",
+                "nodeTo": "884e498d-0170-4a16-9503-ba67006b5788",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0971e839-2011-4ab9-9cd9-e9dc4651d248",
+                "nodeTo": "884e498d-0170-4a16-9503-ba67006b5788",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "884e498d-0170-4a16-9503-ba67006b5788",
+                "nodeTo": "95deea3b-8db6-4aed-abe0-50e8002e89d1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "884e498d-0170-4a16-9503-ba67006b5788",
+                "nodeTo": "e19ca11b-a95e-41a2-b101-a761483c1372",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "95deea3b-8db6-4aed-abe0-50e8002e89d1",
+                "nodeTo": "5672416b-d032-4d75-930b-83dcc7827009",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e19ca11b-a95e-41a2-b101-a761483c1372",
+                "nodeTo": "5672416b-d032-4d75-930b-83dcc7827009",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "95deea3b-8db6-4aed-abe0-50e8002e89d1",
+                "nodeTo": "edd74ea6-2de1-49de-b822-8a59779db066",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e19ca11b-a95e-41a2-b101-a761483c1372",
+                "nodeTo": "edd74ea6-2de1-49de-b822-8a59779db066",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "95deea3b-8db6-4aed-abe0-50e8002e89d1",
+                "nodeTo": "50036777-5892-4c73-aeed-c630905b28a7",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e19ca11b-a95e-41a2-b101-a761483c1372",
+                "nodeTo": "50036777-5892-4c73-aeed-c630905b28a7",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-17 16:03:59"
+}

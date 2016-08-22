@@ -1,0 +1,238 @@
+{
+    "uuid": 727,
+    "text": "Breast milk and diet up to two years old for preventing risk of child obesity",
+    "graph": {
+        "version": 1,
+        "guid": "e3bea040-67dd-4261-94aa-464e318aecb5",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "and",
+                "id": "3ba11b48-9e52-4a88-aa79-d814074dbecd",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "up",
+                "id": "eedd5345-5391-4404-96c5-776a0d699385",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "86963d6e-56aa-47d7-bb87-d95135c401a2",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "0c5d1159-022b-46e5-a5a9-59cbe98b4aea",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "preventing",
+                "id": "641d6ac2-4e59-4bab-b6d1-47115595ce5a",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "10344b83-90a1-4ad8-a3d5-082ddec69214",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Breast",
+                "id": "66859963-bd96-4b22-8338-66b320906174",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "milk",
+                "id": "831c8bcb-d810-4899-b220-242b19ada263",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "diet",
+                "id": "59754809-0e5e-4738-bdb7-16e61168c0a9",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "two",
+                "id": "1a0e8d1d-746d-47d2-8424-3895b15e0311",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "years",
+                "id": "e1eae643-7e95-443e-b0b4-0c94ad635e53",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "old",
+                "id": "01e2408a-b679-43d5-97d6-362ce925b971",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "risk",
+                "id": "5d8e7d3c-8d6b-43a9-b82c-9c80dc880a63",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "child",
+                "id": "1b9c21d7-7548-409d-83a0-56a6ebb3d749",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "obesity",
+                "id": "96b0b2d7-a6eb-44c2-a7b5-0b0080a390cc",
+                "index": 14,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "66859963-bd96-4b22-8338-66b320906174",
+                "nodeTo": "3ba11b48-9e52-4a88-aa79-d814074dbecd",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "831c8bcb-d810-4899-b220-242b19ada263",
+                "nodeTo": "3ba11b48-9e52-4a88-aa79-d814074dbecd",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3ba11b48-9e52-4a88-aa79-d814074dbecd",
+                "nodeTo": "59754809-0e5e-4738-bdb7-16e61168c0a9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "59754809-0e5e-4738-bdb7-16e61168c0a9",
+                "nodeTo": "eedd5345-5391-4404-96c5-776a0d699385",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "59754809-0e5e-4738-bdb7-16e61168c0a9",
+                "nodeTo": "86963d6e-56aa-47d7-bb87-d95135c401a2",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "eedd5345-5391-4404-96c5-776a0d699385",
+                "nodeTo": "1a0e8d1d-746d-47d2-8424-3895b15e0311",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "eedd5345-5391-4404-96c5-776a0d699385",
+                "nodeTo": "e1eae643-7e95-443e-b0b4-0c94ad635e53",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "eedd5345-5391-4404-96c5-776a0d699385",
+                "nodeTo": "01e2408a-b679-43d5-97d6-362ce925b971",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "86963d6e-56aa-47d7-bb87-d95135c401a2",
+                "nodeTo": "1a0e8d1d-746d-47d2-8424-3895b15e0311",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "86963d6e-56aa-47d7-bb87-d95135c401a2",
+                "nodeTo": "e1eae643-7e95-443e-b0b4-0c94ad635e53",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "86963d6e-56aa-47d7-bb87-d95135c401a2",
+                "nodeTo": "01e2408a-b679-43d5-97d6-362ce925b971",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "66859963-bd96-4b22-8338-66b320906174",
+                "nodeTo": "0c5d1159-022b-46e5-a5a9-59cbe98b4aea",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "831c8bcb-d810-4899-b220-242b19ada263",
+                "nodeTo": "0c5d1159-022b-46e5-a5a9-59cbe98b4aea",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "59754809-0e5e-4738-bdb7-16e61168c0a9",
+                "nodeTo": "0c5d1159-022b-46e5-a5a9-59cbe98b4aea",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "66859963-bd96-4b22-8338-66b320906174",
+                "nodeTo": "641d6ac2-4e59-4bab-b6d1-47115595ce5a",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "831c8bcb-d810-4899-b220-242b19ada263",
+                "nodeTo": "641d6ac2-4e59-4bab-b6d1-47115595ce5a",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "59754809-0e5e-4738-bdb7-16e61168c0a9",
+                "nodeTo": "641d6ac2-4e59-4bab-b6d1-47115595ce5a",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0c5d1159-022b-46e5-a5a9-59cbe98b4aea",
+                "nodeTo": "5d8e7d3c-8d6b-43a9-b82c-9c80dc880a63",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "641d6ac2-4e59-4bab-b6d1-47115595ce5a",
+                "nodeTo": "5d8e7d3c-8d6b-43a9-b82c-9c80dc880a63",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5d8e7d3c-8d6b-43a9-b82c-9c80dc880a63",
+                "nodeTo": "10344b83-90a1-4ad8-a3d5-082ddec69214",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "10344b83-90a1-4ad8-a3d5-082ddec69214",
+                "nodeTo": "1b9c21d7-7548-409d-83a0-56a6ebb3d749",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "10344b83-90a1-4ad8-a3d5-082ddec69214",
+                "nodeTo": "96b0b2d7-a6eb-44c2-a7b5-0b0080a390cc",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-12 19:27:28"
+}

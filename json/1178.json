@@ -1,0 +1,124 @@
+{
+    "uuid": 1178,
+    "text": "many factors influence life expectancy of childhood cancer survivors",
+    "graph": {
+        "version": 1,
+        "guid": "38eacc4e-9a33-4a2e-9e31-1a43b8c3ca8c",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "influence",
+                "id": "258097e1-0558-4964-abd4-344a41794188",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "83644bd0-7404-4a9b-9cdd-17be331b1506",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "many",
+                "id": "ad36a5aa-d8d0-4833-91ee-9da8775e42a7",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "factors",
+                "id": "5bc34d81-3795-469e-aa07-ae414d26b297",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "life",
+                "id": "51707739-160c-455d-b5a2-a9286b2a6bd9",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "expectancy",
+                "id": "036101b9-5289-4685-8c0a-65011388212c",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "childhood",
+                "id": "cc7cdd69-e179-4102-917d-b9106e622a2e",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "cancer",
+                "id": "be94924a-7bc0-437d-b56a-57d24898a200",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "survivors",
+                "id": "8a77dc46-9b9c-4695-813d-0c25aa215593",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "ad36a5aa-d8d0-4833-91ee-9da8775e42a7",
+                "nodeTo": "258097e1-0558-4964-abd4-344a41794188",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5bc34d81-3795-469e-aa07-ae414d26b297",
+                "nodeTo": "258097e1-0558-4964-abd4-344a41794188",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "258097e1-0558-4964-abd4-344a41794188",
+                "nodeTo": "51707739-160c-455d-b5a2-a9286b2a6bd9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "258097e1-0558-4964-abd4-344a41794188",
+                "nodeTo": "036101b9-5289-4685-8c0a-65011388212c",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "51707739-160c-455d-b5a2-a9286b2a6bd9",
+                "nodeTo": "83644bd0-7404-4a9b-9cdd-17be331b1506",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "036101b9-5289-4685-8c0a-65011388212c",
+                "nodeTo": "83644bd0-7404-4a9b-9cdd-17be331b1506",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "83644bd0-7404-4a9b-9cdd-17be331b1506",
+                "nodeTo": "cc7cdd69-e179-4102-917d-b9106e622a2e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "83644bd0-7404-4a9b-9cdd-17be331b1506",
+                "nodeTo": "be94924a-7bc0-437d-b56a-57d24898a200",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "83644bd0-7404-4a9b-9cdd-17be331b1506",
+                "nodeTo": "8a77dc46-9b9c-4695-813d-0c25aa215593",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-25 18:22:54"
+}

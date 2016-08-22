@@ -1,0 +1,82 @@
+{
+    "uuid": 158,
+    "text": "Scarred for life from sunbed use",
+    "graph": {
+        "version": 1,
+        "guid": "2d38b4cd-c865-4c12-b8ab-16a2e0bb0344",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "for",
+                "id": "e59d96e5-5077-4648-b1b1-8715a6bc6db2",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "from",
+                "id": "086d4235-e9d7-4bd7-bb8e-3de49838c810",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Scarred",
+                "id": "13cc9910-e1ab-488c-a408-642b0cc515a3",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "life",
+                "id": "2bd10a09-8b42-4a30-b0c8-1bb1e1aac040",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "sunbed",
+                "id": "5da54659-eb00-4d58-a4e1-81165ebde99e",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "use",
+                "id": "0720ca55-0866-4ab3-b880-4225bb27cedd",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "13cc9910-e1ab-488c-a408-642b0cc515a3",
+                "nodeTo": "e59d96e5-5077-4648-b1b1-8715a6bc6db2",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e59d96e5-5077-4648-b1b1-8715a6bc6db2",
+                "nodeTo": "2bd10a09-8b42-4a30-b0c8-1bb1e1aac040",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "13cc9910-e1ab-488c-a408-642b0cc515a3",
+                "nodeTo": "086d4235-e9d7-4bd7-bb8e-3de49838c810",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "086d4235-e9d7-4bd7-bb8e-3de49838c810",
+                "nodeTo": "5da54659-eb00-4d58-a4e1-81165ebde99e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "086d4235-e9d7-4bd7-bb8e-3de49838c810",
+                "nodeTo": "0720ca55-0866-4ab3-b880-4225bb27cedd",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-11-03 19:48:37"
+}

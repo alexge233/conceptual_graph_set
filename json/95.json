@@ -1,0 +1,106 @@
+{
+    "uuid": 95,
+    "text": "I can mentality goes long way after childbirth",
+    "graph": {
+        "version": 1,
+        "guid": "ab49641d-a14e-443d-8e20-66b4a426b70e",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "can",
+                "id": "02643378-0837-4526-a809-e396556abe61",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "goes",
+                "id": "b766b447-4043-4ae8-8ab6-6e9049cbd0e4",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "after",
+                "id": "de4d7979-1708-4350-8d7b-47a720911dd9",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "I",
+                "id": "abc40d41-2b70-4013-a99d-c4ebdc524061",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "mentality",
+                "id": "3148a319-9841-4679-a629-2922ca759c51",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "long",
+                "id": "aaadc9e8-6193-4e38-9153-5b3c8dc06d01",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "way",
+                "id": "09e12d74-e3ba-4da3-929e-e2ad110e86c6",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "childbirth",
+                "id": "ecccd470-325e-4819-b04b-1bb9d178ab28",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "abc40d41-2b70-4013-a99d-c4ebdc524061",
+                "nodeTo": "02643378-0837-4526-a809-e396556abe61",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "02643378-0837-4526-a809-e396556abe61",
+                "nodeTo": "3148a319-9841-4679-a629-2922ca759c51",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3148a319-9841-4679-a629-2922ca759c51",
+                "nodeTo": "b766b447-4043-4ae8-8ab6-6e9049cbd0e4",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b766b447-4043-4ae8-8ab6-6e9049cbd0e4",
+                "nodeTo": "aaadc9e8-6193-4e38-9153-5b3c8dc06d01",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b766b447-4043-4ae8-8ab6-6e9049cbd0e4",
+                "nodeTo": "09e12d74-e3ba-4da3-929e-e2ad110e86c6",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3148a319-9841-4679-a629-2922ca759c51",
+                "nodeTo": "de4d7979-1708-4350-8d7b-47a720911dd9",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "de4d7979-1708-4350-8d7b-47a720911dd9",
+                "nodeTo": "ecccd470-325e-4819-b04b-1bb9d178ab28",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-10-27 19:59:07"
+}

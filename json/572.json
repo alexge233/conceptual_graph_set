@@ -1,0 +1,136 @@
+{
+    "uuid": 572,
+    "text": "Bioinformatics approach helps researchers find new use for old drug",
+    "graph": {
+        "version": 1,
+        "guid": "9131d5b1-2596-4190-8488-3809e59c1523",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "helps",
+                "id": "5c3b4484-8610-4048-a23e-3c1c4c50e597",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "find",
+                "id": "9a05799d-02d0-4cc7-9e0d-5e52ae66ce7b",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "b9a92d48-00bb-4e6c-ba71-1a53e8951938",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Bioinformatics",
+                "id": "92647213-13c4-4b05-bcc8-d612686294d2",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "approach",
+                "id": "dd163d43-bc2e-42ac-85e0-d0234c834d01",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "researchers",
+                "id": "66e28e4b-d1a8-4773-9700-ce065750a324",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "new",
+                "id": "81aedb2a-3e82-46c6-b776-a3abcb997d99",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "use",
+                "id": "6437e7d6-24a5-4627-bda0-521a64502b99",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "old",
+                "id": "16c54047-8c6e-4950-8671-41b01aa230a4",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "drug",
+                "id": "e2ed5ec5-1a1d-47e7-9d34-d1ad649844ad",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "92647213-13c4-4b05-bcc8-d612686294d2",
+                "nodeTo": "5c3b4484-8610-4048-a23e-3c1c4c50e597",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "dd163d43-bc2e-42ac-85e0-d0234c834d01",
+                "nodeTo": "5c3b4484-8610-4048-a23e-3c1c4c50e597",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5c3b4484-8610-4048-a23e-3c1c4c50e597",
+                "nodeTo": "66e28e4b-d1a8-4773-9700-ce065750a324",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "66e28e4b-d1a8-4773-9700-ce065750a324",
+                "nodeTo": "9a05799d-02d0-4cc7-9e0d-5e52ae66ce7b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9a05799d-02d0-4cc7-9e0d-5e52ae66ce7b",
+                "nodeTo": "81aedb2a-3e82-46c6-b776-a3abcb997d99",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9a05799d-02d0-4cc7-9e0d-5e52ae66ce7b",
+                "nodeTo": "6437e7d6-24a5-4627-bda0-521a64502b99",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "81aedb2a-3e82-46c6-b776-a3abcb997d99",
+                "nodeTo": "b9a92d48-00bb-4e6c-ba71-1a53e8951938",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6437e7d6-24a5-4627-bda0-521a64502b99",
+                "nodeTo": "b9a92d48-00bb-4e6c-ba71-1a53e8951938",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b9a92d48-00bb-4e6c-ba71-1a53e8951938",
+                "nodeTo": "16c54047-8c6e-4950-8671-41b01aa230a4",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b9a92d48-00bb-4e6c-ba71-1a53e8951938",
+                "nodeTo": "e2ed5ec5-1a1d-47e7-9d34-d1ad649844ad",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-07 17:57:21"
+}

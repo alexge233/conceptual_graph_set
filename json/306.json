@@ -1,0 +1,154 @@
+{
+    "uuid": 306,
+    "text": "Age general health antidepressant use linked to eye disorders",
+    "graph": {
+        "version": 1,
+        "guid": "d67bcd0a-8556-4414-b792-cb818d0c336e",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "linked",
+                "id": "795b719a-127a-4c7a-b2dc-b5c79c97805d",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "0d31b842-1ee5-43bc-a929-72c86e594802",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Age",
+                "id": "11186a67-774b-42ed-bd08-8c04802854c0",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "general",
+                "id": "1bea788d-c5ae-46a9-9e89-c37c648eb139",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "health",
+                "id": "78661407-a739-4b31-b3b6-9a2b1e68790b",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "antidepressant",
+                "id": "a9409c04-28e3-412d-be2d-3414483d6012",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "use",
+                "id": "dd0d3a26-55be-4b5b-9474-1d3962ee9819",
+                "postag": "NA",
+                "index": 4
+            },
+            {
+                "label": "eye",
+                "id": "6987183e-e4b9-403d-b87b-074756a935d0",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "disorders",
+                "id": "6004ee43-7ab1-4e09-863a-907e1d37c721",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "11186a67-774b-42ed-bd08-8c04802854c0",
+                "nodeTo": "795b719a-127a-4c7a-b2dc-b5c79c97805d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1bea788d-c5ae-46a9-9e89-c37c648eb139",
+                "nodeTo": "795b719a-127a-4c7a-b2dc-b5c79c97805d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "78661407-a739-4b31-b3b6-9a2b1e68790b",
+                "nodeTo": "795b719a-127a-4c7a-b2dc-b5c79c97805d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a9409c04-28e3-412d-be2d-3414483d6012",
+                "nodeTo": "795b719a-127a-4c7a-b2dc-b5c79c97805d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "dd0d3a26-55be-4b5b-9474-1d3962ee9819",
+                "nodeTo": "795b719a-127a-4c7a-b2dc-b5c79c97805d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "11186a67-774b-42ed-bd08-8c04802854c0",
+                "nodeTo": "0d31b842-1ee5-43bc-a929-72c86e594802",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1bea788d-c5ae-46a9-9e89-c37c648eb139",
+                "nodeTo": "0d31b842-1ee5-43bc-a929-72c86e594802",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "78661407-a739-4b31-b3b6-9a2b1e68790b",
+                "nodeTo": "0d31b842-1ee5-43bc-a929-72c86e594802",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a9409c04-28e3-412d-be2d-3414483d6012",
+                "nodeTo": "0d31b842-1ee5-43bc-a929-72c86e594802",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "dd0d3a26-55be-4b5b-9474-1d3962ee9819",
+                "nodeTo": "0d31b842-1ee5-43bc-a929-72c86e594802",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "795b719a-127a-4c7a-b2dc-b5c79c97805d",
+                "nodeTo": "6987183e-e4b9-403d-b87b-074756a935d0",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "795b719a-127a-4c7a-b2dc-b5c79c97805d",
+                "nodeTo": "6004ee43-7ab1-4e09-863a-907e1d37c721",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0d31b842-1ee5-43bc-a929-72c86e594802",
+                "nodeTo": "6987183e-e4b9-403d-b87b-074756a935d0",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0d31b842-1ee5-43bc-a929-72c86e594802",
+                "nodeTo": "6004ee43-7ab1-4e09-863a-907e1d37c721",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-04 19:59:34"
+}

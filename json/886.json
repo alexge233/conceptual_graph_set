@@ -1,0 +1,82 @@
+{
+    "uuid": 886,
+    "text": "Carer recruits must speak English",
+    "graph": {
+        "version": 1,
+        "guid": "ebc820e8-6037-44c4-a3c4-84453094a170",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "must",
+                "id": "0bd33e9a-21c7-4c74-a633-728ee2a19a3e",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "speak",
+                "id": "8dadbe10-9dec-4734-926e-40d9a7b523ec",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Carer",
+                "id": "0aa6ee2e-d6d7-4cb4-ba47-096e963e5e59",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "recruits",
+                "id": "8104733d-a541-40b3-9362-035e360065d2",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "English",
+                "id": "da45672c-57db-41bc-8143-ea1759ed3388",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "0aa6ee2e-d6d7-4cb4-ba47-096e963e5e59",
+                "nodeTo": "0bd33e9a-21c7-4c74-a633-728ee2a19a3e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8104733d-a541-40b3-9362-035e360065d2",
+                "nodeTo": "0bd33e9a-21c7-4c74-a633-728ee2a19a3e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0aa6ee2e-d6d7-4cb4-ba47-096e963e5e59",
+                "nodeTo": "8dadbe10-9dec-4734-926e-40d9a7b523ec",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8104733d-a541-40b3-9362-035e360065d2",
+                "nodeTo": "8dadbe10-9dec-4734-926e-40d9a7b523ec",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0bd33e9a-21c7-4c74-a633-728ee2a19a3e",
+                "nodeTo": "da45672c-57db-41bc-8143-ea1759ed3388",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8dadbe10-9dec-4734-926e-40d9a7b523ec",
+                "nodeTo": "da45672c-57db-41bc-8143-ea1759ed3388",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-20 17:41:26"
+}

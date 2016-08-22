@@ -1,0 +1,184 @@
+{
+    "uuid": 383,
+    "text": "now researchers find it also has benefits when it comes to brain function",
+    "graph": {
+        "version": 1,
+        "guid": "bc3c5559-5d1b-4406-ac34-02481575d157",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "find",
+                "id": "85bde54d-a84e-4e48-a359-2833a8617859",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "has",
+                "id": "a3a662d4-da22-459b-b6ca-cdea8cbdc237",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "also",
+                "id": "8948c1d4-71ee-476c-9330-b8a27042888e",
+                "postag": "NA",
+                "index": 4
+            },
+            {
+                "label": "when",
+                "id": "ae3142c8-b75c-4b17-bdac-7bb012e1d4ee",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "comes",
+                "id": "955e2c6d-32b6-432b-ac88-b2e89a4c5109",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "86852e66-e667-44aa-9ba7-ac3b0572aa8a",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "now",
+                "id": "722d11e4-096d-4d56-93d4-e24c2076bddd",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "researchers",
+                "id": "357c5798-bcda-4011-88da-1d3e8bca8a49",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "it",
+                "id": "d01c2bc0-0be8-4ee9-b6b7-24d8d572e9d8",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "benefits",
+                "id": "13a129db-c938-4eb1-8732-c6969172c0c8",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "it",
+                "id": "9c99ce85-a439-424a-8b7d-aa3146a02c95",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "brain",
+                "id": "d70e9887-b422-43a8-8583-0c878d7db019",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "function",
+                "id": "b50e87b7-8b46-48a6-86b4-7b42417481a0",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "722d11e4-096d-4d56-93d4-e24c2076bddd",
+                "nodeTo": "85bde54d-a84e-4e48-a359-2833a8617859",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "357c5798-bcda-4011-88da-1d3e8bca8a49",
+                "nodeTo": "85bde54d-a84e-4e48-a359-2833a8617859",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "85bde54d-a84e-4e48-a359-2833a8617859",
+                "nodeTo": "d01c2bc0-0be8-4ee9-b6b7-24d8d572e9d8",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d01c2bc0-0be8-4ee9-b6b7-24d8d572e9d8",
+                "nodeTo": "8948c1d4-71ee-476c-9330-b8a27042888e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d01c2bc0-0be8-4ee9-b6b7-24d8d572e9d8",
+                "nodeTo": "a3a662d4-da22-459b-b6ca-cdea8cbdc237",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8948c1d4-71ee-476c-9330-b8a27042888e",
+                "nodeTo": "13a129db-c938-4eb1-8732-c6969172c0c8",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a3a662d4-da22-459b-b6ca-cdea8cbdc237",
+                "nodeTo": "13a129db-c938-4eb1-8732-c6969172c0c8",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "13a129db-c938-4eb1-8732-c6969172c0c8",
+                "nodeTo": "ae3142c8-b75c-4b17-bdac-7bb012e1d4ee",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ae3142c8-b75c-4b17-bdac-7bb012e1d4ee",
+                "nodeTo": "9c99ce85-a439-424a-8b7d-aa3146a02c95",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9c99ce85-a439-424a-8b7d-aa3146a02c95",
+                "nodeTo": "955e2c6d-32b6-432b-ac88-b2e89a4c5109",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9c99ce85-a439-424a-8b7d-aa3146a02c95",
+                "nodeTo": "86852e66-e667-44aa-9ba7-ac3b0572aa8a",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "955e2c6d-32b6-432b-ac88-b2e89a4c5109",
+                "nodeTo": "d70e9887-b422-43a8-8583-0c878d7db019",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "86852e66-e667-44aa-9ba7-ac3b0572aa8a",
+                "nodeTo": "d70e9887-b422-43a8-8583-0c878d7db019",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "955e2c6d-32b6-432b-ac88-b2e89a4c5109",
+                "nodeTo": "b50e87b7-8b46-48a6-86b4-7b42417481a0",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "86852e66-e667-44aa-9ba7-ac3b0572aa8a",
+                "nodeTo": "b50e87b7-8b46-48a6-86b4-7b42417481a0",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-16 17:49:39"
+}

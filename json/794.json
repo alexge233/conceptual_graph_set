@@ -1,0 +1,112 @@
+{
+    "uuid": 794,
+    "text": "inability to resist temptation underlies host of problems",
+    "graph": {
+        "version": 1,
+        "guid": "4413c81d-3845-4608-8e9c-9bb935092d53",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "to",
+                "id": "079ad683-34e1-4e43-809b-54038d45315e",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "resist",
+                "id": "73680d1c-9380-48ad-a54e-e74137ceb27d",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "underlies",
+                "id": "61bbde31-add3-4b19-b717-9085165ae5b5",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "6bad6030-9eee-44dd-b3b6-d42966509776",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "inability",
+                "id": "70cbbc1b-e217-4ba4-849a-9579736ec126",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "temptation",
+                "id": "2e849d5a-9235-4cd1-9c84-3d63907c2ed3",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "host",
+                "id": "a0478925-1701-4d02-bb58-16229202c3e4",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "problems",
+                "id": "724be742-ba92-42ea-bce6-0601942ddb9b",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "70cbbc1b-e217-4ba4-849a-9579736ec126",
+                "nodeTo": "079ad683-34e1-4e43-809b-54038d45315e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "70cbbc1b-e217-4ba4-849a-9579736ec126",
+                "nodeTo": "73680d1c-9380-48ad-a54e-e74137ceb27d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "079ad683-34e1-4e43-809b-54038d45315e",
+                "nodeTo": "2e849d5a-9235-4cd1-9c84-3d63907c2ed3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "73680d1c-9380-48ad-a54e-e74137ceb27d",
+                "nodeTo": "2e849d5a-9235-4cd1-9c84-3d63907c2ed3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "70cbbc1b-e217-4ba4-849a-9579736ec126",
+                "nodeTo": "61bbde31-add3-4b19-b717-9085165ae5b5",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "61bbde31-add3-4b19-b717-9085165ae5b5",
+                "nodeTo": "a0478925-1701-4d02-bb58-16229202c3e4",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a0478925-1701-4d02-bb58-16229202c3e4",
+                "nodeTo": "6bad6030-9eee-44dd-b3b6-d42966509776",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6bad6030-9eee-44dd-b3b6-d42966509776",
+                "nodeTo": "724be742-ba92-42ea-bce6-0601942ddb9b",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-15 21:51:26"
+}

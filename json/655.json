@@ -1,0 +1,76 @@
+{
+    "uuid": 655,
+    "text": "Bone marrow on chip unveiled",
+    "graph": {
+        "version": 1,
+        "guid": "0aaba152-7397-41e4-be69-a12bc178ecb5",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "on",
+                "id": "3b52291d-517d-4374-9b1b-13d260903440",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "unveiled",
+                "id": "7a403059-7eae-45c2-aa6b-342a66ad16b6",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Bone",
+                "id": "ee64574e-8adc-4c66-ba11-9e1da722ed00",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "marrow",
+                "id": "71d32247-5344-4b33-888c-6a618c029313",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "chip",
+                "id": "e6092506-a829-4cda-8bdc-0cb979d74dcd",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "ee64574e-8adc-4c66-ba11-9e1da722ed00",
+                "nodeTo": "3b52291d-517d-4374-9b1b-13d260903440",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "71d32247-5344-4b33-888c-6a618c029313",
+                "nodeTo": "3b52291d-517d-4374-9b1b-13d260903440",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3b52291d-517d-4374-9b1b-13d260903440",
+                "nodeTo": "e6092506-a829-4cda-8bdc-0cb979d74dcd",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ee64574e-8adc-4c66-ba11-9e1da722ed00",
+                "nodeTo": "7a403059-7eae-45c2-aa6b-342a66ad16b6",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "71d32247-5344-4b33-888c-6a618c029313",
+                "nodeTo": "7a403059-7eae-45c2-aa6b-342a66ad16b6",
+                "index": 2,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2015-01-09 18:45:35"
+}

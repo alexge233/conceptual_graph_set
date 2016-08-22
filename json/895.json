@@ -1,0 +1,256 @@
+{
+    "uuid": 895,
+    "text": "first example of living human cartilage grown on laboratory chip has been created by scientists",
+    "graph": {
+        "version": 1,
+        "guid": "c4a5187d-dd6a-42c2-a771-cd3eaa7d78db",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "of",
+                "id": "46250656-5b1b-4a1e-81ad-8b40c352a6d0",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "grown",
+                "id": "57d5c840-0828-4787-91c1-2948b9a41665",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "on",
+                "id": "9326b9d3-77a6-4338-aaba-b7eaa735676d",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "has",
+                "id": "b7a231c8-7422-4ee8-959c-e2342a1bbbed",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "been",
+                "id": "88c62ea5-a480-4ced-ade4-ccbaa5c92989",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "created",
+                "id": "ad2a270d-04d4-4304-9982-bd5b96a9d301",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "by",
+                "id": "52346618-28d0-427c-934e-9e279630e317",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "first",
+                "id": "5d4cc047-96c6-41ee-b53a-cb03ac17c85d",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "example",
+                "id": "7cdeb6c1-ec9c-40eb-b3a0-b068391deb40",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "living",
+                "id": "9c307d8d-2d18-4a33-b41b-13d3ca7a63ad",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "human",
+                "id": "209b992a-296c-4d76-9d90-920c2ed56486",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "cartilage",
+                "id": "9d644a93-4044-4d74-88b4-c9259403c7a1",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "laboratory",
+                "id": "45330a29-32bb-45c4-a951-883cbcab4a85",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "chip",
+                "id": "c2d508ce-67e2-4b17-83ea-a697166c2bb4",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "scientists",
+                "id": "647ab0ec-339e-4629-a0b1-d3349b590547",
+                "index": 14,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "5d4cc047-96c6-41ee-b53a-cb03ac17c85d",
+                "nodeTo": "46250656-5b1b-4a1e-81ad-8b40c352a6d0",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7cdeb6c1-ec9c-40eb-b3a0-b068391deb40",
+                "nodeTo": "46250656-5b1b-4a1e-81ad-8b40c352a6d0",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "46250656-5b1b-4a1e-81ad-8b40c352a6d0",
+                "nodeTo": "9c307d8d-2d18-4a33-b41b-13d3ca7a63ad",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "46250656-5b1b-4a1e-81ad-8b40c352a6d0",
+                "nodeTo": "209b992a-296c-4d76-9d90-920c2ed56486",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "46250656-5b1b-4a1e-81ad-8b40c352a6d0",
+                "nodeTo": "9d644a93-4044-4d74-88b4-c9259403c7a1",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5d4cc047-96c6-41ee-b53a-cb03ac17c85d",
+                "nodeTo": "57d5c840-0828-4787-91c1-2948b9a41665",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7cdeb6c1-ec9c-40eb-b3a0-b068391deb40",
+                "nodeTo": "57d5c840-0828-4787-91c1-2948b9a41665",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5d4cc047-96c6-41ee-b53a-cb03ac17c85d",
+                "nodeTo": "9326b9d3-77a6-4338-aaba-b7eaa735676d",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7cdeb6c1-ec9c-40eb-b3a0-b068391deb40",
+                "nodeTo": "9326b9d3-77a6-4338-aaba-b7eaa735676d",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "57d5c840-0828-4787-91c1-2948b9a41665",
+                "nodeTo": "45330a29-32bb-45c4-a951-883cbcab4a85",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9326b9d3-77a6-4338-aaba-b7eaa735676d",
+                "nodeTo": "45330a29-32bb-45c4-a951-883cbcab4a85",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "57d5c840-0828-4787-91c1-2948b9a41665",
+                "nodeTo": "c2d508ce-67e2-4b17-83ea-a697166c2bb4",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9326b9d3-77a6-4338-aaba-b7eaa735676d",
+                "nodeTo": "c2d508ce-67e2-4b17-83ea-a697166c2bb4",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5d4cc047-96c6-41ee-b53a-cb03ac17c85d",
+                "nodeTo": "b7a231c8-7422-4ee8-959c-e2342a1bbbed",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5d4cc047-96c6-41ee-b53a-cb03ac17c85d",
+                "nodeTo": "88c62ea5-a480-4ced-ade4-ccbaa5c92989",
+                "index": 5,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5d4cc047-96c6-41ee-b53a-cb03ac17c85d",
+                "nodeTo": "ad2a270d-04d4-4304-9982-bd5b96a9d301",
+                "index": 6,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5d4cc047-96c6-41ee-b53a-cb03ac17c85d",
+                "nodeTo": "52346618-28d0-427c-934e-9e279630e317",
+                "index": 7,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7cdeb6c1-ec9c-40eb-b3a0-b068391deb40",
+                "nodeTo": "b7a231c8-7422-4ee8-959c-e2342a1bbbed",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7cdeb6c1-ec9c-40eb-b3a0-b068391deb40",
+                "nodeTo": "88c62ea5-a480-4ced-ade4-ccbaa5c92989",
+                "index": 5,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7cdeb6c1-ec9c-40eb-b3a0-b068391deb40",
+                "nodeTo": "ad2a270d-04d4-4304-9982-bd5b96a9d301",
+                "index": 6,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7cdeb6c1-ec9c-40eb-b3a0-b068391deb40",
+                "nodeTo": "52346618-28d0-427c-934e-9e279630e317",
+                "index": 7,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b7a231c8-7422-4ee8-959c-e2342a1bbbed",
+                "nodeTo": "647ab0ec-339e-4629-a0b1-d3349b590547",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "88c62ea5-a480-4ced-ade4-ccbaa5c92989",
+                "nodeTo": "647ab0ec-339e-4629-a0b1-d3349b590547",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ad2a270d-04d4-4304-9982-bd5b96a9d301",
+                "nodeTo": "647ab0ec-339e-4629-a0b1-d3349b590547",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "52346618-28d0-427c-934e-9e279630e317",
+                "nodeTo": "647ab0ec-339e-4629-a0b1-d3349b590547",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-21 14:33:04"
+}

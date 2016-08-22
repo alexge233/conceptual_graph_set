@@ -1,0 +1,58 @@
+{
+    "uuid": 89,
+    "text": "Huge variation between hospitals",
+    "graph": {
+        "version": 1,
+        "guid": "eba28c4b-89d0-4e08-bb39-83e7abb04057",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "between",
+                "id": "b5c9850b-29cb-494d-9451-58a24d29c271",
+                "index": 2,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Huge",
+                "id": "1531ca42-cc92-43b5-a3bc-666c8018bb84",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "variation",
+                "id": "44dd0982-9cbc-4552-89e8-a27806ed5498",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "hospitals",
+                "id": "d852b347-6893-4070-be6c-9160cd253a8e",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "1531ca42-cc92-43b5-a3bc-666c8018bb84",
+                "nodeTo": "b5c9850b-29cb-494d-9451-58a24d29c271",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "44dd0982-9cbc-4552-89e8-a27806ed5498",
+                "nodeTo": "b5c9850b-29cb-494d-9451-58a24d29c271",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b5c9850b-29cb-494d-9451-58a24d29c271",
+                "nodeTo": "d852b347-6893-4070-be6c-9160cd253a8e",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-10-27 17:56:23"
+}

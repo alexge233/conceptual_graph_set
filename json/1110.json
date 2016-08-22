@@ -1,0 +1,226 @@
+{
+    "uuid": 1110,
+    "text": "Preeclampsia is disease of pregnancy that has its origins in insufficient development of placenta during first trimester",
+    "graph": {
+        "version": 1,
+        "guid": "cec6d87a-9588-43c0-98ba-a4ec7cc2a66b",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "is",
+                "id": "abd9ee3b-0cab-4761-8a70-b9aaee6ba2aa",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "bba30db8-5c08-4645-a7ec-3525bc215ba1",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "has",
+                "id": "1dd142a8-0643-4a99-819e-773d0019da2c",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "3753ceb6-69bc-4c99-a6ba-04ce86965e3e",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "20879d20-766a-4829-9cb8-a30b1132a379",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "during",
+                "id": "4ae22691-9d94-4ea0-9a64-930c5d1ab5bd",
+                "index": 14,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Preeclampsia",
+                "id": "a7064528-e2e7-4419-8e45-720c5aa47903",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "disease",
+                "id": "e3418689-a230-45bc-adba-2b100414b8e3",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "pregnancy",
+                "id": "41d72628-7103-4d25-a556-b2157a0c685e",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "that",
+                "id": "9a028be4-1375-47c5-a131-72ac2a9c8c17",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "its",
+                "id": "8c6462db-0526-4ee8-876d-b00a500d6e5e",
+                "postag": "NA",
+                "index": 7
+            },
+            {
+                "label": "origins",
+                "id": "2353d87c-76c7-4972-be88-1619e802d6c5",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "insufficient",
+                "id": "9d4ad88b-249d-40b6-8034-39945ec60190",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "development",
+                "id": "e76a5ca7-51aa-45c4-b306-0b4735d1d134",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "placenta",
+                "id": "e9476e31-4b56-4497-9e51-b0d8b51bc580",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "first",
+                "id": "6102822c-20a5-4b36-a678-4ba78e88a63d",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "trimester",
+                "id": "a5e6c060-0384-462c-bc63-3580d9917904",
+                "index": 16,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "a7064528-e2e7-4419-8e45-720c5aa47903",
+                "nodeTo": "abd9ee3b-0cab-4761-8a70-b9aaee6ba2aa",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "abd9ee3b-0cab-4761-8a70-b9aaee6ba2aa",
+                "nodeTo": "e3418689-a230-45bc-adba-2b100414b8e3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e3418689-a230-45bc-adba-2b100414b8e3",
+                "nodeTo": "bba30db8-5c08-4645-a7ec-3525bc215ba1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bba30db8-5c08-4645-a7ec-3525bc215ba1",
+                "nodeTo": "41d72628-7103-4d25-a556-b2157a0c685e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "abd9ee3b-0cab-4761-8a70-b9aaee6ba2aa",
+                "nodeTo": "9a028be4-1375-47c5-a131-72ac2a9c8c17",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9a028be4-1375-47c5-a131-72ac2a9c8c17",
+                "nodeTo": "1dd142a8-0643-4a99-819e-773d0019da2c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1dd142a8-0643-4a99-819e-773d0019da2c",
+                "nodeTo": "8c6462db-0526-4ee8-876d-b00a500d6e5e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1dd142a8-0643-4a99-819e-773d0019da2c",
+                "nodeTo": "2353d87c-76c7-4972-be88-1619e802d6c5",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8c6462db-0526-4ee8-876d-b00a500d6e5e",
+                "nodeTo": "3753ceb6-69bc-4c99-a6ba-04ce86965e3e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2353d87c-76c7-4972-be88-1619e802d6c5",
+                "nodeTo": "3753ceb6-69bc-4c99-a6ba-04ce86965e3e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3753ceb6-69bc-4c99-a6ba-04ce86965e3e",
+                "nodeTo": "9d4ad88b-249d-40b6-8034-39945ec60190",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3753ceb6-69bc-4c99-a6ba-04ce86965e3e",
+                "nodeTo": "e76a5ca7-51aa-45c4-b306-0b4735d1d134",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9d4ad88b-249d-40b6-8034-39945ec60190",
+                "nodeTo": "20879d20-766a-4829-9cb8-a30b1132a379",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e76a5ca7-51aa-45c4-b306-0b4735d1d134",
+                "nodeTo": "20879d20-766a-4829-9cb8-a30b1132a379",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "20879d20-766a-4829-9cb8-a30b1132a379",
+                "nodeTo": "e9476e31-4b56-4497-9e51-b0d8b51bc580",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e9476e31-4b56-4497-9e51-b0d8b51bc580",
+                "nodeTo": "4ae22691-9d94-4ea0-9a64-930c5d1ab5bd",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4ae22691-9d94-4ea0-9a64-930c5d1ab5bd",
+                "nodeTo": "6102822c-20a5-4b36-a678-4ba78e88a63d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4ae22691-9d94-4ea0-9a64-930c5d1ab5bd",
+                "nodeTo": "a5e6c060-0384-462c-bc63-3580d9917904",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-12 16:05:02"
+}

@@ -1,0 +1,166 @@
+{
+    "uuid": 369,
+    "text": "In total five blocks are needed to freeze five nerves involved",
+    "graph": {
+        "version": 1,
+        "guid": "db89b1a9-1281-4956-a807-39bd14388735",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "In",
+                "id": "0b190b73-3874-4b7e-b09a-1664684a7324",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "are",
+                "id": "27e0b4ee-0372-42ab-bba2-37c5b2db72c0",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "freeze",
+                "id": "4a6a2a6b-3674-4906-93a5-b73626da5a09",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "c6d18dd2-0824-4c2a-9c7a-bdc552a4097a",
+                "postag": "NA",
+                "index": 6
+            }
+        ],
+        "concepts": [
+            {
+                "label": "total",
+                "id": "cc2789b8-4e0d-418b-b63d-2d3d106c2c6a",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "five",
+                "id": "0b1a23c7-6b32-4ba1-962c-0dc329d17741",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "blocks",
+                "id": "3a8e2902-a094-42b3-a6c2-e060eeba4acd",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "five",
+                "id": "d55679b0-749d-4639-ab55-1b87e70e8d8a",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "needed",
+                "id": "d77c060d-c7e8-4807-9444-2bb866bb129a",
+                "postag": "NA",
+                "index": 5
+            },
+            {
+                "label": "nerves",
+                "id": "2428587e-8ebc-46a2-8059-3dc8479e6819",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "involved",
+                "id": "9da5eb22-bc0a-4859-870e-32e36743c9ae",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "0b190b73-3874-4b7e-b09a-1664684a7324",
+                "nodeTo": "cc2789b8-4e0d-418b-b63d-2d3d106c2c6a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0b190b73-3874-4b7e-b09a-1664684a7324",
+                "nodeTo": "0b1a23c7-6b32-4ba1-962c-0dc329d17741",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0b190b73-3874-4b7e-b09a-1664684a7324",
+                "nodeTo": "3a8e2902-a094-42b3-a6c2-e060eeba4acd",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0b1a23c7-6b32-4ba1-962c-0dc329d17741",
+                "nodeTo": "27e0b4ee-0372-42ab-bba2-37c5b2db72c0",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3a8e2902-a094-42b3-a6c2-e060eeba4acd",
+                "nodeTo": "27e0b4ee-0372-42ab-bba2-37c5b2db72c0",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "27e0b4ee-0372-42ab-bba2-37c5b2db72c0",
+                "nodeTo": "d77c060d-c7e8-4807-9444-2bb866bb129a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d77c060d-c7e8-4807-9444-2bb866bb129a",
+                "nodeTo": "c6d18dd2-0824-4c2a-9c7a-bdc552a4097a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d77c060d-c7e8-4807-9444-2bb866bb129a",
+                "nodeTo": "4a6a2a6b-3674-4906-93a5-b73626da5a09",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c6d18dd2-0824-4c2a-9c7a-bdc552a4097a",
+                "nodeTo": "d55679b0-749d-4639-ab55-1b87e70e8d8a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4a6a2a6b-3674-4906-93a5-b73626da5a09",
+                "nodeTo": "d55679b0-749d-4639-ab55-1b87e70e8d8a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c6d18dd2-0824-4c2a-9c7a-bdc552a4097a",
+                "nodeTo": "2428587e-8ebc-46a2-8059-3dc8479e6819",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4a6a2a6b-3674-4906-93a5-b73626da5a09",
+                "nodeTo": "2428587e-8ebc-46a2-8059-3dc8479e6819",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c6d18dd2-0824-4c2a-9c7a-bdc552a4097a",
+                "nodeTo": "9da5eb22-bc0a-4859-870e-32e36743c9ae",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4a6a2a6b-3674-4906-93a5-b73626da5a09",
+                "nodeTo": "9da5eb22-bc0a-4859-870e-32e36743c9ae",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-16 16:55:07"
+}

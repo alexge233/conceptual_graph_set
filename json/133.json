@@ -1,0 +1,70 @@
+{
+    "uuid": 133,
+    "text": "Millions lost to missed appointments",
+    "graph": {
+        "version": 1,
+        "guid": "62cee9b4-7169-4b14-9914-6115b22cc25c",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "lost",
+                "id": "7231d324-db4e-47d3-9ce7-9d67a5910bc8",
+                "index": 1,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Millions",
+                "id": "57247a5a-6cd6-45b0-83ed-d0a17d42e927",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "appointments",
+                "id": "a43088ad-c0c7-404b-83d2-a9aa8c73d64a",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "58628b8d-7686-4511-acdd-9bbb6486967a",
+                "postag": "NA",
+                "index": 2
+            },
+            {
+                "label": "missed",
+                "id": "3e3b2057-265c-4d70-ac61-38b6a221d544",
+                "postag": "NA",
+                "index": 3
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "57247a5a-6cd6-45b0-83ed-d0a17d42e927",
+                "nodeTo": "7231d324-db4e-47d3-9ce7-9d67a5910bc8",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7231d324-db4e-47d3-9ce7-9d67a5910bc8",
+                "nodeTo": "58628b8d-7686-4511-acdd-9bbb6486967a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7231d324-db4e-47d3-9ce7-9d67a5910bc8",
+                "nodeTo": "3e3b2057-265c-4d70-ac61-38b6a221d544",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7231d324-db4e-47d3-9ce7-9d67a5910bc8",
+                "nodeTo": "a43088ad-c0c7-404b-83d2-a9aa8c73d64a",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-11-06 09:41:33"
+}

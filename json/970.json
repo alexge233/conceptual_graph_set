@@ -1,0 +1,94 @@
+{
+    "uuid": 970,
+    "text": "Using pheromones to find your match",
+    "graph": {
+        "version": 1,
+        "guid": "eece5bd8-61a2-4c81-9c83-ad9aa5749c78",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "Using",
+                "id": "87a9e1e4-1ab3-4367-90bd-7929359ba837",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "0a11861e-49a5-4469-8d66-c010a7dd96d0",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "find",
+                "id": "1ce237c8-b5e8-47a2-8d90-5d4cd41b0d00",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "pheromones",
+                "id": "d368531a-6899-4cd6-bade-9b1a90ee9a0b",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "your",
+                "id": "4dcda4e9-a37b-4971-9ecd-902315c69b2b",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "match",
+                "id": "6e2acb4e-2d97-4328-b9da-95042eda19a6",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "87a9e1e4-1ab3-4367-90bd-7929359ba837",
+                "nodeTo": "d368531a-6899-4cd6-bade-9b1a90ee9a0b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d368531a-6899-4cd6-bade-9b1a90ee9a0b",
+                "nodeTo": "0a11861e-49a5-4469-8d66-c010a7dd96d0",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d368531a-6899-4cd6-bade-9b1a90ee9a0b",
+                "nodeTo": "1ce237c8-b5e8-47a2-8d90-5d4cd41b0d00",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0a11861e-49a5-4469-8d66-c010a7dd96d0",
+                "nodeTo": "4dcda4e9-a37b-4971-9ecd-902315c69b2b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1ce237c8-b5e8-47a2-8d90-5d4cd41b0d00",
+                "nodeTo": "4dcda4e9-a37b-4971-9ecd-902315c69b2b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0a11861e-49a5-4469-8d66-c010a7dd96d0",
+                "nodeTo": "6e2acb4e-2d97-4328-b9da-95042eda19a6",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1ce237c8-b5e8-47a2-8d90-5d4cd41b0d00",
+                "nodeTo": "6e2acb4e-2d97-4328-b9da-95042eda19a6",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-28 12:18:37"
+}

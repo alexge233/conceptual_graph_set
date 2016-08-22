@@ -1,0 +1,100 @@
+{
+    "uuid": 662,
+    "text": "boosting self-esteem prevents health problems for seniors",
+    "graph": {
+        "version": 1,
+        "guid": "a5c46c88-00ba-4ad4-a9a8-631db305a4a2",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "boosting",
+                "id": "1abaacea-a710-4426-810a-68101d43217c",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "prevents",
+                "id": "8ed51170-e861-4ebc-8d50-b075e2610254",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "e4e1aeb6-57ac-4a69-b788-769a4235653d",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "self-esteem",
+                "id": "4ce78086-5a5b-48e8-9915-4327524d6cd5",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "health",
+                "id": "294a5e3b-bdc0-4e2d-990b-977a80744e37",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "problems",
+                "id": "a83c1bb5-2ca4-49eb-b83b-5392269874a4",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "seniors",
+                "id": "3cdcee55-7967-40d8-a083-cb6d2b353280",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "1abaacea-a710-4426-810a-68101d43217c",
+                "nodeTo": "4ce78086-5a5b-48e8-9915-4327524d6cd5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4ce78086-5a5b-48e8-9915-4327524d6cd5",
+                "nodeTo": "8ed51170-e861-4ebc-8d50-b075e2610254",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8ed51170-e861-4ebc-8d50-b075e2610254",
+                "nodeTo": "294a5e3b-bdc0-4e2d-990b-977a80744e37",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8ed51170-e861-4ebc-8d50-b075e2610254",
+                "nodeTo": "a83c1bb5-2ca4-49eb-b83b-5392269874a4",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "294a5e3b-bdc0-4e2d-990b-977a80744e37",
+                "nodeTo": "e4e1aeb6-57ac-4a69-b788-769a4235653d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a83c1bb5-2ca4-49eb-b83b-5392269874a4",
+                "nodeTo": "e4e1aeb6-57ac-4a69-b788-769a4235653d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e4e1aeb6-57ac-4a69-b788-769a4235653d",
+                "nodeTo": "3cdcee55-7967-40d8-a083-cb6d2b353280",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-09 19:10:53"
+}

@@ -1,0 +1,172 @@
+{
+    "uuid": 1063,
+    "text": "chronic stress in early life causes anxiety aggression in adulthood neurobiologists find",
+    "graph": {
+        "version": 1,
+        "guid": "4156d372-ec01-4c22-bed5-5203a110a6d4",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "in",
+                "id": "77ad0cd7-218e-48ab-a7e5-9bda4592cc05",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "causes",
+                "id": "6ca71969-b87e-4a84-9818-8b4d46dc2b85",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "dcc71092-1723-4c2b-87d1-0a90ae3699e5",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "find",
+                "id": "ae5b9d12-eebb-4e22-bb41-d2a63822bc1a",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "chronic",
+                "id": "298905b3-141e-4221-809c-c922ae35eb11",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "stress",
+                "id": "d8113a09-0011-4890-a75e-5b150ec1e003",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "early",
+                "id": "37ddd552-9600-48ab-b8ea-e07555d03bd5",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "life",
+                "id": "a0cd9848-5bac-4c32-a613-c95b2b913063",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "anxiety",
+                "id": "38eeb026-820c-43e2-94ed-c59c8cdcdae2",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "aggression",
+                "id": "586c8a84-8b80-4e1b-83b4-a47b283d5812",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "adulthood",
+                "id": "0dbc2600-081b-4e1e-aa0e-dbaa7ce30028",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "neurobiologists",
+                "id": "3270b600-8871-442a-8a99-41c00c1c3467",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "298905b3-141e-4221-809c-c922ae35eb11",
+                "nodeTo": "77ad0cd7-218e-48ab-a7e5-9bda4592cc05",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d8113a09-0011-4890-a75e-5b150ec1e003",
+                "nodeTo": "77ad0cd7-218e-48ab-a7e5-9bda4592cc05",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "77ad0cd7-218e-48ab-a7e5-9bda4592cc05",
+                "nodeTo": "37ddd552-9600-48ab-b8ea-e07555d03bd5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "77ad0cd7-218e-48ab-a7e5-9bda4592cc05",
+                "nodeTo": "a0cd9848-5bac-4c32-a613-c95b2b913063",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "298905b3-141e-4221-809c-c922ae35eb11",
+                "nodeTo": "6ca71969-b87e-4a84-9818-8b4d46dc2b85",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d8113a09-0011-4890-a75e-5b150ec1e003",
+                "nodeTo": "6ca71969-b87e-4a84-9818-8b4d46dc2b85",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6ca71969-b87e-4a84-9818-8b4d46dc2b85",
+                "nodeTo": "38eeb026-820c-43e2-94ed-c59c8cdcdae2",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6ca71969-b87e-4a84-9818-8b4d46dc2b85",
+                "nodeTo": "586c8a84-8b80-4e1b-83b4-a47b283d5812",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "38eeb026-820c-43e2-94ed-c59c8cdcdae2",
+                "nodeTo": "dcc71092-1723-4c2b-87d1-0a90ae3699e5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "586c8a84-8b80-4e1b-83b4-a47b283d5812",
+                "nodeTo": "dcc71092-1723-4c2b-87d1-0a90ae3699e5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "dcc71092-1723-4c2b-87d1-0a90ae3699e5",
+                "nodeTo": "0dbc2600-081b-4e1e-aa0e-dbaa7ce30028",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3270b600-8871-442a-8a99-41c00c1c3467",
+                "nodeTo": "ae5b9d12-eebb-4e22-bb41-d2a63822bc1a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ae5b9d12-eebb-4e22-bb41-d2a63822bc1a",
+                "nodeTo": "298905b3-141e-4221-809c-c922ae35eb11",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ae5b9d12-eebb-4e22-bb41-d2a63822bc1a",
+                "nodeTo": "d8113a09-0011-4890-a75e-5b150ec1e003",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-05 19:10:38"
+}

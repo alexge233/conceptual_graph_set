@@ -1,0 +1,58 @@
+{
+    "uuid": 60,
+    "text": "DIY personal care introduced",
+    "graph": {
+        "version": 1,
+        "guid": "a6089d27-3112-4859-8470-e04325da0341",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "introduced",
+                "id": "cb2743ac-2684-403c-8b9c-1837db00285e",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "DIY",
+                "id": "52281bcc-2c38-45b3-a78e-9a27851de558",
+                "postag": "NA",
+                "index": 0
+            },
+            {
+                "label": "personal",
+                "id": "519dc365-2e56-455d-91d4-80c516632b64",
+                "postag": "NA",
+                "index": 1
+            }
+        ],
+        "concepts": [
+            {
+                "label": "care",
+                "id": "18652565-2b37-4de0-9129-e23aab516348",
+                "index": 2,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "52281bcc-2c38-45b3-a78e-9a27851de558",
+                "nodeTo": "18652565-2b37-4de0-9129-e23aab516348",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "519dc365-2e56-455d-91d4-80c516632b64",
+                "nodeTo": "18652565-2b37-4de0-9129-e23aab516348",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "18652565-2b37-4de0-9129-e23aab516348",
+                "nodeTo": "cb2743ac-2684-403c-8b9c-1837db00285e",
+                "index": 1,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2014-10-23 19:54:31"
+}

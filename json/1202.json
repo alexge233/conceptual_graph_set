@@ -1,0 +1,100 @@
+{
+    "uuid": 1202,
+    "text": "company seeks more approval for clot blocker",
+    "graph": {
+        "version": 1,
+        "guid": "68340521-8801-449b-9686-4911d773600e",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "seeks",
+                "id": "d97dc743-9225-4882-8546-5c3093c1acb6",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "more",
+                "id": "ed1b71b8-0d99-4976-9cad-4b342302508e",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "570ec20d-3561-4d66-910b-0e62ea594dc1",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "company",
+                "id": "19dca677-507a-4962-91c5-1b61218018a1",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "approval",
+                "id": "2140d082-e55d-4984-ad5e-5a75280d58ae",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "clot",
+                "id": "6eababc0-1137-468b-8662-eac4b3661973",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "blocker",
+                "id": "e9982a8a-3837-4c9a-801c-d59b32d70511",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "19dca677-507a-4962-91c5-1b61218018a1",
+                "nodeTo": "d97dc743-9225-4882-8546-5c3093c1acb6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "19dca677-507a-4962-91c5-1b61218018a1",
+                "nodeTo": "ed1b71b8-0d99-4976-9cad-4b342302508e",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d97dc743-9225-4882-8546-5c3093c1acb6",
+                "nodeTo": "2140d082-e55d-4984-ad5e-5a75280d58ae",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ed1b71b8-0d99-4976-9cad-4b342302508e",
+                "nodeTo": "2140d082-e55d-4984-ad5e-5a75280d58ae",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2140d082-e55d-4984-ad5e-5a75280d58ae",
+                "nodeTo": "570ec20d-3561-4d66-910b-0e62ea594dc1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "570ec20d-3561-4d66-910b-0e62ea594dc1",
+                "nodeTo": "6eababc0-1137-468b-8662-eac4b3661973",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "570ec20d-3561-4d66-910b-0e62ea594dc1",
+                "nodeTo": "e9982a8a-3837-4c9a-801c-d59b32d70511",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-26 16:36:37"
+}

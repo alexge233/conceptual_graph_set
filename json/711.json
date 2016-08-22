@@ -1,0 +1,148 @@
+{
+    "uuid": 711,
+    "text": "Reactions are powered by visible light not UV",
+    "graph": {
+        "version": 1,
+        "guid": "17015403-d445-47b8-a6a8-a93216662ab0",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "are",
+                "id": "99924706-1868-47eb-a7ca-882d64251c43",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "by",
+                "id": "eccec32a-dcd7-4226-9278-d73a109e2d01",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "powered",
+                "id": "e559145a-8c38-4002-94ee-19ca1aac12b6",
+                "postag": "NA",
+                "index": 2
+            },
+            {
+                "label": "not",
+                "id": "838a60be-612b-4520-b936-bc5433172d46",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Reactions",
+                "id": "a21ced3a-c5d8-40d1-83c2-6ad4eaea12e4",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "visible",
+                "id": "3c2984c6-b965-47e5-826b-0d4393d8323a",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "light",
+                "id": "14234742-63b6-4ca6-a831-02b0d5dc205d",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "UV",
+                "id": "a293d09a-ebae-44ec-a2e0-5c861992c732",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "a21ced3a-c5d8-40d1-83c2-6ad4eaea12e4",
+                "nodeTo": "99924706-1868-47eb-a7ca-882d64251c43",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a21ced3a-c5d8-40d1-83c2-6ad4eaea12e4",
+                "nodeTo": "e559145a-8c38-4002-94ee-19ca1aac12b6",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a21ced3a-c5d8-40d1-83c2-6ad4eaea12e4",
+                "nodeTo": "eccec32a-dcd7-4226-9278-d73a109e2d01",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "99924706-1868-47eb-a7ca-882d64251c43",
+                "nodeTo": "3c2984c6-b965-47e5-826b-0d4393d8323a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e559145a-8c38-4002-94ee-19ca1aac12b6",
+                "nodeTo": "3c2984c6-b965-47e5-826b-0d4393d8323a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "eccec32a-dcd7-4226-9278-d73a109e2d01",
+                "nodeTo": "3c2984c6-b965-47e5-826b-0d4393d8323a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "99924706-1868-47eb-a7ca-882d64251c43",
+                "nodeTo": "14234742-63b6-4ca6-a831-02b0d5dc205d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e559145a-8c38-4002-94ee-19ca1aac12b6",
+                "nodeTo": "14234742-63b6-4ca6-a831-02b0d5dc205d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "eccec32a-dcd7-4226-9278-d73a109e2d01",
+                "nodeTo": "14234742-63b6-4ca6-a831-02b0d5dc205d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "838a60be-612b-4520-b936-bc5433172d46",
+                "nodeTo": "a293d09a-ebae-44ec-a2e0-5c861992c732",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a21ced3a-c5d8-40d1-83c2-6ad4eaea12e4",
+                "nodeTo": "838a60be-612b-4520-b936-bc5433172d46",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "eccec32a-dcd7-4226-9278-d73a109e2d01",
+                "nodeTo": "a293d09a-ebae-44ec-a2e0-5c861992c732",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e559145a-8c38-4002-94ee-19ca1aac12b6",
+                "nodeTo": "a293d09a-ebae-44ec-a2e0-5c861992c732",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "99924706-1868-47eb-a7ca-882d64251c43",
+                "nodeTo": "a293d09a-ebae-44ec-a2e0-5c861992c732",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-12 18:19:37"
+}

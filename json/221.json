@@ -1,0 +1,70 @@
+{
+    "uuid": 221,
+    "text": "brain signal for psychosis risk",
+    "graph": {
+        "version": 1,
+        "guid": "44277b2c-2614-4d7b-9737-a9262d333631",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "for",
+                "id": "a034b86e-7786-4e25-a3b9-bc2c8ca7c829",
+                "index": 2,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "brain",
+                "id": "09119776-d0b2-4888-82d4-d2622db79d02",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "signal",
+                "id": "18008c05-72e4-48e3-a189-85564780d725",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "psychosis",
+                "id": "b61a7428-b43d-4842-9493-c0be9a55e6d6",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "risk",
+                "id": "334d6e64-78d7-4627-ac32-6cde1a4cd168",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "09119776-d0b2-4888-82d4-d2622db79d02",
+                "nodeTo": "a034b86e-7786-4e25-a3b9-bc2c8ca7c829",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "18008c05-72e4-48e3-a189-85564780d725",
+                "nodeTo": "a034b86e-7786-4e25-a3b9-bc2c8ca7c829",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a034b86e-7786-4e25-a3b9-bc2c8ca7c829",
+                "nodeTo": "b61a7428-b43d-4842-9493-c0be9a55e6d6",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a034b86e-7786-4e25-a3b9-bc2c8ca7c829",
+                "nodeTo": "334d6e64-78d7-4627-ac32-6cde1a4cd168",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-11-23 17:21:17"
+}

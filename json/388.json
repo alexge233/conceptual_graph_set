@@ -1,0 +1,142 @@
+{
+    "uuid": 388,
+    "text": "anti seizure drug may reduce alcohol consumption study shows",
+    "graph": {
+        "version": 1,
+        "guid": "0ba25c59-1e88-40c3-b76b-a840c344604e",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "anti",
+                "id": "428be1ac-a3eb-4d43-a329-502cd3dc259c",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "may",
+                "id": "eb099ed2-5634-46e9-ae7b-a991b3862560",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "reduce",
+                "id": "46718b59-2a3c-4052-97aa-cd9d1e0ae8de",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "shows",
+                "id": "678d7008-5abc-490d-9e5d-ba68bc570448",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "seizure",
+                "id": "5db766e6-5cc8-45bb-b0a7-5d27007a213e",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "drug",
+                "id": "0a27b708-880a-47ac-8967-460966796b1c",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "alcohol",
+                "id": "91bcc1d0-c297-4a71-9e86-e58d4bde228d",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "consumption",
+                "id": "e4b2926e-9076-4963-b1a8-a6cdea47e91d",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "study",
+                "id": "a2110e37-e10c-4b1e-aa1a-70ae8c8d4289",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "428be1ac-a3eb-4d43-a329-502cd3dc259c",
+                "nodeTo": "5db766e6-5cc8-45bb-b0a7-5d27007a213e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5db766e6-5cc8-45bb-b0a7-5d27007a213e",
+                "nodeTo": "eb099ed2-5634-46e9-ae7b-a991b3862560",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5db766e6-5cc8-45bb-b0a7-5d27007a213e",
+                "nodeTo": "46718b59-2a3c-4052-97aa-cd9d1e0ae8de",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0a27b708-880a-47ac-8967-460966796b1c",
+                "nodeTo": "eb099ed2-5634-46e9-ae7b-a991b3862560",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0a27b708-880a-47ac-8967-460966796b1c",
+                "nodeTo": "46718b59-2a3c-4052-97aa-cd9d1e0ae8de",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "eb099ed2-5634-46e9-ae7b-a991b3862560",
+                "nodeTo": "91bcc1d0-c297-4a71-9e86-e58d4bde228d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "46718b59-2a3c-4052-97aa-cd9d1e0ae8de",
+                "nodeTo": "91bcc1d0-c297-4a71-9e86-e58d4bde228d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "eb099ed2-5634-46e9-ae7b-a991b3862560",
+                "nodeTo": "e4b2926e-9076-4963-b1a8-a6cdea47e91d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "46718b59-2a3c-4052-97aa-cd9d1e0ae8de",
+                "nodeTo": "e4b2926e-9076-4963-b1a8-a6cdea47e91d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a2110e37-e10c-4b1e-aa1a-70ae8c8d4289",
+                "nodeTo": "678d7008-5abc-490d-9e5d-ba68bc570448",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "678d7008-5abc-490d-9e5d-ba68bc570448",
+                "nodeTo": "5db766e6-5cc8-45bb-b0a7-5d27007a213e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "678d7008-5abc-490d-9e5d-ba68bc570448",
+                "nodeTo": "0a27b708-880a-47ac-8967-460966796b1c",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-17 14:40:26"
+}

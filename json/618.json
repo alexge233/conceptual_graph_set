@@ -1,0 +1,232 @@
+{
+    "uuid": 618,
+    "text": "Blood glucose measure appears to provide little benefit in predicting risk of CVD",
+    "graph": {
+        "version": 1,
+        "guid": "ed98c64e-b78b-444b-98da-73a004c4ea24",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "appears",
+                "id": "dcb922cb-1342-4210-a58e-682e5b0d6d1b",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "e8b35a85-ec36-4831-9b94-8a148712a2d1",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "provide",
+                "id": "ccc515dc-b220-47a6-9a3a-badb4d645b01",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "37994dad-0de7-4a31-a6c4-ae53810eb81e",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "predicting",
+                "id": "1e09141a-cc18-4230-b41a-47dc9b3a40b9",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "28dc2c32-bdd0-47dd-a790-3044433ea315",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Blood",
+                "id": "9120c985-12dd-4b84-8566-3db31b5406d7",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "glucose",
+                "id": "03508d1d-cebe-4114-bbb8-4b05a7ba1dbc",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "measure",
+                "id": "303ebe02-d761-4bb9-9515-c1b924d7b3eb",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "little",
+                "id": "20a234ae-d370-46d9-bb13-ba5011765bd3",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "benefit",
+                "id": "2b11d0ed-0638-4bba-8384-514118b76362",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "risk",
+                "id": "cd19ed83-081c-40d3-9682-63d31e39b275",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "CVD",
+                "id": "6bba191e-8852-465b-bded-cc2565458813",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "9120c985-12dd-4b84-8566-3db31b5406d7",
+                "nodeTo": "dcb922cb-1342-4210-a58e-682e5b0d6d1b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "03508d1d-cebe-4114-bbb8-4b05a7ba1dbc",
+                "nodeTo": "dcb922cb-1342-4210-a58e-682e5b0d6d1b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "303ebe02-d761-4bb9-9515-c1b924d7b3eb",
+                "nodeTo": "dcb922cb-1342-4210-a58e-682e5b0d6d1b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9120c985-12dd-4b84-8566-3db31b5406d7",
+                "nodeTo": "e8b35a85-ec36-4831-9b94-8a148712a2d1",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "03508d1d-cebe-4114-bbb8-4b05a7ba1dbc",
+                "nodeTo": "e8b35a85-ec36-4831-9b94-8a148712a2d1",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "303ebe02-d761-4bb9-9515-c1b924d7b3eb",
+                "nodeTo": "e8b35a85-ec36-4831-9b94-8a148712a2d1",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9120c985-12dd-4b84-8566-3db31b5406d7",
+                "nodeTo": "ccc515dc-b220-47a6-9a3a-badb4d645b01",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "03508d1d-cebe-4114-bbb8-4b05a7ba1dbc",
+                "nodeTo": "ccc515dc-b220-47a6-9a3a-badb4d645b01",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "303ebe02-d761-4bb9-9515-c1b924d7b3eb",
+                "nodeTo": "ccc515dc-b220-47a6-9a3a-badb4d645b01",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "dcb922cb-1342-4210-a58e-682e5b0d6d1b",
+                "nodeTo": "20a234ae-d370-46d9-bb13-ba5011765bd3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e8b35a85-ec36-4831-9b94-8a148712a2d1",
+                "nodeTo": "20a234ae-d370-46d9-bb13-ba5011765bd3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ccc515dc-b220-47a6-9a3a-badb4d645b01",
+                "nodeTo": "20a234ae-d370-46d9-bb13-ba5011765bd3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "dcb922cb-1342-4210-a58e-682e5b0d6d1b",
+                "nodeTo": "2b11d0ed-0638-4bba-8384-514118b76362",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e8b35a85-ec36-4831-9b94-8a148712a2d1",
+                "nodeTo": "2b11d0ed-0638-4bba-8384-514118b76362",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ccc515dc-b220-47a6-9a3a-badb4d645b01",
+                "nodeTo": "2b11d0ed-0638-4bba-8384-514118b76362",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "20a234ae-d370-46d9-bb13-ba5011765bd3",
+                "nodeTo": "37994dad-0de7-4a31-a6c4-ae53810eb81e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2b11d0ed-0638-4bba-8384-514118b76362",
+                "nodeTo": "37994dad-0de7-4a31-a6c4-ae53810eb81e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "20a234ae-d370-46d9-bb13-ba5011765bd3",
+                "nodeTo": "1e09141a-cc18-4230-b41a-47dc9b3a40b9",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2b11d0ed-0638-4bba-8384-514118b76362",
+                "nodeTo": "1e09141a-cc18-4230-b41a-47dc9b3a40b9",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "37994dad-0de7-4a31-a6c4-ae53810eb81e",
+                "nodeTo": "cd19ed83-081c-40d3-9682-63d31e39b275",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1e09141a-cc18-4230-b41a-47dc9b3a40b9",
+                "nodeTo": "cd19ed83-081c-40d3-9682-63d31e39b275",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "cd19ed83-081c-40d3-9682-63d31e39b275",
+                "nodeTo": "28dc2c32-bdd0-47dd-a790-3044433ea315",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "28dc2c32-bdd0-47dd-a790-3044433ea315",
+                "nodeTo": "6bba191e-8852-465b-bded-cc2565458813",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-08 19:24:42"
+}

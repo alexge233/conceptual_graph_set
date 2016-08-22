@@ -1,0 +1,190 @@
+{
+    "uuid": 913,
+    "text": "color blindness or color vision deficiency in boys is lowest in African Americans",
+    "graph": {
+        "version": 1,
+        "guid": "9836a0ab-91e0-47aa-85b5-b4c6e16c9eda",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "or",
+                "id": "86465693-5471-4ee6-a353-4c722a26e911",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "c9eae647-4d4b-40ce-8aa7-96aa14344b0c",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "is",
+                "id": "6446994a-379c-409a-a5cd-9065e2017894",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "b990a329-4b09-4411-b334-b741c134e819",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "color",
+                "id": "d7ee3deb-06db-490e-bd2b-785113754852",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "blindness",
+                "id": "87c65d01-707e-4411-8964-cb45bdecb9c8",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "color",
+                "id": "0dc0847b-c909-44e4-a911-6acc893287e4",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "vision",
+                "id": "d89dd0c1-bc62-4c61-91e3-eaec91526488",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "deficiency",
+                "id": "1b22bd3e-74b8-4cb5-9779-381c49080315",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "boys",
+                "id": "4eb5ea67-ab83-465b-9153-e81265650b47",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "lowest",
+                "id": "40e5e106-60ec-48cc-8b08-4c42a91dc270",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "African",
+                "id": "ac257b05-0b9e-49d4-a960-a4c1050e954a",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "Americans",
+                "id": "5a187879-2943-4e34-adca-09ba912b2331",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "d7ee3deb-06db-490e-bd2b-785113754852",
+                "nodeTo": "86465693-5471-4ee6-a353-4c722a26e911",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "87c65d01-707e-4411-8964-cb45bdecb9c8",
+                "nodeTo": "86465693-5471-4ee6-a353-4c722a26e911",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "86465693-5471-4ee6-a353-4c722a26e911",
+                "nodeTo": "0dc0847b-c909-44e4-a911-6acc893287e4",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "86465693-5471-4ee6-a353-4c722a26e911",
+                "nodeTo": "d89dd0c1-bc62-4c61-91e3-eaec91526488",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "86465693-5471-4ee6-a353-4c722a26e911",
+                "nodeTo": "1b22bd3e-74b8-4cb5-9779-381c49080315",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d7ee3deb-06db-490e-bd2b-785113754852",
+                "nodeTo": "c9eae647-4d4b-40ce-8aa7-96aa14344b0c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "87c65d01-707e-4411-8964-cb45bdecb9c8",
+                "nodeTo": "c9eae647-4d4b-40ce-8aa7-96aa14344b0c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1b22bd3e-74b8-4cb5-9779-381c49080315",
+                "nodeTo": "c9eae647-4d4b-40ce-8aa7-96aa14344b0c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d89dd0c1-bc62-4c61-91e3-eaec91526488",
+                "nodeTo": "c9eae647-4d4b-40ce-8aa7-96aa14344b0c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0dc0847b-c909-44e4-a911-6acc893287e4",
+                "nodeTo": "c9eae647-4d4b-40ce-8aa7-96aa14344b0c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c9eae647-4d4b-40ce-8aa7-96aa14344b0c",
+                "nodeTo": "4eb5ea67-ab83-465b-9153-e81265650b47",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4eb5ea67-ab83-465b-9153-e81265650b47",
+                "nodeTo": "6446994a-379c-409a-a5cd-9065e2017894",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6446994a-379c-409a-a5cd-9065e2017894",
+                "nodeTo": "40e5e106-60ec-48cc-8b08-4c42a91dc270",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "40e5e106-60ec-48cc-8b08-4c42a91dc270",
+                "nodeTo": "b990a329-4b09-4411-b334-b741c134e819",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b990a329-4b09-4411-b334-b741c134e819",
+                "nodeTo": "ac257b05-0b9e-49d4-a960-a4c1050e954a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b990a329-4b09-4411-b334-b741c134e819",
+                "nodeTo": "5a187879-2943-4e34-adca-09ba912b2331",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-21 16:28:15"
+}

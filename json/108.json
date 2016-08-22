@@ -1,0 +1,88 @@
+{
+    "uuid": 108,
+    "text": "I am in remission thank god",
+    "graph": {
+        "version": 1,
+        "guid": "236be071-a8a0-410e-aa39-914ca6b10315",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "am",
+                "id": "3c3a218b-8477-4482-9bda-1e3ade9de88e",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "80624192-ed25-4bd0-aa99-e97d66567058",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "thank",
+                "id": "3553b9a1-a550-4474-84aa-21423d453a08",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "I",
+                "id": "e0546839-7979-4340-93d3-0dbe8315b0a2",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "remission",
+                "id": "7e0177bd-e631-42b0-8302-c5e2714e6799",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "god",
+                "id": "37140165-eb21-405c-9410-c49a483a910a",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "e0546839-7979-4340-93d3-0dbe8315b0a2",
+                "nodeTo": "3c3a218b-8477-4482-9bda-1e3ade9de88e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e0546839-7979-4340-93d3-0dbe8315b0a2",
+                "nodeTo": "80624192-ed25-4bd0-aa99-e97d66567058",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3c3a218b-8477-4482-9bda-1e3ade9de88e",
+                "nodeTo": "7e0177bd-e631-42b0-8302-c5e2714e6799",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "80624192-ed25-4bd0-aa99-e97d66567058",
+                "nodeTo": "7e0177bd-e631-42b0-8302-c5e2714e6799",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3553b9a1-a550-4474-84aa-21423d453a08",
+                "nodeTo": "37140165-eb21-405c-9410-c49a483a910a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e0546839-7979-4340-93d3-0dbe8315b0a2",
+                "nodeTo": "3553b9a1-a550-4474-84aa-21423d453a08",
+                "index": 3,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2014-10-27 23:36:27"
+}

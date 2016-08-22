@@ -1,0 +1,106 @@
+{
+    "uuid": 417,
+    "text": "Software identifies disease causing mutations in undiagnosed illnesses",
+    "graph": {
+        "version": 1,
+        "guid": "23d27a57-6b2b-4b43-8d19-1319e120613a",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "identifies",
+                "id": "db463cc3-0a94-4067-94ce-34c597c05895",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "causing",
+                "id": "dea91d6d-edee-4536-bd67-4a860758171d",
+                "postag": "NA",
+                "index": 3
+            },
+            {
+                "label": "in",
+                "id": "170ea4c4-31d9-4da7-907c-c531e42c506a",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Software",
+                "id": "eb874738-ce25-4228-b999-628c0197b2d9",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "disease",
+                "id": "dec5a56c-8c56-487c-b208-11193bb07a93",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "mutations",
+                "id": "91b3de05-8a7a-4907-bd36-85643c448880",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "undiagnosed",
+                "id": "32b865b5-ae01-4b69-ae58-a5eb84a4ba1a",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "illnesses",
+                "id": "c00224bb-7090-4589-8078-d674ea0d0219",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "eb874738-ce25-4228-b999-628c0197b2d9",
+                "nodeTo": "db463cc3-0a94-4067-94ce-34c597c05895",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "db463cc3-0a94-4067-94ce-34c597c05895",
+                "nodeTo": "91b3de05-8a7a-4907-bd36-85643c448880",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "91b3de05-8a7a-4907-bd36-85643c448880",
+                "nodeTo": "dea91d6d-edee-4536-bd67-4a860758171d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "dea91d6d-edee-4536-bd67-4a860758171d",
+                "nodeTo": "dec5a56c-8c56-487c-b208-11193bb07a93",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "91b3de05-8a7a-4907-bd36-85643c448880",
+                "nodeTo": "170ea4c4-31d9-4da7-907c-c531e42c506a",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "170ea4c4-31d9-4da7-907c-c531e42c506a",
+                "nodeTo": "32b865b5-ae01-4b69-ae58-a5eb84a4ba1a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "170ea4c4-31d9-4da7-907c-c531e42c506a",
+                "nodeTo": "c00224bb-7090-4589-8078-d674ea0d0219",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-18 15:47:01"
+}

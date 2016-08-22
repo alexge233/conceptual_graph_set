@@ -1,0 +1,304 @@
+{
+    "uuid": 667,
+    "text": "Heart disease is still one of major killers in our society and so far no effective therapeutic options are available",
+    "graph": {
+        "version": 1,
+        "guid": "07a955c4-dd7c-48ee-9c3c-6257274cac41",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "is",
+                "id": "69e80972-dcbc-43e9-b5d4-8b5b6124bb19",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "3c85bba6-68b2-4e53-90a2-287a2dea8931",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "e6ba1d45-cb03-4dba-aa02-ae92d1abbb7a",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "5669ebed-e141-44b8-a4ec-651eb5ed7073",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "so",
+                "id": "1e2497b7-4a05-4eb5-aea7-0005acdc70b7",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "no",
+                "id": "baa43234-09ee-4366-84e5-56e0c422a35d",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "are",
+                "id": "7d0a3d00-dd6a-4bad-9021-105317cc56a7",
+                "index": 18,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Heart",
+                "id": "3ac93ebb-5228-4521-b85a-84dc4a38a6d3",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "disease",
+                "id": "89b89b25-3893-406d-8e93-e2cadb60eb00",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "still",
+                "id": "6b2a42ce-8d7b-43ba-8333-d03c6403c80a",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "one",
+                "id": "184b5704-266e-45a1-ac2b-eb9a63e1014e",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "major",
+                "id": "e69ed000-d640-4d6b-bce7-8751dd49da49",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "killers",
+                "id": "87e6b247-e35e-4361-9abc-682dabd35639",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "our",
+                "id": "d88538dc-87e9-4e96-83ec-c118ca50a6a5",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "society",
+                "id": "3e6c7411-7cc3-44ca-82eb-a33ca76408d4",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "far",
+                "id": "ce86d3aa-c5aa-4aaa-bb85-76346d769ac1",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "effective",
+                "id": "3b0ab9c0-112b-4c91-a624-7e4076974159",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "therapeutic",
+                "id": "19e6328e-c6a0-4a44-b513-e04934c016e6",
+                "index": 16,
+                "postag": "NA"
+            },
+            {
+                "label": "options",
+                "id": "1d2ee2dd-0d9c-4c20-8a98-662c82d69cb2",
+                "index": 17,
+                "postag": "NA"
+            },
+            {
+                "label": "available",
+                "id": "7d55213e-525d-4e5b-a595-d996cc288ae3",
+                "index": 19,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "3ac93ebb-5228-4521-b85a-84dc4a38a6d3",
+                "nodeTo": "69e80972-dcbc-43e9-b5d4-8b5b6124bb19",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "89b89b25-3893-406d-8e93-e2cadb60eb00",
+                "nodeTo": "69e80972-dcbc-43e9-b5d4-8b5b6124bb19",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "69e80972-dcbc-43e9-b5d4-8b5b6124bb19",
+                "nodeTo": "6b2a42ce-8d7b-43ba-8333-d03c6403c80a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "69e80972-dcbc-43e9-b5d4-8b5b6124bb19",
+                "nodeTo": "184b5704-266e-45a1-ac2b-eb9a63e1014e",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "184b5704-266e-45a1-ac2b-eb9a63e1014e",
+                "nodeTo": "3c85bba6-68b2-4e53-90a2-287a2dea8931",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3c85bba6-68b2-4e53-90a2-287a2dea8931",
+                "nodeTo": "e69ed000-d640-4d6b-bce7-8751dd49da49",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3c85bba6-68b2-4e53-90a2-287a2dea8931",
+                "nodeTo": "87e6b247-e35e-4361-9abc-682dabd35639",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e69ed000-d640-4d6b-bce7-8751dd49da49",
+                "nodeTo": "e6ba1d45-cb03-4dba-aa02-ae92d1abbb7a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "87e6b247-e35e-4361-9abc-682dabd35639",
+                "nodeTo": "e6ba1d45-cb03-4dba-aa02-ae92d1abbb7a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e6ba1d45-cb03-4dba-aa02-ae92d1abbb7a",
+                "nodeTo": "d88538dc-87e9-4e96-83ec-c118ca50a6a5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e6ba1d45-cb03-4dba-aa02-ae92d1abbb7a",
+                "nodeTo": "3e6c7411-7cc3-44ca-82eb-a33ca76408d4",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6b2a42ce-8d7b-43ba-8333-d03c6403c80a",
+                "nodeTo": "3c85bba6-68b2-4e53-90a2-287a2dea8931",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5669ebed-e141-44b8-a4ec-651eb5ed7073",
+                "nodeTo": "ce86d3aa-c5aa-4aaa-bb85-76346d769ac1",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1e2497b7-4a05-4eb5-aea7-0005acdc70b7",
+                "nodeTo": "ce86d3aa-c5aa-4aaa-bb85-76346d769ac1",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ce86d3aa-c5aa-4aaa-bb85-76346d769ac1",
+                "nodeTo": "baa43234-09ee-4366-84e5-56e0c422a35d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "baa43234-09ee-4366-84e5-56e0c422a35d",
+                "nodeTo": "3b0ab9c0-112b-4c91-a624-7e4076974159",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "baa43234-09ee-4366-84e5-56e0c422a35d",
+                "nodeTo": "19e6328e-c6a0-4a44-b513-e04934c016e6",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "baa43234-09ee-4366-84e5-56e0c422a35d",
+                "nodeTo": "1d2ee2dd-0d9c-4c20-8a98-662c82d69cb2",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3b0ab9c0-112b-4c91-a624-7e4076974159",
+                "nodeTo": "7d0a3d00-dd6a-4bad-9021-105317cc56a7",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "19e6328e-c6a0-4a44-b513-e04934c016e6",
+                "nodeTo": "7d0a3d00-dd6a-4bad-9021-105317cc56a7",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1d2ee2dd-0d9c-4c20-8a98-662c82d69cb2",
+                "nodeTo": "7d0a3d00-dd6a-4bad-9021-105317cc56a7",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7d0a3d00-dd6a-4bad-9021-105317cc56a7",
+                "nodeTo": "7d55213e-525d-4e5b-a595-d996cc288ae3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3ac93ebb-5228-4521-b85a-84dc4a38a6d3",
+                "nodeTo": "5669ebed-e141-44b8-a4ec-651eb5ed7073",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "89b89b25-3893-406d-8e93-e2cadb60eb00",
+                "nodeTo": "5669ebed-e141-44b8-a4ec-651eb5ed7073",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3ac93ebb-5228-4521-b85a-84dc4a38a6d3",
+                "nodeTo": "1e2497b7-4a05-4eb5-aea7-0005acdc70b7",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "89b89b25-3893-406d-8e93-e2cadb60eb00",
+                "nodeTo": "1e2497b7-4a05-4eb5-aea7-0005acdc70b7",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5669ebed-e141-44b8-a4ec-651eb5ed7073",
+                "nodeTo": "6b2a42ce-8d7b-43ba-8333-d03c6403c80a",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5669ebed-e141-44b8-a4ec-651eb5ed7073",
+                "nodeTo": "184b5704-266e-45a1-ac2b-eb9a63e1014e",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-20 16:55:26"
+}

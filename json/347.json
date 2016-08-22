@@ -1,0 +1,148 @@
+{
+    "uuid": 347,
+    "text": "development of chemosynthetic livers could dramatically alter how drugs are made",
+    "graph": {
+        "version": 1,
+        "guid": "4ea75da0-48b7-4cd0-b6e9-622605b1ca8b",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "of",
+                "id": "accd6aaa-827c-4333-977d-7deeae87c943",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "could",
+                "id": "27e13846-0964-45b0-a490-c3988adbae75",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "alter",
+                "id": "e8e1e78a-399d-458b-8d7d-c245e7768787",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "how",
+                "id": "5202cea3-ab69-40ec-ad8e-4359939a6855",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "are",
+                "id": "471be182-3749-44d2-887a-b90ba81bc5da",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "development",
+                "id": "876821ba-707d-465a-a5ed-3b57d9bb8be4",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "chemosynthetic",
+                "id": "d5e9c79b-0940-4dec-9658-92287b00a48c",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "livers",
+                "id": "c0a31d79-250a-4837-867a-136b980e2ea3",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "dramatically",
+                "id": "229bb63d-691d-456e-9e02-2632b8756823",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "drugs",
+                "id": "d5256897-2803-4944-a214-ca15e6b6eddb",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "made",
+                "id": "47d2645a-0511-4241-9ae6-06777d079661",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "876821ba-707d-465a-a5ed-3b57d9bb8be4",
+                "nodeTo": "accd6aaa-827c-4333-977d-7deeae87c943",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "accd6aaa-827c-4333-977d-7deeae87c943",
+                "nodeTo": "d5e9c79b-0940-4dec-9658-92287b00a48c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "accd6aaa-827c-4333-977d-7deeae87c943",
+                "nodeTo": "c0a31d79-250a-4837-867a-136b980e2ea3",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "876821ba-707d-465a-a5ed-3b57d9bb8be4",
+                "nodeTo": "27e13846-0964-45b0-a490-c3988adbae75",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "27e13846-0964-45b0-a490-c3988adbae75",
+                "nodeTo": "229bb63d-691d-456e-9e02-2632b8756823",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "229bb63d-691d-456e-9e02-2632b8756823",
+                "nodeTo": "e8e1e78a-399d-458b-8d7d-c245e7768787",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "229bb63d-691d-456e-9e02-2632b8756823",
+                "nodeTo": "5202cea3-ab69-40ec-ad8e-4359939a6855",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e8e1e78a-399d-458b-8d7d-c245e7768787",
+                "nodeTo": "d5256897-2803-4944-a214-ca15e6b6eddb",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5202cea3-ab69-40ec-ad8e-4359939a6855",
+                "nodeTo": "d5256897-2803-4944-a214-ca15e6b6eddb",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d5256897-2803-4944-a214-ca15e6b6eddb",
+                "nodeTo": "471be182-3749-44d2-887a-b90ba81bc5da",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "471be182-3749-44d2-887a-b90ba81bc5da",
+                "nodeTo": "47d2645a-0511-4241-9ae6-06777d079661",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-15 20:19:44"
+}

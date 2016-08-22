@@ -1,0 +1,202 @@
+{
+    "uuid": 1118,
+    "text": "number of people in UK with coeliac disease has increased fourfold between 1990 and 2011",
+    "graph": {
+        "version": 1,
+        "guid": "4b458a0b-c049-4705-9553-b2d5d8442ea6",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "of",
+                "id": "a153502c-9844-41a1-a876-c211577c2a0d",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "c0700788-e0e2-4497-9b7a-770b665974e0",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "with",
+                "id": "1629c682-52a5-481b-9283-ab0e019d267a",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "has",
+                "id": "6b65b3b5-2e92-47d8-bd72-6084aeada664",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "increased",
+                "id": "55eca1e8-7508-4014-a433-eb2041becd25",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "between",
+                "id": "78900c56-dd9b-4d45-99d8-1141680a1497",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "4b447545-67bd-4b43-a809-3c18aaa93bb6",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "number",
+                "id": "b1dc3edb-014e-4c3b-b051-539520d2bac9",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "people",
+                "id": "bee54e24-392d-4b83-9d76-4a887960c9a6",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "UK",
+                "id": "226916b3-9143-47a6-a5ea-c9936e7cd15e",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "coeliac",
+                "id": "5d622073-805c-4765-b14e-ed6a16d14137",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "disease",
+                "id": "4a18bc1b-40c1-4a47-8186-c4a90db9d8a9",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "fourfold",
+                "id": "abcc8235-8e41-4cce-8c30-b3ee2e48b5a2",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": 1990,
+                "id": "144abe84-4311-4207-be49-726ed87e2e61",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": 2011,
+                "id": "cd3ccbab-90c6-415e-b6d9-2db230a64e67",
+                "index": 14,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "b1dc3edb-014e-4c3b-b051-539520d2bac9",
+                "nodeTo": "a153502c-9844-41a1-a876-c211577c2a0d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a153502c-9844-41a1-a876-c211577c2a0d",
+                "nodeTo": "bee54e24-392d-4b83-9d76-4a887960c9a6",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "bee54e24-392d-4b83-9d76-4a887960c9a6",
+                "nodeTo": "c0700788-e0e2-4497-9b7a-770b665974e0",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c0700788-e0e2-4497-9b7a-770b665974e0",
+                "nodeTo": "226916b3-9143-47a6-a5ea-c9936e7cd15e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "bee54e24-392d-4b83-9d76-4a887960c9a6",
+                "nodeTo": "1629c682-52a5-481b-9283-ab0e019d267a",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1629c682-52a5-481b-9283-ab0e019d267a",
+                "nodeTo": "5d622073-805c-4765-b14e-ed6a16d14137",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1629c682-52a5-481b-9283-ab0e019d267a",
+                "nodeTo": "4a18bc1b-40c1-4a47-8186-c4a90db9d8a9",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b1dc3edb-014e-4c3b-b051-539520d2bac9",
+                "nodeTo": "6b65b3b5-2e92-47d8-bd72-6084aeada664",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b1dc3edb-014e-4c3b-b051-539520d2bac9",
+                "nodeTo": "55eca1e8-7508-4014-a433-eb2041becd25",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6b65b3b5-2e92-47d8-bd72-6084aeada664",
+                "nodeTo": "abcc8235-8e41-4cce-8c30-b3ee2e48b5a2",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "55eca1e8-7508-4014-a433-eb2041becd25",
+                "nodeTo": "abcc8235-8e41-4cce-8c30-b3ee2e48b5a2",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b1dc3edb-014e-4c3b-b051-539520d2bac9",
+                "nodeTo": "78900c56-dd9b-4d45-99d8-1141680a1497",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "78900c56-dd9b-4d45-99d8-1141680a1497",
+                "nodeTo": "144abe84-4311-4207-be49-726ed87e2e61",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "144abe84-4311-4207-be49-726ed87e2e61",
+                "nodeTo": "4b447545-67bd-4b43-a809-3c18aaa93bb6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4b447545-67bd-4b43-a809-3c18aaa93bb6",
+                "nodeTo": "cd3ccbab-90c6-415e-b6d9-2db230a64e67",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "78900c56-dd9b-4d45-99d8-1141680a1497",
+                "nodeTo": "cd3ccbab-90c6-415e-b6d9-2db230a64e67",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-12 21:08:54"
+}

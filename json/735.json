@@ -1,0 +1,82 @@
+{
+    "uuid": 735,
+    "text": "British company publishes archive on YouTube",
+    "graph": {
+        "version": 1,
+        "guid": "892c9888-8551-408c-9396-23a029934e05",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "publishes",
+                "id": "1c4eb4a4-beb0-4ba1-b671-419dce1b9142",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "on",
+                "id": "24a9a601-5b02-4197-a112-801184503323",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "British",
+                "id": "57ab08c9-b0d8-40ac-a3d0-173402421a74",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "company",
+                "id": "20e914e3-969c-421a-94e8-9161063d7373",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "archive",
+                "id": "9e3d92ce-669d-48d5-a825-4630552aa70e",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "YouTube",
+                "id": "35a2d805-1a8a-48a0-9982-355477cd8da7",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "57ab08c9-b0d8-40ac-a3d0-173402421a74",
+                "nodeTo": "1c4eb4a4-beb0-4ba1-b671-419dce1b9142",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "20e914e3-969c-421a-94e8-9161063d7373",
+                "nodeTo": "1c4eb4a4-beb0-4ba1-b671-419dce1b9142",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1c4eb4a4-beb0-4ba1-b671-419dce1b9142",
+                "nodeTo": "9e3d92ce-669d-48d5-a825-4630552aa70e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9e3d92ce-669d-48d5-a825-4630552aa70e",
+                "nodeTo": "24a9a601-5b02-4197-a112-801184503323",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "24a9a601-5b02-4197-a112-801184503323",
+                "nodeTo": "35a2d805-1a8a-48a0-9982-355477cd8da7",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-03-28 18:34:13"
+}

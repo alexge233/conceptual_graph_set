@@ -1,0 +1,82 @@
+{
+    "uuid": 1218,
+    "text": "computer maps 21 distinct emotional expressions",
+    "graph": {
+        "version": 1,
+        "guid": "d6a20ca8-2d91-41e7-b867-b35929e4ec62",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "maps",
+                "id": "9422c43d-758a-49b7-80ce-7b8c4e903aaa",
+                "index": 1,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "computer",
+                "id": "70161c13-c78e-4981-b067-a92d0b7bbaa1",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": 21,
+                "id": "6297cda1-3cdb-46ed-975b-57d75d1e7125",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "distinct",
+                "id": "c2b6a60b-99bd-4d78-8ba0-ee9a662a395e",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "emotional",
+                "id": "d6203747-dc66-4429-b349-4073b6a3483c",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "expressions",
+                "id": "c9eed617-d21a-405c-916e-a73aa5469a79",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "70161c13-c78e-4981-b067-a92d0b7bbaa1",
+                "nodeTo": "9422c43d-758a-49b7-80ce-7b8c4e903aaa",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9422c43d-758a-49b7-80ce-7b8c4e903aaa",
+                "nodeTo": "6297cda1-3cdb-46ed-975b-57d75d1e7125",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9422c43d-758a-49b7-80ce-7b8c4e903aaa",
+                "nodeTo": "c2b6a60b-99bd-4d78-8ba0-ee9a662a395e",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9422c43d-758a-49b7-80ce-7b8c4e903aaa",
+                "nodeTo": "d6203747-dc66-4429-b349-4073b6a3483c",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9422c43d-758a-49b7-80ce-7b8c4e903aaa",
+                "nodeTo": "c9eed617-d21a-405c-916e-a73aa5469a79",
+                "index": 4,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-26 21:17:11"
+}

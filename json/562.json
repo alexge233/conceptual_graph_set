@@ -1,0 +1,130 @@
+{
+    "uuid": 562,
+    "text": "new study of siblings finds eldest girls have edge",
+    "graph": {
+        "version": 1,
+        "guid": "8e95bce6-e244-4763-bbd7-e029c34e93be",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "of",
+                "id": "0de0b343-81a0-4d3c-a9ee-4627e77deb1d",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "finds",
+                "id": "cc370287-7836-4a1c-a508-ae61d0e11165",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "have",
+                "id": "2cae3432-c720-4d20-a909-8b2a43a89ba4",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "new",
+                "id": "41451682-1d71-4ae8-802e-420b14047987",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "study",
+                "id": "1d675634-5c3e-4d5e-8ac3-9669137ad6a9",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "siblings",
+                "id": "019b0349-a895-46e6-abe7-e6818c9d24b9",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "eldest",
+                "id": "a132850a-2b9c-4a30-8972-ac4bdd651ea3",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "girls",
+                "id": "3008521c-999d-4856-93ec-6348747d8819",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "edge",
+                "id": "a48a2054-a938-496d-9866-dae397100e35",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "41451682-1d71-4ae8-802e-420b14047987",
+                "nodeTo": "0de0b343-81a0-4d3c-a9ee-4627e77deb1d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1d675634-5c3e-4d5e-8ac3-9669137ad6a9",
+                "nodeTo": "0de0b343-81a0-4d3c-a9ee-4627e77deb1d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0de0b343-81a0-4d3c-a9ee-4627e77deb1d",
+                "nodeTo": "019b0349-a895-46e6-abe7-e6818c9d24b9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "41451682-1d71-4ae8-802e-420b14047987",
+                "nodeTo": "cc370287-7836-4a1c-a508-ae61d0e11165",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1d675634-5c3e-4d5e-8ac3-9669137ad6a9",
+                "nodeTo": "cc370287-7836-4a1c-a508-ae61d0e11165",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cc370287-7836-4a1c-a508-ae61d0e11165",
+                "nodeTo": "a132850a-2b9c-4a30-8972-ac4bdd651ea3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "cc370287-7836-4a1c-a508-ae61d0e11165",
+                "nodeTo": "3008521c-999d-4856-93ec-6348747d8819",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a132850a-2b9c-4a30-8972-ac4bdd651ea3",
+                "nodeTo": "2cae3432-c720-4d20-a909-8b2a43a89ba4",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3008521c-999d-4856-93ec-6348747d8819",
+                "nodeTo": "2cae3432-c720-4d20-a909-8b2a43a89ba4",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2cae3432-c720-4d20-a909-8b2a43a89ba4",
+                "nodeTo": "a48a2054-a938-496d-9866-dae397100e35",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-07 17:32:49"
+}

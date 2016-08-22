@@ -1,0 +1,172 @@
+{
+    "uuid": 909,
+    "text": "dual channel design uses mechanical method to uproot biofilms from their moorings",
+    "graph": {
+        "version": 1,
+        "guid": "6e60796d-090b-436a-96e8-e14547c75b51",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "uses",
+                "id": "9b169a05-2415-4d66-a243-55408e56a212",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "31914849-249a-43a4-acee-b89625434e49",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "uproot",
+                "id": "c7413d46-d9cc-422a-90a5-0a6a1c3eba68",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "from",
+                "id": "dacbd941-1994-4009-8e7c-79bbaeaeddba",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "dual",
+                "id": "b4c2387d-1d75-488c-acbc-49c2101a5c3b",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "channel",
+                "id": "09ba4ad8-a988-4215-8c47-dda3025480ca",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "design",
+                "id": "a6d37e17-67d4-4d29-8580-d7e4da8d5b1a",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "mechanical",
+                "id": "205ab828-050d-4950-bad2-d61779313b57",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "method",
+                "id": "035601ea-3864-44b1-a2ae-a39e11602ce4",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "biofilms",
+                "id": "b27ea813-96c4-45d3-a63a-66b1325184a8",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "their",
+                "id": "119b94b3-d278-4332-b1d4-432ea26ea836",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "moorings",
+                "id": "5d92edda-8480-4181-a7ea-64e5a2a05526",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "b4c2387d-1d75-488c-acbc-49c2101a5c3b",
+                "nodeTo": "9b169a05-2415-4d66-a243-55408e56a212",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "09ba4ad8-a988-4215-8c47-dda3025480ca",
+                "nodeTo": "9b169a05-2415-4d66-a243-55408e56a212",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a6d37e17-67d4-4d29-8580-d7e4da8d5b1a",
+                "nodeTo": "9b169a05-2415-4d66-a243-55408e56a212",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9b169a05-2415-4d66-a243-55408e56a212",
+                "nodeTo": "205ab828-050d-4950-bad2-d61779313b57",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9b169a05-2415-4d66-a243-55408e56a212",
+                "nodeTo": "035601ea-3864-44b1-a2ae-a39e11602ce4",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "205ab828-050d-4950-bad2-d61779313b57",
+                "nodeTo": "31914849-249a-43a4-acee-b89625434e49",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "035601ea-3864-44b1-a2ae-a39e11602ce4",
+                "nodeTo": "31914849-249a-43a4-acee-b89625434e49",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "205ab828-050d-4950-bad2-d61779313b57",
+                "nodeTo": "c7413d46-d9cc-422a-90a5-0a6a1c3eba68",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "035601ea-3864-44b1-a2ae-a39e11602ce4",
+                "nodeTo": "c7413d46-d9cc-422a-90a5-0a6a1c3eba68",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "31914849-249a-43a4-acee-b89625434e49",
+                "nodeTo": "b27ea813-96c4-45d3-a63a-66b1325184a8",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c7413d46-d9cc-422a-90a5-0a6a1c3eba68",
+                "nodeTo": "b27ea813-96c4-45d3-a63a-66b1325184a8",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b27ea813-96c4-45d3-a63a-66b1325184a8",
+                "nodeTo": "dacbd941-1994-4009-8e7c-79bbaeaeddba",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "dacbd941-1994-4009-8e7c-79bbaeaeddba",
+                "nodeTo": "119b94b3-d278-4332-b1d4-432ea26ea836",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "dacbd941-1994-4009-8e7c-79bbaeaeddba",
+                "nodeTo": "5d92edda-8480-4181-a7ea-64e5a2a05526",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-21 16:09:38"
+}

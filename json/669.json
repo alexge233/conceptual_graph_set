@@ -1,0 +1,232 @@
+{
+    "uuid": 669,
+    "text": "Patients with bowel disease are able to access A-to-Z guide to help them find specialist doctor",
+    "graph": {
+        "version": 1,
+        "guid": "2ab81d9e-c8e1-4483-b6cc-c684c8193de2",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "with",
+                "id": "4c9d2980-ce12-4590-89cd-0da864837288",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "are",
+                "id": "534d9d21-1c54-4d4c-84b4-164942a551d5",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "b3286e3b-9c54-4ac3-9770-12959510b610",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "access",
+                "id": "c7379529-cabe-4e07-a847-1870ec91e45c",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "a6cb2e37-448e-49c7-87aa-d527deea86e3",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "help",
+                "id": "b5e38abc-7a5d-449e-816d-15e272476775",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "find",
+                "id": "429349b8-e37a-4010-a926-ec42679344b0",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Patients",
+                "id": "83b77188-835b-4369-8497-2ecddb087080",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "bowel",
+                "id": "03289c7a-302a-41a3-bd45-a4e82e8225ab",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "disease",
+                "id": "84b8a713-53e4-40ba-a273-9ec3d2ec85a7",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "able",
+                "id": "4dc39b4b-4d01-43a1-844c-5934316e304c",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "A-to-Z",
+                "id": "e838ad59-7d0e-4085-b672-9db36e100a0b",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "guide",
+                "id": "84b1aac8-7b08-4b88-a113-b966a6eab678",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "them",
+                "id": "4b2a10ad-4e53-4563-a89b-899c4683c70e",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "specialist",
+                "id": "8ec06470-9756-4791-a636-86ba6b7646a1",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "doctor",
+                "id": "13446d29-6a9b-435a-8da3-92b49610ea4a",
+                "index": 15,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "83b77188-835b-4369-8497-2ecddb087080",
+                "nodeTo": "4c9d2980-ce12-4590-89cd-0da864837288",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4c9d2980-ce12-4590-89cd-0da864837288",
+                "nodeTo": "03289c7a-302a-41a3-bd45-a4e82e8225ab",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4c9d2980-ce12-4590-89cd-0da864837288",
+                "nodeTo": "84b8a713-53e4-40ba-a273-9ec3d2ec85a7",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "83b77188-835b-4369-8497-2ecddb087080",
+                "nodeTo": "534d9d21-1c54-4d4c-84b4-164942a551d5",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "534d9d21-1c54-4d4c-84b4-164942a551d5",
+                "nodeTo": "4dc39b4b-4d01-43a1-844c-5934316e304c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4dc39b4b-4d01-43a1-844c-5934316e304c",
+                "nodeTo": "b3286e3b-9c54-4ac3-9770-12959510b610",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4dc39b4b-4d01-43a1-844c-5934316e304c",
+                "nodeTo": "c7379529-cabe-4e07-a847-1870ec91e45c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b3286e3b-9c54-4ac3-9770-12959510b610",
+                "nodeTo": "e838ad59-7d0e-4085-b672-9db36e100a0b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b3286e3b-9c54-4ac3-9770-12959510b610",
+                "nodeTo": "84b1aac8-7b08-4b88-a113-b966a6eab678",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c7379529-cabe-4e07-a847-1870ec91e45c",
+                "nodeTo": "e838ad59-7d0e-4085-b672-9db36e100a0b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c7379529-cabe-4e07-a847-1870ec91e45c",
+                "nodeTo": "84b1aac8-7b08-4b88-a113-b966a6eab678",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e838ad59-7d0e-4085-b672-9db36e100a0b",
+                "nodeTo": "a6cb2e37-448e-49c7-87aa-d527deea86e3",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e838ad59-7d0e-4085-b672-9db36e100a0b",
+                "nodeTo": "b5e38abc-7a5d-449e-816d-15e272476775",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "84b1aac8-7b08-4b88-a113-b966a6eab678",
+                "nodeTo": "a6cb2e37-448e-49c7-87aa-d527deea86e3",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "84b1aac8-7b08-4b88-a113-b966a6eab678",
+                "nodeTo": "b5e38abc-7a5d-449e-816d-15e272476775",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a6cb2e37-448e-49c7-87aa-d527deea86e3",
+                "nodeTo": "4b2a10ad-4e53-4563-a89b-899c4683c70e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b5e38abc-7a5d-449e-816d-15e272476775",
+                "nodeTo": "4b2a10ad-4e53-4563-a89b-899c4683c70e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4b2a10ad-4e53-4563-a89b-899c4683c70e",
+                "nodeTo": "429349b8-e37a-4010-a926-ec42679344b0",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "429349b8-e37a-4010-a926-ec42679344b0",
+                "nodeTo": "8ec06470-9756-4791-a636-86ba6b7646a1",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "429349b8-e37a-4010-a926-ec42679344b0",
+                "nodeTo": "13446d29-6a9b-435a-8da3-92b49610ea4a",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-09 20:30:54"
+}

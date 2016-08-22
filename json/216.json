@@ -1,0 +1,58 @@
+{
+    "uuid": 216,
+    "text": "30000-year-old virus is revived",
+    "graph": {
+        "version": 1,
+        "guid": "322e2a99-532e-4023-a4ac-bb84bebb5c32",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "is",
+                "id": "993deb1c-5465-446b-b9eb-2da859657ba2",
+                "index": 2,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "30000-year-old",
+                "id": "2814b421-27b0-423c-b9c4-87ed58ea4271",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "virus",
+                "id": "d30a96b7-30e7-469c-98ab-1eb343356769",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "revived",
+                "id": "cd585507-b94d-43a4-9a4e-5202d14c03d4",
+                "postag": "NA",
+                "index": 3
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "2814b421-27b0-423c-b9c4-87ed58ea4271",
+                "nodeTo": "993deb1c-5465-446b-b9eb-2da859657ba2",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d30a96b7-30e7-469c-98ab-1eb343356769",
+                "nodeTo": "993deb1c-5465-446b-b9eb-2da859657ba2",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "993deb1c-5465-446b-b9eb-2da859657ba2",
+                "nodeTo": "cd585507-b94d-43a4-9a4e-5202d14c03d4",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-11-18 02:03:13"
+}

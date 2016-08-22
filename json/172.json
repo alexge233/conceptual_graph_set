@@ -1,0 +1,214 @@
+{
+    "uuid": 172,
+    "text": "There has been huge rise in cases of sexually transmitted infection syphilis in north Wales",
+    "graph": {
+        "version": 1,
+        "guid": "ccda7370-54a5-4b3e-93dd-72c8aee7aea5",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "has",
+                "id": "9e385b36-0350-400d-ad6e-a09e53d7a75b",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "been",
+                "id": "520b0820-e9e4-46ee-9ea4-d1e50a80de2d",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "75a8bb31-e86d-4ea5-a4e8-3c14e47eb66e",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "955c8eeb-c022-4799-8410-1370366a9286",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "86d9c596-ac19-408d-8db2-7e44a5193923",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "There",
+                "id": "c8d38c60-6a84-402e-9484-71078b038569",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "huge",
+                "id": "75975325-46c2-4648-a8de-db040c43626e",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "rise",
+                "id": "a2424100-431d-4393-a16d-e56e26b099b3",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "cases",
+                "id": "a6507d6b-4b17-4bd0-89d8-2d2ea942b48b",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "sexually",
+                "id": "d56d6add-9c08-42b3-81d9-d4ce02a24eec",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "transmitted",
+                "id": "7296e038-6071-498c-b6c9-48ca887c021c",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "infection",
+                "id": "59b02a56-60a1-45d4-87d4-17c49a2b7716",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "syphilis",
+                "id": "a9c2dbac-919b-4ee1-ab8b-73d6024c9dd7",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "north",
+                "id": "43ab1164-3a86-4a26-a4e4-702e1d52477c",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "Wales",
+                "id": "06ad7263-b68c-4125-a43d-2174433adbbe",
+                "index": 14,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "c8d38c60-6a84-402e-9484-71078b038569",
+                "nodeTo": "9e385b36-0350-400d-ad6e-a09e53d7a75b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c8d38c60-6a84-402e-9484-71078b038569",
+                "nodeTo": "520b0820-e9e4-46ee-9ea4-d1e50a80de2d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9e385b36-0350-400d-ad6e-a09e53d7a75b",
+                "nodeTo": "75975325-46c2-4648-a8de-db040c43626e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9e385b36-0350-400d-ad6e-a09e53d7a75b",
+                "nodeTo": "a2424100-431d-4393-a16d-e56e26b099b3",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "520b0820-e9e4-46ee-9ea4-d1e50a80de2d",
+                "nodeTo": "75975325-46c2-4648-a8de-db040c43626e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "520b0820-e9e4-46ee-9ea4-d1e50a80de2d",
+                "nodeTo": "a2424100-431d-4393-a16d-e56e26b099b3",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "75975325-46c2-4648-a8de-db040c43626e",
+                "nodeTo": "75a8bb31-e86d-4ea5-a4e8-3c14e47eb66e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a2424100-431d-4393-a16d-e56e26b099b3",
+                "nodeTo": "75a8bb31-e86d-4ea5-a4e8-3c14e47eb66e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "75a8bb31-e86d-4ea5-a4e8-3c14e47eb66e",
+                "nodeTo": "a6507d6b-4b17-4bd0-89d8-2d2ea942b48b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a6507d6b-4b17-4bd0-89d8-2d2ea942b48b",
+                "nodeTo": "955c8eeb-c022-4799-8410-1370366a9286",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "955c8eeb-c022-4799-8410-1370366a9286",
+                "nodeTo": "d56d6add-9c08-42b3-81d9-d4ce02a24eec",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "955c8eeb-c022-4799-8410-1370366a9286",
+                "nodeTo": "7296e038-6071-498c-b6c9-48ca887c021c",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "955c8eeb-c022-4799-8410-1370366a9286",
+                "nodeTo": "59b02a56-60a1-45d4-87d4-17c49a2b7716",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "955c8eeb-c022-4799-8410-1370366a9286",
+                "nodeTo": "a9c2dbac-919b-4ee1-ab8b-73d6024c9dd7",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "86d9c596-ac19-408d-8db2-7e44a5193923",
+                "nodeTo": "43ab1164-3a86-4a26-a4e4-702e1d52477c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "86d9c596-ac19-408d-8db2-7e44a5193923",
+                "nodeTo": "06ad7263-b68c-4125-a43d-2174433adbbe",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "75975325-46c2-4648-a8de-db040c43626e",
+                "nodeTo": "86d9c596-ac19-408d-8db2-7e44a5193923",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a2424100-431d-4393-a16d-e56e26b099b3",
+                "nodeTo": "86d9c596-ac19-408d-8db2-7e44a5193923",
+                "index": 2,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2014-11-04 21:48:21"
+}

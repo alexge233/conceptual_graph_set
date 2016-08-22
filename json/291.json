@@ -1,0 +1,160 @@
+{
+    "uuid": 291,
+    "text": "Despite this high prevalence recent research confirms FH is underdiagnosed and undertreated",
+    "graph": {
+        "version": 1,
+        "guid": "7988ae71-e6d5-4185-9dd8-c28262d2cd49",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "Despite",
+                "id": "a344c851-c5c3-4097-a657-4ea5c1743ca0",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "confirms",
+                "id": "5d315841-2c41-4835-9a59-db93365545bc",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "is",
+                "id": "a98c1841-6acc-4de5-916d-6060eb0cb772",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "8b0e90d5-7c00-49c0-836b-d50ba4a4d8b6",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "this",
+                "id": "4bcd400d-226a-497b-981a-0813d0448da6",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "high",
+                "id": "2394a12e-cd65-45e0-bc13-ed3b0db7e3c4",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "prevalence",
+                "id": "93393976-3441-46ed-8188-32c0531495b4",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "recent",
+                "id": "c825603c-2c74-401b-ba14-e3180ed2c56d",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "research",
+                "id": "6690d513-4025-4ee2-ad23-c62e2d02a665",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "FH",
+                "id": "98ee4bc4-a00c-46cb-9784-be0b45502e27",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "underdiagnosed",
+                "id": "deba612e-cece-494a-ab65-3509c2a120dc",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "undertreated",
+                "id": "37706246-5e23-4b64-9164-1d5ac4ce08e6",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "a344c851-c5c3-4097-a657-4ea5c1743ca0",
+                "nodeTo": "4bcd400d-226a-497b-981a-0813d0448da6",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a344c851-c5c3-4097-a657-4ea5c1743ca0",
+                "nodeTo": "2394a12e-cd65-45e0-bc13-ed3b0db7e3c4",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a344c851-c5c3-4097-a657-4ea5c1743ca0",
+                "nodeTo": "93393976-3441-46ed-8188-32c0531495b4",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a344c851-c5c3-4097-a657-4ea5c1743ca0",
+                "nodeTo": "c825603c-2c74-401b-ba14-e3180ed2c56d",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a344c851-c5c3-4097-a657-4ea5c1743ca0",
+                "nodeTo": "6690d513-4025-4ee2-ad23-c62e2d02a665",
+                "index": 5,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c825603c-2c74-401b-ba14-e3180ed2c56d",
+                "nodeTo": "5d315841-2c41-4835-9a59-db93365545bc",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6690d513-4025-4ee2-ad23-c62e2d02a665",
+                "nodeTo": "5d315841-2c41-4835-9a59-db93365545bc",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5d315841-2c41-4835-9a59-db93365545bc",
+                "nodeTo": "98ee4bc4-a00c-46cb-9784-be0b45502e27",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "98ee4bc4-a00c-46cb-9784-be0b45502e27",
+                "nodeTo": "a98c1841-6acc-4de5-916d-6060eb0cb772",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a98c1841-6acc-4de5-916d-6060eb0cb772",
+                "nodeTo": "deba612e-cece-494a-ab65-3509c2a120dc",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "deba612e-cece-494a-ab65-3509c2a120dc",
+                "nodeTo": "8b0e90d5-7c00-49c0-836b-d50ba4a4d8b6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8b0e90d5-7c00-49c0-836b-d50ba4a4d8b6",
+                "nodeTo": "37706246-5e23-4b64-9164-1d5ac4ce08e6",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-04 10:39:58"
+}

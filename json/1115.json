@@ -1,0 +1,172 @@
+{
+    "uuid": 1115,
+    "text": "coal plant closure in China led to improvements in childrens health",
+    "graph": {
+        "version": 1,
+        "guid": "18cb9c1e-7ce0-4421-beb5-a1b15d1c46e0",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "in",
+                "id": "36a1600c-a5ab-4526-8542-54b4550db2db",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "led",
+                "id": "255bbd4a-4b00-4d58-8bb5-83a280aa1a7d",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "331c3c5e-41a2-44ae-911a-689b0ca3887a",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "2865a1c4-a332-450d-94be-bad4424d8a51",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "coal",
+                "id": "8bb2ecb1-2946-4697-8a26-0886d5124826",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "plant",
+                "id": "b0cdd0bd-ab31-4c0a-a133-b990ec13d12c",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "closure",
+                "id": "b0c65034-22d8-4b7e-9e6d-8b2e4ba3edc4",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "China",
+                "id": "d9ee6cd7-5424-4605-a09a-07160b109306",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "improvements",
+                "id": "227795e6-010a-4729-9e02-209419caa06e",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "childrens",
+                "id": "8ee03d84-258b-4564-a138-39d6424dd400",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "health",
+                "id": "5a51300a-e576-4ee2-abc0-d19b5b044cd6",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "8bb2ecb1-2946-4697-8a26-0886d5124826",
+                "nodeTo": "36a1600c-a5ab-4526-8542-54b4550db2db",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b0cdd0bd-ab31-4c0a-a133-b990ec13d12c",
+                "nodeTo": "36a1600c-a5ab-4526-8542-54b4550db2db",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b0c65034-22d8-4b7e-9e6d-8b2e4ba3edc4",
+                "nodeTo": "36a1600c-a5ab-4526-8542-54b4550db2db",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "36a1600c-a5ab-4526-8542-54b4550db2db",
+                "nodeTo": "d9ee6cd7-5424-4605-a09a-07160b109306",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8bb2ecb1-2946-4697-8a26-0886d5124826",
+                "nodeTo": "255bbd4a-4b00-4d58-8bb5-83a280aa1a7d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b0cdd0bd-ab31-4c0a-a133-b990ec13d12c",
+                "nodeTo": "255bbd4a-4b00-4d58-8bb5-83a280aa1a7d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b0c65034-22d8-4b7e-9e6d-8b2e4ba3edc4",
+                "nodeTo": "255bbd4a-4b00-4d58-8bb5-83a280aa1a7d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8bb2ecb1-2946-4697-8a26-0886d5124826",
+                "nodeTo": "331c3c5e-41a2-44ae-911a-689b0ca3887a",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b0cdd0bd-ab31-4c0a-a133-b990ec13d12c",
+                "nodeTo": "331c3c5e-41a2-44ae-911a-689b0ca3887a",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b0c65034-22d8-4b7e-9e6d-8b2e4ba3edc4",
+                "nodeTo": "331c3c5e-41a2-44ae-911a-689b0ca3887a",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "255bbd4a-4b00-4d58-8bb5-83a280aa1a7d",
+                "nodeTo": "227795e6-010a-4729-9e02-209419caa06e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "331c3c5e-41a2-44ae-911a-689b0ca3887a",
+                "nodeTo": "227795e6-010a-4729-9e02-209419caa06e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "227795e6-010a-4729-9e02-209419caa06e",
+                "nodeTo": "2865a1c4-a332-450d-94be-bad4424d8a51",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2865a1c4-a332-450d-94be-bad4424d8a51",
+                "nodeTo": "8ee03d84-258b-4564-a138-39d6424dd400",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2865a1c4-a332-450d-94be-bad4424d8a51",
+                "nodeTo": "5a51300a-e576-4ee2-abc0-d19b5b044cd6",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-12 20:42:47"
+}

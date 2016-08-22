@@ -1,0 +1,196 @@
+{
+    "uuid": 1238,
+    "text": "high cholesterol is potentially placing them at greater risk for future cardiovascular disease",
+    "graph": {
+        "version": 1,
+        "guid": "a34080cc-4d31-44a8-aea6-bdbad9a3b071",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "is",
+                "id": "0b5cb167-d79b-4c96-abb1-a9351d8c647d",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "potentially",
+                "id": "83d477d7-6901-437b-9d7b-9bcb5674d519",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "placing",
+                "id": "16e38e87-3e5a-42b6-9b54-833e68daeb8a",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "at",
+                "id": "09844aec-430c-4234-ba20-29eab7dcdb90",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "904a0554-a697-492e-9931-316d29eda673",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "high",
+                "id": "1da91881-71a0-4e03-a472-1bad7071ca44",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "cholesterol",
+                "id": "825c39ea-5861-4db2-913e-c6105bca83bd",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "them",
+                "id": "b0b9e586-0cca-401a-88ce-3aeecac8b56a",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "greater",
+                "id": "1799802b-e2d4-4e70-adad-9c69293b3647",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "risk",
+                "id": "2d21819d-b2b6-4de3-ae8e-53b7d5a8a41c",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "future",
+                "id": "5e0e7bc9-036e-4d95-bd04-0273b1874dc6",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "cardiovascular",
+                "id": "143684c7-134d-4570-b642-58493ee4cb93",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "disease",
+                "id": "759d3b09-c1be-44a5-b46b-964a0149b671",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "1da91881-71a0-4e03-a472-1bad7071ca44",
+                "nodeTo": "0b5cb167-d79b-4c96-abb1-a9351d8c647d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "825c39ea-5861-4db2-913e-c6105bca83bd",
+                "nodeTo": "0b5cb167-d79b-4c96-abb1-a9351d8c647d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1da91881-71a0-4e03-a472-1bad7071ca44",
+                "nodeTo": "83d477d7-6901-437b-9d7b-9bcb5674d519",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "825c39ea-5861-4db2-913e-c6105bca83bd",
+                "nodeTo": "83d477d7-6901-437b-9d7b-9bcb5674d519",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1da91881-71a0-4e03-a472-1bad7071ca44",
+                "nodeTo": "16e38e87-3e5a-42b6-9b54-833e68daeb8a",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "825c39ea-5861-4db2-913e-c6105bca83bd",
+                "nodeTo": "16e38e87-3e5a-42b6-9b54-833e68daeb8a",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0b5cb167-d79b-4c96-abb1-a9351d8c647d",
+                "nodeTo": "b0b9e586-0cca-401a-88ce-3aeecac8b56a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "83d477d7-6901-437b-9d7b-9bcb5674d519",
+                "nodeTo": "b0b9e586-0cca-401a-88ce-3aeecac8b56a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "16e38e87-3e5a-42b6-9b54-833e68daeb8a",
+                "nodeTo": "b0b9e586-0cca-401a-88ce-3aeecac8b56a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b0b9e586-0cca-401a-88ce-3aeecac8b56a",
+                "nodeTo": "09844aec-430c-4234-ba20-29eab7dcdb90",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "09844aec-430c-4234-ba20-29eab7dcdb90",
+                "nodeTo": "1799802b-e2d4-4e70-adad-9c69293b3647",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "09844aec-430c-4234-ba20-29eab7dcdb90",
+                "nodeTo": "2d21819d-b2b6-4de3-ae8e-53b7d5a8a41c",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1799802b-e2d4-4e70-adad-9c69293b3647",
+                "nodeTo": "904a0554-a697-492e-9931-316d29eda673",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2d21819d-b2b6-4de3-ae8e-53b7d5a8a41c",
+                "nodeTo": "904a0554-a697-492e-9931-316d29eda673",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "904a0554-a697-492e-9931-316d29eda673",
+                "nodeTo": "5e0e7bc9-036e-4d95-bd04-0273b1874dc6",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "904a0554-a697-492e-9931-316d29eda673",
+                "nodeTo": "143684c7-134d-4570-b642-58493ee4cb93",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "904a0554-a697-492e-9931-316d29eda673",
+                "nodeTo": "759d3b09-c1be-44a5-b46b-964a0149b671",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-03-02 19:02:07"
+}

@@ -1,0 +1,94 @@
+{
+    "uuid": 1233,
+    "text": "concern for missing radio star Casey Kasem",
+    "graph": {
+        "version": 1,
+        "guid": "20555d18-5e02-4124-bd87-911c112c1c10",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "for",
+                "id": "64257948-c37d-4680-a651-32429d5bb83e",
+                "index": 1,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "concern",
+                "id": "21344a91-c2b4-4e67-a204-bb46858cca98",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "missing",
+                "id": "d3445a00-1e5e-4756-9c8d-cb1351459b20",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "radio",
+                "id": "0be23976-58e5-4ce7-baac-23caa05089cc",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "star",
+                "id": "2191278c-17e3-4036-8747-577e3d428988",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "Casey",
+                "id": "5e8598c1-50db-409e-8930-2b0e399907b0",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "Kasem",
+                "id": "5a997763-4575-4952-a7c2-b97c51ea7586",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "21344a91-c2b4-4e67-a204-bb46858cca98",
+                "nodeTo": "64257948-c37d-4680-a651-32429d5bb83e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "64257948-c37d-4680-a651-32429d5bb83e",
+                "nodeTo": "d3445a00-1e5e-4756-9c8d-cb1351459b20",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "64257948-c37d-4680-a651-32429d5bb83e",
+                "nodeTo": "0be23976-58e5-4ce7-baac-23caa05089cc",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "64257948-c37d-4680-a651-32429d5bb83e",
+                "nodeTo": "2191278c-17e3-4036-8747-577e3d428988",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "64257948-c37d-4680-a651-32429d5bb83e",
+                "nodeTo": "5e8598c1-50db-409e-8930-2b0e399907b0",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "64257948-c37d-4680-a651-32429d5bb83e",
+                "nodeTo": "5a997763-4575-4952-a7c2-b97c51ea7586",
+                "index": 5,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-03-02 18:26:26"
+}

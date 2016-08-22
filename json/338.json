@@ -1,0 +1,106 @@
+{
+    "uuid": 338,
+    "text": "in fact it may be life saving",
+    "graph": {
+        "version": 1,
+        "guid": "66a727c8-b71e-4b7b-9734-96a3121b219a",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "in",
+                "id": "e37c9013-8157-44da-8e76-a03d379111d2",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "may",
+                "id": "2e828d80-942d-4d32-8322-4ba932b2ee92",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "be",
+                "id": "ce158d74-6d57-4778-98e2-7d5a569a1b69",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "fact",
+                "id": "4d23855c-6842-4c70-ae37-48b59702bdde",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "it",
+                "id": "c0a7ee3b-2034-49b3-aec8-090b7ec730db",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "life",
+                "id": "5b90387d-62e2-4e52-b960-b1a630295d41",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "saving",
+                "id": "e2277cba-8033-4e9e-b1c7-06290dcea1dc",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "e37c9013-8157-44da-8e76-a03d379111d2",
+                "nodeTo": "4d23855c-6842-4c70-ae37-48b59702bdde",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e37c9013-8157-44da-8e76-a03d379111d2",
+                "nodeTo": "c0a7ee3b-2034-49b3-aec8-090b7ec730db",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c0a7ee3b-2034-49b3-aec8-090b7ec730db",
+                "nodeTo": "2e828d80-942d-4d32-8322-4ba932b2ee92",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c0a7ee3b-2034-49b3-aec8-090b7ec730db",
+                "nodeTo": "ce158d74-6d57-4778-98e2-7d5a569a1b69",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2e828d80-942d-4d32-8322-4ba932b2ee92",
+                "nodeTo": "5b90387d-62e2-4e52-b960-b1a630295d41",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ce158d74-6d57-4778-98e2-7d5a569a1b69",
+                "nodeTo": "5b90387d-62e2-4e52-b960-b1a630295d41",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2e828d80-942d-4d32-8322-4ba932b2ee92",
+                "nodeTo": "e2277cba-8033-4e9e-b1c7-06290dcea1dc",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ce158d74-6d57-4778-98e2-7d5a569a1b69",
+                "nodeTo": "e2277cba-8033-4e9e-b1c7-06290dcea1dc",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-15 15:09:30"
+}

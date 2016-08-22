@@ -1,0 +1,220 @@
+{
+    "uuid": 266,
+    "text": "Dapagliflozin is approved both alone and in combination with other blood-glucose lowering drugs including insulin",
+    "graph": {
+        "version": 1,
+        "guid": "1c1d7655-70c0-44d6-843b-963318971ea4",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "is",
+                "id": "ccee8653-31a2-4a4e-b5a1-5e906ba239a7",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "both",
+                "id": "a94c0b83-8a30-400b-bc19-d8a570173897",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "4cc9962d-3988-47ae-8e4e-3245d5bd87d5",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "014a37bb-50a4-41a6-b671-12459c93debd",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "with",
+                "id": "628ec613-149e-400d-b3bd-0ce4be6e62eb",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "including",
+                "id": "697a87b9-0e6d-4077-9445-0a4e15148429",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Dapagliflozin",
+                "id": "78b42599-99d4-42b5-8cc9-749ca334484e",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "approved",
+                "id": "a5255905-c94e-4598-b053-79967b697e31",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "alone",
+                "id": "a8bc6826-b161-459c-91ee-9e90bb190a16",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "combination",
+                "id": "9911533a-024d-4829-803b-3ee2a3694831",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "other",
+                "id": "65492048-d61b-4995-8c90-043c84d4dd67",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "blood-glucose",
+                "id": "632eb1a4-8bd6-4a50-a0b6-7e190ed34e10",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "drugs",
+                "id": "ba09cb95-7ba3-4661-8ca8-513376ae219d",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "lowering",
+                "id": "3c8a39be-55e5-4315-9b8b-2320a0294e98",
+                "postag": "NA",
+                "index": 11
+            },
+            {
+                "label": "insulin",
+                "id": "c0510b48-556a-4b96-be1a-3c0bda18783d",
+                "index": 14,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "78b42599-99d4-42b5-8cc9-749ca334484e",
+                "nodeTo": "ccee8653-31a2-4a4e-b5a1-5e906ba239a7",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ccee8653-31a2-4a4e-b5a1-5e906ba239a7",
+                "nodeTo": "a5255905-c94e-4598-b053-79967b697e31",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a5255905-c94e-4598-b053-79967b697e31",
+                "nodeTo": "a94c0b83-8a30-400b-bc19-d8a570173897",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a94c0b83-8a30-400b-bc19-d8a570173897",
+                "nodeTo": "a8bc6826-b161-459c-91ee-9e90bb190a16",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a8bc6826-b161-459c-91ee-9e90bb190a16",
+                "nodeTo": "4cc9962d-3988-47ae-8e4e-3245d5bd87d5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a8bc6826-b161-459c-91ee-9e90bb190a16",
+                "nodeTo": "014a37bb-50a4-41a6-b671-12459c93debd",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "014a37bb-50a4-41a6-b671-12459c93debd",
+                "nodeTo": "9911533a-024d-4829-803b-3ee2a3694831",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4cc9962d-3988-47ae-8e4e-3245d5bd87d5",
+                "nodeTo": "9911533a-024d-4829-803b-3ee2a3694831",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a94c0b83-8a30-400b-bc19-d8a570173897",
+                "nodeTo": "9911533a-024d-4829-803b-3ee2a3694831",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9911533a-024d-4829-803b-3ee2a3694831",
+                "nodeTo": "628ec613-149e-400d-b3bd-0ce4be6e62eb",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "628ec613-149e-400d-b3bd-0ce4be6e62eb",
+                "nodeTo": "65492048-d61b-4995-8c90-043c84d4dd67",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "628ec613-149e-400d-b3bd-0ce4be6e62eb",
+                "nodeTo": "632eb1a4-8bd6-4a50-a0b6-7e190ed34e10",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "628ec613-149e-400d-b3bd-0ce4be6e62eb",
+                "nodeTo": "3c8a39be-55e5-4315-9b8b-2320a0294e98",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "628ec613-149e-400d-b3bd-0ce4be6e62eb",
+                "nodeTo": "ba09cb95-7ba3-4661-8ca8-513376ae219d",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "632eb1a4-8bd6-4a50-a0b6-7e190ed34e10",
+                "nodeTo": "697a87b9-0e6d-4077-9445-0a4e15148429",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3c8a39be-55e5-4315-9b8b-2320a0294e98",
+                "nodeTo": "697a87b9-0e6d-4077-9445-0a4e15148429",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ba09cb95-7ba3-4661-8ca8-513376ae219d",
+                "nodeTo": "697a87b9-0e6d-4077-9445-0a4e15148429",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "65492048-d61b-4995-8c90-043c84d4dd67",
+                "nodeTo": "697a87b9-0e6d-4077-9445-0a4e15148429",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "697a87b9-0e6d-4077-9445-0a4e15148429",
+                "nodeTo": "c0510b48-556a-4b96-be1a-3c0bda18783d",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-03 13:16:14"
+}

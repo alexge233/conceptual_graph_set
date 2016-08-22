@@ -1,0 +1,202 @@
+{
+    "uuid": 1084,
+    "text": "various fields have developed diverse approaches to understanding way people process information",
+    "graph": {
+        "version": 1,
+        "guid": "3d99d060-d0e7-4667-9ad3-c989116e8764",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "have",
+                "id": "2062a1d0-811a-41d3-9783-393d677b506d",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "developed",
+                "id": "1ee9b4d3-5d0c-46a8-b125-aa3237127b3e",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "53a787de-0c29-4a48-8345-b217142ca85c",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "understanding",
+                "id": "7da9718a-5e2c-405b-88aa-403e3494dd89",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "process",
+                "id": "22a7330c-7310-4475-a134-e14953d0c92c",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "various",
+                "id": "d3bc4ea1-8256-416a-b1b0-d54880495667",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "fields",
+                "id": "d435c9c9-90bc-494e-8a70-50ac44a3d05a",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "diverse",
+                "id": "cd058a37-0c0b-4527-b269-0e3227119c41",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "approaches",
+                "id": "93ec7ddd-71be-4c09-b146-437e5be4a901",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "way",
+                "id": "aebe4872-248c-4e3a-aa20-59cbcdb7858e",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "people",
+                "id": "da8c866c-105b-4818-8bbb-385ea274c7a0",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "information",
+                "id": "ce83584b-a02a-475a-9bb8-40268c0b987e",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "d3bc4ea1-8256-416a-b1b0-d54880495667",
+                "nodeTo": "2062a1d0-811a-41d3-9783-393d677b506d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d435c9c9-90bc-494e-8a70-50ac44a3d05a",
+                "nodeTo": "2062a1d0-811a-41d3-9783-393d677b506d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d3bc4ea1-8256-416a-b1b0-d54880495667",
+                "nodeTo": "1ee9b4d3-5d0c-46a8-b125-aa3237127b3e",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d435c9c9-90bc-494e-8a70-50ac44a3d05a",
+                "nodeTo": "1ee9b4d3-5d0c-46a8-b125-aa3237127b3e",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2062a1d0-811a-41d3-9783-393d677b506d",
+                "nodeTo": "cd058a37-0c0b-4527-b269-0e3227119c41",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1ee9b4d3-5d0c-46a8-b125-aa3237127b3e",
+                "nodeTo": "cd058a37-0c0b-4527-b269-0e3227119c41",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2062a1d0-811a-41d3-9783-393d677b506d",
+                "nodeTo": "93ec7ddd-71be-4c09-b146-437e5be4a901",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1ee9b4d3-5d0c-46a8-b125-aa3237127b3e",
+                "nodeTo": "93ec7ddd-71be-4c09-b146-437e5be4a901",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "cd058a37-0c0b-4527-b269-0e3227119c41",
+                "nodeTo": "53a787de-0c29-4a48-8345-b217142ca85c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "93ec7ddd-71be-4c09-b146-437e5be4a901",
+                "nodeTo": "53a787de-0c29-4a48-8345-b217142ca85c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cd058a37-0c0b-4527-b269-0e3227119c41",
+                "nodeTo": "7da9718a-5e2c-405b-88aa-403e3494dd89",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "93ec7ddd-71be-4c09-b146-437e5be4a901",
+                "nodeTo": "7da9718a-5e2c-405b-88aa-403e3494dd89",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "53a787de-0c29-4a48-8345-b217142ca85c",
+                "nodeTo": "aebe4872-248c-4e3a-aa20-59cbcdb7858e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7da9718a-5e2c-405b-88aa-403e3494dd89",
+                "nodeTo": "aebe4872-248c-4e3a-aa20-59cbcdb7858e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "53a787de-0c29-4a48-8345-b217142ca85c",
+                "nodeTo": "da8c866c-105b-4818-8bbb-385ea274c7a0",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7da9718a-5e2c-405b-88aa-403e3494dd89",
+                "nodeTo": "da8c866c-105b-4818-8bbb-385ea274c7a0",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "da8c866c-105b-4818-8bbb-385ea274c7a0",
+                "nodeTo": "22a7330c-7310-4475-a134-e14953d0c92c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "aebe4872-248c-4e3a-aa20-59cbcdb7858e",
+                "nodeTo": "22a7330c-7310-4475-a134-e14953d0c92c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "22a7330c-7310-4475-a134-e14953d0c92c",
+                "nodeTo": "ce83584b-a02a-475a-9bb8-40268c0b987e",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-09 18:31:42"
+}

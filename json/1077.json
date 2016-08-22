@@ -1,0 +1,280 @@
+{
+    "uuid": 1077,
+    "text": "links to pages from sexual health book being used in Tennessee schools has school officials fighting back",
+    "graph": {
+        "version": 1,
+        "guid": "5ecb9cd6-1864-4313-b112-1647984d4205",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "to",
+                "id": "d201907d-047e-445e-8289-b53bb9db41a9",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "from",
+                "id": "0e14cde0-2b0d-4440-946d-33082cb2b70d",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "being",
+                "id": "e7209e42-683a-4059-a94a-15ea8332d153",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "used",
+                "id": "edcd881b-cc98-4028-aa1c-366a95709b53",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "0385ac99-c5ce-4a34-abbb-00c7ce57c52d",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "has",
+                "id": "261ccc93-94a5-4345-83a5-dc843412b828",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "fighting",
+                "id": "c2dcec1d-09aa-42de-869d-86dc446ae9e0",
+                "index": 15,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "links",
+                "id": "79e08a83-998c-4c32-9470-2aba1be41951",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "pages",
+                "id": "c9116a27-4883-4db1-a476-e5d445402be2",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "sexual",
+                "id": "93c26276-4647-424c-8d51-b96327e623aa",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "health",
+                "id": "66e0e042-e0d1-472e-9014-4c32a796158e",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "book",
+                "id": "08202021-3373-46d1-bc28-93d7b8233e91",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "Tennessee",
+                "id": "8b64cd8c-4d5d-4154-8605-58e68331690b",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "schools",
+                "id": "9dc6949d-b95b-4ed1-ad1e-682354974363",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "school",
+                "id": "2aede787-da7b-4eb7-bc91-a5c8ac5e3649",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "officials",
+                "id": "cc4724d1-3bdc-4306-b07b-c30cceb54323",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "back",
+                "id": "c9cdadde-69bc-4a23-8073-7e9a7500943a",
+                "index": 16,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "79e08a83-998c-4c32-9470-2aba1be41951",
+                "nodeTo": "d201907d-047e-445e-8289-b53bb9db41a9",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d201907d-047e-445e-8289-b53bb9db41a9",
+                "nodeTo": "c9116a27-4883-4db1-a476-e5d445402be2",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c9116a27-4883-4db1-a476-e5d445402be2",
+                "nodeTo": "0e14cde0-2b0d-4440-946d-33082cb2b70d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0e14cde0-2b0d-4440-946d-33082cb2b70d",
+                "nodeTo": "93c26276-4647-424c-8d51-b96327e623aa",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0e14cde0-2b0d-4440-946d-33082cb2b70d",
+                "nodeTo": "66e0e042-e0d1-472e-9014-4c32a796158e",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0e14cde0-2b0d-4440-946d-33082cb2b70d",
+                "nodeTo": "08202021-3373-46d1-bc28-93d7b8233e91",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "93c26276-4647-424c-8d51-b96327e623aa",
+                "nodeTo": "e7209e42-683a-4059-a94a-15ea8332d153",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "66e0e042-e0d1-472e-9014-4c32a796158e",
+                "nodeTo": "e7209e42-683a-4059-a94a-15ea8332d153",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "08202021-3373-46d1-bc28-93d7b8233e91",
+                "nodeTo": "e7209e42-683a-4059-a94a-15ea8332d153",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "93c26276-4647-424c-8d51-b96327e623aa",
+                "nodeTo": "edcd881b-cc98-4028-aa1c-366a95709b53",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "66e0e042-e0d1-472e-9014-4c32a796158e",
+                "nodeTo": "edcd881b-cc98-4028-aa1c-366a95709b53",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "08202021-3373-46d1-bc28-93d7b8233e91",
+                "nodeTo": "edcd881b-cc98-4028-aa1c-366a95709b53",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "93c26276-4647-424c-8d51-b96327e623aa",
+                "nodeTo": "0385ac99-c5ce-4a34-abbb-00c7ce57c52d",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "66e0e042-e0d1-472e-9014-4c32a796158e",
+                "nodeTo": "0385ac99-c5ce-4a34-abbb-00c7ce57c52d",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "08202021-3373-46d1-bc28-93d7b8233e91",
+                "nodeTo": "0385ac99-c5ce-4a34-abbb-00c7ce57c52d",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e7209e42-683a-4059-a94a-15ea8332d153",
+                "nodeTo": "8b64cd8c-4d5d-4154-8605-58e68331690b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "edcd881b-cc98-4028-aa1c-366a95709b53",
+                "nodeTo": "8b64cd8c-4d5d-4154-8605-58e68331690b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0385ac99-c5ce-4a34-abbb-00c7ce57c52d",
+                "nodeTo": "8b64cd8c-4d5d-4154-8605-58e68331690b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e7209e42-683a-4059-a94a-15ea8332d153",
+                "nodeTo": "9dc6949d-b95b-4ed1-ad1e-682354974363",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "edcd881b-cc98-4028-aa1c-366a95709b53",
+                "nodeTo": "9dc6949d-b95b-4ed1-ad1e-682354974363",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0385ac99-c5ce-4a34-abbb-00c7ce57c52d",
+                "nodeTo": "9dc6949d-b95b-4ed1-ad1e-682354974363",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "79e08a83-998c-4c32-9470-2aba1be41951",
+                "nodeTo": "261ccc93-94a5-4345-83a5-dc843412b828",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "261ccc93-94a5-4345-83a5-dc843412b828",
+                "nodeTo": "2aede787-da7b-4eb7-bc91-a5c8ac5e3649",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "261ccc93-94a5-4345-83a5-dc843412b828",
+                "nodeTo": "cc4724d1-3bdc-4306-b07b-c30cceb54323",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2aede787-da7b-4eb7-bc91-a5c8ac5e3649",
+                "nodeTo": "c2dcec1d-09aa-42de-869d-86dc446ae9e0",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cc4724d1-3bdc-4306-b07b-c30cceb54323",
+                "nodeTo": "c2dcec1d-09aa-42de-869d-86dc446ae9e0",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c2dcec1d-09aa-42de-869d-86dc446ae9e0",
+                "nodeTo": "c9cdadde-69bc-4a23-8073-7e9a7500943a",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-09 16:45:08"
+}

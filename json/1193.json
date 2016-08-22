@@ -1,0 +1,268 @@
+{
+    "uuid": 1193,
+    "text": "some commonly used drugs that combat aches and pains are also thought to have ability to kill bacteria",
+    "graph": {
+        "version": 1,
+        "guid": "eb5cb212-6017-4412-aad0-a5c761c4c261",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "commonly",
+                "id": "baa2ec94-8721-4b39-ae96-0b24068c065c",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "used",
+                "id": "7c7021ee-6588-4731-82e0-bdb5166abb00",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "that",
+                "id": "daaa5ce0-8348-45c3-8c62-e9d46b43101c",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "combat",
+                "id": "8a36e93c-528e-429d-86bd-4889817ab8b5",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "c576d5b3-bcb9-4085-a195-96d455d420c8",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "are",
+                "id": "1a9ac97d-4d2c-4334-b97d-e944e9bc5e7e",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "thought",
+                "id": "e88a6ab1-2772-4710-b97c-8c15410edda3",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "943a830a-a565-4abe-b200-a42d9d551527",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "have",
+                "id": "a60a73be-270e-4eb9-9eb9-41b59e9e3771",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "2aa971dd-8810-4279-a8a5-cd6ab69671c0",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "kill",
+                "id": "7c845229-6d53-4302-beee-2a373b8481b5",
+                "index": 16,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "some",
+                "id": "a3215524-a627-430e-b731-0246e8842683",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "drugs",
+                "id": "32a47b0b-4bd6-40c9-ab1a-7585594d70b5",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "aches",
+                "id": "68291487-31e3-429c-bc9c-d403779b8332",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "pains",
+                "id": "d6e1cad3-0028-4a54-a6bb-bc9604687da2",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "also",
+                "id": "75877765-937e-41c8-a30e-893e56c34dc2",
+                "postag": "NA",
+                "index": 10
+            },
+            {
+                "label": "ability",
+                "id": "a12873a8-bd39-4c6d-b29d-e7e81a47e23e",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "bacteria",
+                "id": "1a784cca-c3e0-4861-8b96-50c887519417",
+                "index": 17,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "a3215524-a627-430e-b731-0246e8842683",
+                "nodeTo": "baa2ec94-8721-4b39-ae96-0b24068c065c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a3215524-a627-430e-b731-0246e8842683",
+                "nodeTo": "7c7021ee-6588-4731-82e0-bdb5166abb00",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "baa2ec94-8721-4b39-ae96-0b24068c065c",
+                "nodeTo": "32a47b0b-4bd6-40c9-ab1a-7585594d70b5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7c7021ee-6588-4731-82e0-bdb5166abb00",
+                "nodeTo": "32a47b0b-4bd6-40c9-ab1a-7585594d70b5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "32a47b0b-4bd6-40c9-ab1a-7585594d70b5",
+                "nodeTo": "daaa5ce0-8348-45c3-8c62-e9d46b43101c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "32a47b0b-4bd6-40c9-ab1a-7585594d70b5",
+                "nodeTo": "8a36e93c-528e-429d-86bd-4889817ab8b5",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "daaa5ce0-8348-45c3-8c62-e9d46b43101c",
+                "nodeTo": "68291487-31e3-429c-bc9c-d403779b8332",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8a36e93c-528e-429d-86bd-4889817ab8b5",
+                "nodeTo": "68291487-31e3-429c-bc9c-d403779b8332",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "68291487-31e3-429c-bc9c-d403779b8332",
+                "nodeTo": "c576d5b3-bcb9-4085-a195-96d455d420c8",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c576d5b3-bcb9-4085-a195-96d455d420c8",
+                "nodeTo": "d6e1cad3-0028-4a54-a6bb-bc9604687da2",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "daaa5ce0-8348-45c3-8c62-e9d46b43101c",
+                "nodeTo": "d6e1cad3-0028-4a54-a6bb-bc9604687da2",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8a36e93c-528e-429d-86bd-4889817ab8b5",
+                "nodeTo": "d6e1cad3-0028-4a54-a6bb-bc9604687da2",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a3215524-a627-430e-b731-0246e8842683",
+                "nodeTo": "1a9ac97d-4d2c-4334-b97d-e944e9bc5e7e",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1a9ac97d-4d2c-4334-b97d-e944e9bc5e7e",
+                "nodeTo": "75877765-937e-41c8-a30e-893e56c34dc2",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "75877765-937e-41c8-a30e-893e56c34dc2",
+                "nodeTo": "e88a6ab1-2772-4710-b97c-8c15410edda3",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "75877765-937e-41c8-a30e-893e56c34dc2",
+                "nodeTo": "943a830a-a565-4abe-b200-a42d9d551527",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "75877765-937e-41c8-a30e-893e56c34dc2",
+                "nodeTo": "a60a73be-270e-4eb9-9eb9-41b59e9e3771",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e88a6ab1-2772-4710-b97c-8c15410edda3",
+                "nodeTo": "a12873a8-bd39-4c6d-b29d-e7e81a47e23e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "943a830a-a565-4abe-b200-a42d9d551527",
+                "nodeTo": "a12873a8-bd39-4c6d-b29d-e7e81a47e23e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a60a73be-270e-4eb9-9eb9-41b59e9e3771",
+                "nodeTo": "a12873a8-bd39-4c6d-b29d-e7e81a47e23e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a12873a8-bd39-4c6d-b29d-e7e81a47e23e",
+                "nodeTo": "2aa971dd-8810-4279-a8a5-cd6ab69671c0",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a12873a8-bd39-4c6d-b29d-e7e81a47e23e",
+                "nodeTo": "7c845229-6d53-4302-beee-2a373b8481b5",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2aa971dd-8810-4279-a8a5-cd6ab69671c0",
+                "nodeTo": "1a784cca-c3e0-4861-8b96-50c887519417",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7c845229-6d53-4302-beee-2a373b8481b5",
+                "nodeTo": "1a784cca-c3e0-4861-8b96-50c887519417",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-25 21:35:49"
+}

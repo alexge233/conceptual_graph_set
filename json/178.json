@@ -1,0 +1,334 @@
+{
+    "uuid": 178,
+    "text": "Scientists have taken step forward in understanding why some people are at greater risk of skin cancer because of family history",
+    "graph": {
+        "version": 1,
+        "guid": "a168920a-ead0-46b7-b73a-3a3e16a74138",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "have",
+                "id": "2d173944-c914-4d21-a618-6e7109eaa549",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "taken",
+                "id": "101e6830-bdd3-4c49-9ba4-41833229b962",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "d38d885e-2024-4568-a547-c2b608e7b86d",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "why",
+                "id": "a87d3b3d-5b2a-4c13-8472-b1804965600a",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "are",
+                "id": "27286637-4083-4509-a92d-e17884c974d6",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "at",
+                "id": "ce6cd26d-8ba8-4b79-9924-1d7b83a07130",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "3ae35b77-52d6-4d5e-8a58-b219c2a2de93",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "because",
+                "id": "a9d7d70a-b621-4986-ac09-e609995be661",
+                "index": 17,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "77121b5c-04be-4575-8e6c-38dac71abb47",
+                "index": 18,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Scientists",
+                "id": "e9169c5e-47d2-40b7-8e28-c763c124beaa",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "step",
+                "id": "46784675-1a81-4c07-9041-601ca61ebbc9",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "forward",
+                "id": "7e50d686-cd9c-4627-83d2-d51c07aa2d40",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "understanding",
+                "id": "26e7bb55-7717-4284-a455-ae3ca6981a49",
+                "postag": "NA",
+                "index": 6
+            },
+            {
+                "label": "some",
+                "id": "96e083ae-3361-48ab-b944-94994eb2b2d5",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "people",
+                "id": "beb39beb-a5b3-4b14-a368-1c1737dec088",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "greater",
+                "id": "3c143994-661c-497c-8b7e-6bb7c7cb3074",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "risk",
+                "id": "2e606dbe-3152-43c6-9739-31d7332a4ac6",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "skin",
+                "id": "081b93b2-dded-4ee8-bac0-d7db878aeb72",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "cancer",
+                "id": "b1bedec8-7451-4692-a911-63c7b3c983de",
+                "index": 16,
+                "postag": "NA"
+            },
+            {
+                "label": "family",
+                "id": "370303b4-a8ab-4339-abd0-b8208aa569db",
+                "index": 19,
+                "postag": "NA"
+            },
+            {
+                "label": "history",
+                "id": "b5ee0040-d223-416c-8c3c-47239dd8433b",
+                "index": 20,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "e9169c5e-47d2-40b7-8e28-c763c124beaa",
+                "nodeTo": "2d173944-c914-4d21-a618-6e7109eaa549",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e9169c5e-47d2-40b7-8e28-c763c124beaa",
+                "nodeTo": "101e6830-bdd3-4c49-9ba4-41833229b962",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "101e6830-bdd3-4c49-9ba4-41833229b962",
+                "nodeTo": "46784675-1a81-4c07-9041-601ca61ebbc9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2d173944-c914-4d21-a618-6e7109eaa549",
+                "nodeTo": "46784675-1a81-4c07-9041-601ca61ebbc9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2d173944-c914-4d21-a618-6e7109eaa549",
+                "nodeTo": "7e50d686-cd9c-4627-83d2-d51c07aa2d40",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "101e6830-bdd3-4c49-9ba4-41833229b962",
+                "nodeTo": "7e50d686-cd9c-4627-83d2-d51c07aa2d40",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "46784675-1a81-4c07-9041-601ca61ebbc9",
+                "nodeTo": "d38d885e-2024-4568-a547-c2b608e7b86d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7e50d686-cd9c-4627-83d2-d51c07aa2d40",
+                "nodeTo": "d38d885e-2024-4568-a547-c2b608e7b86d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d38d885e-2024-4568-a547-c2b608e7b86d",
+                "nodeTo": "26e7bb55-7717-4284-a455-ae3ca6981a49",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "26e7bb55-7717-4284-a455-ae3ca6981a49",
+                "nodeTo": "a87d3b3d-5b2a-4c13-8472-b1804965600a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a87d3b3d-5b2a-4c13-8472-b1804965600a",
+                "nodeTo": "96e083ae-3361-48ab-b944-94994eb2b2d5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a87d3b3d-5b2a-4c13-8472-b1804965600a",
+                "nodeTo": "beb39beb-a5b3-4b14-a368-1c1737dec088",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "96e083ae-3361-48ab-b944-94994eb2b2d5",
+                "nodeTo": "27286637-4083-4509-a92d-e17884c974d6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "beb39beb-a5b3-4b14-a368-1c1737dec088",
+                "nodeTo": "27286637-4083-4509-a92d-e17884c974d6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "96e083ae-3361-48ab-b944-94994eb2b2d5",
+                "nodeTo": "ce6cd26d-8ba8-4b79-9924-1d7b83a07130",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "beb39beb-a5b3-4b14-a368-1c1737dec088",
+                "nodeTo": "ce6cd26d-8ba8-4b79-9924-1d7b83a07130",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ce6cd26d-8ba8-4b79-9924-1d7b83a07130",
+                "nodeTo": "3c143994-661c-497c-8b7e-6bb7c7cb3074",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "27286637-4083-4509-a92d-e17884c974d6",
+                "nodeTo": "3c143994-661c-497c-8b7e-6bb7c7cb3074",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "27286637-4083-4509-a92d-e17884c974d6",
+                "nodeTo": "2e606dbe-3152-43c6-9739-31d7332a4ac6",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ce6cd26d-8ba8-4b79-9924-1d7b83a07130",
+                "nodeTo": "2e606dbe-3152-43c6-9739-31d7332a4ac6",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3c143994-661c-497c-8b7e-6bb7c7cb3074",
+                "nodeTo": "3ae35b77-52d6-4d5e-8a58-b219c2a2de93",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2e606dbe-3152-43c6-9739-31d7332a4ac6",
+                "nodeTo": "3ae35b77-52d6-4d5e-8a58-b219c2a2de93",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3ae35b77-52d6-4d5e-8a58-b219c2a2de93",
+                "nodeTo": "081b93b2-dded-4ee8-bac0-d7db878aeb72",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3ae35b77-52d6-4d5e-8a58-b219c2a2de93",
+                "nodeTo": "b1bedec8-7451-4692-a911-63c7b3c983de",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "081b93b2-dded-4ee8-bac0-d7db878aeb72",
+                "nodeTo": "a9d7d70a-b621-4986-ac09-e609995be661",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b1bedec8-7451-4692-a911-63c7b3c983de",
+                "nodeTo": "a9d7d70a-b621-4986-ac09-e609995be661",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "081b93b2-dded-4ee8-bac0-d7db878aeb72",
+                "nodeTo": "77121b5c-04be-4575-8e6c-38dac71abb47",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b1bedec8-7451-4692-a911-63c7b3c983de",
+                "nodeTo": "77121b5c-04be-4575-8e6c-38dac71abb47",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a9d7d70a-b621-4986-ac09-e609995be661",
+                "nodeTo": "370303b4-a8ab-4339-abd0-b8208aa569db",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "77121b5c-04be-4575-8e6c-38dac71abb47",
+                "nodeTo": "370303b4-a8ab-4339-abd0-b8208aa569db",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a9d7d70a-b621-4986-ac09-e609995be661",
+                "nodeTo": "b5ee0040-d223-416c-8c3c-47239dd8433b",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "77121b5c-04be-4575-8e6c-38dac71abb47",
+                "nodeTo": "b5ee0040-d223-416c-8c3c-47239dd8433b",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-11-12 18:00:20"
+}

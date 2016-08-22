@@ -1,0 +1,154 @@
+{
+    "uuid": 491,
+    "text": "Back surgery offers long-term societal benefits according to new study",
+    "graph": {
+        "version": 1,
+        "guid": "45d871ca-8814-4c2d-b2a3-db5e648561e4",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "offers",
+                "id": "a6da755c-a479-4470-803b-0be457a9edc7",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "according",
+                "id": "eb82e9e0-76d5-4693-921c-a3169633655b",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "ca07e007-20a4-4d36-b876-cc7193cbbb26",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Back",
+                "id": "6de9d38d-4a79-4721-a563-60bc28adeb77",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "surgery",
+                "id": "4d4d0681-10b1-49ce-9216-2708dd144aa6",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "long-term",
+                "id": "1b388c8b-d9d8-469b-9876-ccc519117788",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "societal",
+                "id": "96240530-d806-4ee5-b7d4-d645bcd1d84c",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "benefits",
+                "id": "39376263-3371-4ac7-a10b-8b5c86b68262",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "new",
+                "id": "76a040d3-644e-4541-bb55-00ddccd9d91d",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "study",
+                "id": "77ab8d6a-0d28-41b6-8966-1b0d62c6c6d4",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "6de9d38d-4a79-4721-a563-60bc28adeb77",
+                "nodeTo": "a6da755c-a479-4470-803b-0be457a9edc7",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4d4d0681-10b1-49ce-9216-2708dd144aa6",
+                "nodeTo": "a6da755c-a479-4470-803b-0be457a9edc7",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a6da755c-a479-4470-803b-0be457a9edc7",
+                "nodeTo": "1b388c8b-d9d8-469b-9876-ccc519117788",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a6da755c-a479-4470-803b-0be457a9edc7",
+                "nodeTo": "96240530-d806-4ee5-b7d4-d645bcd1d84c",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a6da755c-a479-4470-803b-0be457a9edc7",
+                "nodeTo": "39376263-3371-4ac7-a10b-8b5c86b68262",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6de9d38d-4a79-4721-a563-60bc28adeb77",
+                "nodeTo": "eb82e9e0-76d5-4693-921c-a3169633655b",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4d4d0681-10b1-49ce-9216-2708dd144aa6",
+                "nodeTo": "eb82e9e0-76d5-4693-921c-a3169633655b",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6de9d38d-4a79-4721-a563-60bc28adeb77",
+                "nodeTo": "ca07e007-20a4-4d36-b876-cc7193cbbb26",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4d4d0681-10b1-49ce-9216-2708dd144aa6",
+                "nodeTo": "ca07e007-20a4-4d36-b876-cc7193cbbb26",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "eb82e9e0-76d5-4693-921c-a3169633655b",
+                "nodeTo": "76a040d3-644e-4541-bb55-00ddccd9d91d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ca07e007-20a4-4d36-b876-cc7193cbbb26",
+                "nodeTo": "76a040d3-644e-4541-bb55-00ddccd9d91d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "eb82e9e0-76d5-4693-921c-a3169633655b",
+                "nodeTo": "77ab8d6a-0d28-41b6-8966-1b0d62c6c6d4",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ca07e007-20a4-4d36-b876-cc7193cbbb26",
+                "nodeTo": "77ab8d6a-0d28-41b6-8966-1b0d62c6c6d4",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-19 14:36:23"
+}

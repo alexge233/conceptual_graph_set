@@ -1,0 +1,166 @@
+{
+    "uuid": 213,
+    "text": "estimated 28000 people in Wales could be living with faulty genes",
+    "graph": {
+        "version": 1,
+        "guid": "ed3e7a02-2669-4834-a06b-0e6a72cba2b5",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "in",
+                "id": "d0027758-a246-43c6-9083-b368e4a867a1",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "estimated",
+                "id": "264ed9ec-622a-41e7-912b-d9a4b7b80a6a",
+                "postag": "NA",
+                "index": 0
+            },
+            {
+                "label": "could",
+                "id": "b829ee81-48a2-422a-9572-6ac2ae25e107",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "be",
+                "id": "a54bb219-e012-4da4-9ce0-93a537e0e363",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "with",
+                "id": "a6132c23-8d68-433a-8534-68b7e104730c",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": 28000,
+                "id": "37766a8e-d8ec-471b-b248-938d468a67a4",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "people",
+                "id": "a93e7e67-974d-4336-b1e3-a94ab35a75d4",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "Wales",
+                "id": "d823d56b-de68-4ba3-a163-4a6ededea9d9",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "living",
+                "id": "45910961-6d33-4751-aa06-1527a67d611b",
+                "postag": "NA",
+                "index": 7
+            },
+            {
+                "label": "faulty",
+                "id": "02d03651-6a2a-48d3-8675-a23268b33aa0",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "genes",
+                "id": "26531e8b-c509-4ebe-86c9-be512c3b8073",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "264ed9ec-622a-41e7-912b-d9a4b7b80a6a",
+                "nodeTo": "37766a8e-d8ec-471b-b248-938d468a67a4",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "264ed9ec-622a-41e7-912b-d9a4b7b80a6a",
+                "nodeTo": "a93e7e67-974d-4336-b1e3-a94ab35a75d4",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "37766a8e-d8ec-471b-b248-938d468a67a4",
+                "nodeTo": "d0027758-a246-43c6-9083-b368e4a867a1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a93e7e67-974d-4336-b1e3-a94ab35a75d4",
+                "nodeTo": "d0027758-a246-43c6-9083-b368e4a867a1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d0027758-a246-43c6-9083-b368e4a867a1",
+                "nodeTo": "d823d56b-de68-4ba3-a163-4a6ededea9d9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "37766a8e-d8ec-471b-b248-938d468a67a4",
+                "nodeTo": "b829ee81-48a2-422a-9572-6ac2ae25e107",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "37766a8e-d8ec-471b-b248-938d468a67a4",
+                "nodeTo": "a54bb219-e012-4da4-9ce0-93a537e0e363",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b829ee81-48a2-422a-9572-6ac2ae25e107",
+                "nodeTo": "45910961-6d33-4751-aa06-1527a67d611b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a54bb219-e012-4da4-9ce0-93a537e0e363",
+                "nodeTo": "45910961-6d33-4751-aa06-1527a67d611b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a93e7e67-974d-4336-b1e3-a94ab35a75d4",
+                "nodeTo": "b829ee81-48a2-422a-9572-6ac2ae25e107",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a93e7e67-974d-4336-b1e3-a94ab35a75d4",
+                "nodeTo": "a54bb219-e012-4da4-9ce0-93a537e0e363",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "45910961-6d33-4751-aa06-1527a67d611b",
+                "nodeTo": "a6132c23-8d68-433a-8534-68b7e104730c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a6132c23-8d68-433a-8534-68b7e104730c",
+                "nodeTo": "02d03651-6a2a-48d3-8675-a23268b33aa0",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a6132c23-8d68-433a-8534-68b7e104730c",
+                "nodeTo": "26531e8b-c509-4ebe-86c9-be512c3b8073",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-11-18 01:48:14"
+}

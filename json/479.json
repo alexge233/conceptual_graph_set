@@ -1,0 +1,154 @@
+{
+    "uuid": 479,
+    "text": "autoimmune diseases may succumb to new drug strategy",
+    "graph": {
+        "version": 1,
+        "guid": "92cb7108-2ce2-4dc5-8c50-34c58c025ce7",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "may",
+                "id": "7b7d01b6-6309-46c5-95c4-337ad8141594",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "succumb",
+                "id": "d50b1dda-2907-4e6e-a6de-aa63c40b4a59",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "a4970b18-519b-4b3c-acbb-68e861221b4e",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "autoimmune",
+                "id": "0a1a4cd8-ad09-4b76-a027-11ee948ad122",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "diseases",
+                "id": "5ea74703-b0eb-4dc7-896c-d84340109720",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "new",
+                "id": "25c1b150-9652-49a4-969d-a18e7972bb21",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "drug",
+                "id": "45e53947-2b13-43cd-9374-eb4ec655143d",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "strategy",
+                "id": "bd46bd1d-7a23-4d86-885b-36b72c98b924",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "0a1a4cd8-ad09-4b76-a027-11ee948ad122",
+                "nodeTo": "7b7d01b6-6309-46c5-95c4-337ad8141594",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5ea74703-b0eb-4dc7-896c-d84340109720",
+                "nodeTo": "7b7d01b6-6309-46c5-95c4-337ad8141594",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0a1a4cd8-ad09-4b76-a027-11ee948ad122",
+                "nodeTo": "d50b1dda-2907-4e6e-a6de-aa63c40b4a59",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0a1a4cd8-ad09-4b76-a027-11ee948ad122",
+                "nodeTo": "a4970b18-519b-4b3c-acbb-68e861221b4e",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5ea74703-b0eb-4dc7-896c-d84340109720",
+                "nodeTo": "d50b1dda-2907-4e6e-a6de-aa63c40b4a59",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5ea74703-b0eb-4dc7-896c-d84340109720",
+                "nodeTo": "a4970b18-519b-4b3c-acbb-68e861221b4e",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7b7d01b6-6309-46c5-95c4-337ad8141594",
+                "nodeTo": "25c1b150-9652-49a4-969d-a18e7972bb21",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7b7d01b6-6309-46c5-95c4-337ad8141594",
+                "nodeTo": "45e53947-2b13-43cd-9374-eb4ec655143d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7b7d01b6-6309-46c5-95c4-337ad8141594",
+                "nodeTo": "bd46bd1d-7a23-4d86-885b-36b72c98b924",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d50b1dda-2907-4e6e-a6de-aa63c40b4a59",
+                "nodeTo": "25c1b150-9652-49a4-969d-a18e7972bb21",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d50b1dda-2907-4e6e-a6de-aa63c40b4a59",
+                "nodeTo": "45e53947-2b13-43cd-9374-eb4ec655143d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d50b1dda-2907-4e6e-a6de-aa63c40b4a59",
+                "nodeTo": "bd46bd1d-7a23-4d86-885b-36b72c98b924",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a4970b18-519b-4b3c-acbb-68e861221b4e",
+                "nodeTo": "25c1b150-9652-49a4-969d-a18e7972bb21",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a4970b18-519b-4b3c-acbb-68e861221b4e",
+                "nodeTo": "45e53947-2b13-43cd-9374-eb4ec655143d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a4970b18-519b-4b3c-acbb-68e861221b4e",
+                "nodeTo": "bd46bd1d-7a23-4d86-885b-36b72c98b924",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-19 13:34:54"
+}

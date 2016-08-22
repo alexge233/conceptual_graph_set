@@ -1,0 +1,148 @@
+{
+    "uuid": 301,
+    "text": "After years of improving rates of youth suicide-related behaviors stopped declining",
+    "graph": {
+        "version": 1,
+        "guid": "334e3941-8213-4e91-a266-c14e43ba3a01",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "After",
+                "id": "5c26b627-484b-4420-bb70-00c4ab353570",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "b0264b5c-73aa-4a45-8c52-d7b8083687ee",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "improving",
+                "id": "d7ae25b3-6cc4-49a8-9ac4-05eb9e454d2b",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "67e5739b-3c7a-4eb9-adda-1e5a8b257d31",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "stopped",
+                "id": "28415351-07a0-4ce4-9ecd-c50a86de168b",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "years",
+                "id": "2dca5346-e848-4130-8327-309d1a18c02d",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "rates",
+                "id": "12ac4ca0-5ee0-4d67-8b4a-7da576b5b73d",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "youth",
+                "id": "56aad85d-d533-4913-ac2a-75064b78c52b",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "suicide-related",
+                "id": "1d6d0e01-04cb-4e11-9b37-8b9834ec7198",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "behaviors",
+                "id": "65622ad3-3dc8-40c1-aa84-77d875909ba5",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "declining",
+                "id": "37176a9a-36c5-48d2-9ed0-cb430678eed9",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "5c26b627-484b-4420-bb70-00c4ab353570",
+                "nodeTo": "2dca5346-e848-4130-8327-309d1a18c02d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2dca5346-e848-4130-8327-309d1a18c02d",
+                "nodeTo": "b0264b5c-73aa-4a45-8c52-d7b8083687ee",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b0264b5c-73aa-4a45-8c52-d7b8083687ee",
+                "nodeTo": "12ac4ca0-5ee0-4d67-8b4a-7da576b5b73d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d7ae25b3-6cc4-49a8-9ac4-05eb9e454d2b",
+                "nodeTo": "12ac4ca0-5ee0-4d67-8b4a-7da576b5b73d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "12ac4ca0-5ee0-4d67-8b4a-7da576b5b73d",
+                "nodeTo": "67e5739b-3c7a-4eb9-adda-1e5a8b257d31",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2dca5346-e848-4130-8327-309d1a18c02d",
+                "nodeTo": "d7ae25b3-6cc4-49a8-9ac4-05eb9e454d2b",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "67e5739b-3c7a-4eb9-adda-1e5a8b257d31",
+                "nodeTo": "56aad85d-d533-4913-ac2a-75064b78c52b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "67e5739b-3c7a-4eb9-adda-1e5a8b257d31",
+                "nodeTo": "1d6d0e01-04cb-4e11-9b37-8b9834ec7198",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "67e5739b-3c7a-4eb9-adda-1e5a8b257d31",
+                "nodeTo": "65622ad3-3dc8-40c1-aa84-77d875909ba5",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "12ac4ca0-5ee0-4d67-8b4a-7da576b5b73d",
+                "nodeTo": "28415351-07a0-4ce4-9ecd-c50a86de168b",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "28415351-07a0-4ce4-9ecd-c50a86de168b",
+                "nodeTo": "37176a9a-36c5-48d2-9ed0-cb430678eed9",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-04 12:48:51"
+}

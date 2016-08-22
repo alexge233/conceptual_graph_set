@@ -1,0 +1,82 @@
+{
+    "uuid": 439,
+    "text": "Scientists develop nano structured transportation system",
+    "graph": {
+        "version": 1,
+        "guid": "db93730e-8c94-4620-9c74-c2bca44b98b0",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "develop",
+                "id": "2636a792-4e25-4ba0-acea-9e521e140704",
+                "index": 1,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Scientists",
+                "id": "315acd06-78b4-4376-b024-05b72a14755c",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "nano",
+                "id": "89a13137-bc9c-4140-b07d-72e77450aa82",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "structured",
+                "id": "021c3a04-2560-45d6-b83b-a078ae9cd9c6",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "transportation",
+                "id": "60771357-d508-4cae-ac09-2126477c36d3",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "system",
+                "id": "743a8231-7909-41c4-9eb8-158a6910073a",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "315acd06-78b4-4376-b024-05b72a14755c",
+                "nodeTo": "2636a792-4e25-4ba0-acea-9e521e140704",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2636a792-4e25-4ba0-acea-9e521e140704",
+                "nodeTo": "89a13137-bc9c-4140-b07d-72e77450aa82",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2636a792-4e25-4ba0-acea-9e521e140704",
+                "nodeTo": "021c3a04-2560-45d6-b83b-a078ae9cd9c6",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2636a792-4e25-4ba0-acea-9e521e140704",
+                "nodeTo": "60771357-d508-4cae-ac09-2126477c36d3",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2636a792-4e25-4ba0-acea-9e521e140704",
+                "nodeTo": "743a8231-7909-41c4-9eb8-158a6910073a",
+                "index": 4,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-18 17:18:23"
+}

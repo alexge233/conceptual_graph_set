@@ -1,0 +1,100 @@
+{
+    "uuid": 194,
+    "text": "Unbreakable security codes inspired by nature",
+    "graph": {
+        "version": 1,
+        "guid": "d6ec893d-e112-4b93-96b0-3dd9b9093b7c",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "inspired",
+                "id": "b2bed374-58dc-4a8c-9211-4e9cb529714b",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "by",
+                "id": "bed06414-ce38-4ed3-a887-b9945ce820e9",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Unbreakable",
+                "id": "6ecc404a-baa3-4b32-8e59-ad9dbeb503b9",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "security",
+                "id": "91055345-995a-48ec-8d84-9a0d0095b867",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "codes",
+                "id": "5a7b64c2-20e3-4a3c-bba7-562d4ac30d90",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "nature",
+                "id": "1ce40968-237d-45a5-80a8-a5dda42d2908",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "6ecc404a-baa3-4b32-8e59-ad9dbeb503b9",
+                "nodeTo": "b2bed374-58dc-4a8c-9211-4e9cb529714b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "91055345-995a-48ec-8d84-9a0d0095b867",
+                "nodeTo": "b2bed374-58dc-4a8c-9211-4e9cb529714b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5a7b64c2-20e3-4a3c-bba7-562d4ac30d90",
+                "nodeTo": "b2bed374-58dc-4a8c-9211-4e9cb529714b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b2bed374-58dc-4a8c-9211-4e9cb529714b",
+                "nodeTo": "1ce40968-237d-45a5-80a8-a5dda42d2908",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "bed06414-ce38-4ed3-a887-b9945ce820e9",
+                "nodeTo": "1ce40968-237d-45a5-80a8-a5dda42d2908",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6ecc404a-baa3-4b32-8e59-ad9dbeb503b9",
+                "nodeTo": "bed06414-ce38-4ed3-a887-b9945ce820e9",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "91055345-995a-48ec-8d84-9a0d0095b867",
+                "nodeTo": "bed06414-ce38-4ed3-a887-b9945ce820e9",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5a7b64c2-20e3-4a3c-bba7-562d4ac30d90",
+                "nodeTo": "bed06414-ce38-4ed3-a887-b9945ce820e9",
+                "index": 2,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2014-11-12 20:41:55"
+}

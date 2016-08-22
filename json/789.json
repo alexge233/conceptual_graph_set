@@ -1,0 +1,88 @@
+{
+    "uuid": 789,
+    "text": "can dog studies help human health",
+    "graph": {
+        "version": 1,
+        "guid": "9804daa1-87a5-421c-b6ed-9a8c74285cc0",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "can",
+                "id": "795051d3-7ad8-4b0c-b728-49d13c8bc371",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "help",
+                "id": "cd849ae7-d45d-4bd8-9749-3122a11ed7be",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "dog",
+                "id": "77d09abd-6838-4ca4-94ec-e4213e702a69",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "studies",
+                "id": "e046bed6-6789-46d0-9de5-ee7c245e765d",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "human",
+                "id": "b7767bc2-97c9-4634-b836-4d34c4164890",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "health",
+                "id": "08c25180-ab01-4263-8b57-ab358ba94ea8",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "795051d3-7ad8-4b0c-b728-49d13c8bc371",
+                "nodeTo": "77d09abd-6838-4ca4-94ec-e4213e702a69",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "795051d3-7ad8-4b0c-b728-49d13c8bc371",
+                "nodeTo": "e046bed6-6789-46d0-9de5-ee7c245e765d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "77d09abd-6838-4ca4-94ec-e4213e702a69",
+                "nodeTo": "cd849ae7-d45d-4bd8-9749-3122a11ed7be",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e046bed6-6789-46d0-9de5-ee7c245e765d",
+                "nodeTo": "cd849ae7-d45d-4bd8-9749-3122a11ed7be",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cd849ae7-d45d-4bd8-9749-3122a11ed7be",
+                "nodeTo": "b7767bc2-97c9-4634-b836-4d34c4164890",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "cd849ae7-d45d-4bd8-9749-3122a11ed7be",
+                "nodeTo": "08c25180-ab01-4263-8b57-ab358ba94ea8",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-15 21:16:53"
+}

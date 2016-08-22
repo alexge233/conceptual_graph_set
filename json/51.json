@@ -1,0 +1,130 @@
+{
+    "uuid": 51,
+    "text": "Body hack app by math researchers shortcuts jet-lag recovery",
+    "graph": {
+        "version": 1,
+        "guid": "cd7c61b4-7696-4996-a15b-b9e9a997e716",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "by",
+                "id": "73e4b3c8-2b5b-4009-b495-76027ea84069",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "shortcuts",
+                "id": "08777250-7428-451a-b0b2-db17580a6d98",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Body",
+                "id": "cbaa925d-5753-4a6a-a492-5a26d65c0b43",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "hack",
+                "id": "c01572ba-adc3-4dd8-a76e-468850bdee54",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "app",
+                "id": "5a6c7448-4cc7-404a-ab13-5c6cd0acc5a6",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "math",
+                "id": "b70d280d-0d7d-4800-9db4-0a100c59361e",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "researchers",
+                "id": "cdc6aaa5-d15e-4563-a252-47ac96e82305",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "jet-lag",
+                "id": "02c04962-ae8d-4158-918a-e3caca2cbde1",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "recovery",
+                "id": "4dbe01c1-a683-4c02-8a83-d58d1827c243",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "cbaa925d-5753-4a6a-a492-5a26d65c0b43",
+                "nodeTo": "73e4b3c8-2b5b-4009-b495-76027ea84069",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c01572ba-adc3-4dd8-a76e-468850bdee54",
+                "nodeTo": "73e4b3c8-2b5b-4009-b495-76027ea84069",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5a6c7448-4cc7-404a-ab13-5c6cd0acc5a6",
+                "nodeTo": "73e4b3c8-2b5b-4009-b495-76027ea84069",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "73e4b3c8-2b5b-4009-b495-76027ea84069",
+                "nodeTo": "b70d280d-0d7d-4800-9db4-0a100c59361e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "73e4b3c8-2b5b-4009-b495-76027ea84069",
+                "nodeTo": "cdc6aaa5-d15e-4563-a252-47ac96e82305",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "cbaa925d-5753-4a6a-a492-5a26d65c0b43",
+                "nodeTo": "08777250-7428-451a-b0b2-db17580a6d98",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c01572ba-adc3-4dd8-a76e-468850bdee54",
+                "nodeTo": "08777250-7428-451a-b0b2-db17580a6d98",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5a6c7448-4cc7-404a-ab13-5c6cd0acc5a6",
+                "nodeTo": "08777250-7428-451a-b0b2-db17580a6d98",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "08777250-7428-451a-b0b2-db17580a6d98",
+                "nodeTo": "02c04962-ae8d-4158-918a-e3caca2cbde1",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "08777250-7428-451a-b0b2-db17580a6d98",
+                "nodeTo": "4dbe01c1-a683-4c02-8a83-d58d1827c243",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-10-23 19:09:10"
+}

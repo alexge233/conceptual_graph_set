@@ -1,0 +1,118 @@
+{
+    "uuid": 774,
+    "text": "city seeks to clamp down on sunbed misuse",
+    "graph": {
+        "version": 1,
+        "guid": "44bbc395-896a-4e9a-a02d-b6b09a330157",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "seeks",
+                "id": "2dad2309-8057-4c1d-8049-2d882d6b13e3",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "4129ab11-ab7b-4d14-be2b-5c3244c67a14",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "clamp",
+                "id": "4627403d-546c-4219-be23-4687d6a09a45",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "on",
+                "id": "05116680-41aa-4179-b445-57a3d8763675",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "city",
+                "id": "abbd814a-679c-42a9-880d-428254bb7e34",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "down",
+                "id": "66a3bee9-5b9a-4020-9c6c-6dd150d8873a",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "sunbed",
+                "id": "d442cbae-66cc-45a6-8b3e-3b3087860536",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "misuse",
+                "id": "22cb84ca-14b6-49c1-87d9-7074d8793d2a",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "abbd814a-679c-42a9-880d-428254bb7e34",
+                "nodeTo": "2dad2309-8057-4c1d-8049-2d882d6b13e3",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "abbd814a-679c-42a9-880d-428254bb7e34",
+                "nodeTo": "4129ab11-ab7b-4d14-be2b-5c3244c67a14",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "abbd814a-679c-42a9-880d-428254bb7e34",
+                "nodeTo": "4627403d-546c-4219-be23-4687d6a09a45",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2dad2309-8057-4c1d-8049-2d882d6b13e3",
+                "nodeTo": "66a3bee9-5b9a-4020-9c6c-6dd150d8873a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4129ab11-ab7b-4d14-be2b-5c3244c67a14",
+                "nodeTo": "66a3bee9-5b9a-4020-9c6c-6dd150d8873a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4627403d-546c-4219-be23-4687d6a09a45",
+                "nodeTo": "66a3bee9-5b9a-4020-9c6c-6dd150d8873a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "66a3bee9-5b9a-4020-9c6c-6dd150d8873a",
+                "nodeTo": "05116680-41aa-4179-b445-57a3d8763675",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "05116680-41aa-4179-b445-57a3d8763675",
+                "nodeTo": "d442cbae-66cc-45a6-8b3e-3b3087860536",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "05116680-41aa-4179-b445-57a3d8763675",
+                "nodeTo": "22cb84ca-14b6-49c1-87d9-7074d8793d2a",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-15 19:20:35"
+}

@@ -1,0 +1,70 @@
+{
+    "uuid": 83,
+    "text": "Helmet used to treat depression",
+    "graph": {
+        "version": 1,
+        "guid": "b50bc045-0c9c-4788-b2a0-e9009e6be8a8",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "used",
+                "id": "9b71ad61-b985-46c7-9715-4d3d81ac7720",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "treat",
+                "id": "b25ccb6c-6dae-4638-9055-0b1624ae6d00",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Helmet",
+                "id": "942dc071-3ecd-43e8-95d3-49997d0e7b21",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "depression",
+                "id": "c36d2149-ad82-4c2a-b0a0-d96a3edad40e",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "da6e190a-390d-4a87-8735-348272a8c26e",
+                "postag": "NA",
+                "index": 2
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "b25ccb6c-6dae-4638-9055-0b1624ae6d00",
+                "nodeTo": "c36d2149-ad82-4c2a-b0a0-d96a3edad40e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "942dc071-3ecd-43e8-95d3-49997d0e7b21",
+                "nodeTo": "9b71ad61-b985-46c7-9715-4d3d81ac7720",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9b71ad61-b985-46c7-9715-4d3d81ac7720",
+                "nodeTo": "da6e190a-390d-4a87-8735-348272a8c26e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "da6e190a-390d-4a87-8735-348272a8c26e",
+                "nodeTo": "b25ccb6c-6dae-4638-9055-0b1624ae6d00",
+                "index": 1,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2014-11-06 09:19:49"
+}

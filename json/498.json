@@ -1,0 +1,202 @@
+{
+    "uuid": 498,
+    "text": "Gut bacteria can change microenvironment in way that promotes growth and spread of tumors",
+    "graph": {
+        "version": 1,
+        "guid": "1170de29-86d6-40c5-914d-73cdc727d43e",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "can",
+                "id": "840e3127-998d-4b25-9622-aea4bc6e586a",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "change",
+                "id": "39a6d279-b9ea-4e85-9d73-791d6d031da9",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "b30c9745-357e-4bd2-8bd9-898b29498741",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "promotes",
+                "id": "8b70b353-cdbc-4239-b892-439342640eac",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "dc5196b3-3889-4ba6-81a1-cc0336228b93",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "048ea5ca-90da-4ae5-bc0e-430859dd7536",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Gut",
+                "id": "e4730868-6e32-4ec9-b7aa-41edba9a6c4d",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "bacteria",
+                "id": "d37db714-9890-4378-b26c-acd356ddcc64",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "microenvironment",
+                "id": "71de3b55-6a37-4ac9-8bbb-2d3a58158ce6",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "way",
+                "id": "4cc64082-3783-41e8-92e1-c4ccc9a855ba",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "that",
+                "id": "5db8ae85-b7ca-4d42-bad7-17470d4b669d",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "growth",
+                "id": "5b5d3391-bd47-4d42-a7b1-aa7651c43c8b",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "spread",
+                "id": "d186bcc5-36a7-43d0-83b2-3820c48cac8a",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "tumors",
+                "id": "d9ac62ce-cd09-4d54-a2e1-959d4643e746",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "e4730868-6e32-4ec9-b7aa-41edba9a6c4d",
+                "nodeTo": "840e3127-998d-4b25-9622-aea4bc6e586a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e4730868-6e32-4ec9-b7aa-41edba9a6c4d",
+                "nodeTo": "39a6d279-b9ea-4e85-9d73-791d6d031da9",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d37db714-9890-4378-b26c-acd356ddcc64",
+                "nodeTo": "840e3127-998d-4b25-9622-aea4bc6e586a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d37db714-9890-4378-b26c-acd356ddcc64",
+                "nodeTo": "39a6d279-b9ea-4e85-9d73-791d6d031da9",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "840e3127-998d-4b25-9622-aea4bc6e586a",
+                "nodeTo": "71de3b55-6a37-4ac9-8bbb-2d3a58158ce6",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "39a6d279-b9ea-4e85-9d73-791d6d031da9",
+                "nodeTo": "71de3b55-6a37-4ac9-8bbb-2d3a58158ce6",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "71de3b55-6a37-4ac9-8bbb-2d3a58158ce6",
+                "nodeTo": "b30c9745-357e-4bd2-8bd9-898b29498741",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b30c9745-357e-4bd2-8bd9-898b29498741",
+                "nodeTo": "4cc64082-3783-41e8-92e1-c4ccc9a855ba",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b30c9745-357e-4bd2-8bd9-898b29498741",
+                "nodeTo": "5db8ae85-b7ca-4d42-bad7-17470d4b669d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4cc64082-3783-41e8-92e1-c4ccc9a855ba",
+                "nodeTo": "8b70b353-cdbc-4239-b892-439342640eac",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5db8ae85-b7ca-4d42-bad7-17470d4b669d",
+                "nodeTo": "8b70b353-cdbc-4239-b892-439342640eac",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8b70b353-cdbc-4239-b892-439342640eac",
+                "nodeTo": "5b5d3391-bd47-4d42-a7b1-aa7651c43c8b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5b5d3391-bd47-4d42-a7b1-aa7651c43c8b",
+                "nodeTo": "dc5196b3-3889-4ba6-81a1-cc0336228b93",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "dc5196b3-3889-4ba6-81a1-cc0336228b93",
+                "nodeTo": "d186bcc5-36a7-43d0-83b2-3820c48cac8a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5b5d3391-bd47-4d42-a7b1-aa7651c43c8b",
+                "nodeTo": "048ea5ca-90da-4ae5-bc0e-430859dd7536",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d186bcc5-36a7-43d0-83b2-3820c48cac8a",
+                "nodeTo": "048ea5ca-90da-4ae5-bc0e-430859dd7536",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "048ea5ca-90da-4ae5-bc0e-430859dd7536",
+                "nodeTo": "d9ac62ce-cd09-4d54-a2e1-959d4643e746",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-19 15:05:41"
+}

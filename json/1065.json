@@ -1,0 +1,112 @@
+{
+    "uuid": 1065,
+    "text": "Chrono is last piece of circadian clock puzzle",
+    "graph": {
+        "version": 1,
+        "guid": "d4093c89-3a96-4cdc-a178-46539356d8b7",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "is",
+                "id": "3d6103c6-7664-4d32-b33c-4c0ad140886a",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "851c31dc-a5d6-483b-9a82-40a1c1e06910",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Chrono",
+                "id": "85c92835-e141-4cdb-b2a0-c07877234025",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "last",
+                "id": "b8724d02-bb10-49ba-bc91-e0715c1a1012",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "piece",
+                "id": "dbd73a9d-0757-4772-8b9c-e67b4c0b526b",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "circadian",
+                "id": "61d894b2-7d12-4522-8872-7d7adddeb5b2",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "clock",
+                "id": "0e679573-acd0-47d6-89ea-c59a8bed0260",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "puzzle",
+                "id": "3ed60483-0990-4771-a77d-50ec33535553",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "85c92835-e141-4cdb-b2a0-c07877234025",
+                "nodeTo": "3d6103c6-7664-4d32-b33c-4c0ad140886a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3d6103c6-7664-4d32-b33c-4c0ad140886a",
+                "nodeTo": "b8724d02-bb10-49ba-bc91-e0715c1a1012",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3d6103c6-7664-4d32-b33c-4c0ad140886a",
+                "nodeTo": "dbd73a9d-0757-4772-8b9c-e67b4c0b526b",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b8724d02-bb10-49ba-bc91-e0715c1a1012",
+                "nodeTo": "851c31dc-a5d6-483b-9a82-40a1c1e06910",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "dbd73a9d-0757-4772-8b9c-e67b4c0b526b",
+                "nodeTo": "851c31dc-a5d6-483b-9a82-40a1c1e06910",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "851c31dc-a5d6-483b-9a82-40a1c1e06910",
+                "nodeTo": "61d894b2-7d12-4522-8872-7d7adddeb5b2",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "851c31dc-a5d6-483b-9a82-40a1c1e06910",
+                "nodeTo": "0e679573-acd0-47d6-89ea-c59a8bed0260",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "851c31dc-a5d6-483b-9a82-40a1c1e06910",
+                "nodeTo": "3ed60483-0990-4771-a77d-50ec33535553",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-05 19:16:30"
+}

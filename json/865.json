@@ -1,0 +1,106 @@
+{
+    "uuid": 865,
+    "text": "Cardiac resynchronization improves survival in heart failure patients",
+    "graph": {
+        "version": 1,
+        "guid": "7d799acb-2031-4eb0-b077-62154d9a56a0",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "improves",
+                "id": "2167d4b2-3892-422e-8957-134c93927db5",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "74ad5eb6-b1cc-4880-bbc5-54944668a080",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Cardiac",
+                "id": "d58969c0-04c1-41b1-9c24-06358a302ca5",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "resynchronization",
+                "id": "1be55265-9b86-47d4-8011-ca6762228a50",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "survival",
+                "id": "5de66e60-9d85-4b7a-8988-6a3d24a34b2b",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "heart",
+                "id": "eb6128c4-3a25-4101-b4b7-7090b9d53eb0",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "failure",
+                "id": "ee890214-c8c7-4a79-981c-354083d421b4",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "patients",
+                "id": "da7350de-57b4-4844-b671-2167e7064d70",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "d58969c0-04c1-41b1-9c24-06358a302ca5",
+                "nodeTo": "2167d4b2-3892-422e-8957-134c93927db5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1be55265-9b86-47d4-8011-ca6762228a50",
+                "nodeTo": "2167d4b2-3892-422e-8957-134c93927db5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2167d4b2-3892-422e-8957-134c93927db5",
+                "nodeTo": "5de66e60-9d85-4b7a-8988-6a3d24a34b2b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5de66e60-9d85-4b7a-8988-6a3d24a34b2b",
+                "nodeTo": "74ad5eb6-b1cc-4880-bbc5-54944668a080",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "74ad5eb6-b1cc-4880-bbc5-54944668a080",
+                "nodeTo": "eb6128c4-3a25-4101-b4b7-7090b9d53eb0",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "74ad5eb6-b1cc-4880-bbc5-54944668a080",
+                "nodeTo": "ee890214-c8c7-4a79-981c-354083d421b4",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "74ad5eb6-b1cc-4880-bbc5-54944668a080",
+                "nodeTo": "da7350de-57b4-4844-b671-2167e7064d70",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-19 21:21:26"
+}

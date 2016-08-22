@@ -1,0 +1,148 @@
+{
+    "uuid": 1000,
+    "text": "Children of parents in technical jobs at higher risk for autism",
+    "graph": {
+        "version": 1,
+        "guid": "874cc744-2306-40dc-8e33-342725d68271",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "of",
+                "id": "c46c4114-133b-465e-a35d-27a62581ccb0",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "57a83b46-1080-41b8-a766-8dcb2ca22d58",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "at",
+                "id": "85620003-6395-43c6-be9d-355a2011e43c",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "3173cdb9-9e67-4e9a-81db-93c866c38378",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Children",
+                "id": "6c535265-64cb-481d-b6c1-912ba42d649b",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "parents",
+                "id": "5191b65b-49c1-43d5-b669-8d13cb67a362",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "technical",
+                "id": "ed67a447-b08a-4422-b7db-79b2c375a9a5",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "jobs",
+                "id": "58bd1917-34c1-4994-9c3d-9ebe01ede97e",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "higher",
+                "id": "ddd5d97e-74b1-44d4-99bb-9b3b0d4e3381",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "risk",
+                "id": "0721eadc-37c7-4ba1-b4e7-36b605cbd0de",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "autism",
+                "id": "a806d2bd-0282-4a08-8e40-16ad63d09ba2",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "6c535265-64cb-481d-b6c1-912ba42d649b",
+                "nodeTo": "c46c4114-133b-465e-a35d-27a62581ccb0",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c46c4114-133b-465e-a35d-27a62581ccb0",
+                "nodeTo": "5191b65b-49c1-43d5-b669-8d13cb67a362",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5191b65b-49c1-43d5-b669-8d13cb67a362",
+                "nodeTo": "57a83b46-1080-41b8-a766-8dcb2ca22d58",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "57a83b46-1080-41b8-a766-8dcb2ca22d58",
+                "nodeTo": "ed67a447-b08a-4422-b7db-79b2c375a9a5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "57a83b46-1080-41b8-a766-8dcb2ca22d58",
+                "nodeTo": "58bd1917-34c1-4994-9c3d-9ebe01ede97e",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6c535265-64cb-481d-b6c1-912ba42d649b",
+                "nodeTo": "85620003-6395-43c6-be9d-355a2011e43c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "85620003-6395-43c6-be9d-355a2011e43c",
+                "nodeTo": "ddd5d97e-74b1-44d4-99bb-9b3b0d4e3381",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "85620003-6395-43c6-be9d-355a2011e43c",
+                "nodeTo": "0721eadc-37c7-4ba1-b4e7-36b605cbd0de",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ddd5d97e-74b1-44d4-99bb-9b3b0d4e3381",
+                "nodeTo": "3173cdb9-9e67-4e9a-81db-93c866c38378",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0721eadc-37c7-4ba1-b4e7-36b605cbd0de",
+                "nodeTo": "3173cdb9-9e67-4e9a-81db-93c866c38378",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3173cdb9-9e67-4e9a-81db-93c866c38378",
+                "nodeTo": "a806d2bd-0282-4a08-8e40-16ad63d09ba2",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-02 17:55:25"
+}

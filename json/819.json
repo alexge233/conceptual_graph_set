@@ -1,0 +1,82 @@
+{
+    "uuid": 819,
+    "text": "cancer care could be privatised",
+    "graph": {
+        "version": 1,
+        "guid": "06086e7d-7593-4482-9e6b-6ec0b152e33d",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "could",
+                "id": "06310cbb-d203-4196-8496-24016662513d",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "be",
+                "id": "5de50c1d-5ad7-4948-883a-1ed0c5646d25",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "cancer",
+                "id": "908b9ea7-bce6-4260-8345-33ab6e05bc56",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "care",
+                "id": "be873404-2bc9-4d23-8268-0cd8be9d2cda",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "privatised",
+                "id": "9ad453e4-4b36-4021-be8c-8e5ca94bbcc6",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "908b9ea7-bce6-4260-8345-33ab6e05bc56",
+                "nodeTo": "06310cbb-d203-4196-8496-24016662513d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "be873404-2bc9-4d23-8268-0cd8be9d2cda",
+                "nodeTo": "06310cbb-d203-4196-8496-24016662513d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "908b9ea7-bce6-4260-8345-33ab6e05bc56",
+                "nodeTo": "5de50c1d-5ad7-4948-883a-1ed0c5646d25",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "be873404-2bc9-4d23-8268-0cd8be9d2cda",
+                "nodeTo": "5de50c1d-5ad7-4948-883a-1ed0c5646d25",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "06310cbb-d203-4196-8496-24016662513d",
+                "nodeTo": "9ad453e4-4b36-4021-be8c-8e5ca94bbcc6",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5de50c1d-5ad7-4948-883a-1ed0c5646d25",
+                "nodeTo": "9ad453e4-4b36-4021-be8c-8e5ca94bbcc6",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-16 19:14:25"
+}

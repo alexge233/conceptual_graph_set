@@ -1,0 +1,262 @@
+{
+    "uuid": 61,
+    "text": "Rule change means local authorities can offer people who need home care cash for them to organise it themselves",
+    "graph": {
+        "version": 1,
+        "guid": "80cab18d-452d-42cc-958c-68accb805c63",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "means",
+                "id": "1b258e8d-067e-4a61-a480-be7397e9932d",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "can",
+                "id": "5a5a2382-b46d-42dd-810d-99578a741d7a",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "who",
+                "id": "688489d1-c52a-4a55-80da-990101d62c6d",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "need",
+                "id": "e1c9d127-e8c7-402e-a84b-177472bb0590",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "78363652-339a-44a7-96a7-cb0a793d4241",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "organise",
+                "id": "5d807be3-ea71-41d4-9e0b-5c81dca2c076",
+                "postag": "NA",
+                "index": 16
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Rule",
+                "id": "815b39c1-455d-4e10-966a-d514db4692e5",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "local",
+                "id": "a7a29370-a2c1-4868-8cc6-9b08dd51a1e2",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "authorities",
+                "id": "cdd01213-c5a7-42c3-816e-ad4d04481127",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "people",
+                "id": "c80e0245-1e56-4e39-b0ca-734dddb89d59",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "change",
+                "id": "eddb53aa-409a-4465-8a00-66b5662aa577",
+                "postag": "NA",
+                "index": 1
+            },
+            {
+                "label": "home",
+                "id": "d33026e8-9809-4d2c-9cc0-57098e66987e",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "care",
+                "id": "c0296aba-09dc-4ce2-b9ec-37bbebe1b009",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "cash",
+                "id": "1c63aa5c-a6a2-4a3d-8973-32911dc03a6e",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "offer",
+                "id": "07124bb5-aa36-4612-8c7b-3b51e496186d",
+                "postag": "NA",
+                "index": 6
+            },
+            {
+                "label": "it",
+                "id": "8c607e34-827a-4eb3-b874-c950b0e83310",
+                "index": 17,
+                "postag": "NA"
+            },
+            {
+                "label": "themselves",
+                "id": "4dac142d-a039-4a99-ba26-843da407c20b",
+                "index": 18,
+                "postag": "NA"
+            },
+            {
+                "label": "them",
+                "id": "db4150a2-8ea0-442a-a450-9d037cb76eb8",
+                "postag": "NA",
+                "index": 14
+            },
+            {
+                "label": "to",
+                "id": "66973ee1-1463-4ba3-aa89-0704aaed4a0d",
+                "postag": "NA",
+                "index": 15
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "1b258e8d-067e-4a61-a480-be7397e9932d",
+                "nodeTo": "a7a29370-a2c1-4868-8cc6-9b08dd51a1e2",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1b258e8d-067e-4a61-a480-be7397e9932d",
+                "nodeTo": "cdd01213-c5a7-42c3-816e-ad4d04481127",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a7a29370-a2c1-4868-8cc6-9b08dd51a1e2",
+                "nodeTo": "5a5a2382-b46d-42dd-810d-99578a741d7a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cdd01213-c5a7-42c3-816e-ad4d04481127",
+                "nodeTo": "5a5a2382-b46d-42dd-810d-99578a741d7a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "815b39c1-455d-4e10-966a-d514db4692e5",
+                "nodeTo": "1b258e8d-067e-4a61-a480-be7397e9932d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "eddb53aa-409a-4465-8a00-66b5662aa577",
+                "nodeTo": "1b258e8d-067e-4a61-a480-be7397e9932d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5a5a2382-b46d-42dd-810d-99578a741d7a",
+                "nodeTo": "07124bb5-aa36-4612-8c7b-3b51e496186d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "07124bb5-aa36-4612-8c7b-3b51e496186d",
+                "nodeTo": "688489d1-c52a-4a55-80da-990101d62c6d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e1c9d127-e8c7-402e-a84b-177472bb0590",
+                "nodeTo": "d33026e8-9809-4d2c-9cc0-57098e66987e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e1c9d127-e8c7-402e-a84b-177472bb0590",
+                "nodeTo": "c0296aba-09dc-4ce2-b9ec-37bbebe1b009",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e1c9d127-e8c7-402e-a84b-177472bb0590",
+                "nodeTo": "1c63aa5c-a6a2-4a3d-8973-32911dc03a6e",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "688489d1-c52a-4a55-80da-990101d62c6d",
+                "nodeTo": "c80e0245-1e56-4e39-b0ca-734dddb89d59",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c80e0245-1e56-4e39-b0ca-734dddb89d59",
+                "nodeTo": "e1c9d127-e8c7-402e-a84b-177472bb0590",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d33026e8-9809-4d2c-9cc0-57098e66987e",
+                "nodeTo": "78363652-339a-44a7-96a7-cb0a793d4241",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c0296aba-09dc-4ce2-b9ec-37bbebe1b009",
+                "nodeTo": "78363652-339a-44a7-96a7-cb0a793d4241",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1c63aa5c-a6a2-4a3d-8973-32911dc03a6e",
+                "nodeTo": "78363652-339a-44a7-96a7-cb0a793d4241",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "78363652-339a-44a7-96a7-cb0a793d4241",
+                "nodeTo": "db4150a2-8ea0-442a-a450-9d037cb76eb8",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "db4150a2-8ea0-442a-a450-9d037cb76eb8",
+                "nodeTo": "5d807be3-ea71-41d4-9e0b-5c81dca2c076",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5d807be3-ea71-41d4-9e0b-5c81dca2c076",
+                "nodeTo": "8c607e34-827a-4eb3-b874-c950b0e83310",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4dac142d-a039-4a99-ba26-843da407c20b",
+                "nodeTo": "5d807be3-ea71-41d4-9e0b-5c81dca2c076",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "78363652-339a-44a7-96a7-cb0a793d4241",
+                "nodeTo": "66973ee1-1463-4ba3-aa89-0704aaed4a0d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "66973ee1-1463-4ba3-aa89-0704aaed4a0d",
+                "nodeTo": "5d807be3-ea71-41d4-9e0b-5c81dca2c076",
+                "index": 1,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2014-11-06 10:18:49"
+}

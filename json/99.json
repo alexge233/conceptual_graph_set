@@ -1,0 +1,82 @@
+{
+    "uuid": 99,
+    "text": "I lost 10 relatives to Ebola",
+    "graph": {
+        "version": 1,
+        "guid": "580008d4-ba38-4262-8d12-83bb483ce262",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "lost",
+                "id": "a8bd48e1-9d15-4aaa-bccc-2c381cb70d58",
+                "index": 1,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "I",
+                "id": "220ea3e5-c8c0-439a-b043-50bc65b8161e",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": 10,
+                "id": "1cb16a6a-7ed3-4a0a-8719-23279d68eb9c",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "relatives",
+                "id": "ad2211d9-b407-4c3c-8e14-9e4806428ed6",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "Ebola",
+                "id": "247cc029-9684-4b85-b586-8c07cca60006",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "bc43c4d2-69c1-49ea-985b-70106cac08a9",
+                "postag": "NA",
+                "index": 4
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "220ea3e5-c8c0-439a-b043-50bc65b8161e",
+                "nodeTo": "a8bd48e1-9d15-4aaa-bccc-2c381cb70d58",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a8bd48e1-9d15-4aaa-bccc-2c381cb70d58",
+                "nodeTo": "1cb16a6a-7ed3-4a0a-8719-23279d68eb9c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a8bd48e1-9d15-4aaa-bccc-2c381cb70d58",
+                "nodeTo": "ad2211d9-b407-4c3c-8e14-9e4806428ed6",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a8bd48e1-9d15-4aaa-bccc-2c381cb70d58",
+                "nodeTo": "bc43c4d2-69c1-49ea-985b-70106cac08a9",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a8bd48e1-9d15-4aaa-bccc-2c381cb70d58",
+                "nodeTo": "247cc029-9684-4b85-b586-8c07cca60006",
+                "index": 4,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-11-06 09:27:44"
+}

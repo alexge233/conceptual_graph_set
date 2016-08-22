@@ -1,0 +1,268 @@
+{
+    "uuid": 1089,
+    "text": "clean cooking fuel and improved kitchen ventilation linked to less lung disease",
+    "graph": {
+        "version": 1,
+        "guid": "dc72d480-d9dd-490c-99d6-80bbe8158e6b",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "and",
+                "id": "9eb987ad-6c73-4d6d-bd3d-903b95c72378",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "linked",
+                "id": "959cb59c-a376-4940-a5b1-ceb31da0aea7",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "70cbb76e-0768-4871-9394-ca8163852913",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "less",
+                "id": "482c91b2-5aca-481a-a038-8631c23b7e5b",
+                "postag": "NA",
+                "index": 9
+            }
+        ],
+        "concepts": [
+            {
+                "label": "clean",
+                "id": "d9e1c370-8347-4233-b7b0-9acc7b57801d",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "cooking",
+                "id": "60b9958d-ad4d-463c-8d25-3a24d232bdeb",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "fuel",
+                "id": "079eed29-c63d-4a27-846a-a6618d2bcdca",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "improved",
+                "id": "8a0b6ce4-2ca8-4e44-9be2-c24ad2644b55",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "kitchen",
+                "id": "add8dc7b-7a8a-46e6-88b5-c4d84ed217be",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "ventilation",
+                "id": "16521487-8597-47d3-84e3-426847188155",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "lung",
+                "id": "8aa8c2d7-b56c-4b42-831d-269a125131de",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "disease",
+                "id": "b8bcda25-86be-4db4-a39b-e8d2227b90be",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "d9e1c370-8347-4233-b7b0-9acc7b57801d",
+                "nodeTo": "9eb987ad-6c73-4d6d-bd3d-903b95c72378",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "60b9958d-ad4d-463c-8d25-3a24d232bdeb",
+                "nodeTo": "9eb987ad-6c73-4d6d-bd3d-903b95c72378",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "079eed29-c63d-4a27-846a-a6618d2bcdca",
+                "nodeTo": "9eb987ad-6c73-4d6d-bd3d-903b95c72378",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9eb987ad-6c73-4d6d-bd3d-903b95c72378",
+                "nodeTo": "8a0b6ce4-2ca8-4e44-9be2-c24ad2644b55",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9eb987ad-6c73-4d6d-bd3d-903b95c72378",
+                "nodeTo": "add8dc7b-7a8a-46e6-88b5-c4d84ed217be",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9eb987ad-6c73-4d6d-bd3d-903b95c72378",
+                "nodeTo": "16521487-8597-47d3-84e3-426847188155",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d9e1c370-8347-4233-b7b0-9acc7b57801d",
+                "nodeTo": "959cb59c-a376-4940-a5b1-ceb31da0aea7",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "60b9958d-ad4d-463c-8d25-3a24d232bdeb",
+                "nodeTo": "959cb59c-a376-4940-a5b1-ceb31da0aea7",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "079eed29-c63d-4a27-846a-a6618d2bcdca",
+                "nodeTo": "959cb59c-a376-4940-a5b1-ceb31da0aea7",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8a0b6ce4-2ca8-4e44-9be2-c24ad2644b55",
+                "nodeTo": "959cb59c-a376-4940-a5b1-ceb31da0aea7",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "add8dc7b-7a8a-46e6-88b5-c4d84ed217be",
+                "nodeTo": "959cb59c-a376-4940-a5b1-ceb31da0aea7",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "16521487-8597-47d3-84e3-426847188155",
+                "nodeTo": "959cb59c-a376-4940-a5b1-ceb31da0aea7",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d9e1c370-8347-4233-b7b0-9acc7b57801d",
+                "nodeTo": "70cbb76e-0768-4871-9394-ca8163852913",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "60b9958d-ad4d-463c-8d25-3a24d232bdeb",
+                "nodeTo": "70cbb76e-0768-4871-9394-ca8163852913",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "079eed29-c63d-4a27-846a-a6618d2bcdca",
+                "nodeTo": "70cbb76e-0768-4871-9394-ca8163852913",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8a0b6ce4-2ca8-4e44-9be2-c24ad2644b55",
+                "nodeTo": "70cbb76e-0768-4871-9394-ca8163852913",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "add8dc7b-7a8a-46e6-88b5-c4d84ed217be",
+                "nodeTo": "70cbb76e-0768-4871-9394-ca8163852913",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "16521487-8597-47d3-84e3-426847188155",
+                "nodeTo": "70cbb76e-0768-4871-9394-ca8163852913",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d9e1c370-8347-4233-b7b0-9acc7b57801d",
+                "nodeTo": "482c91b2-5aca-481a-a038-8631c23b7e5b",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "60b9958d-ad4d-463c-8d25-3a24d232bdeb",
+                "nodeTo": "482c91b2-5aca-481a-a038-8631c23b7e5b",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "079eed29-c63d-4a27-846a-a6618d2bcdca",
+                "nodeTo": "482c91b2-5aca-481a-a038-8631c23b7e5b",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8a0b6ce4-2ca8-4e44-9be2-c24ad2644b55",
+                "nodeTo": "482c91b2-5aca-481a-a038-8631c23b7e5b",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "add8dc7b-7a8a-46e6-88b5-c4d84ed217be",
+                "nodeTo": "482c91b2-5aca-481a-a038-8631c23b7e5b",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "16521487-8597-47d3-84e3-426847188155",
+                "nodeTo": "482c91b2-5aca-481a-a038-8631c23b7e5b",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "959cb59c-a376-4940-a5b1-ceb31da0aea7",
+                "nodeTo": "8aa8c2d7-b56c-4b42-831d-269a125131de",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "70cbb76e-0768-4871-9394-ca8163852913",
+                "nodeTo": "8aa8c2d7-b56c-4b42-831d-269a125131de",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "482c91b2-5aca-481a-a038-8631c23b7e5b",
+                "nodeTo": "8aa8c2d7-b56c-4b42-831d-269a125131de",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "959cb59c-a376-4940-a5b1-ceb31da0aea7",
+                "nodeTo": "b8bcda25-86be-4db4-a39b-e8d2227b90be",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "70cbb76e-0768-4871-9394-ca8163852913",
+                "nodeTo": "b8bcda25-86be-4db4-a39b-e8d2227b90be",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "482c91b2-5aca-481a-a038-8631c23b7e5b",
+                "nodeTo": "b8bcda25-86be-4db4-a39b-e8d2227b90be",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-09 19:24:18"
+}

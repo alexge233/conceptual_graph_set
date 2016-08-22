@@ -1,0 +1,130 @@
+{
+    "uuid": 1132,
+    "text": "new study compares cold snare polypectomy with conventional polypectomy",
+    "graph": {
+        "version": 1,
+        "guid": "17157ee8-174a-4dbd-b8de-31504e6b2664",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "compares",
+                "id": "a650e60e-1b9a-47a7-aa19-b358d1cb9101",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "with",
+                "id": "45803123-2a80-4bd8-9374-325dd1b6a937",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "new",
+                "id": "24c455e6-cb06-4db0-8499-eb855a49707e",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "study",
+                "id": "3e0b38d0-e2ad-4a5a-b9a0-202ca03226ab",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "cold",
+                "id": "b4eaec31-1da9-445d-a62a-73db1632c052",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "snare",
+                "id": "c4dd8793-e4b3-452a-87a7-72b7ebd72e51",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "polypectomy",
+                "id": "eb42e451-58a7-495a-a8cb-d6716586633e",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "conventional",
+                "id": "75b95500-2ca4-4316-a8a7-b30437a5420b",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "polypectomy",
+                "id": "3d0326c0-d28a-4de7-8ebe-82b9025a2b7d",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "24c455e6-cb06-4db0-8499-eb855a49707e",
+                "nodeTo": "a650e60e-1b9a-47a7-aa19-b358d1cb9101",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3e0b38d0-e2ad-4a5a-b9a0-202ca03226ab",
+                "nodeTo": "a650e60e-1b9a-47a7-aa19-b358d1cb9101",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a650e60e-1b9a-47a7-aa19-b358d1cb9101",
+                "nodeTo": "b4eaec31-1da9-445d-a62a-73db1632c052",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a650e60e-1b9a-47a7-aa19-b358d1cb9101",
+                "nodeTo": "c4dd8793-e4b3-452a-87a7-72b7ebd72e51",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a650e60e-1b9a-47a7-aa19-b358d1cb9101",
+                "nodeTo": "eb42e451-58a7-495a-a8cb-d6716586633e",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "eb42e451-58a7-495a-a8cb-d6716586633e",
+                "nodeTo": "45803123-2a80-4bd8-9374-325dd1b6a937",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c4dd8793-e4b3-452a-87a7-72b7ebd72e51",
+                "nodeTo": "45803123-2a80-4bd8-9374-325dd1b6a937",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b4eaec31-1da9-445d-a62a-73db1632c052",
+                "nodeTo": "45803123-2a80-4bd8-9374-325dd1b6a937",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "45803123-2a80-4bd8-9374-325dd1b6a937",
+                "nodeTo": "75b95500-2ca4-4316-a8a7-b30437a5420b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "45803123-2a80-4bd8-9374-325dd1b6a937",
+                "nodeTo": "3d0326c0-d28a-4de7-8ebe-82b9025a2b7d",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-23 19:01:19"
+}

@@ -1,0 +1,250 @@
+{
+    "uuid": 940,
+    "text": "scientists have now discovered protease that is able to chop down protein component of DNA protein crosslinks",
+    "graph": {
+        "version": 1,
+        "guid": "ebc40ac9-d042-4254-b8d2-340044460c57",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "have",
+                "id": "53a17d8b-30d6-4eb3-ac4c-ba03e65c84d6",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "discovered",
+                "id": "391752bc-cc34-48a2-9162-7dbd6ccc8844",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "that",
+                "id": "26d70591-9bcb-4577-a618-c95cb3836e31",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "is",
+                "id": "676bace8-e489-43de-ba99-6892ba547654",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "aa6552d7-ac6c-4524-ac84-8dd907a961dc",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "chop",
+                "id": "a1bde949-685b-4ac3-9048-a7814020422c",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "cb24dc70-e083-4415-b667-189855608ab5",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "scientists",
+                "id": "a96ace20-8b51-43a4-a3eb-5d25cd7a4323",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "now",
+                "id": "7278a662-b54b-4b80-a281-ce82e6352cb1",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "protease",
+                "id": "134e3825-502d-4d54-add0-8adc04518d36",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "able",
+                "id": "c119b738-79b2-484e-9a05-98426345b172",
+                "postag": "NA",
+                "index": 7
+            },
+            {
+                "label": "down",
+                "id": "aa2156e8-02d5-4500-949d-b40b1d0e6113",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "protein",
+                "id": "1a2a7895-b1ad-44b9-bb34-71685a3c5e04",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "component",
+                "id": "b242c70d-9e8b-47c7-8da9-39c93a2c2e24",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "DNA",
+                "id": "a0d41318-a0d6-48a7-8c1c-26dee6e73ead",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "protein",
+                "id": "5d07cc69-89ac-49cd-a819-d85a525835b1",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "crosslinks",
+                "id": "59622147-3174-44d4-883b-2b3d5bd55563",
+                "index": 16,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "a96ace20-8b51-43a4-a3eb-5d25cd7a4323",
+                "nodeTo": "53a17d8b-30d6-4eb3-ac4c-ba03e65c84d6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "53a17d8b-30d6-4eb3-ac4c-ba03e65c84d6",
+                "nodeTo": "7278a662-b54b-4b80-a281-ce82e6352cb1",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a96ace20-8b51-43a4-a3eb-5d25cd7a4323",
+                "nodeTo": "391752bc-cc34-48a2-9162-7dbd6ccc8844",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "53a17d8b-30d6-4eb3-ac4c-ba03e65c84d6",
+                "nodeTo": "134e3825-502d-4d54-add0-8adc04518d36",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "391752bc-cc34-48a2-9162-7dbd6ccc8844",
+                "nodeTo": "134e3825-502d-4d54-add0-8adc04518d36",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "134e3825-502d-4d54-add0-8adc04518d36",
+                "nodeTo": "26d70591-9bcb-4577-a618-c95cb3836e31",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "134e3825-502d-4d54-add0-8adc04518d36",
+                "nodeTo": "676bace8-e489-43de-ba99-6892ba547654",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "26d70591-9bcb-4577-a618-c95cb3836e31",
+                "nodeTo": "c119b738-79b2-484e-9a05-98426345b172",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "676bace8-e489-43de-ba99-6892ba547654",
+                "nodeTo": "c119b738-79b2-484e-9a05-98426345b172",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c119b738-79b2-484e-9a05-98426345b172",
+                "nodeTo": "aa6552d7-ac6c-4524-ac84-8dd907a961dc",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c119b738-79b2-484e-9a05-98426345b172",
+                "nodeTo": "a1bde949-685b-4ac3-9048-a7814020422c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "aa6552d7-ac6c-4524-ac84-8dd907a961dc",
+                "nodeTo": "aa2156e8-02d5-4500-949d-b40b1d0e6113",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a1bde949-685b-4ac3-9048-a7814020422c",
+                "nodeTo": "aa2156e8-02d5-4500-949d-b40b1d0e6113",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "aa6552d7-ac6c-4524-ac84-8dd907a961dc",
+                "nodeTo": "1a2a7895-b1ad-44b9-bb34-71685a3c5e04",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a1bde949-685b-4ac3-9048-a7814020422c",
+                "nodeTo": "1a2a7895-b1ad-44b9-bb34-71685a3c5e04",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "aa6552d7-ac6c-4524-ac84-8dd907a961dc",
+                "nodeTo": "b242c70d-9e8b-47c7-8da9-39c93a2c2e24",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a1bde949-685b-4ac3-9048-a7814020422c",
+                "nodeTo": "b242c70d-9e8b-47c7-8da9-39c93a2c2e24",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1a2a7895-b1ad-44b9-bb34-71685a3c5e04",
+                "nodeTo": "cb24dc70-e083-4415-b667-189855608ab5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b242c70d-9e8b-47c7-8da9-39c93a2c2e24",
+                "nodeTo": "cb24dc70-e083-4415-b667-189855608ab5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cb24dc70-e083-4415-b667-189855608ab5",
+                "nodeTo": "a0d41318-a0d6-48a7-8c1c-26dee6e73ead",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "cb24dc70-e083-4415-b667-189855608ab5",
+                "nodeTo": "5d07cc69-89ac-49cd-a819-d85a525835b1",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "cb24dc70-e083-4415-b667-189855608ab5",
+                "nodeTo": "59622147-3174-44d4-883b-2b3d5bd55563",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-22 18:17:01"
+}

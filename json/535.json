@@ -1,0 +1,106 @@
+{
+    "uuid": 535,
+    "text": "Benedict Cumberbatch to play Hamlet on stage",
+    "graph": {
+        "version": 1,
+        "guid": "18e70606-5582-4535-b849-776686dd73a9",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "to",
+                "id": "4b2ad0ac-4274-4a0b-a19a-e377b319cb24",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "play",
+                "id": "a683a189-8764-40aa-a114-0ca19266e379",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "on",
+                "id": "71da774d-3895-4470-8a94-0c89bb7567e0",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Benedict",
+                "id": "9865c936-c6e9-4057-bc98-0252b4bd44d2",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "Cumberbatch",
+                "id": "1dd19057-ead7-4ce1-a431-ad25d2837890",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "Hamlet",
+                "id": "49be046a-72a3-49e2-9b03-475b16688de2",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "stage",
+                "id": "02adb79b-a56b-44b2-bdb4-211cb89d3a84",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "9865c936-c6e9-4057-bc98-0252b4bd44d2",
+                "nodeTo": "4b2ad0ac-4274-4a0b-a19a-e377b319cb24",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9865c936-c6e9-4057-bc98-0252b4bd44d2",
+                "nodeTo": "a683a189-8764-40aa-a114-0ca19266e379",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1dd19057-ead7-4ce1-a431-ad25d2837890",
+                "nodeTo": "4b2ad0ac-4274-4a0b-a19a-e377b319cb24",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1dd19057-ead7-4ce1-a431-ad25d2837890",
+                "nodeTo": "a683a189-8764-40aa-a114-0ca19266e379",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4b2ad0ac-4274-4a0b-a19a-e377b319cb24",
+                "nodeTo": "49be046a-72a3-49e2-9b03-475b16688de2",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a683a189-8764-40aa-a114-0ca19266e379",
+                "nodeTo": "49be046a-72a3-49e2-9b03-475b16688de2",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "49be046a-72a3-49e2-9b03-475b16688de2",
+                "nodeTo": "71da774d-3895-4470-8a94-0c89bb7567e0",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "71da774d-3895-4470-8a94-0c89bb7567e0",
+                "nodeTo": "02adb79b-a56b-44b2-bdb4-211cb89d3a84",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-31 18:02:01"
+}

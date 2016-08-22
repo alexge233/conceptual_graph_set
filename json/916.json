@@ -1,0 +1,154 @@
+{
+    "uuid": 916,
+    "text": "celiac disease linked to increased risk of coronary artery disease",
+    "graph": {
+        "version": 1,
+        "guid": "aca31253-7650-4a63-8b4d-ce3150d90444",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "linked",
+                "id": "6ba4648a-82ed-414e-b590-442d8c7c4618",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "e03bc488-1284-4c3a-9658-801855239c1b",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "e069e1d2-4329-4ea2-810d-95432aaceb49",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "celiac",
+                "id": "8cdddb66-b7ea-43d6-a06b-542531b70a1b",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "disease",
+                "id": "60546042-12e0-4652-9ac9-7005b1290de3",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "increased",
+                "id": "254ba122-8cb0-46e6-8a6c-6474384a60d1",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "risk",
+                "id": "0172d740-98a7-43a3-b14c-814523545885",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "coronary",
+                "id": "21937286-3d95-453b-a2bd-b3818e08603d",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "artery",
+                "id": "d37da21c-278d-4046-ab3e-ca742b209494",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "disease",
+                "id": "279bd9ac-bb6d-4c07-b5d8-a1839a6d1850",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "8cdddb66-b7ea-43d6-a06b-542531b70a1b",
+                "nodeTo": "6ba4648a-82ed-414e-b590-442d8c7c4618",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8cdddb66-b7ea-43d6-a06b-542531b70a1b",
+                "nodeTo": "e03bc488-1284-4c3a-9658-801855239c1b",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "60546042-12e0-4652-9ac9-7005b1290de3",
+                "nodeTo": "6ba4648a-82ed-414e-b590-442d8c7c4618",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "60546042-12e0-4652-9ac9-7005b1290de3",
+                "nodeTo": "e03bc488-1284-4c3a-9658-801855239c1b",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6ba4648a-82ed-414e-b590-442d8c7c4618",
+                "nodeTo": "254ba122-8cb0-46e6-8a6c-6474384a60d1",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6ba4648a-82ed-414e-b590-442d8c7c4618",
+                "nodeTo": "0172d740-98a7-43a3-b14c-814523545885",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e03bc488-1284-4c3a-9658-801855239c1b",
+                "nodeTo": "254ba122-8cb0-46e6-8a6c-6474384a60d1",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e03bc488-1284-4c3a-9658-801855239c1b",
+                "nodeTo": "0172d740-98a7-43a3-b14c-814523545885",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "254ba122-8cb0-46e6-8a6c-6474384a60d1",
+                "nodeTo": "e069e1d2-4329-4ea2-810d-95432aaceb49",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0172d740-98a7-43a3-b14c-814523545885",
+                "nodeTo": "e069e1d2-4329-4ea2-810d-95432aaceb49",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e069e1d2-4329-4ea2-810d-95432aaceb49",
+                "nodeTo": "21937286-3d95-453b-a2bd-b3818e08603d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e069e1d2-4329-4ea2-810d-95432aaceb49",
+                "nodeTo": "d37da21c-278d-4046-ab3e-ca742b209494",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e069e1d2-4329-4ea2-810d-95432aaceb49",
+                "nodeTo": "279bd9ac-bb6d-4c07-b5d8-a1839a6d1850",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-21 21:07:33"
+}

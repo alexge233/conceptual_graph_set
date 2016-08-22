@@ -1,0 +1,136 @@
+{
+    "uuid": 442,
+    "text": "as age friendly technologies emerge experts recommend policy changes",
+    "graph": {
+        "version": 1,
+        "guid": "23ae2e72-e5ed-4a07-845a-793e2756d2d5",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "as",
+                "id": "cae25035-c83c-4be9-b303-db457e0a62de",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "emerge",
+                "id": "7a988e92-a066-40dc-b956-4ba33203bd03",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "recommend",
+                "id": "11e7cae2-5c82-4b10-a9d8-34d7e27488bd",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "age",
+                "id": "a742bdbd-7ccb-439c-b021-b06ee214b762",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "friendly",
+                "id": "e20c0dc7-3c2b-4268-a45d-8d71062cc366",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "technologies",
+                "id": "6704c9be-4a74-4ac2-a5aa-30857b08a937",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "experts",
+                "id": "2e6ccb89-433c-426c-bd34-c0b39ba430b9",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "policy",
+                "id": "a7ce85b3-5ab8-41eb-8c0e-39843d05b0a1",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "changes",
+                "id": "4d6dd913-c548-4076-aed9-29d1062bb6e5",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "cae25035-c83c-4be9-b303-db457e0a62de",
+                "nodeTo": "a742bdbd-7ccb-439c-b021-b06ee214b762",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "cae25035-c83c-4be9-b303-db457e0a62de",
+                "nodeTo": "e20c0dc7-3c2b-4268-a45d-8d71062cc366",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "cae25035-c83c-4be9-b303-db457e0a62de",
+                "nodeTo": "6704c9be-4a74-4ac2-a5aa-30857b08a937",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a742bdbd-7ccb-439c-b021-b06ee214b762",
+                "nodeTo": "7a988e92-a066-40dc-b956-4ba33203bd03",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e20c0dc7-3c2b-4268-a45d-8d71062cc366",
+                "nodeTo": "7a988e92-a066-40dc-b956-4ba33203bd03",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6704c9be-4a74-4ac2-a5aa-30857b08a937",
+                "nodeTo": "7a988e92-a066-40dc-b956-4ba33203bd03",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2e6ccb89-433c-426c-bd34-c0b39ba430b9",
+                "nodeTo": "11e7cae2-5c82-4b10-a9d8-34d7e27488bd",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "11e7cae2-5c82-4b10-a9d8-34d7e27488bd",
+                "nodeTo": "a7ce85b3-5ab8-41eb-8c0e-39843d05b0a1",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "11e7cae2-5c82-4b10-a9d8-34d7e27488bd",
+                "nodeTo": "4d6dd913-c548-4076-aed9-29d1062bb6e5",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a7ce85b3-5ab8-41eb-8c0e-39843d05b0a1",
+                "nodeTo": "cae25035-c83c-4be9-b303-db457e0a62de",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4d6dd913-c548-4076-aed9-29d1062bb6e5",
+                "nodeTo": "cae25035-c83c-4be9-b303-db457e0a62de",
+                "index": 1,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2014-12-18 17:27:14"
+}

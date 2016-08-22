@@ -1,0 +1,106 @@
+{
+    "uuid": 603,
+    "text": "Black women have trouble clearing cervical cancer virus",
+    "graph": {
+        "version": 1,
+        "guid": "96e70c05-d250-46ee-b86d-7648da63e347",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "have",
+                "id": "5a77a393-cbca-4671-8648-118b6493c802",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "clearing",
+                "id": "4c0e665c-39ca-4ae6-a485-db6ac43bd059",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Black",
+                "id": "c14403b4-705a-4c42-8c9b-9a4e58046901",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "women",
+                "id": "0707db24-4c82-4d38-ae10-a78b2876ac8d",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "trouble",
+                "id": "077d612e-62d0-484e-90a3-c3d6aedb72e9",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "cervical",
+                "id": "e112406c-1974-4e1a-b558-2310ea289360",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "cancer",
+                "id": "60e09a08-c658-4d17-8a91-4265a4ac8907",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "virus",
+                "id": "1d198807-4416-40e8-b7ac-e18e7a6768d6",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "c14403b4-705a-4c42-8c9b-9a4e58046901",
+                "nodeTo": "5a77a393-cbca-4671-8648-118b6493c802",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0707db24-4c82-4d38-ae10-a78b2876ac8d",
+                "nodeTo": "5a77a393-cbca-4671-8648-118b6493c802",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5a77a393-cbca-4671-8648-118b6493c802",
+                "nodeTo": "077d612e-62d0-484e-90a3-c3d6aedb72e9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "077d612e-62d0-484e-90a3-c3d6aedb72e9",
+                "nodeTo": "4c0e665c-39ca-4ae6-a485-db6ac43bd059",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4c0e665c-39ca-4ae6-a485-db6ac43bd059",
+                "nodeTo": "e112406c-1974-4e1a-b558-2310ea289360",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4c0e665c-39ca-4ae6-a485-db6ac43bd059",
+                "nodeTo": "60e09a08-c658-4d17-8a91-4265a4ac8907",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4c0e665c-39ca-4ae6-a485-db6ac43bd059",
+                "nodeTo": "1d198807-4416-40e8-b7ac-e18e7a6768d6",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-08 18:16:13"
+}

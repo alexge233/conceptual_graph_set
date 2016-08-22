@@ -1,0 +1,214 @@
+{
+    "uuid": 489,
+    "text": "Garrett is just second person whose life was saved with new bioresorbable device",
+    "graph": {
+        "version": 1,
+        "guid": "d1317930-3d49-4795-8eaa-087b7a3bad90",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "is",
+                "id": "4e577146-0a05-417c-a1e8-209a83229d0b",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "whose",
+                "id": "478bd2ae-595a-4e36-9e54-6ed487780b1d",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "was",
+                "id": "0b7d3aa9-3266-4cc1-8850-aa08d091b416",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "saved",
+                "id": "33bedad3-d7cd-40e3-bc2b-2a69bcb1d562",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "with",
+                "id": "99c5cd48-d0c2-414e-9ca2-8e3ee1ce9961",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Garrett",
+                "id": "aeb434b1-7c48-4728-bdd2-301e0e8e346b",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "just",
+                "id": "2a9230dc-3c94-4ac5-9ca2-2dbcaed8a020",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "second",
+                "id": "26249a3d-00cb-4114-a93a-a8d897aee834",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "person",
+                "id": "89028814-16d8-4de9-ad6e-ba1e3854e3e2",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "life",
+                "id": "6edc39ba-5745-4941-b4b3-9ddc4c6034ac",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "new",
+                "id": "d4853336-64a0-454b-a142-4684db654602",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "bioresorbable",
+                "id": "1514b69b-4626-4ed1-a723-459393529959",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "device",
+                "id": "d4e6b05c-3973-4238-a72d-69063d4873b0",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "aeb434b1-7c48-4728-bdd2-301e0e8e346b",
+                "nodeTo": "4e577146-0a05-417c-a1e8-209a83229d0b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4e577146-0a05-417c-a1e8-209a83229d0b",
+                "nodeTo": "2a9230dc-3c94-4ac5-9ca2-2dbcaed8a020",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4e577146-0a05-417c-a1e8-209a83229d0b",
+                "nodeTo": "26249a3d-00cb-4114-a93a-a8d897aee834",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4e577146-0a05-417c-a1e8-209a83229d0b",
+                "nodeTo": "89028814-16d8-4de9-ad6e-ba1e3854e3e2",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "89028814-16d8-4de9-ad6e-ba1e3854e3e2",
+                "nodeTo": "478bd2ae-595a-4e36-9e54-6ed487780b1d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "26249a3d-00cb-4114-a93a-a8d897aee834",
+                "nodeTo": "478bd2ae-595a-4e36-9e54-6ed487780b1d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2a9230dc-3c94-4ac5-9ca2-2dbcaed8a020",
+                "nodeTo": "478bd2ae-595a-4e36-9e54-6ed487780b1d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "478bd2ae-595a-4e36-9e54-6ed487780b1d",
+                "nodeTo": "6edc39ba-5745-4941-b4b3-9ddc4c6034ac",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6edc39ba-5745-4941-b4b3-9ddc4c6034ac",
+                "nodeTo": "0b7d3aa9-3266-4cc1-8850-aa08d091b416",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6edc39ba-5745-4941-b4b3-9ddc4c6034ac",
+                "nodeTo": "33bedad3-d7cd-40e3-bc2b-2a69bcb1d562",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6edc39ba-5745-4941-b4b3-9ddc4c6034ac",
+                "nodeTo": "99c5cd48-d0c2-414e-9ca2-8e3ee1ce9961",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0b7d3aa9-3266-4cc1-8850-aa08d091b416",
+                "nodeTo": "d4853336-64a0-454b-a142-4684db654602",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "33bedad3-d7cd-40e3-bc2b-2a69bcb1d562",
+                "nodeTo": "d4853336-64a0-454b-a142-4684db654602",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "99c5cd48-d0c2-414e-9ca2-8e3ee1ce9961",
+                "nodeTo": "d4853336-64a0-454b-a142-4684db654602",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0b7d3aa9-3266-4cc1-8850-aa08d091b416",
+                "nodeTo": "1514b69b-4626-4ed1-a723-459393529959",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "33bedad3-d7cd-40e3-bc2b-2a69bcb1d562",
+                "nodeTo": "1514b69b-4626-4ed1-a723-459393529959",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "99c5cd48-d0c2-414e-9ca2-8e3ee1ce9961",
+                "nodeTo": "1514b69b-4626-4ed1-a723-459393529959",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0b7d3aa9-3266-4cc1-8850-aa08d091b416",
+                "nodeTo": "d4e6b05c-3973-4238-a72d-69063d4873b0",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "33bedad3-d7cd-40e3-bc2b-2a69bcb1d562",
+                "nodeTo": "d4e6b05c-3973-4238-a72d-69063d4873b0",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "99c5cd48-d0c2-414e-9ca2-8e3ee1ce9961",
+                "nodeTo": "d4e6b05c-3973-4238-a72d-69063d4873b0",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-19 14:10:20"
+}

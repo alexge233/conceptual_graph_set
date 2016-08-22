@@ -1,0 +1,154 @@
+{
+    "uuid": 288,
+    "text": "Adults at higher risk of suicide attempt if parent abused alcohol",
+    "graph": {
+        "version": 1,
+        "guid": "bcd12d06-1905-40c3-9410-c67ebce688b0",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "at",
+                "id": "a03167ee-bec9-47ed-92ba-909b2aae7151",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "81b867d7-183a-41bb-9a20-abe289071725",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "if",
+                "id": "0c2e0833-4b6b-4450-ac71-5d07a9811618",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "abused",
+                "id": "2a3e0542-696a-4315-beb4-87d4b25035e0",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Adults",
+                "id": "86317b30-c8a0-472e-89aa-83ebd565a64d",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "higher",
+                "id": "93775cdb-c62c-4124-a58d-9ed9b59b10a4",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "risk",
+                "id": "18e4296e-8a2e-4832-8461-a0dd64e4de3d",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "suicide",
+                "id": "13ddcd54-be52-4c26-8b06-eba5c21be384",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "attempt",
+                "id": "64ec61b6-22d7-418a-a9b4-e379abc4178e",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "parent",
+                "id": "c55a89d7-a813-4449-ab65-3b1d9c8705d1",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "alcohol",
+                "id": "2b952cc9-20d4-499e-b442-da03b5841a53",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "86317b30-c8a0-472e-89aa-83ebd565a64d",
+                "nodeTo": "a03167ee-bec9-47ed-92ba-909b2aae7151",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a03167ee-bec9-47ed-92ba-909b2aae7151",
+                "nodeTo": "93775cdb-c62c-4124-a58d-9ed9b59b10a4",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a03167ee-bec9-47ed-92ba-909b2aae7151",
+                "nodeTo": "18e4296e-8a2e-4832-8461-a0dd64e4de3d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "93775cdb-c62c-4124-a58d-9ed9b59b10a4",
+                "nodeTo": "81b867d7-183a-41bb-9a20-abe289071725",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "18e4296e-8a2e-4832-8461-a0dd64e4de3d",
+                "nodeTo": "81b867d7-183a-41bb-9a20-abe289071725",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "81b867d7-183a-41bb-9a20-abe289071725",
+                "nodeTo": "13ddcd54-be52-4c26-8b06-eba5c21be384",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "81b867d7-183a-41bb-9a20-abe289071725",
+                "nodeTo": "64ec61b6-22d7-418a-a9b4-e379abc4178e",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "93775cdb-c62c-4124-a58d-9ed9b59b10a4",
+                "nodeTo": "0c2e0833-4b6b-4450-ac71-5d07a9811618",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "18e4296e-8a2e-4832-8461-a0dd64e4de3d",
+                "nodeTo": "0c2e0833-4b6b-4450-ac71-5d07a9811618",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0c2e0833-4b6b-4450-ac71-5d07a9811618",
+                "nodeTo": "c55a89d7-a813-4449-ab65-3b1d9c8705d1",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c55a89d7-a813-4449-ab65-3b1d9c8705d1",
+                "nodeTo": "2a3e0542-696a-4315-beb4-87d4b25035e0",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2a3e0542-696a-4315-beb4-87d4b25035e0",
+                "nodeTo": "2b952cc9-20d4-499e-b442-da03b5841a53",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-04 09:51:10"
+}

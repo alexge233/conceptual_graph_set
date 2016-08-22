@@ -1,0 +1,112 @@
+{
+    "uuid": 310,
+    "text": "Aging workforce requires new strategies for employee retention",
+    "graph": {
+        "version": 1,
+        "guid": "3c488c73-4252-44dd-9e0e-dbc2c0aa9a5e",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "requires",
+                "id": "d480983b-527e-4733-97b5-508d3357545c",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "93dab29c-e521-4ed5-a603-19c706d78287",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Aging",
+                "id": "0a6b2298-d343-40bb-9b50-01e457ee1432",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "workforce",
+                "id": "b483cd27-340b-4be5-8e74-4c117a94359c",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "new",
+                "id": "8277b1b3-7d99-4d78-a996-6ecc510b9c6c",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "strategies",
+                "id": "66a6d946-a5b7-4d68-a6e2-1015ac209a93",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "employee",
+                "id": "83ade5e3-867c-4a8d-a8d7-0d70327ca965",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "retention",
+                "id": "5793ea83-8c8b-4932-80e8-a3284ce056c6",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "0a6b2298-d343-40bb-9b50-01e457ee1432",
+                "nodeTo": "d480983b-527e-4733-97b5-508d3357545c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b483cd27-340b-4be5-8e74-4c117a94359c",
+                "nodeTo": "d480983b-527e-4733-97b5-508d3357545c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d480983b-527e-4733-97b5-508d3357545c",
+                "nodeTo": "8277b1b3-7d99-4d78-a996-6ecc510b9c6c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d480983b-527e-4733-97b5-508d3357545c",
+                "nodeTo": "66a6d946-a5b7-4d68-a6e2-1015ac209a93",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8277b1b3-7d99-4d78-a996-6ecc510b9c6c",
+                "nodeTo": "93dab29c-e521-4ed5-a603-19c706d78287",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "66a6d946-a5b7-4d68-a6e2-1015ac209a93",
+                "nodeTo": "93dab29c-e521-4ed5-a603-19c706d78287",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "93dab29c-e521-4ed5-a603-19c706d78287",
+                "nodeTo": "83ade5e3-867c-4a8d-a8d7-0d70327ca965",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "93dab29c-e521-4ed5-a603-19c706d78287",
+                "nodeTo": "5793ea83-8c8b-4932-80e8-a3284ce056c6",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-04 20:14:46"
+}

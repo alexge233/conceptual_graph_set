@@ -1,0 +1,130 @@
+{
+    "uuid": 512,
+    "text": "Barbara Walters bows out as grande dame of TV",
+    "graph": {
+        "version": 1,
+        "guid": "9e2daa54-e3ce-4627-bd18-0eb23457c075",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "bows",
+                "id": "32e391e7-603d-4468-9d63-0e9aa5e41087",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "as",
+                "id": "2c622348-1ce2-4953-85b0-a7425605b729",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "0cb83913-506e-4094-ad40-b7414d5ed7e7",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Barbara",
+                "id": "0200379e-c476-4d0e-86cd-30758c417104",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "Walters",
+                "id": "5c970413-4741-4c62-8d0a-1327a5ea05e2",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "out",
+                "id": "91380544-5537-429e-927e-56db5b6d3497",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "grande",
+                "id": "e43bb304-0646-488d-99b4-a5b2aa9a60e8",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "dame",
+                "id": "4ec891b3-3801-4c47-88ee-156a83960224",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "TV",
+                "id": "8d7e52ed-2584-4e74-a984-52b9e9a7eda9",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "0200379e-c476-4d0e-86cd-30758c417104",
+                "nodeTo": "32e391e7-603d-4468-9d63-0e9aa5e41087",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5c970413-4741-4c62-8d0a-1327a5ea05e2",
+                "nodeTo": "32e391e7-603d-4468-9d63-0e9aa5e41087",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "32e391e7-603d-4468-9d63-0e9aa5e41087",
+                "nodeTo": "91380544-5537-429e-927e-56db5b6d3497",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2c622348-1ce2-4953-85b0-a7425605b729",
+                "nodeTo": "e43bb304-0646-488d-99b4-a5b2aa9a60e8",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2c622348-1ce2-4953-85b0-a7425605b729",
+                "nodeTo": "4ec891b3-3801-4c47-88ee-156a83960224",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e43bb304-0646-488d-99b4-a5b2aa9a60e8",
+                "nodeTo": "0cb83913-506e-4094-ad40-b7414d5ed7e7",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4ec891b3-3801-4c47-88ee-156a83960224",
+                "nodeTo": "0cb83913-506e-4094-ad40-b7414d5ed7e7",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0cb83913-506e-4094-ad40-b7414d5ed7e7",
+                "nodeTo": "8d7e52ed-2584-4e74-a984-52b9e9a7eda9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0200379e-c476-4d0e-86cd-30758c417104",
+                "nodeTo": "2c622348-1ce2-4953-85b0-a7425605b729",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5c970413-4741-4c62-8d0a-1327a5ea05e2",
+                "nodeTo": "2c622348-1ce2-4953-85b0-a7425605b729",
+                "index": 2,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2014-12-23 19:05:45"
+}

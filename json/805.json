@@ -1,0 +1,178 @@
+{
+    "uuid": 805,
+    "text": "despite childbirth considered safe article shows that childbirth is still seen as risky",
+    "graph": {
+        "version": 1,
+        "guid": "80c0b255-9bae-4dd1-96d3-d774c8310472",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "despite",
+                "id": "b3a88a63-e3cb-4b2e-8924-5c05a5d24e54",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "considered",
+                "id": "78705943-681b-422b-834b-b5968925cd23",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "shows",
+                "id": "0712db13-5c3e-4825-b13e-d0c7b2240177",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "that",
+                "id": "6705abd9-5dd4-4395-bc46-b9156ede7ab8",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "is",
+                "id": "0888c965-9230-416b-a4e9-6877409d409c",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "seen",
+                "id": "8aae282a-32ab-4c06-acea-ada5428c628d",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "as",
+                "id": "0cd70b16-2a68-4024-b4a6-66103cc74238",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "childbirth",
+                "id": "1545c45a-b9d0-4b13-a973-a02ea6520cad",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "safe",
+                "id": "d236ece6-2107-44bc-8391-397d6899c270",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "article",
+                "id": "79a67614-c931-47d4-9578-db3c9d904c24",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "childbirth",
+                "id": "59a7423c-db26-472a-9300-c148edcb9580",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "still",
+                "id": "8b0336a4-4040-4c72-8c64-444003e2701a",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "risky",
+                "id": "73714a41-11e7-43e5-a06c-6e77400b50ce",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "b3a88a63-e3cb-4b2e-8924-5c05a5d24e54",
+                "nodeTo": "1545c45a-b9d0-4b13-a973-a02ea6520cad",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1545c45a-b9d0-4b13-a973-a02ea6520cad",
+                "nodeTo": "78705943-681b-422b-834b-b5968925cd23",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "78705943-681b-422b-834b-b5968925cd23",
+                "nodeTo": "d236ece6-2107-44bc-8391-397d6899c270",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b3a88a63-e3cb-4b2e-8924-5c05a5d24e54",
+                "nodeTo": "79a67614-c931-47d4-9578-db3c9d904c24",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "79a67614-c931-47d4-9578-db3c9d904c24",
+                "nodeTo": "0712db13-5c3e-4825-b13e-d0c7b2240177",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "79a67614-c931-47d4-9578-db3c9d904c24",
+                "nodeTo": "6705abd9-5dd4-4395-bc46-b9156ede7ab8",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0712db13-5c3e-4825-b13e-d0c7b2240177",
+                "nodeTo": "59a7423c-db26-472a-9300-c148edcb9580",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6705abd9-5dd4-4395-bc46-b9156ede7ab8",
+                "nodeTo": "59a7423c-db26-472a-9300-c148edcb9580",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "59a7423c-db26-472a-9300-c148edcb9580",
+                "nodeTo": "0888c965-9230-416b-a4e9-6877409d409c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0888c965-9230-416b-a4e9-6877409d409c",
+                "nodeTo": "8b0336a4-4040-4c72-8c64-444003e2701a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8b0336a4-4040-4c72-8c64-444003e2701a",
+                "nodeTo": "8aae282a-32ab-4c06-acea-ada5428c628d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8b0336a4-4040-4c72-8c64-444003e2701a",
+                "nodeTo": "0cd70b16-2a68-4024-b4a6-66103cc74238",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8aae282a-32ab-4c06-acea-ada5428c628d",
+                "nodeTo": "73714a41-11e7-43e5-a06c-6e77400b50ce",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0cd70b16-2a68-4024-b4a6-66103cc74238",
+                "nodeTo": "73714a41-11e7-43e5-a06c-6e77400b50ce",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-16 18:04:11"
+}

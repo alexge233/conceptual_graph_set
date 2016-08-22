@@ -1,0 +1,238 @@
+{
+    "uuid": 548,
+    "text": "Measuring circulating tumor cells may be better predictor of patient survival than prostate specific antigen",
+    "graph": {
+        "version": 1,
+        "guid": "8cd578be-ba5b-407c-8e29-cc35a9e1d199",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "Measuring",
+                "id": "d33de9aa-d22e-4845-8842-ba2452b48e69",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "may",
+                "id": "3741b8ae-71b2-4183-b017-d16c4059694c",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "be",
+                "id": "3a7edc73-35e0-4e26-a006-5da1acda498c",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "e17c2d4c-2391-4739-890b-3a343b314d71",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "than",
+                "id": "5408a254-e899-499a-8ada-c97c1e7d815a",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "circulating",
+                "id": "e8de53d6-ea9b-44b0-ba90-8da391ac0a92",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "tumor",
+                "id": "28167594-a942-4719-85cd-a92494734410",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "cells",
+                "id": "95ed6844-cbc5-44e7-890b-ae9411090279",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "better",
+                "id": "03d87007-c0cb-4ed4-8a9d-8c8014261e6a",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "predictor",
+                "id": "278c25ae-0c88-4bd3-9d53-0c9a2beb9a0a",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "patient",
+                "id": "9cd835c2-d50c-4e56-a414-834bd4129905",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "survival",
+                "id": "03d169c9-6cab-4a2a-b747-23682d217c35",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "prostate",
+                "id": "1c84bc84-c71c-4810-9087-97b7861e2511",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "specific",
+                "id": "65eb5045-0ce2-40be-b4a7-6aac1c96aec2",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "antigen",
+                "id": "27926886-a25b-4618-aed6-bc4e4c3edc34",
+                "index": 14,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "d33de9aa-d22e-4845-8842-ba2452b48e69",
+                "nodeTo": "e8de53d6-ea9b-44b0-ba90-8da391ac0a92",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d33de9aa-d22e-4845-8842-ba2452b48e69",
+                "nodeTo": "28167594-a942-4719-85cd-a92494734410",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d33de9aa-d22e-4845-8842-ba2452b48e69",
+                "nodeTo": "95ed6844-cbc5-44e7-890b-ae9411090279",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e8de53d6-ea9b-44b0-ba90-8da391ac0a92",
+                "nodeTo": "3741b8ae-71b2-4183-b017-d16c4059694c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "28167594-a942-4719-85cd-a92494734410",
+                "nodeTo": "3741b8ae-71b2-4183-b017-d16c4059694c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "95ed6844-cbc5-44e7-890b-ae9411090279",
+                "nodeTo": "3741b8ae-71b2-4183-b017-d16c4059694c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e8de53d6-ea9b-44b0-ba90-8da391ac0a92",
+                "nodeTo": "3a7edc73-35e0-4e26-a006-5da1acda498c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "28167594-a942-4719-85cd-a92494734410",
+                "nodeTo": "3a7edc73-35e0-4e26-a006-5da1acda498c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "95ed6844-cbc5-44e7-890b-ae9411090279",
+                "nodeTo": "3a7edc73-35e0-4e26-a006-5da1acda498c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3741b8ae-71b2-4183-b017-d16c4059694c",
+                "nodeTo": "03d87007-c0cb-4ed4-8a9d-8c8014261e6a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3741b8ae-71b2-4183-b017-d16c4059694c",
+                "nodeTo": "278c25ae-0c88-4bd3-9d53-0c9a2beb9a0a",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3a7edc73-35e0-4e26-a006-5da1acda498c",
+                "nodeTo": "03d87007-c0cb-4ed4-8a9d-8c8014261e6a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3a7edc73-35e0-4e26-a006-5da1acda498c",
+                "nodeTo": "278c25ae-0c88-4bd3-9d53-0c9a2beb9a0a",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "03d87007-c0cb-4ed4-8a9d-8c8014261e6a",
+                "nodeTo": "e17c2d4c-2391-4739-890b-3a343b314d71",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "278c25ae-0c88-4bd3-9d53-0c9a2beb9a0a",
+                "nodeTo": "e17c2d4c-2391-4739-890b-3a343b314d71",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e17c2d4c-2391-4739-890b-3a343b314d71",
+                "nodeTo": "9cd835c2-d50c-4e56-a414-834bd4129905",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e17c2d4c-2391-4739-890b-3a343b314d71",
+                "nodeTo": "03d169c9-6cab-4a2a-b747-23682d217c35",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "03d87007-c0cb-4ed4-8a9d-8c8014261e6a",
+                "nodeTo": "5408a254-e899-499a-8ada-c97c1e7d815a",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "278c25ae-0c88-4bd3-9d53-0c9a2beb9a0a",
+                "nodeTo": "5408a254-e899-499a-8ada-c97c1e7d815a",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5408a254-e899-499a-8ada-c97c1e7d815a",
+                "nodeTo": "1c84bc84-c71c-4810-9087-97b7861e2511",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5408a254-e899-499a-8ada-c97c1e7d815a",
+                "nodeTo": "65eb5045-0ce2-40be-b4a7-6aac1c96aec2",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5408a254-e899-499a-8ada-c97c1e7d815a",
+                "nodeTo": "27926886-a25b-4618-aed6-bc4e4c3edc34",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-31 20:04:37"
+}

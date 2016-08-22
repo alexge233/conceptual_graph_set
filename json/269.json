@@ -1,0 +1,94 @@
+{
+    "uuid": 269,
+    "text": "ADHD drug may help preserve self-control resources",
+    "graph": {
+        "version": 1,
+        "guid": "2eaa1044-b794-4baa-a22a-c656279a75bc",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "may",
+                "id": "d22c75cc-1406-46b9-a105-1ac6416c4d4e",
+                "postag": "NA",
+                "index": 2
+            },
+            {
+                "label": "preserve",
+                "id": "e09c38c6-4b4c-4a18-b01b-3156d9ed0c83",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "ADHD",
+                "id": "ed0ceca1-9a8b-4d2e-8015-5aeb050ab412",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "drug",
+                "id": "54a6c2cd-7bc1-445c-9e79-12c38cde74e2",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "help",
+                "id": "c591aa64-382e-4dd7-9a5a-8d74078ace2d",
+                "postag": "NA",
+                "index": 3
+            },
+            {
+                "label": "self-control",
+                "id": "59b7e959-02ab-4b6b-b39b-c79cea44c0a1",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "resources",
+                "id": "885c70cd-c312-4003-8b41-e82d4237b790",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "ed0ceca1-9a8b-4d2e-8015-5aeb050ab412",
+                "nodeTo": "d22c75cc-1406-46b9-a105-1ac6416c4d4e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "54a6c2cd-7bc1-445c-9e79-12c38cde74e2",
+                "nodeTo": "d22c75cc-1406-46b9-a105-1ac6416c4d4e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c591aa64-382e-4dd7-9a5a-8d74078ace2d",
+                "nodeTo": "e09c38c6-4b4c-4a18-b01b-3156d9ed0c83",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d22c75cc-1406-46b9-a105-1ac6416c4d4e",
+                "nodeTo": "c591aa64-382e-4dd7-9a5a-8d74078ace2d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e09c38c6-4b4c-4a18-b01b-3156d9ed0c83",
+                "nodeTo": "59b7e959-02ab-4b6b-b39b-c79cea44c0a1",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e09c38c6-4b4c-4a18-b01b-3156d9ed0c83",
+                "nodeTo": "885c70cd-c312-4003-8b41-e82d4237b790",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-03 13:39:34"
+}

@@ -1,0 +1,256 @@
+{
+    "uuid": 726,
+    "text": "Mutations in gene may also put people at increased risk for metabolic diseases like obesity and type 2 diabetes",
+    "graph": {
+        "version": 1,
+        "guid": "c4474e9d-275d-4135-8860-d4b3c42138be",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "in",
+                "id": "1a99bd42-de42-4243-b370-c0230c08ec77",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "may",
+                "id": "5138b589-2cdb-4242-a0e4-964e49b6e5a2",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "put",
+                "id": "a1abb0e5-a2a6-4d9b-8385-ca619a834b5d",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "at",
+                "id": "ebe05307-6120-435d-8427-cb93e935c571",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "d9c161e2-9ce2-41b5-a256-6799a7aacdce",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "like",
+                "id": "209ab1c9-449d-4c3a-864c-8a2dd5a2aa1d",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "acedded1-67c7-465d-b244-51b460c46418",
+                "index": 15,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Mutations",
+                "id": "154132cd-6a38-4e24-8d5e-ea4cc5293e47",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "gene",
+                "id": "3ebb2763-d093-4351-b5de-20440aca7dac",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "also",
+                "id": "38d8e09b-bcbb-4977-9ccc-8940129b3c66",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "people",
+                "id": "779a1bb0-5c1d-4d23-b2be-b49191b282cc",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "increased",
+                "id": "302b9c1d-1e2c-4517-a2b5-c400a4c65b51",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "risk",
+                "id": "267ac89d-d057-411a-8a05-724d20260658",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "metabolic",
+                "id": "8eca287d-3acd-4493-a68b-7d563ca90a10",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "diseases",
+                "id": "d3aa0e6b-168b-4009-89a3-42133d3c582c",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "obesity",
+                "id": "4951de6e-d439-4b47-8ab8-8d75aeaae6e0",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "type",
+                "id": "ea9c7446-36d3-4e0b-a092-7b1c3471d1c1",
+                "index": 16,
+                "postag": "NA"
+            },
+            {
+                "label": 2,
+                "id": "1e39b3a5-6c46-4260-97a4-5689c66e7e85",
+                "index": 17,
+                "postag": "NA"
+            },
+            {
+                "label": "diabetes",
+                "id": "0614a1e4-7711-4c7b-a177-c3d7b811e892",
+                "index": 18,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "154132cd-6a38-4e24-8d5e-ea4cc5293e47",
+                "nodeTo": "1a99bd42-de42-4243-b370-c0230c08ec77",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1a99bd42-de42-4243-b370-c0230c08ec77",
+                "nodeTo": "3ebb2763-d093-4351-b5de-20440aca7dac",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5138b589-2cdb-4242-a0e4-964e49b6e5a2",
+                "nodeTo": "38d8e09b-bcbb-4977-9ccc-8940129b3c66",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "154132cd-6a38-4e24-8d5e-ea4cc5293e47",
+                "nodeTo": "5138b589-2cdb-4242-a0e4-964e49b6e5a2",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "154132cd-6a38-4e24-8d5e-ea4cc5293e47",
+                "nodeTo": "a1abb0e5-a2a6-4d9b-8385-ca619a834b5d",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5138b589-2cdb-4242-a0e4-964e49b6e5a2",
+                "nodeTo": "779a1bb0-5c1d-4d23-b2be-b49191b282cc",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a1abb0e5-a2a6-4d9b-8385-ca619a834b5d",
+                "nodeTo": "779a1bb0-5c1d-4d23-b2be-b49191b282cc",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "779a1bb0-5c1d-4d23-b2be-b49191b282cc",
+                "nodeTo": "ebe05307-6120-435d-8427-cb93e935c571",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ebe05307-6120-435d-8427-cb93e935c571",
+                "nodeTo": "302b9c1d-1e2c-4517-a2b5-c400a4c65b51",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ebe05307-6120-435d-8427-cb93e935c571",
+                "nodeTo": "267ac89d-d057-411a-8a05-724d20260658",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "302b9c1d-1e2c-4517-a2b5-c400a4c65b51",
+                "nodeTo": "d9c161e2-9ce2-41b5-a256-6799a7aacdce",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "267ac89d-d057-411a-8a05-724d20260658",
+                "nodeTo": "d9c161e2-9ce2-41b5-a256-6799a7aacdce",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d9c161e2-9ce2-41b5-a256-6799a7aacdce",
+                "nodeTo": "8eca287d-3acd-4493-a68b-7d563ca90a10",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d9c161e2-9ce2-41b5-a256-6799a7aacdce",
+                "nodeTo": "d3aa0e6b-168b-4009-89a3-42133d3c582c",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8eca287d-3acd-4493-a68b-7d563ca90a10",
+                "nodeTo": "209ab1c9-449d-4c3a-864c-8a2dd5a2aa1d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d3aa0e6b-168b-4009-89a3-42133d3c582c",
+                "nodeTo": "209ab1c9-449d-4c3a-864c-8a2dd5a2aa1d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "209ab1c9-449d-4c3a-864c-8a2dd5a2aa1d",
+                "nodeTo": "4951de6e-d439-4b47-8ab8-8d75aeaae6e0",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4951de6e-d439-4b47-8ab8-8d75aeaae6e0",
+                "nodeTo": "acedded1-67c7-465d-b244-51b460c46418",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "acedded1-67c7-465d-b244-51b460c46418",
+                "nodeTo": "ea9c7446-36d3-4e0b-a092-7b1c3471d1c1",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "acedded1-67c7-465d-b244-51b460c46418",
+                "nodeTo": "1e39b3a5-6c46-4260-97a4-5689c66e7e85",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "acedded1-67c7-465d-b244-51b460c46418",
+                "nodeTo": "0614a1e4-7711-4c7b-a177-c3d7b811e892",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-12 19:22:16"
+}

@@ -1,0 +1,178 @@
+{
+    "uuid": 446,
+    "text": "Aspirin could save hearing of cancer patients receiving chemotherapy scientists in Cardiff hope",
+    "graph": {
+        "version": 1,
+        "guid": "e677458c-4c19-491a-8976-2295ad5e06ca",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "could",
+                "id": "4ea94325-ad29-4591-821b-b7250e4d58e2",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "save",
+                "id": "c474ce4b-1896-43aa-a34e-0bd6bb227b73",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "22c372bd-5bec-4e61-90d1-55bbe005b370",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "receiving",
+                "id": "8e337369-c2a7-488a-9312-8a2d07c5e559",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "8c5035b5-6279-4e0e-98ec-4a59337bd545",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "hope",
+                "id": "8260c193-0772-46dc-95db-93600329c11e",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Aspirin",
+                "id": "b91e8b43-ecae-40ad-a0a2-7dd6daa9343e",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "hearing",
+                "id": "e77b5702-79ae-43ed-a506-a30a200daadd",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "cancer",
+                "id": "60218695-51cc-4694-a390-d689aa67eb27",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "patients",
+                "id": "dca397b5-b36a-4075-b45d-6195e2441183",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "chemotherapy",
+                "id": "a89da679-48d9-496e-9ed3-dc7141490d70",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "scientists",
+                "id": "78722c26-ea37-45b9-a371-63cce72063d7",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "Cardiff",
+                "id": "6e87ee29-1d83-435e-ae4d-0863ab773a96",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "b91e8b43-ecae-40ad-a0a2-7dd6daa9343e",
+                "nodeTo": "4ea94325-ad29-4591-821b-b7250e4d58e2",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b91e8b43-ecae-40ad-a0a2-7dd6daa9343e",
+                "nodeTo": "c474ce4b-1896-43aa-a34e-0bd6bb227b73",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4ea94325-ad29-4591-821b-b7250e4d58e2",
+                "nodeTo": "e77b5702-79ae-43ed-a506-a30a200daadd",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c474ce4b-1896-43aa-a34e-0bd6bb227b73",
+                "nodeTo": "e77b5702-79ae-43ed-a506-a30a200daadd",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e77b5702-79ae-43ed-a506-a30a200daadd",
+                "nodeTo": "22c372bd-5bec-4e61-90d1-55bbe005b370",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "22c372bd-5bec-4e61-90d1-55bbe005b370",
+                "nodeTo": "60218695-51cc-4694-a390-d689aa67eb27",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "22c372bd-5bec-4e61-90d1-55bbe005b370",
+                "nodeTo": "dca397b5-b36a-4075-b45d-6195e2441183",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "60218695-51cc-4694-a390-d689aa67eb27",
+                "nodeTo": "8e337369-c2a7-488a-9312-8a2d07c5e559",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "dca397b5-b36a-4075-b45d-6195e2441183",
+                "nodeTo": "8e337369-c2a7-488a-9312-8a2d07c5e559",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8e337369-c2a7-488a-9312-8a2d07c5e559",
+                "nodeTo": "a89da679-48d9-496e-9ed3-dc7141490d70",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "78722c26-ea37-45b9-a371-63cce72063d7",
+                "nodeTo": "8c5035b5-6279-4e0e-98ec-4a59337bd545",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8c5035b5-6279-4e0e-98ec-4a59337bd545",
+                "nodeTo": "6e87ee29-1d83-435e-ae4d-0863ab773a96",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "78722c26-ea37-45b9-a371-63cce72063d7",
+                "nodeTo": "8260c193-0772-46dc-95db-93600329c11e",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8260c193-0772-46dc-95db-93600329c11e",
+                "nodeTo": "b91e8b43-ecae-40ad-a0a2-7dd6daa9343e",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-18 17:41:29"
+}

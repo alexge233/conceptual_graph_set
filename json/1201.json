@@ -1,0 +1,256 @@
+{
+    "uuid": 1201,
+    "text": "pilot scheme allowing patients to see GP outside from area where they live has proved popular with commuters",
+    "graph": {
+        "version": 1,
+        "guid": "c052e21c-80a7-4143-9bd0-4b66c2de4e69",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "allowing",
+                "id": "4442444e-7677-49b3-990e-e088d9835508",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "256388ee-b7b6-42e5-93ab-e2ea875dc5d0",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "see",
+                "id": "cb8da50d-b70e-4a02-b9cb-8c5ae47ee877",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "from",
+                "id": "e2261da9-6307-408a-acc9-cebbb5622381",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "where",
+                "id": "359b9c5b-d8bb-49c8-9a84-a1904519c2e8",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "has",
+                "id": "6c4672b3-5729-4887-8204-cbb159b5490b",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "proved",
+                "id": "b6ab568e-e16d-49b9-8db1-c8170d32734a",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "with",
+                "id": "9b49eac2-2367-4c28-b60c-a928e201b1dc",
+                "index": 16,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "pilot",
+                "id": "9c583c0a-1526-4789-a123-d44c772c20a3",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "scheme",
+                "id": "35cbc71b-d1bb-45b2-802c-a57a881601b0",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "patients",
+                "id": "5b52a69d-c4cb-4677-9ca5-58364a0c0c0e",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "GP",
+                "id": "b61b1961-0697-4953-b18d-18412a82cce7",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "outside",
+                "id": "ccd29a18-da44-49d4-8e6b-0c5e9e23705a",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "area",
+                "id": "4e963993-7457-48d9-ab89-55a681749636",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "they",
+                "id": "7d10256b-4ede-450a-8a1a-80ed934de927",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "live",
+                "id": "c13da706-00a8-417c-82e4-44940bc6b642",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "popular",
+                "id": "e0c7b92e-0647-43cd-9a35-a9709652a637",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "commuters",
+                "id": "11a8775d-c502-4768-8850-cb2e043e6487",
+                "index": 17,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "9c583c0a-1526-4789-a123-d44c772c20a3",
+                "nodeTo": "4442444e-7677-49b3-990e-e088d9835508",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "35cbc71b-d1bb-45b2-802c-a57a881601b0",
+                "nodeTo": "4442444e-7677-49b3-990e-e088d9835508",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4442444e-7677-49b3-990e-e088d9835508",
+                "nodeTo": "5b52a69d-c4cb-4677-9ca5-58364a0c0c0e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5b52a69d-c4cb-4677-9ca5-58364a0c0c0e",
+                "nodeTo": "256388ee-b7b6-42e5-93ab-e2ea875dc5d0",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5b52a69d-c4cb-4677-9ca5-58364a0c0c0e",
+                "nodeTo": "cb8da50d-b70e-4a02-b9cb-8c5ae47ee877",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "256388ee-b7b6-42e5-93ab-e2ea875dc5d0",
+                "nodeTo": "b61b1961-0697-4953-b18d-18412a82cce7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "cb8da50d-b70e-4a02-b9cb-8c5ae47ee877",
+                "nodeTo": "b61b1961-0697-4953-b18d-18412a82cce7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "256388ee-b7b6-42e5-93ab-e2ea875dc5d0",
+                "nodeTo": "ccd29a18-da44-49d4-8e6b-0c5e9e23705a",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "cb8da50d-b70e-4a02-b9cb-8c5ae47ee877",
+                "nodeTo": "ccd29a18-da44-49d4-8e6b-0c5e9e23705a",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ccd29a18-da44-49d4-8e6b-0c5e9e23705a",
+                "nodeTo": "e2261da9-6307-408a-acc9-cebbb5622381",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e2261da9-6307-408a-acc9-cebbb5622381",
+                "nodeTo": "4e963993-7457-48d9-ab89-55a681749636",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4e963993-7457-48d9-ab89-55a681749636",
+                "nodeTo": "359b9c5b-d8bb-49c8-9a84-a1904519c2e8",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "359b9c5b-d8bb-49c8-9a84-a1904519c2e8",
+                "nodeTo": "7d10256b-4ede-450a-8a1a-80ed934de927",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "359b9c5b-d8bb-49c8-9a84-a1904519c2e8",
+                "nodeTo": "c13da706-00a8-417c-82e4-44940bc6b642",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9c583c0a-1526-4789-a123-d44c772c20a3",
+                "nodeTo": "6c4672b3-5729-4887-8204-cbb159b5490b",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "35cbc71b-d1bb-45b2-802c-a57a881601b0",
+                "nodeTo": "6c4672b3-5729-4887-8204-cbb159b5490b",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9c583c0a-1526-4789-a123-d44c772c20a3",
+                "nodeTo": "b6ab568e-e16d-49b9-8db1-c8170d32734a",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "35cbc71b-d1bb-45b2-802c-a57a881601b0",
+                "nodeTo": "b6ab568e-e16d-49b9-8db1-c8170d32734a",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6c4672b3-5729-4887-8204-cbb159b5490b",
+                "nodeTo": "e0c7b92e-0647-43cd-9a35-a9709652a637",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b6ab568e-e16d-49b9-8db1-c8170d32734a",
+                "nodeTo": "e0c7b92e-0647-43cd-9a35-a9709652a637",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e0c7b92e-0647-43cd-9a35-a9709652a637",
+                "nodeTo": "9b49eac2-2367-4c28-b60c-a928e201b1dc",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9b49eac2-2367-4c28-b60c-a928e201b1dc",
+                "nodeTo": "11a8775d-c502-4768-8850-cb2e043e6487",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-25 22:22:20"
+}

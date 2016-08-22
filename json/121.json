@@ -1,0 +1,82 @@
+{
+    "uuid": 121,
+    "text": "Love hormone may treat anorexia",
+    "graph": {
+        "version": 1,
+        "guid": "1538db07-b6dd-4379-9d04-b3cdddda9865",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "may",
+                "id": "03906cd8-a683-4d02-b72c-3261729224ea",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "treat",
+                "id": "62d5b1d2-2324-4556-8828-ee22941b8c5e",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Love",
+                "id": "c1360402-649d-4106-8146-460be54068bc",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "hormone",
+                "id": "5c5632c3-eb4d-4ab9-a614-273a1598b1d8",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "anorexia",
+                "id": "b4e43a9e-bd86-4b60-b11b-a84d8ae23e82",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "c1360402-649d-4106-8146-460be54068bc",
+                "nodeTo": "03906cd8-a683-4d02-b72c-3261729224ea",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c1360402-649d-4106-8146-460be54068bc",
+                "nodeTo": "62d5b1d2-2324-4556-8828-ee22941b8c5e",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5c5632c3-eb4d-4ab9-a614-273a1598b1d8",
+                "nodeTo": "03906cd8-a683-4d02-b72c-3261729224ea",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5c5632c3-eb4d-4ab9-a614-273a1598b1d8",
+                "nodeTo": "62d5b1d2-2324-4556-8828-ee22941b8c5e",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "03906cd8-a683-4d02-b72c-3261729224ea",
+                "nodeTo": "b4e43a9e-bd86-4b60-b11b-a84d8ae23e82",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "62d5b1d2-2324-4556-8828-ee22941b8c5e",
+                "nodeTo": "b4e43a9e-bd86-4b60-b11b-a84d8ae23e82",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-10-29 19:33:35"
+}

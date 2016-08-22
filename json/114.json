@@ -1,0 +1,82 @@
+{
+    "uuid": 114,
+    "text": "Kind Bieber Denies Attempted Robbery Rumour",
+    "graph": {
+        "version": 1,
+        "guid": "2247d94c-6b11-43da-983b-024dcb1db46e",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "Denies",
+                "id": "87c3ba52-7017-4b35-bb5b-a450ed15d2e3",
+                "index": 2,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Kind",
+                "id": "aeee8ec7-055c-495b-b828-5474057251d0",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "Bieber",
+                "id": "d2326828-667c-4566-886d-e03d956e6b13",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "Attempted",
+                "id": "b1857892-c7c4-41d8-bd49-c624c98c649e",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "Robbery",
+                "id": "eb6c7570-e4a0-4bd3-bba1-420357d369e2",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "Rumour",
+                "id": "107043e6-502b-4034-bd70-237cdc9e1460",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "aeee8ec7-055c-495b-b828-5474057251d0",
+                "nodeTo": "87c3ba52-7017-4b35-bb5b-a450ed15d2e3",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d2326828-667c-4566-886d-e03d956e6b13",
+                "nodeTo": "87c3ba52-7017-4b35-bb5b-a450ed15d2e3",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "87c3ba52-7017-4b35-bb5b-a450ed15d2e3",
+                "nodeTo": "b1857892-c7c4-41d8-bd49-c624c98c649e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "87c3ba52-7017-4b35-bb5b-a450ed15d2e3",
+                "nodeTo": "eb6c7570-e4a0-4bd3-bba1-420357d369e2",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "87c3ba52-7017-4b35-bb5b-a450ed15d2e3",
+                "nodeTo": "107043e6-502b-4034-bd70-237cdc9e1460",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-10-28 00:03:14"
+}

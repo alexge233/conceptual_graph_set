@@ -1,0 +1,130 @@
+{
+    "uuid": 1102,
+    "text": "review explored interpersonal racism perpetrated by healthcare providers",
+    "graph": {
+        "version": 1,
+        "guid": "ea502672-8aa6-4b42-aa51-75645574c992",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "explored",
+                "id": "9b196c80-aa26-43db-930e-a864d9331130",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "perpetrated",
+                "id": "c39131b5-32c4-42ec-a7c8-153a08308547",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "by",
+                "id": "73d504b2-0b1a-4a62-b542-d725b98e08e1",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "review",
+                "id": "8dbd9296-ac14-445c-a71e-706d9c075b37",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "interpersonal",
+                "id": "a1e77155-a761-47de-87ae-7345898be649",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "racism",
+                "id": "a72e1847-b8a7-4362-8a09-039384a82a19",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "healthcare",
+                "id": "7490112a-6143-4e62-9dd3-37dab690d64c",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "providers",
+                "id": "225e5288-a97e-447d-a728-45d77b2d86d5",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "8dbd9296-ac14-445c-a71e-706d9c075b37",
+                "nodeTo": "9b196c80-aa26-43db-930e-a864d9331130",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9b196c80-aa26-43db-930e-a864d9331130",
+                "nodeTo": "a1e77155-a761-47de-87ae-7345898be649",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9b196c80-aa26-43db-930e-a864d9331130",
+                "nodeTo": "a72e1847-b8a7-4362-8a09-039384a82a19",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a1e77155-a761-47de-87ae-7345898be649",
+                "nodeTo": "c39131b5-32c4-42ec-a7c8-153a08308547",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a72e1847-b8a7-4362-8a09-039384a82a19",
+                "nodeTo": "c39131b5-32c4-42ec-a7c8-153a08308547",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a1e77155-a761-47de-87ae-7345898be649",
+                "nodeTo": "73d504b2-0b1a-4a62-b542-d725b98e08e1",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a72e1847-b8a7-4362-8a09-039384a82a19",
+                "nodeTo": "73d504b2-0b1a-4a62-b542-d725b98e08e1",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c39131b5-32c4-42ec-a7c8-153a08308547",
+                "nodeTo": "7490112a-6143-4e62-9dd3-37dab690d64c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "73d504b2-0b1a-4a62-b542-d725b98e08e1",
+                "nodeTo": "7490112a-6143-4e62-9dd3-37dab690d64c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c39131b5-32c4-42ec-a7c8-153a08308547",
+                "nodeTo": "225e5288-a97e-447d-a728-45d77b2d86d5",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "73d504b2-0b1a-4a62-b542-d725b98e08e1",
+                "nodeTo": "225e5288-a97e-447d-a728-45d77b2d86d5",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-12 00:05:33"
+}

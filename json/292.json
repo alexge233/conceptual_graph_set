@@ -1,0 +1,178 @@
+{
+    "uuid": 292,
+    "text": "Advance toward developing oral pain reliever derived from debilitating snail venom",
+    "graph": {
+        "version": 1,
+        "guid": "6a965aa5-4021-4630-8a87-c61445e91337",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "toward",
+                "id": "a3ed3408-8e59-4282-bed3-101ba1ccb2ec",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "developing",
+                "id": "27de16ce-e36d-4dcc-ab63-92bc3ab264ac",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "derived",
+                "id": "a19c8331-17b5-45d8-bab7-1e9e71b36a5e",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "from",
+                "id": "cb107100-9940-4b46-9318-031c491e6da6",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Advance",
+                "id": "8e52c40c-2241-4de2-97b9-341684664a9a",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "oral",
+                "id": "64c6ed24-03b3-44e3-b179-91069631a48c",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "pain",
+                "id": "dc3981ad-3cb6-4745-b5b3-3621c778ab8c",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "reliever",
+                "id": "113add5a-84b8-44c7-8619-0b202b88a198",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "debilitating",
+                "id": "9b4529b3-2e36-4d39-9ba3-1c0a604702c5",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "snail",
+                "id": "0400d440-63bb-4337-9223-b551b827b0a3",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "venom",
+                "id": "ada1b0ca-b857-4ceb-9211-0e1a770b75db",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "8e52c40c-2241-4de2-97b9-341684664a9a",
+                "nodeTo": "a3ed3408-8e59-4282-bed3-101ba1ccb2ec",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8e52c40c-2241-4de2-97b9-341684664a9a",
+                "nodeTo": "27de16ce-e36d-4dcc-ab63-92bc3ab264ac",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a3ed3408-8e59-4282-bed3-101ba1ccb2ec",
+                "nodeTo": "64c6ed24-03b3-44e3-b179-91069631a48c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "27de16ce-e36d-4dcc-ab63-92bc3ab264ac",
+                "nodeTo": "64c6ed24-03b3-44e3-b179-91069631a48c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a3ed3408-8e59-4282-bed3-101ba1ccb2ec",
+                "nodeTo": "dc3981ad-3cb6-4745-b5b3-3621c778ab8c",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "27de16ce-e36d-4dcc-ab63-92bc3ab264ac",
+                "nodeTo": "dc3981ad-3cb6-4745-b5b3-3621c778ab8c",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a3ed3408-8e59-4282-bed3-101ba1ccb2ec",
+                "nodeTo": "113add5a-84b8-44c7-8619-0b202b88a198",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "27de16ce-e36d-4dcc-ab63-92bc3ab264ac",
+                "nodeTo": "113add5a-84b8-44c7-8619-0b202b88a198",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8e52c40c-2241-4de2-97b9-341684664a9a",
+                "nodeTo": "a19c8331-17b5-45d8-bab7-1e9e71b36a5e",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8e52c40c-2241-4de2-97b9-341684664a9a",
+                "nodeTo": "cb107100-9940-4b46-9318-031c491e6da6",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a19c8331-17b5-45d8-bab7-1e9e71b36a5e",
+                "nodeTo": "9b4529b3-2e36-4d39-9ba3-1c0a604702c5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "cb107100-9940-4b46-9318-031c491e6da6",
+                "nodeTo": "9b4529b3-2e36-4d39-9ba3-1c0a604702c5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a19c8331-17b5-45d8-bab7-1e9e71b36a5e",
+                "nodeTo": "0400d440-63bb-4337-9223-b551b827b0a3",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a19c8331-17b5-45d8-bab7-1e9e71b36a5e",
+                "nodeTo": "ada1b0ca-b857-4ceb-9211-0e1a770b75db",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "cb107100-9940-4b46-9318-031c491e6da6",
+                "nodeTo": "0400d440-63bb-4337-9223-b551b827b0a3",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "cb107100-9940-4b46-9318-031c491e6da6",
+                "nodeTo": "ada1b0ca-b857-4ceb-9211-0e1a770b75db",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-04 10:58:11"
+}

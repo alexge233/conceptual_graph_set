@@ -1,0 +1,70 @@
+{
+    "uuid": 996,
+    "text": "Children copy parent screen habits",
+    "graph": {
+        "version": 1,
+        "guid": "deb43556-b7a7-4b79-bc3c-acc2ab267394",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "copy",
+                "id": "7708b1b7-c6bc-44c9-a269-876bb8c404d6",
+                "index": 1,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Children",
+                "id": "78be6a8b-c713-4d25-ba1c-b49d832764c9",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "parent",
+                "id": "b08632c0-9341-4385-a710-4447b97762da",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "screen",
+                "id": "350be800-5181-4aa5-8502-7a779a413db3",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "habits",
+                "id": "de617db2-8c20-4590-8b35-aa2e2e121d55",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "78be6a8b-c713-4d25-ba1c-b49d832764c9",
+                "nodeTo": "7708b1b7-c6bc-44c9-a269-876bb8c404d6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7708b1b7-c6bc-44c9-a269-876bb8c404d6",
+                "nodeTo": "b08632c0-9341-4385-a710-4447b97762da",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7708b1b7-c6bc-44c9-a269-876bb8c404d6",
+                "nodeTo": "350be800-5181-4aa5-8502-7a779a413db3",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7708b1b7-c6bc-44c9-a269-876bb8c404d6",
+                "nodeTo": "de617db2-8c20-4590-8b35-aa2e2e121d55",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-02 17:32:31"
+}

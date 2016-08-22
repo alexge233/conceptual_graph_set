@@ -1,0 +1,82 @@
+{
+    "uuid": 919,
+    "text": "cell division speed influences gene architecture",
+    "graph": {
+        "version": 1,
+        "guid": "03d387c2-d081-4e68-abc2-6cdb841dee31",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "influences",
+                "id": "8371c6c2-b606-422c-a2cc-6e0d7238234e",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "cell",
+                "id": "48c12942-e696-497a-b188-bae1dedc700d",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "division",
+                "id": "1a68a010-c4c5-4462-a4c5-c23e0d4a7939",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "speed",
+                "id": "6bd26cd0-96eb-406d-8039-2b94ed9ce04d",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "gene",
+                "id": "2a4a0835-dad7-44eb-a364-d43db58184b1",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "architecture",
+                "id": "d9e22274-61c9-4cc0-9b9e-3b054c0387b9",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "48c12942-e696-497a-b188-bae1dedc700d",
+                "nodeTo": "8371c6c2-b606-422c-a2cc-6e0d7238234e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1a68a010-c4c5-4462-a4c5-c23e0d4a7939",
+                "nodeTo": "8371c6c2-b606-422c-a2cc-6e0d7238234e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6bd26cd0-96eb-406d-8039-2b94ed9ce04d",
+                "nodeTo": "8371c6c2-b606-422c-a2cc-6e0d7238234e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8371c6c2-b606-422c-a2cc-6e0d7238234e",
+                "nodeTo": "2a4a0835-dad7-44eb-a364-d43db58184b1",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8371c6c2-b606-422c-a2cc-6e0d7238234e",
+                "nodeTo": "d9e22274-61c9-4cc0-9b9e-3b054c0387b9",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-21 21:25:16"
+}

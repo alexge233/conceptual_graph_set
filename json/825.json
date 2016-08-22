@@ -1,0 +1,190 @@
+{
+    "uuid": 825,
+    "text": "drugs which can be delivered orally eradicated primary immune cells of brain",
+    "graph": {
+        "version": 1,
+        "guid": "d7832234-291c-4716-81ba-e1143b346b42",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "which",
+                "id": "03333d23-6807-4da9-b1b8-2caeecc3c88d",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "can",
+                "id": "6a6e6338-9e6d-48db-9338-d555c15897b4",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "be",
+                "id": "690ac3d2-59d3-49a2-beb8-901b73b6129e",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "eradicated",
+                "id": "9109a573-9151-4600-9e59-10c4bd90483d",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "91143ed4-254b-4373-9422-8295cee85573",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "drugs",
+                "id": "7adc805d-7876-4395-9acc-48a080dcc752",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "delivered",
+                "id": "3895d9dc-434d-4789-ba9d-8818e0cd88d2",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "orally",
+                "id": "025d1ec3-1d41-492d-b2b4-d453039de84e",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "primary",
+                "id": "0c12bbb9-63be-4ad5-8861-d26ac33cc1c9",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "immune",
+                "id": "9e907c23-e582-4da4-898b-eb86dee65b39",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "cells",
+                "id": "4247dd12-cacc-4a0e-91b4-48195cb2c773",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "brain",
+                "id": "273b77a2-3289-412b-8b6d-3a2b92491476",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "7adc805d-7876-4395-9acc-48a080dcc752",
+                "nodeTo": "03333d23-6807-4da9-b1b8-2caeecc3c88d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7adc805d-7876-4395-9acc-48a080dcc752",
+                "nodeTo": "6a6e6338-9e6d-48db-9338-d555c15897b4",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7adc805d-7876-4395-9acc-48a080dcc752",
+                "nodeTo": "690ac3d2-59d3-49a2-beb8-901b73b6129e",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "03333d23-6807-4da9-b1b8-2caeecc3c88d",
+                "nodeTo": "3895d9dc-434d-4789-ba9d-8818e0cd88d2",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6a6e6338-9e6d-48db-9338-d555c15897b4",
+                "nodeTo": "3895d9dc-434d-4789-ba9d-8818e0cd88d2",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "690ac3d2-59d3-49a2-beb8-901b73b6129e",
+                "nodeTo": "3895d9dc-434d-4789-ba9d-8818e0cd88d2",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "03333d23-6807-4da9-b1b8-2caeecc3c88d",
+                "nodeTo": "025d1ec3-1d41-492d-b2b4-d453039de84e",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6a6e6338-9e6d-48db-9338-d555c15897b4",
+                "nodeTo": "025d1ec3-1d41-492d-b2b4-d453039de84e",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "690ac3d2-59d3-49a2-beb8-901b73b6129e",
+                "nodeTo": "025d1ec3-1d41-492d-b2b4-d453039de84e",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7adc805d-7876-4395-9acc-48a080dcc752",
+                "nodeTo": "9109a573-9151-4600-9e59-10c4bd90483d",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9109a573-9151-4600-9e59-10c4bd90483d",
+                "nodeTo": "0c12bbb9-63be-4ad5-8861-d26ac33cc1c9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9109a573-9151-4600-9e59-10c4bd90483d",
+                "nodeTo": "9e907c23-e582-4da4-898b-eb86dee65b39",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9109a573-9151-4600-9e59-10c4bd90483d",
+                "nodeTo": "4247dd12-cacc-4a0e-91b4-48195cb2c773",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0c12bbb9-63be-4ad5-8861-d26ac33cc1c9",
+                "nodeTo": "91143ed4-254b-4373-9422-8295cee85573",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9e907c23-e582-4da4-898b-eb86dee65b39",
+                "nodeTo": "91143ed4-254b-4373-9422-8295cee85573",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4247dd12-cacc-4a0e-91b4-48195cb2c773",
+                "nodeTo": "91143ed4-254b-4373-9422-8295cee85573",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "91143ed4-254b-4373-9422-8295cee85573",
+                "nodeTo": "273b77a2-3289-412b-8b6d-3a2b92491476",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-16 19:31:21"
+}

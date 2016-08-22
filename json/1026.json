@@ -1,0 +1,58 @@
+{
+    "uuid": 1026,
+    "text": "Cholesterol transporter structure decoded",
+    "graph": {
+        "version": 1,
+        "guid": "c0e096e4-a3eb-4062-8325-c23a3ebe7999",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "decoded",
+                "id": "0a5b5dc0-ce02-410b-9c60-d8eb5c5460a5",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Cholesterol",
+                "id": "98663169-c32b-4d9c-b4a2-a9481cac6754",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "transporter",
+                "id": "c4792333-c989-4d38-82c6-2a02cbb05865",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "structure",
+                "id": "eb1a2c33-7b2a-4057-bbde-8808d59e451d",
+                "index": 2,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "98663169-c32b-4d9c-b4a2-a9481cac6754",
+                "nodeTo": "0a5b5dc0-ce02-410b-9c60-d8eb5c5460a5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c4792333-c989-4d38-82c6-2a02cbb05865",
+                "nodeTo": "0a5b5dc0-ce02-410b-9c60-d8eb5c5460a5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "eb1a2c33-7b2a-4057-bbde-8808d59e451d",
+                "nodeTo": "0a5b5dc0-ce02-410b-9c60-d8eb5c5460a5",
+                "index": 1,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2015-02-03 17:49:56"
+}

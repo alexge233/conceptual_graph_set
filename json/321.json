@@ -1,0 +1,160 @@
+{
+    "uuid": 321,
+    "text": "Alcohol use in adolescence connected to risky behavior in adulthood",
+    "graph": {
+        "version": 1,
+        "guid": "5458ec22-41e9-426d-9153-18c674b08691",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "in",
+                "id": "1e160384-6ed5-445e-854e-16e6a0bcacc7",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "connected",
+                "id": "54394840-d1b6-43cd-b224-b0bb81b6745e",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "5cc13bc7-4379-4e86-ad2c-121c3b20d99a",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "d3008d27-3220-415d-a873-74c868c604ca",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Alcohol",
+                "id": "388dd6ed-ae11-445e-8356-b2ee35981719",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "use",
+                "id": "3b5702c5-8b95-4494-8cc6-65bcdbb39540",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "adolescence",
+                "id": "d5ae19dd-eea9-4653-82c0-ea3140a371ab",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "risky",
+                "id": "2461ccc6-07bb-467a-9875-ae82ecb4830e",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "behavior",
+                "id": "7cbce610-1562-4a4e-8e3e-0a899c5a11be",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "adulthood",
+                "id": "1189b8e2-c452-4e10-a86b-ce61b18565bc",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "388dd6ed-ae11-445e-8356-b2ee35981719",
+                "nodeTo": "1e160384-6ed5-445e-854e-16e6a0bcacc7",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3b5702c5-8b95-4494-8cc6-65bcdbb39540",
+                "nodeTo": "1e160384-6ed5-445e-854e-16e6a0bcacc7",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1e160384-6ed5-445e-854e-16e6a0bcacc7",
+                "nodeTo": "d5ae19dd-eea9-4653-82c0-ea3140a371ab",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "388dd6ed-ae11-445e-8356-b2ee35981719",
+                "nodeTo": "54394840-d1b6-43cd-b224-b0bb81b6745e",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3b5702c5-8b95-4494-8cc6-65bcdbb39540",
+                "nodeTo": "54394840-d1b6-43cd-b224-b0bb81b6745e",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "388dd6ed-ae11-445e-8356-b2ee35981719",
+                "nodeTo": "5cc13bc7-4379-4e86-ad2c-121c3b20d99a",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3b5702c5-8b95-4494-8cc6-65bcdbb39540",
+                "nodeTo": "5cc13bc7-4379-4e86-ad2c-121c3b20d99a",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "54394840-d1b6-43cd-b224-b0bb81b6745e",
+                "nodeTo": "2461ccc6-07bb-467a-9875-ae82ecb4830e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5cc13bc7-4379-4e86-ad2c-121c3b20d99a",
+                "nodeTo": "2461ccc6-07bb-467a-9875-ae82ecb4830e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "54394840-d1b6-43cd-b224-b0bb81b6745e",
+                "nodeTo": "7cbce610-1562-4a4e-8e3e-0a899c5a11be",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5cc13bc7-4379-4e86-ad2c-121c3b20d99a",
+                "nodeTo": "7cbce610-1562-4a4e-8e3e-0a899c5a11be",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2461ccc6-07bb-467a-9875-ae82ecb4830e",
+                "nodeTo": "d3008d27-3220-415d-a873-74c868c604ca",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7cbce610-1562-4a4e-8e3e-0a899c5a11be",
+                "nodeTo": "d3008d27-3220-415d-a873-74c868c604ca",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d3008d27-3220-415d-a873-74c868c604ca",
+                "nodeTo": "1189b8e2-c452-4e10-a86b-ce61b18565bc",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-04 21:05:09"
+}

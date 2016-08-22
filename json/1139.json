@@ -1,0 +1,220 @@
+{
+    "uuid": 1139,
+    "text": "like incidence mortality rates have also declined most rapidly within past decade",
+    "graph": {
+        "version": 1,
+        "guid": "2e551d44-35dc-4380-9e66-1ed2b5910db7",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "like",
+                "id": "53489245-1e4c-43a2-8594-500e073e7b6b",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "have",
+                "id": "93e94840-9693-4d96-bb07-3c9543aea82c",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "also",
+                "id": "9753a8b9-ed34-46aa-99c0-76abb2b06dd7",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "declined",
+                "id": "0082d308-9067-4422-a1e8-243d700a68e3",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "within",
+                "id": "65b25167-4036-483d-b634-d176784979a1",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "incidence",
+                "id": "152a2c7d-478c-4ee6-a4bc-02870c3b5580",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "mortality",
+                "id": "9ae34226-676a-4082-81da-911abd424c81",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "rates",
+                "id": "b8953036-c3ba-4ede-b7b8-83c1e652593c",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "most",
+                "id": "ababb677-502b-4c7c-a1d5-e478927b440d",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "rapidly",
+                "id": "11cccb72-1be3-4ee3-b330-a3e76218e0bd",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "past",
+                "id": "b3e353e8-c06a-470b-b841-0c2b2437d7bb",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "decade",
+                "id": "7bd3d4b2-0bba-47c6-8ed4-a9839101d5c6",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "53489245-1e4c-43a2-8594-500e073e7b6b",
+                "nodeTo": "152a2c7d-478c-4ee6-a4bc-02870c3b5580",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "53489245-1e4c-43a2-8594-500e073e7b6b",
+                "nodeTo": "9ae34226-676a-4082-81da-911abd424c81",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "53489245-1e4c-43a2-8594-500e073e7b6b",
+                "nodeTo": "b8953036-c3ba-4ede-b7b8-83c1e652593c",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b8953036-c3ba-4ede-b7b8-83c1e652593c",
+                "nodeTo": "93e94840-9693-4d96-bb07-3c9543aea82c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b8953036-c3ba-4ede-b7b8-83c1e652593c",
+                "nodeTo": "9753a8b9-ed34-46aa-99c0-76abb2b06dd7",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b8953036-c3ba-4ede-b7b8-83c1e652593c",
+                "nodeTo": "0082d308-9067-4422-a1e8-243d700a68e3",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "152a2c7d-478c-4ee6-a4bc-02870c3b5580",
+                "nodeTo": "93e94840-9693-4d96-bb07-3c9543aea82c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "152a2c7d-478c-4ee6-a4bc-02870c3b5580",
+                "nodeTo": "9753a8b9-ed34-46aa-99c0-76abb2b06dd7",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "152a2c7d-478c-4ee6-a4bc-02870c3b5580",
+                "nodeTo": "0082d308-9067-4422-a1e8-243d700a68e3",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9ae34226-676a-4082-81da-911abd424c81",
+                "nodeTo": "93e94840-9693-4d96-bb07-3c9543aea82c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9ae34226-676a-4082-81da-911abd424c81",
+                "nodeTo": "9753a8b9-ed34-46aa-99c0-76abb2b06dd7",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9ae34226-676a-4082-81da-911abd424c81",
+                "nodeTo": "0082d308-9067-4422-a1e8-243d700a68e3",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "93e94840-9693-4d96-bb07-3c9543aea82c",
+                "nodeTo": "ababb677-502b-4c7c-a1d5-e478927b440d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9753a8b9-ed34-46aa-99c0-76abb2b06dd7",
+                "nodeTo": "ababb677-502b-4c7c-a1d5-e478927b440d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0082d308-9067-4422-a1e8-243d700a68e3",
+                "nodeTo": "ababb677-502b-4c7c-a1d5-e478927b440d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "93e94840-9693-4d96-bb07-3c9543aea82c",
+                "nodeTo": "11cccb72-1be3-4ee3-b330-a3e76218e0bd",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9753a8b9-ed34-46aa-99c0-76abb2b06dd7",
+                "nodeTo": "11cccb72-1be3-4ee3-b330-a3e76218e0bd",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0082d308-9067-4422-a1e8-243d700a68e3",
+                "nodeTo": "11cccb72-1be3-4ee3-b330-a3e76218e0bd",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ababb677-502b-4c7c-a1d5-e478927b440d",
+                "nodeTo": "65b25167-4036-483d-b634-d176784979a1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "11cccb72-1be3-4ee3-b330-a3e76218e0bd",
+                "nodeTo": "65b25167-4036-483d-b634-d176784979a1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "65b25167-4036-483d-b634-d176784979a1",
+                "nodeTo": "b3e353e8-c06a-470b-b841-0c2b2437d7bb",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "65b25167-4036-483d-b634-d176784979a1",
+                "nodeTo": "7bd3d4b2-0bba-47c6-8ed4-a9839101d5c6",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-23 19:30:22"
+}

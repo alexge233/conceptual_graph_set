@@ -1,0 +1,94 @@
+{
+    "uuid": 415,
+    "text": "But employing antioxidants could backfire say researchers",
+    "graph": {
+        "version": 1,
+        "guid": "33c56da3-2b5a-401e-9364-4ae698b31b2e",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "But",
+                "id": "00131a49-5b43-4785-a334-ed00c1727546",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "employing",
+                "id": "76a75344-b2e5-46be-bbc9-4d73aa1010cd",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "could",
+                "id": "4c660da1-cd45-4b3d-a3dd-71865e3356dc",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "say",
+                "id": "38942a77-c1cb-40a4-8bec-c0db63c99cd8",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "antioxidants",
+                "id": "3a4c498e-e6cd-4975-9cd8-85a4d304bcdb",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "backfire",
+                "id": "365db3cc-2337-488e-ba3d-5bebdbee7c6c",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "researchers",
+                "id": "c9662713-55a8-41b5-9e2c-1b386a115c63",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "00131a49-5b43-4785-a334-ed00c1727546",
+                "nodeTo": "3a4c498e-e6cd-4975-9cd8-85a4d304bcdb",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "76a75344-b2e5-46be-bbc9-4d73aa1010cd",
+                "nodeTo": "3a4c498e-e6cd-4975-9cd8-85a4d304bcdb",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3a4c498e-e6cd-4975-9cd8-85a4d304bcdb",
+                "nodeTo": "4c660da1-cd45-4b3d-a3dd-71865e3356dc",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4c660da1-cd45-4b3d-a3dd-71865e3356dc",
+                "nodeTo": "365db3cc-2337-488e-ba3d-5bebdbee7c6c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "365db3cc-2337-488e-ba3d-5bebdbee7c6c",
+                "nodeTo": "38942a77-c1cb-40a4-8bec-c0db63c99cd8",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "38942a77-c1cb-40a4-8bec-c0db63c99cd8",
+                "nodeTo": "c9662713-55a8-41b5-9e2c-1b386a115c63",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-18 15:40:30"
+}

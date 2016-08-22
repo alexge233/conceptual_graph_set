@@ -1,0 +1,94 @@
+{
+    "uuid": 636,
+    "text": "Bob Hoskins daughter reveals his life lessons",
+    "graph": {
+        "version": 1,
+        "guid": "d68cda92-5b77-46a6-a10e-44c76516bec8",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "reveals",
+                "id": "4102bea6-ee99-40dd-8c18-5c72d421d161",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Bob",
+                "id": "7e383deb-4eac-4820-82c1-a8436d999948",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "Hoskins",
+                "id": "e5558ec3-906b-4b10-ab4e-e9c49a739e75",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "daughter",
+                "id": "222e7801-9534-4c5b-b84e-7a8198aaa41b",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "his",
+                "id": "7681d878-7e88-4cb9-b5b5-80e1e820cabd",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "life",
+                "id": "365e5764-b00b-4262-bd34-16254710435d",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "lessons",
+                "id": "76523b33-55b3-474c-9674-4b6c0900e709",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "7e383deb-4eac-4820-82c1-a8436d999948",
+                "nodeTo": "4102bea6-ee99-40dd-8c18-5c72d421d161",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e5558ec3-906b-4b10-ab4e-e9c49a739e75",
+                "nodeTo": "4102bea6-ee99-40dd-8c18-5c72d421d161",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "222e7801-9534-4c5b-b84e-7a8198aaa41b",
+                "nodeTo": "4102bea6-ee99-40dd-8c18-5c72d421d161",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4102bea6-ee99-40dd-8c18-5c72d421d161",
+                "nodeTo": "7681d878-7e88-4cb9-b5b5-80e1e820cabd",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4102bea6-ee99-40dd-8c18-5c72d421d161",
+                "nodeTo": "365e5764-b00b-4262-bd34-16254710435d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4102bea6-ee99-40dd-8c18-5c72d421d161",
+                "nodeTo": "76523b33-55b3-474c-9674-4b6c0900e709",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-08 20:39:44"
+}

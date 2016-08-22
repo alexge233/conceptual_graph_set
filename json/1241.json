@@ -1,0 +1,172 @@
+{
+    "uuid": 1241,
+    "text": "concussion rate in high-school athletes more than doubled in 7-year period US",
+    "graph": {
+        "version": 1,
+        "guid": "151cc84c-e42c-4d48-81ed-739bb9582c79",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "in",
+                "id": "9727e737-38a7-4765-8d04-01647472868c",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "more",
+                "id": "e4b399b6-c4cb-4287-8172-0c32ee109d53",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "than",
+                "id": "79486231-26dc-44dc-a1c4-da3ccdbd4352",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "a498d439-a3ea-406c-b2c7-cd2354d50560",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "concussion",
+                "id": "5cd78043-8db6-4bd0-b319-87b28dabaee8",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "rate",
+                "id": "7d66ae6b-b3aa-487b-8ad2-925e4a178dee",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "high-school",
+                "id": "84aa83c6-b5b0-4b12-a9ed-91ccde245716",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "athletes",
+                "id": "09c25b09-78aa-4539-817e-2c4115c19569",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "doubled",
+                "id": "cc8a2116-b494-4054-9979-7bc2a57b177b",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "7-year",
+                "id": "2e97d2b5-8027-4058-b4b7-822914465cb3",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "period",
+                "id": "22547a03-560c-4333-b4d8-de8c59194239",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "US",
+                "id": "b826a107-d556-4d64-91a4-713a7365b683",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "5cd78043-8db6-4bd0-b319-87b28dabaee8",
+                "nodeTo": "9727e737-38a7-4765-8d04-01647472868c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7d66ae6b-b3aa-487b-8ad2-925e4a178dee",
+                "nodeTo": "9727e737-38a7-4765-8d04-01647472868c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9727e737-38a7-4765-8d04-01647472868c",
+                "nodeTo": "84aa83c6-b5b0-4b12-a9ed-91ccde245716",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9727e737-38a7-4765-8d04-01647472868c",
+                "nodeTo": "09c25b09-78aa-4539-817e-2c4115c19569",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5cd78043-8db6-4bd0-b319-87b28dabaee8",
+                "nodeTo": "e4b399b6-c4cb-4287-8172-0c32ee109d53",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7d66ae6b-b3aa-487b-8ad2-925e4a178dee",
+                "nodeTo": "e4b399b6-c4cb-4287-8172-0c32ee109d53",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5cd78043-8db6-4bd0-b319-87b28dabaee8",
+                "nodeTo": "79486231-26dc-44dc-a1c4-da3ccdbd4352",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7d66ae6b-b3aa-487b-8ad2-925e4a178dee",
+                "nodeTo": "79486231-26dc-44dc-a1c4-da3ccdbd4352",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e4b399b6-c4cb-4287-8172-0c32ee109d53",
+                "nodeTo": "cc8a2116-b494-4054-9979-7bc2a57b177b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "79486231-26dc-44dc-a1c4-da3ccdbd4352",
+                "nodeTo": "cc8a2116-b494-4054-9979-7bc2a57b177b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "cc8a2116-b494-4054-9979-7bc2a57b177b",
+                "nodeTo": "a498d439-a3ea-406c-b2c7-cd2354d50560",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a498d439-a3ea-406c-b2c7-cd2354d50560",
+                "nodeTo": "2e97d2b5-8027-4058-b4b7-822914465cb3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a498d439-a3ea-406c-b2c7-cd2354d50560",
+                "nodeTo": "22547a03-560c-4333-b4d8-de8c59194239",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a498d439-a3ea-406c-b2c7-cd2354d50560",
+                "nodeTo": "b826a107-d556-4d64-91a4-713a7365b683",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-03-02 19:11:59"
+}

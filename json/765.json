@@ -1,0 +1,262 @@
+{
+    "uuid": 765,
+    "text": "people should be able to exercise choice over their lives which should include how and when they die",
+    "graph": {
+        "version": 1,
+        "guid": "d78a54ea-c193-498d-8d17-5128a91bc656",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "should",
+                "id": "5a92183d-49b3-476a-9c53-e79d54d413c6",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "be",
+                "id": "76445e12-ecd9-4ea4-a155-c32a76253886",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "d848bed3-b2e1-4b55-8b40-52d0026e19cd",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "exercise",
+                "id": "1054ce86-30b8-4b3a-ac12-3a17c4bd811b",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "over",
+                "id": "4b119118-a756-42a0-b18e-ae8db0d79157",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "which",
+                "id": "5d549c9a-0148-48a5-9722-62ee94cac0ac",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "should",
+                "id": "bc15d06b-9d37-4ec5-9a4d-ac894bbc3d85",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "include",
+                "id": "90ed4484-34bc-4b61-8a77-b02e2588b7d0",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "how",
+                "id": "bb12a7ad-75ad-4d02-8d70-c7ec168e309a",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "8adb93c2-dd5b-4178-abb6-3329dde634d2",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "when",
+                "id": "77ecc08a-6407-4da8-96ba-6726ac697a48",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "die",
+                "id": "1319bc28-b528-4791-869a-0ccb97ab4062",
+                "index": 17,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "people",
+                "id": "90a0b55a-86b2-4927-937b-ad0649445411",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "able",
+                "id": "ab572d0b-8a00-4ced-aa7b-167b69b85053",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "choice",
+                "id": "83b59376-5174-4a61-ba1e-394c0b0a8718",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "their",
+                "id": "cc8e3248-adb2-4721-accc-85544244b5d7",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "lives",
+                "id": "82b336ab-0d40-4845-963d-9d6cb883a6e3",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "they",
+                "id": "19443c35-ddc4-4300-bd6c-c2c94ec522d4",
+                "index": 16,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "90a0b55a-86b2-4927-937b-ad0649445411",
+                "nodeTo": "5a92183d-49b3-476a-9c53-e79d54d413c6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "90a0b55a-86b2-4927-937b-ad0649445411",
+                "nodeTo": "76445e12-ecd9-4ea4-a155-c32a76253886",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5a92183d-49b3-476a-9c53-e79d54d413c6",
+                "nodeTo": "ab572d0b-8a00-4ced-aa7b-167b69b85053",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "76445e12-ecd9-4ea4-a155-c32a76253886",
+                "nodeTo": "ab572d0b-8a00-4ced-aa7b-167b69b85053",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ab572d0b-8a00-4ced-aa7b-167b69b85053",
+                "nodeTo": "d848bed3-b2e1-4b55-8b40-52d0026e19cd",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ab572d0b-8a00-4ced-aa7b-167b69b85053",
+                "nodeTo": "1054ce86-30b8-4b3a-ac12-3a17c4bd811b",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d848bed3-b2e1-4b55-8b40-52d0026e19cd",
+                "nodeTo": "83b59376-5174-4a61-ba1e-394c0b0a8718",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1054ce86-30b8-4b3a-ac12-3a17c4bd811b",
+                "nodeTo": "83b59376-5174-4a61-ba1e-394c0b0a8718",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "83b59376-5174-4a61-ba1e-394c0b0a8718",
+                "nodeTo": "4b119118-a756-42a0-b18e-ae8db0d79157",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4b119118-a756-42a0-b18e-ae8db0d79157",
+                "nodeTo": "cc8e3248-adb2-4721-accc-85544244b5d7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4b119118-a756-42a0-b18e-ae8db0d79157",
+                "nodeTo": "82b336ab-0d40-4845-963d-9d6cb883a6e3",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "83b59376-5174-4a61-ba1e-394c0b0a8718",
+                "nodeTo": "5d549c9a-0148-48a5-9722-62ee94cac0ac",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "83b59376-5174-4a61-ba1e-394c0b0a8718",
+                "nodeTo": "bc15d06b-9d37-4ec5-9a4d-ac894bbc3d85",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "83b59376-5174-4a61-ba1e-394c0b0a8718",
+                "nodeTo": "90ed4484-34bc-4b61-8a77-b02e2588b7d0",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "83b59376-5174-4a61-ba1e-394c0b0a8718",
+                "nodeTo": "bb12a7ad-75ad-4d02-8d70-c7ec168e309a",
+                "index": 5,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "83b59376-5174-4a61-ba1e-394c0b0a8718",
+                "nodeTo": "8adb93c2-dd5b-4178-abb6-3329dde634d2",
+                "index": 6,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "83b59376-5174-4a61-ba1e-394c0b0a8718",
+                "nodeTo": "77ecc08a-6407-4da8-96ba-6726ac697a48",
+                "index": 7,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bc15d06b-9d37-4ec5-9a4d-ac894bbc3d85",
+                "nodeTo": "19443c35-ddc4-4300-bd6c-c2c94ec522d4",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "90ed4484-34bc-4b61-8a77-b02e2588b7d0",
+                "nodeTo": "19443c35-ddc4-4300-bd6c-c2c94ec522d4",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "bb12a7ad-75ad-4d02-8d70-c7ec168e309a",
+                "nodeTo": "19443c35-ddc4-4300-bd6c-c2c94ec522d4",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8adb93c2-dd5b-4178-abb6-3329dde634d2",
+                "nodeTo": "19443c35-ddc4-4300-bd6c-c2c94ec522d4",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "77ecc08a-6407-4da8-96ba-6726ac697a48",
+                "nodeTo": "19443c35-ddc4-4300-bd6c-c2c94ec522d4",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "19443c35-ddc4-4300-bd6c-c2c94ec522d4",
+                "nodeTo": "1319bc28-b528-4791-869a-0ccb97ab4062",
+                "index": 1,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2015-01-13 21:26:31"
+}

@@ -1,0 +1,94 @@
+{
+    "uuid": 971,
+    "text": "Chemists discover structure of cancer drug candidate",
+    "graph": {
+        "version": 1,
+        "guid": "a7924d3a-9d52-47a5-9465-cc6d9a7a63b4",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "discover",
+                "id": "e5ec9785-31b8-4008-a9b8-4a7dc488b734",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "ee8457eb-744e-4eb5-8e72-78b97174dc98",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Chemists",
+                "id": "bb210418-5c08-4eb0-abde-32eb02c89392",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "structure",
+                "id": "58bec89e-9247-46aa-9c07-c4c4d63e584d",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "cancer",
+                "id": "8119859b-ea0e-4253-9282-e5ee0b0c87a0",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "drug",
+                "id": "7e04bc73-a0c0-45cc-8aa2-67241b65c18b",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "candidate",
+                "id": "e997bca6-9ac4-4ee5-b41e-c8e8ead137e1",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "bb210418-5c08-4eb0-abde-32eb02c89392",
+                "nodeTo": "e5ec9785-31b8-4008-a9b8-4a7dc488b734",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e5ec9785-31b8-4008-a9b8-4a7dc488b734",
+                "nodeTo": "58bec89e-9247-46aa-9c07-c4c4d63e584d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "58bec89e-9247-46aa-9c07-c4c4d63e584d",
+                "nodeTo": "ee8457eb-744e-4eb5-8e72-78b97174dc98",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ee8457eb-744e-4eb5-8e72-78b97174dc98",
+                "nodeTo": "8119859b-ea0e-4253-9282-e5ee0b0c87a0",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ee8457eb-744e-4eb5-8e72-78b97174dc98",
+                "nodeTo": "7e04bc73-a0c0-45cc-8aa2-67241b65c18b",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ee8457eb-744e-4eb5-8e72-78b97174dc98",
+                "nodeTo": "e997bca6-9ac4-4ee5-b41e-c8e8ead137e1",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-28 12:20:45"
+}

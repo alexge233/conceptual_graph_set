@@ -1,0 +1,106 @@
+{
+    "uuid": 614,
+    "text": "But is there relationship between pain and longevity",
+    "graph": {
+        "version": 1,
+        "guid": "c8c4dc92-8cc4-49b2-a5bb-6548729514e5",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "But",
+                "id": "bb125203-c1bd-41b0-9858-c36bcdbc5a16",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "is",
+                "id": "7399d873-85c4-486c-abb8-dba342b11905",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "there",
+                "id": "43416768-9bb6-4632-9301-589a34bee211",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "between",
+                "id": "ca21b2b6-76b7-4cd4-ab81-4cc20b4dc496",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "61733bb7-353e-436b-9ca3-6b6d0aedd392",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "relationship",
+                "id": "193e4c3a-33a9-4c09-810d-c1a0da0c6376",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "pain",
+                "id": "0b385ad2-7224-4b19-a945-d0124ca5909a",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "longevity",
+                "id": "e8ea130c-93c4-4ee7-bb0e-a84c686b2b3c",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "bb125203-c1bd-41b0-9858-c36bcdbc5a16",
+                "nodeTo": "193e4c3a-33a9-4c09-810d-c1a0da0c6376",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7399d873-85c4-486c-abb8-dba342b11905",
+                "nodeTo": "193e4c3a-33a9-4c09-810d-c1a0da0c6376",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "43416768-9bb6-4632-9301-589a34bee211",
+                "nodeTo": "193e4c3a-33a9-4c09-810d-c1a0da0c6376",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "193e4c3a-33a9-4c09-810d-c1a0da0c6376",
+                "nodeTo": "ca21b2b6-76b7-4cd4-ab81-4cc20b4dc496",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ca21b2b6-76b7-4cd4-ab81-4cc20b4dc496",
+                "nodeTo": "0b385ad2-7224-4b19-a945-d0124ca5909a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0b385ad2-7224-4b19-a945-d0124ca5909a",
+                "nodeTo": "61733bb7-353e-436b-9ca3-6b6d0aedd392",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "61733bb7-353e-436b-9ca3-6b6d0aedd392",
+                "nodeTo": "e8ea130c-93c4-4ee7-bb0e-a84c686b2b3c",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-08 19:12:30"
+}

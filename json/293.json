@@ -1,0 +1,220 @@
+{
+    "uuid": 293,
+    "text": "substances could potentially be stronger than morphine with fewer side effects and lower risk of abuse",
+    "graph": {
+        "version": 1,
+        "guid": "518863d6-374e-47d1-91dc-9ab249b0746c",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "could",
+                "id": "a3c73133-e240-4658-a33e-a4a94944e03b",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "be",
+                "id": "b76c96aa-18e9-449c-a94b-d99cbc98748a",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "than",
+                "id": "b15101a5-7221-4cab-ab9b-43e473039740",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "with",
+                "id": "266e9570-e705-4165-955d-42a70786ca30",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "58bcac75-ab98-4874-8468-d445d79da8c0",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "5824b147-2b64-43b4-9aea-999166117a13",
+                "index": 14,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "substances",
+                "id": "729ead49-98b4-4157-b98e-da96c62e153e",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "potentially",
+                "id": "2ead7b63-10d7-4884-a773-0d414cc09293",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "stronger",
+                "id": "13aa0622-a67c-4d6b-a514-ecbe22a34347",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "morphine",
+                "id": "82d814c0-2c36-4181-9934-811c49843d46",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "fewer",
+                "id": "4c6ac484-b1a7-4496-a8ee-a7ece2b2b0a3",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "side",
+                "id": "4e1a81ba-6c63-452d-ad75-0723274a8170",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "effects",
+                "id": "4957902d-cee3-4c04-b125-ed16e112592a",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "lower",
+                "id": "641d6adb-a5a6-4c6b-884a-e5be53be197a",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "risk",
+                "id": "3d985538-3a2e-4829-83e4-29343ed9526c",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "abuse",
+                "id": "397b3631-2db1-46a7-b223-007a9a0b80aa",
+                "index": 15,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "729ead49-98b4-4157-b98e-da96c62e153e",
+                "nodeTo": "a3c73133-e240-4658-a33e-a4a94944e03b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a3c73133-e240-4658-a33e-a4a94944e03b",
+                "nodeTo": "2ead7b63-10d7-4884-a773-0d414cc09293",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b76c96aa-18e9-449c-a94b-d99cbc98748a",
+                "nodeTo": "13aa0622-a67c-4d6b-a514-ecbe22a34347",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2ead7b63-10d7-4884-a773-0d414cc09293",
+                "nodeTo": "b76c96aa-18e9-449c-a94b-d99cbc98748a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "13aa0622-a67c-4d6b-a514-ecbe22a34347",
+                "nodeTo": "b15101a5-7221-4cab-ab9b-43e473039740",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b15101a5-7221-4cab-ab9b-43e473039740",
+                "nodeTo": "82d814c0-2c36-4181-9934-811c49843d46",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "13aa0622-a67c-4d6b-a514-ecbe22a34347",
+                "nodeTo": "266e9570-e705-4165-955d-42a70786ca30",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "266e9570-e705-4165-955d-42a70786ca30",
+                "nodeTo": "4c6ac484-b1a7-4496-a8ee-a7ece2b2b0a3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "266e9570-e705-4165-955d-42a70786ca30",
+                "nodeTo": "4e1a81ba-6c63-452d-ad75-0723274a8170",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "266e9570-e705-4165-955d-42a70786ca30",
+                "nodeTo": "4957902d-cee3-4c04-b125-ed16e112592a",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4c6ac484-b1a7-4496-a8ee-a7ece2b2b0a3",
+                "nodeTo": "58bcac75-ab98-4874-8468-d445d79da8c0",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4e1a81ba-6c63-452d-ad75-0723274a8170",
+                "nodeTo": "58bcac75-ab98-4874-8468-d445d79da8c0",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4957902d-cee3-4c04-b125-ed16e112592a",
+                "nodeTo": "58bcac75-ab98-4874-8468-d445d79da8c0",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "58bcac75-ab98-4874-8468-d445d79da8c0",
+                "nodeTo": "641d6adb-a5a6-4c6b-884a-e5be53be197a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "58bcac75-ab98-4874-8468-d445d79da8c0",
+                "nodeTo": "3d985538-3a2e-4829-83e4-29343ed9526c",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "641d6adb-a5a6-4c6b-884a-e5be53be197a",
+                "nodeTo": "5824b147-2b64-43b4-9aea-999166117a13",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3d985538-3a2e-4829-83e4-29343ed9526c",
+                "nodeTo": "5824b147-2b64-43b4-9aea-999166117a13",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5824b147-2b64-43b4-9aea-999166117a13",
+                "nodeTo": "397b3631-2db1-46a7-b223-007a9a0b80aa",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-04 11:43:53"
+}

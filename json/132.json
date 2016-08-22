@@ -1,0 +1,292 @@
+{
+    "uuid": 132,
+    "text": "World Health Organization has declared its South East Asia region polio-free so 80% of world is now officially free of disease",
+    "graph": {
+        "version": 1,
+        "guid": "7b4c9571-b2d2-4b30-a0da-cee2b124102d",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "has",
+                "id": "978ea418-1231-4838-b365-cbbb18063767",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "declared",
+                "id": "b21e0a93-d6c7-4005-9d2c-4c8e8d4ed84b",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "its",
+                "id": "9d51611b-772e-4540-be9e-ce3726674a1c",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "so",
+                "id": "70409c47-e720-4683-95a5-372152475b62",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "14eea919-8a2d-427c-a512-00a960c99554",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "is",
+                "id": "2e629034-d102-4bad-9097-3122de61e445",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "283ed419-cc62-4a70-9823-4cb1406d6bbe",
+                "index": 19,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "World",
+                "id": "39a9284b-c619-4a15-9495-a3e36c108248",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "Health",
+                "id": "46ad5e6a-108b-4554-a5e9-538c3e89ee0b",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "Organization",
+                "id": "89c3622a-936a-4992-9e38-6724617e615c",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "South",
+                "id": "e5ed7139-7a59-4996-8e17-d841aa3217d5",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "East",
+                "id": "050c47d4-5731-48bc-8a08-668a153cc3ca",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "Asia",
+                "id": "e8ace2c0-9867-4e43-98ce-db99e343623e",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "region",
+                "id": "968463a7-94d4-4dd0-a811-bdab066e9113",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "polio-free",
+                "id": "e913ca15-a50b-4d5d-8e2d-45d5ac0d6abe",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "80%",
+                "id": "14969d47-c3d5-4947-914b-e311c33085a3",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "world",
+                "id": "987e0900-7140-4915-8956-24bb97045a59",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "now",
+                "id": "d6449467-6080-4024-bd6c-8d5775034aa0",
+                "index": 16,
+                "postag": "NA"
+            },
+            {
+                "label": "officially",
+                "id": "09734e49-add9-4509-9537-a2ce1a73d6c0",
+                "index": 17,
+                "postag": "NA"
+            },
+            {
+                "label": "free",
+                "id": "52c86ba3-eb94-43aa-a798-6ca9e4e65913",
+                "index": 18,
+                "postag": "NA"
+            },
+            {
+                "label": "disease",
+                "id": "e37603b4-8a94-4c99-ad3b-7854d1b250ee",
+                "index": 20,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "39a9284b-c619-4a15-9495-a3e36c108248",
+                "nodeTo": "978ea418-1231-4838-b365-cbbb18063767",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "39a9284b-c619-4a15-9495-a3e36c108248",
+                "nodeTo": "b21e0a93-d6c7-4005-9d2c-4c8e8d4ed84b",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "39a9284b-c619-4a15-9495-a3e36c108248",
+                "nodeTo": "9d51611b-772e-4540-be9e-ce3726674a1c",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "46ad5e6a-108b-4554-a5e9-538c3e89ee0b",
+                "nodeTo": "978ea418-1231-4838-b365-cbbb18063767",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "46ad5e6a-108b-4554-a5e9-538c3e89ee0b",
+                "nodeTo": "b21e0a93-d6c7-4005-9d2c-4c8e8d4ed84b",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "46ad5e6a-108b-4554-a5e9-538c3e89ee0b",
+                "nodeTo": "9d51611b-772e-4540-be9e-ce3726674a1c",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "89c3622a-936a-4992-9e38-6724617e615c",
+                "nodeTo": "978ea418-1231-4838-b365-cbbb18063767",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "89c3622a-936a-4992-9e38-6724617e615c",
+                "nodeTo": "b21e0a93-d6c7-4005-9d2c-4c8e8d4ed84b",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "89c3622a-936a-4992-9e38-6724617e615c",
+                "nodeTo": "9d51611b-772e-4540-be9e-ce3726674a1c",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9d51611b-772e-4540-be9e-ce3726674a1c",
+                "nodeTo": "e5ed7139-7a59-4996-8e17-d841aa3217d5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9d51611b-772e-4540-be9e-ce3726674a1c",
+                "nodeTo": "050c47d4-5731-48bc-8a08-668a153cc3ca",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9d51611b-772e-4540-be9e-ce3726674a1c",
+                "nodeTo": "e8ace2c0-9867-4e43-98ce-db99e343623e",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9d51611b-772e-4540-be9e-ce3726674a1c",
+                "nodeTo": "968463a7-94d4-4dd0-a811-bdab066e9113",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "978ea418-1231-4838-b365-cbbb18063767",
+                "nodeTo": "e913ca15-a50b-4d5d-8e2d-45d5ac0d6abe",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b21e0a93-d6c7-4005-9d2c-4c8e8d4ed84b",
+                "nodeTo": "e913ca15-a50b-4d5d-8e2d-45d5ac0d6abe",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e913ca15-a50b-4d5d-8e2d-45d5ac0d6abe",
+                "nodeTo": "70409c47-e720-4683-95a5-372152475b62",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "70409c47-e720-4683-95a5-372152475b62",
+                "nodeTo": "14969d47-c3d5-4947-914b-e311c33085a3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "14969d47-c3d5-4947-914b-e311c33085a3",
+                "nodeTo": "14eea919-8a2d-427c-a512-00a960c99554",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "14eea919-8a2d-427c-a512-00a960c99554",
+                "nodeTo": "987e0900-7140-4915-8956-24bb97045a59",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "987e0900-7140-4915-8956-24bb97045a59",
+                "nodeTo": "2e629034-d102-4bad-9097-3122de61e445",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2e629034-d102-4bad-9097-3122de61e445",
+                "nodeTo": "d6449467-6080-4024-bd6c-8d5775034aa0",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2e629034-d102-4bad-9097-3122de61e445",
+                "nodeTo": "09734e49-add9-4509-9537-a2ce1a73d6c0",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2e629034-d102-4bad-9097-3122de61e445",
+                "nodeTo": "52c86ba3-eb94-43aa-a798-6ca9e4e65913",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "52c86ba3-eb94-43aa-a798-6ca9e4e65913",
+                "nodeTo": "283ed419-cc62-4a70-9823-4cb1406d6bbe",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "283ed419-cc62-4a70-9823-4cb1406d6bbe",
+                "nodeTo": "e37603b4-8a94-4c99-ad3b-7854d1b250ee",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-10-29 23:49:39"
+}

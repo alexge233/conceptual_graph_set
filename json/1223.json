@@ -1,0 +1,334 @@
+{
+    "uuid": 1223,
+    "text": "Scientists have developed sophisticated computer modelling simulation to explore how cells of fruit fly react to changes in environment",
+    "graph": {
+        "version": 1,
+        "guid": "67773460-8554-4996-8ecb-ecce8935b680",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "have",
+                "id": "0d091133-a6e1-44e0-88db-59804075447e",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "developed",
+                "id": "a6e7393e-49b2-4cb5-acc4-121b82968252",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "2db0d0ce-a1c7-4515-9c47-79d6284d90a2",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "explore",
+                "id": "0c4a17d8-5559-4991-9788-ee60e98e3b3c",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "how",
+                "id": "150117c6-c4d3-41ce-bc2c-79eceedc2741",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "719483bb-dd28-4e04-96dd-08536b2dec8b",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "react",
+                "id": "dbd7513a-1380-455a-b57c-7058121e4c0e",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "9710b9ce-6c33-45d5-acca-93c531b5e79c",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "6b513836-44a1-4820-8014-d4e970004a61",
+                "index": 17,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Scientists",
+                "id": "ab790dcc-b2ae-4353-8494-6dcb28cde8e5",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "sophisticated",
+                "id": "38e4a87e-d6ee-415c-b0d1-341966b0255c",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "computer",
+                "id": "b685b698-e889-4957-9964-8c0745c0a9ab",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "modelling",
+                "id": "b68dddc9-2c4d-4649-b429-ab691dd834c7",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "simulation",
+                "id": "a302dec2-a59b-4ddd-88e7-6b7b140b7e74",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "cells",
+                "id": "3ed64e88-e47e-49a1-9e0d-1c2d7178a750",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "fruit",
+                "id": "a60b535c-b938-46e5-9497-7de5d9de4c09",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "fly",
+                "id": "7c6a6b66-2bb7-4132-9cc9-54dac334c86c",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "changes",
+                "id": "b4d35127-b3b9-4540-8837-a57dd987e020",
+                "index": 16,
+                "postag": "NA"
+            },
+            {
+                "label": "environment",
+                "id": "38289519-31d0-4aa2-969e-72b090e84b78",
+                "index": 18,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "ab790dcc-b2ae-4353-8494-6dcb28cde8e5",
+                "nodeTo": "0d091133-a6e1-44e0-88db-59804075447e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ab790dcc-b2ae-4353-8494-6dcb28cde8e5",
+                "nodeTo": "a6e7393e-49b2-4cb5-acc4-121b82968252",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0d091133-a6e1-44e0-88db-59804075447e",
+                "nodeTo": "38e4a87e-d6ee-415c-b0d1-341966b0255c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a6e7393e-49b2-4cb5-acc4-121b82968252",
+                "nodeTo": "38e4a87e-d6ee-415c-b0d1-341966b0255c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a6e7393e-49b2-4cb5-acc4-121b82968252",
+                "nodeTo": "b685b698-e889-4957-9964-8c0745c0a9ab",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0d091133-a6e1-44e0-88db-59804075447e",
+                "nodeTo": "b685b698-e889-4957-9964-8c0745c0a9ab",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0d091133-a6e1-44e0-88db-59804075447e",
+                "nodeTo": "b68dddc9-2c4d-4649-b429-ab691dd834c7",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a6e7393e-49b2-4cb5-acc4-121b82968252",
+                "nodeTo": "b68dddc9-2c4d-4649-b429-ab691dd834c7",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0d091133-a6e1-44e0-88db-59804075447e",
+                "nodeTo": "a302dec2-a59b-4ddd-88e7-6b7b140b7e74",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a6e7393e-49b2-4cb5-acc4-121b82968252",
+                "nodeTo": "a302dec2-a59b-4ddd-88e7-6b7b140b7e74",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "38e4a87e-d6ee-415c-b0d1-341966b0255c",
+                "nodeTo": "2db0d0ce-a1c7-4515-9c47-79d6284d90a2",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b685b698-e889-4957-9964-8c0745c0a9ab",
+                "nodeTo": "2db0d0ce-a1c7-4515-9c47-79d6284d90a2",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b68dddc9-2c4d-4649-b429-ab691dd834c7",
+                "nodeTo": "2db0d0ce-a1c7-4515-9c47-79d6284d90a2",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a302dec2-a59b-4ddd-88e7-6b7b140b7e74",
+                "nodeTo": "2db0d0ce-a1c7-4515-9c47-79d6284d90a2",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "38e4a87e-d6ee-415c-b0d1-341966b0255c",
+                "nodeTo": "0c4a17d8-5559-4991-9788-ee60e98e3b3c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b685b698-e889-4957-9964-8c0745c0a9ab",
+                "nodeTo": "0c4a17d8-5559-4991-9788-ee60e98e3b3c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b68dddc9-2c4d-4649-b429-ab691dd834c7",
+                "nodeTo": "0c4a17d8-5559-4991-9788-ee60e98e3b3c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a302dec2-a59b-4ddd-88e7-6b7b140b7e74",
+                "nodeTo": "0c4a17d8-5559-4991-9788-ee60e98e3b3c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "38e4a87e-d6ee-415c-b0d1-341966b0255c",
+                "nodeTo": "150117c6-c4d3-41ce-bc2c-79eceedc2741",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b685b698-e889-4957-9964-8c0745c0a9ab",
+                "nodeTo": "150117c6-c4d3-41ce-bc2c-79eceedc2741",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b68dddc9-2c4d-4649-b429-ab691dd834c7",
+                "nodeTo": "150117c6-c4d3-41ce-bc2c-79eceedc2741",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a302dec2-a59b-4ddd-88e7-6b7b140b7e74",
+                "nodeTo": "150117c6-c4d3-41ce-bc2c-79eceedc2741",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2db0d0ce-a1c7-4515-9c47-79d6284d90a2",
+                "nodeTo": "3ed64e88-e47e-49a1-9e0d-1c2d7178a750",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0c4a17d8-5559-4991-9788-ee60e98e3b3c",
+                "nodeTo": "3ed64e88-e47e-49a1-9e0d-1c2d7178a750",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "150117c6-c4d3-41ce-bc2c-79eceedc2741",
+                "nodeTo": "3ed64e88-e47e-49a1-9e0d-1c2d7178a750",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3ed64e88-e47e-49a1-9e0d-1c2d7178a750",
+                "nodeTo": "719483bb-dd28-4e04-96dd-08536b2dec8b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "719483bb-dd28-4e04-96dd-08536b2dec8b",
+                "nodeTo": "a60b535c-b938-46e5-9497-7de5d9de4c09",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "719483bb-dd28-4e04-96dd-08536b2dec8b",
+                "nodeTo": "7c6a6b66-2bb7-4132-9cc9-54dac334c86c",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3ed64e88-e47e-49a1-9e0d-1c2d7178a750",
+                "nodeTo": "dbd7513a-1380-455a-b57c-7058121e4c0e",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3ed64e88-e47e-49a1-9e0d-1c2d7178a750",
+                "nodeTo": "9710b9ce-6c33-45d5-acca-93c531b5e79c",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "dbd7513a-1380-455a-b57c-7058121e4c0e",
+                "nodeTo": "b4d35127-b3b9-4540-8837-a57dd987e020",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9710b9ce-6c33-45d5-acca-93c531b5e79c",
+                "nodeTo": "b4d35127-b3b9-4540-8837-a57dd987e020",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b4d35127-b3b9-4540-8837-a57dd987e020",
+                "nodeTo": "6b513836-44a1-4820-8014-d4e970004a61",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6b513836-44a1-4820-8014-d4e970004a61",
+                "nodeTo": "38289519-31d0-4aa2-969e-72b090e84b78",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-26 21:54:28"
+}

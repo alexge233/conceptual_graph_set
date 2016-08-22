@@ -1,0 +1,208 @@
+{
+    "uuid": 1157,
+    "text": "second most common type of breast cancer is very different disease than most common",
+    "graph": {
+        "version": 1,
+        "guid": "aea48b69-80a4-4cb5-b6d4-5c66bab04904",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "of",
+                "id": "adae716a-cea4-4176-8166-639185121819",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "is",
+                "id": "42771151-e396-4ea3-9a84-a65cae6d0d90",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "than",
+                "id": "86669084-3c59-4d75-b06b-885a048d7233",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "second",
+                "id": "6922132b-635a-483c-acea-d02ec6558b0e",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "most",
+                "id": "4180e45b-c198-4b18-bed0-9e45785b07ab",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "common",
+                "id": "9c96ed19-6d31-47ee-b5ca-39eaa00a7eeb",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "type",
+                "id": "e751ddb8-5932-4590-ab0c-5c3685ba8a5e",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "breast",
+                "id": "880e22ab-abea-4244-9ea8-4a203276089b",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "cancer",
+                "id": "043884ab-2d9a-4a38-abb8-b17b2a50ce15",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "very",
+                "id": "e94a4005-912d-4be7-a198-396a2b736bb6",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "different",
+                "id": "deaced7e-0282-44c2-9394-59b72e4c83b8",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "disease",
+                "id": "c16ed5bb-8405-4d2e-b8c2-70044605049a",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "most",
+                "id": "9c5ddb57-68da-496d-a644-b3c9ce9cde0d",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "common",
+                "id": "b6134e72-c62a-4b8e-bb25-29b51c90a5d2",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "6922132b-635a-483c-acea-d02ec6558b0e",
+                "nodeTo": "adae716a-cea4-4176-8166-639185121819",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4180e45b-c198-4b18-bed0-9e45785b07ab",
+                "nodeTo": "adae716a-cea4-4176-8166-639185121819",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9c96ed19-6d31-47ee-b5ca-39eaa00a7eeb",
+                "nodeTo": "adae716a-cea4-4176-8166-639185121819",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e751ddb8-5932-4590-ab0c-5c3685ba8a5e",
+                "nodeTo": "adae716a-cea4-4176-8166-639185121819",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "adae716a-cea4-4176-8166-639185121819",
+                "nodeTo": "880e22ab-abea-4244-9ea8-4a203276089b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "adae716a-cea4-4176-8166-639185121819",
+                "nodeTo": "043884ab-2d9a-4a38-abb8-b17b2a50ce15",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6922132b-635a-483c-acea-d02ec6558b0e",
+                "nodeTo": "42771151-e396-4ea3-9a84-a65cae6d0d90",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4180e45b-c198-4b18-bed0-9e45785b07ab",
+                "nodeTo": "42771151-e396-4ea3-9a84-a65cae6d0d90",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9c96ed19-6d31-47ee-b5ca-39eaa00a7eeb",
+                "nodeTo": "42771151-e396-4ea3-9a84-a65cae6d0d90",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e751ddb8-5932-4590-ab0c-5c3685ba8a5e",
+                "nodeTo": "42771151-e396-4ea3-9a84-a65cae6d0d90",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "42771151-e396-4ea3-9a84-a65cae6d0d90",
+                "nodeTo": "e94a4005-912d-4be7-a198-396a2b736bb6",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "42771151-e396-4ea3-9a84-a65cae6d0d90",
+                "nodeTo": "deaced7e-0282-44c2-9394-59b72e4c83b8",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "42771151-e396-4ea3-9a84-a65cae6d0d90",
+                "nodeTo": "c16ed5bb-8405-4d2e-b8c2-70044605049a",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e94a4005-912d-4be7-a198-396a2b736bb6",
+                "nodeTo": "86669084-3c59-4d75-b06b-885a048d7233",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "deaced7e-0282-44c2-9394-59b72e4c83b8",
+                "nodeTo": "86669084-3c59-4d75-b06b-885a048d7233",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c16ed5bb-8405-4d2e-b8c2-70044605049a",
+                "nodeTo": "86669084-3c59-4d75-b06b-885a048d7233",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "86669084-3c59-4d75-b06b-885a048d7233",
+                "nodeTo": "9c5ddb57-68da-496d-a644-b3c9ce9cde0d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "86669084-3c59-4d75-b06b-885a048d7233",
+                "nodeTo": "b6134e72-c62a-4b8e-bb25-29b51c90a5d2",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-24 16:00:20"
+}

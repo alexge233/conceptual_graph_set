@@ -1,0 +1,70 @@
+{
+    "uuid": 204,
+    "text": "Work environment affects protein properties",
+    "graph": {
+        "version": 1,
+        "guid": "ba3e6d87-de55-4256-8ec5-2a5d86d5442e",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "affects",
+                "id": "523b3e84-deb9-4ab4-b97e-304b46c66369",
+                "index": 2,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Work",
+                "id": "02dec557-12e7-4990-a252-7800a55e7a58",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "environment",
+                "id": "d9c937dc-1516-425b-80d5-d032917b839b",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "protein",
+                "id": "a63336e9-72c0-46e8-ad79-89bd9b055945",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "properties",
+                "id": "9b6926ed-1562-4bd0-973c-93dc150d4b7c",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "02dec557-12e7-4990-a252-7800a55e7a58",
+                "nodeTo": "523b3e84-deb9-4ab4-b97e-304b46c66369",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d9c937dc-1516-425b-80d5-d032917b839b",
+                "nodeTo": "523b3e84-deb9-4ab4-b97e-304b46c66369",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "523b3e84-deb9-4ab4-b97e-304b46c66369",
+                "nodeTo": "a63336e9-72c0-46e8-ad79-89bd9b055945",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "523b3e84-deb9-4ab4-b97e-304b46c66369",
+                "nodeTo": "9b6926ed-1562-4bd0-973c-93dc150d4b7c",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-11-17 22:50:22"
+}

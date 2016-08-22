@@ -1,0 +1,142 @@
+{
+    "uuid": 576,
+    "text": "This approach found new core clock gene which team named CHRONO",
+    "graph": {
+        "version": 1,
+        "guid": "b82c0c9d-d6ea-4ca5-a166-ae936db0dedc",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "This",
+                "id": "0626b380-64a1-4204-b2ca-e12a21d1562c",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "found",
+                "id": "93526b44-136d-4b51-8e13-308b036c3eae",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "which",
+                "id": "04ea62e5-648b-4204-ac52-b2965e89b89a",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "named",
+                "id": "1925eb0b-c0d5-468b-b795-b3c2501815b2",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "approach",
+                "id": "a3047eed-3470-434b-930e-1c6ec287a0ed",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "new",
+                "id": "6486e0a0-172d-496a-b6ed-85866002e8c9",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "core",
+                "id": "0866ae5d-e5d1-4dc8-b0c5-406a5adda13d",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "clock",
+                "id": "8a73eb97-1a93-4577-b5dd-47cbeb0ce479",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "gene",
+                "id": "bcb64b3e-03e1-4bde-89e5-d6e677a8506a",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "team",
+                "id": "1a398c87-789e-4599-b3a3-146a78718a66",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "CHRONO",
+                "id": "c14c4407-ed53-4ed7-ae12-bc0549e8e98b",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "0626b380-64a1-4204-b2ca-e12a21d1562c",
+                "nodeTo": "a3047eed-3470-434b-930e-1c6ec287a0ed",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a3047eed-3470-434b-930e-1c6ec287a0ed",
+                "nodeTo": "93526b44-136d-4b51-8e13-308b036c3eae",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "93526b44-136d-4b51-8e13-308b036c3eae",
+                "nodeTo": "6486e0a0-172d-496a-b6ed-85866002e8c9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "93526b44-136d-4b51-8e13-308b036c3eae",
+                "nodeTo": "0866ae5d-e5d1-4dc8-b0c5-406a5adda13d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "93526b44-136d-4b51-8e13-308b036c3eae",
+                "nodeTo": "8a73eb97-1a93-4577-b5dd-47cbeb0ce479",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "93526b44-136d-4b51-8e13-308b036c3eae",
+                "nodeTo": "bcb64b3e-03e1-4bde-89e5-d6e677a8506a",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1a398c87-789e-4599-b3a3-146a78718a66",
+                "nodeTo": "1925eb0b-c0d5-468b-b795-b3c2501815b2",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1925eb0b-c0d5-468b-b795-b3c2501815b2",
+                "nodeTo": "c14c4407-ed53-4ed7-ae12-bc0549e8e98b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a3047eed-3470-434b-930e-1c6ec287a0ed",
+                "nodeTo": "04ea62e5-648b-4204-ac52-b2965e89b89a",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "04ea62e5-648b-4204-ac52-b2965e89b89a",
+                "nodeTo": "1a398c87-789e-4599-b3a3-146a78718a66",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-07 19:48:03"
+}

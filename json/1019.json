@@ -1,0 +1,310 @@
+{
+    "uuid": 1019,
+    "text": "China has more than halved its tuberculosis prevalence with rates falling from 170 to 59 per 100000 of population",
+    "graph": {
+        "version": 1,
+        "guid": "4e572c5b-c5bd-4146-8edd-d080bc394e7c",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "has",
+                "id": "3b39e434-89de-47e6-a913-b8431d4a946c",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "more",
+                "id": "25b61229-a7c9-4dcd-b279-5cd2c7609dc3",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "than",
+                "id": "7a7dbe41-52a1-4baa-8684-120600ebac28",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "halved",
+                "id": "e720e95e-a712-4e65-ad29-bb7469681ae4",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "with",
+                "id": "1d35269a-d312-4a69-9bc6-8b1c0119c245",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "falling",
+                "id": "8974a670-6b8c-4ecd-84d6-5767169859e1",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "from",
+                "id": "a0cad857-7300-4219-bb59-8d6a4c50cae3",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "eae6a3d9-c276-455c-b9c2-6ad84520b1b1",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "per",
+                "id": "2483e811-1511-4454-b7bb-ca9a82aa0be0",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "67cab633-e66d-4c1c-b3ee-58830b67982b",
+                "index": 17,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "China",
+                "id": "2b6507d6-2103-44e9-81c8-ac1c9d04db3d",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "its",
+                "id": "7e172010-a675-4a86-941d-41e089884edc",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "tuberculosis",
+                "id": "1a630da3-4be3-4396-ba5c-d3130a954090",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "prevalence",
+                "id": "57c1e068-a516-4eee-aa9c-c55d7bcba5a3",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "rates",
+                "id": "0804487b-1d6b-42b0-a183-69b6d1a8a9dd",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": 170,
+                "id": "47a87aca-1e23-480b-ba8e-968240ce1c93",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": 59,
+                "id": "e3ae455b-2453-42e8-acd4-2c19415d4358",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": 100000,
+                "id": "1c73d718-6e53-41b0-bc0e-5998b39490b9",
+                "index": 16,
+                "postag": "NA"
+            },
+            {
+                "label": "population",
+                "id": "d011e28a-0d34-436b-ab65-a8b953005dbb",
+                "index": 18,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "2b6507d6-2103-44e9-81c8-ac1c9d04db3d",
+                "nodeTo": "3b39e434-89de-47e6-a913-b8431d4a946c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2b6507d6-2103-44e9-81c8-ac1c9d04db3d",
+                "nodeTo": "25b61229-a7c9-4dcd-b279-5cd2c7609dc3",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2b6507d6-2103-44e9-81c8-ac1c9d04db3d",
+                "nodeTo": "7a7dbe41-52a1-4baa-8684-120600ebac28",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2b6507d6-2103-44e9-81c8-ac1c9d04db3d",
+                "nodeTo": "e720e95e-a712-4e65-ad29-bb7469681ae4",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3b39e434-89de-47e6-a913-b8431d4a946c",
+                "nodeTo": "7e172010-a675-4a86-941d-41e089884edc",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "25b61229-a7c9-4dcd-b279-5cd2c7609dc3",
+                "nodeTo": "7e172010-a675-4a86-941d-41e089884edc",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7a7dbe41-52a1-4baa-8684-120600ebac28",
+                "nodeTo": "7e172010-a675-4a86-941d-41e089884edc",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e720e95e-a712-4e65-ad29-bb7469681ae4",
+                "nodeTo": "7e172010-a675-4a86-941d-41e089884edc",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3b39e434-89de-47e6-a913-b8431d4a946c",
+                "nodeTo": "1a630da3-4be3-4396-ba5c-d3130a954090",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "25b61229-a7c9-4dcd-b279-5cd2c7609dc3",
+                "nodeTo": "1a630da3-4be3-4396-ba5c-d3130a954090",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7a7dbe41-52a1-4baa-8684-120600ebac28",
+                "nodeTo": "1a630da3-4be3-4396-ba5c-d3130a954090",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e720e95e-a712-4e65-ad29-bb7469681ae4",
+                "nodeTo": "1a630da3-4be3-4396-ba5c-d3130a954090",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3b39e434-89de-47e6-a913-b8431d4a946c",
+                "nodeTo": "57c1e068-a516-4eee-aa9c-c55d7bcba5a3",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "25b61229-a7c9-4dcd-b279-5cd2c7609dc3",
+                "nodeTo": "57c1e068-a516-4eee-aa9c-c55d7bcba5a3",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7a7dbe41-52a1-4baa-8684-120600ebac28",
+                "nodeTo": "57c1e068-a516-4eee-aa9c-c55d7bcba5a3",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e720e95e-a712-4e65-ad29-bb7469681ae4",
+                "nodeTo": "57c1e068-a516-4eee-aa9c-c55d7bcba5a3",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7e172010-a675-4a86-941d-41e089884edc",
+                "nodeTo": "1d35269a-d312-4a69-9bc6-8b1c0119c245",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1a630da3-4be3-4396-ba5c-d3130a954090",
+                "nodeTo": "1d35269a-d312-4a69-9bc6-8b1c0119c245",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "57c1e068-a516-4eee-aa9c-c55d7bcba5a3",
+                "nodeTo": "1d35269a-d312-4a69-9bc6-8b1c0119c245",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1d35269a-d312-4a69-9bc6-8b1c0119c245",
+                "nodeTo": "0804487b-1d6b-42b0-a183-69b6d1a8a9dd",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0804487b-1d6b-42b0-a183-69b6d1a8a9dd",
+                "nodeTo": "a0cad857-7300-4219-bb59-8d6a4c50cae3",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0804487b-1d6b-42b0-a183-69b6d1a8a9dd",
+                "nodeTo": "8974a670-6b8c-4ecd-84d6-5767169859e1",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a0cad857-7300-4219-bb59-8d6a4c50cae3",
+                "nodeTo": "47a87aca-1e23-480b-ba8e-968240ce1c93",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8974a670-6b8c-4ecd-84d6-5767169859e1",
+                "nodeTo": "47a87aca-1e23-480b-ba8e-968240ce1c93",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "47a87aca-1e23-480b-ba8e-968240ce1c93",
+                "nodeTo": "eae6a3d9-c276-455c-b9c2-6ad84520b1b1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "eae6a3d9-c276-455c-b9c2-6ad84520b1b1",
+                "nodeTo": "e3ae455b-2453-42e8-acd4-2c19415d4358",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e3ae455b-2453-42e8-acd4-2c19415d4358",
+                "nodeTo": "2483e811-1511-4454-b7bb-ca9a82aa0be0",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2483e811-1511-4454-b7bb-ca9a82aa0be0",
+                "nodeTo": "1c73d718-6e53-41b0-bc0e-5998b39490b9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1c73d718-6e53-41b0-bc0e-5998b39490b9",
+                "nodeTo": "67cab633-e66d-4c1c-b3ee-58830b67982b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "67cab633-e66d-4c1c-b3ee-58830b67982b",
+                "nodeTo": "d011e28a-0d34-436b-ab65-a8b953005dbb",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-03 15:06:40"
+}

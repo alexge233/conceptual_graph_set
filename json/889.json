@@ -1,0 +1,118 @@
+{
+    "uuid": 889,
+    "text": "spending time with horses eases symptoms of Alzheimers dementia",
+    "graph": {
+        "version": 1,
+        "guid": "3b751408-b4cc-4a51-a51b-c4cd8c7a84bb",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "spending",
+                "id": "21ebe8b9-7d99-403c-99e4-e1e80bc3d132",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "with",
+                "id": "beaa131c-31dc-4d7d-882e-b570cadd8a21",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "eases",
+                "id": "b9b6b2a8-5292-417d-b6b1-b238e2037365",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "e940ba00-66a8-4512-a87b-86228c862675",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "time",
+                "id": "4b947bed-6817-4a54-b01a-43d57ddabc99",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "horses",
+                "id": "a4c5a1e0-582d-40eb-830b-7dd5c2800c54",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "symptoms",
+                "id": "aa6b8de7-5c36-4191-9a23-aec9cdc0c812",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "Alzheimers",
+                "id": "bede45e3-7e4d-4e44-a631-c83c79ecc7c3",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "dementia",
+                "id": "0b624d0b-a4a0-4e63-a6b7-538909ab4011",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "21ebe8b9-7d99-403c-99e4-e1e80bc3d132",
+                "nodeTo": "4b947bed-6817-4a54-b01a-43d57ddabc99",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4b947bed-6817-4a54-b01a-43d57ddabc99",
+                "nodeTo": "beaa131c-31dc-4d7d-882e-b570cadd8a21",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "beaa131c-31dc-4d7d-882e-b570cadd8a21",
+                "nodeTo": "a4c5a1e0-582d-40eb-830b-7dd5c2800c54",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4b947bed-6817-4a54-b01a-43d57ddabc99",
+                "nodeTo": "b9b6b2a8-5292-417d-b6b1-b238e2037365",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b9b6b2a8-5292-417d-b6b1-b238e2037365",
+                "nodeTo": "aa6b8de7-5c36-4191-9a23-aec9cdc0c812",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "aa6b8de7-5c36-4191-9a23-aec9cdc0c812",
+                "nodeTo": "e940ba00-66a8-4512-a87b-86228c862675",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e940ba00-66a8-4512-a87b-86228c862675",
+                "nodeTo": "bede45e3-7e4d-4e44-a631-c83c79ecc7c3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e940ba00-66a8-4512-a87b-86228c862675",
+                "nodeTo": "0b624d0b-a4a0-4e63-a6b7-538909ab4011",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-21 13:50:27"
+}

@@ -1,0 +1,208 @@
+{
+    "uuid": 691,
+    "text": "study used brain scans to analyze thought processes of people with high justice sensitivity",
+    "graph": {
+        "version": 1,
+        "guid": "5ed3dd1d-a03d-480d-9ca7-a53c78387d2b",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "used",
+                "id": "5ce40ce0-6e40-424c-8ca4-c64e18a4a452",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "b1dd1a98-4788-4340-99a9-43eb6eee8c54",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "analyze",
+                "id": "2d28543d-bddc-4558-9b2d-9c1ca78a3b0e",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "39d7b4ba-8d76-48a8-aa30-295bd1d861a9",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "with",
+                "id": "a31408e4-062a-4935-abed-c69689ebbadc",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "study",
+                "id": "8630d883-ea91-48b7-820c-2caed69c391c",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "brain",
+                "id": "57e6b0d1-7220-480b-9831-d59643c99cae",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "scans",
+                "id": "06dc8dd8-09d5-47b3-b555-e876b6b79816",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "thought",
+                "id": "23433582-2b4e-4311-a746-1d50dd131774",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "processes",
+                "id": "d16c7b7e-57c2-4d68-aa31-e600a3ebab7b",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "people",
+                "id": "97ce1bb1-63e5-4760-9472-475dd80ccd66",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "high",
+                "id": "a288ee2c-31c4-410c-91b8-09ba5e038a4d",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "justice",
+                "id": "eb92e032-e704-4340-b0db-6d99569e981b",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "sensitivity",
+                "id": "91e16d1c-2b61-49e3-9853-1815eb9c23c2",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "8630d883-ea91-48b7-820c-2caed69c391c",
+                "nodeTo": "5ce40ce0-6e40-424c-8ca4-c64e18a4a452",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5ce40ce0-6e40-424c-8ca4-c64e18a4a452",
+                "nodeTo": "57e6b0d1-7220-480b-9831-d59643c99cae",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5ce40ce0-6e40-424c-8ca4-c64e18a4a452",
+                "nodeTo": "06dc8dd8-09d5-47b3-b555-e876b6b79816",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "57e6b0d1-7220-480b-9831-d59643c99cae",
+                "nodeTo": "b1dd1a98-4788-4340-99a9-43eb6eee8c54",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "06dc8dd8-09d5-47b3-b555-e876b6b79816",
+                "nodeTo": "b1dd1a98-4788-4340-99a9-43eb6eee8c54",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "57e6b0d1-7220-480b-9831-d59643c99cae",
+                "nodeTo": "2d28543d-bddc-4558-9b2d-9c1ca78a3b0e",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "06dc8dd8-09d5-47b3-b555-e876b6b79816",
+                "nodeTo": "2d28543d-bddc-4558-9b2d-9c1ca78a3b0e",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b1dd1a98-4788-4340-99a9-43eb6eee8c54",
+                "nodeTo": "23433582-2b4e-4311-a746-1d50dd131774",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b1dd1a98-4788-4340-99a9-43eb6eee8c54",
+                "nodeTo": "d16c7b7e-57c2-4d68-aa31-e600a3ebab7b",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2d28543d-bddc-4558-9b2d-9c1ca78a3b0e",
+                "nodeTo": "23433582-2b4e-4311-a746-1d50dd131774",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2d28543d-bddc-4558-9b2d-9c1ca78a3b0e",
+                "nodeTo": "d16c7b7e-57c2-4d68-aa31-e600a3ebab7b",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "23433582-2b4e-4311-a746-1d50dd131774",
+                "nodeTo": "39d7b4ba-8d76-48a8-aa30-295bd1d861a9",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d16c7b7e-57c2-4d68-aa31-e600a3ebab7b",
+                "nodeTo": "39d7b4ba-8d76-48a8-aa30-295bd1d861a9",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "39d7b4ba-8d76-48a8-aa30-295bd1d861a9",
+                "nodeTo": "97ce1bb1-63e5-4760-9472-475dd80ccd66",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "97ce1bb1-63e5-4760-9472-475dd80ccd66",
+                "nodeTo": "a31408e4-062a-4935-abed-c69689ebbadc",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a31408e4-062a-4935-abed-c69689ebbadc",
+                "nodeTo": "a288ee2c-31c4-410c-91b8-09ba5e038a4d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a31408e4-062a-4935-abed-c69689ebbadc",
+                "nodeTo": "eb92e032-e704-4340-b0db-6d99569e981b",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a31408e4-062a-4935-abed-c69689ebbadc",
+                "nodeTo": "91e16d1c-2b61-49e3-9853-1815eb9c23c2",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-12 12:42:09"
+}

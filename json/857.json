@@ -1,0 +1,94 @@
+{
+    "uuid": 857,
+    "text": "Captain America cast in London for premiere",
+    "graph": {
+        "version": 1,
+        "guid": "1a1654c2-e478-42e6-8bde-aa8a1db55c8a",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "in",
+                "id": "1eb435e7-63b7-498a-8651-a063c6875197",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "94de4787-7828-4816-aa62-58ba370305ba",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Captain",
+                "id": "5e1650e5-6100-426e-99c8-e21094a3c776",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "America",
+                "id": "ae5d989e-09c9-4d9b-843e-b78e0058189e",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "cast",
+                "id": "c0435eb7-009e-4b1b-a1b1-e12809260457",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "London",
+                "id": "219798d2-7e22-443b-932d-1625db93e8a5",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "premiere",
+                "id": "09a6e379-8e49-4c30-991e-36a49eb33047",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "5e1650e5-6100-426e-99c8-e21094a3c776",
+                "nodeTo": "1eb435e7-63b7-498a-8651-a063c6875197",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ae5d989e-09c9-4d9b-843e-b78e0058189e",
+                "nodeTo": "1eb435e7-63b7-498a-8651-a063c6875197",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c0435eb7-009e-4b1b-a1b1-e12809260457",
+                "nodeTo": "1eb435e7-63b7-498a-8651-a063c6875197",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1eb435e7-63b7-498a-8651-a063c6875197",
+                "nodeTo": "219798d2-7e22-443b-932d-1625db93e8a5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "219798d2-7e22-443b-932d-1625db93e8a5",
+                "nodeTo": "94de4787-7828-4816-aa62-58ba370305ba",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "94de4787-7828-4816-aa62-58ba370305ba",
+                "nodeTo": "09a6e379-8e49-4c30-991e-36a49eb33047",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-19 14:55:27"
+}

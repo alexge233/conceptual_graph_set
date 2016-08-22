@@ -1,0 +1,124 @@
+{
+    "uuid": 575,
+    "text": "Could big data approaches help find them",
+    "graph": {
+        "version": 1,
+        "guid": "183d7020-e6a4-4ec0-9424-1130bc49cab0",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "Could",
+                "id": "9891ad13-e134-4cac-a2ab-adea2bcd721e",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "help",
+                "id": "90b4ed31-8596-487b-a71e-e089023e655e",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "find",
+                "id": "9b35d63e-b02e-4ca1-a94c-2e5200285363",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "big",
+                "id": "56b9daa1-6c43-4527-b236-e851767be1bb",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "data",
+                "id": "d832e2e6-4d09-47c4-9d6b-357bb52e3a55",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "approaches",
+                "id": "7a98cb20-9240-4211-91c8-dd8cb8156bb5",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "them",
+                "id": "9650d88a-4719-4b82-a736-10889e80c45b",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "9891ad13-e134-4cac-a2ab-adea2bcd721e",
+                "nodeTo": "56b9daa1-6c43-4527-b236-e851767be1bb",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9891ad13-e134-4cac-a2ab-adea2bcd721e",
+                "nodeTo": "d832e2e6-4d09-47c4-9d6b-357bb52e3a55",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9891ad13-e134-4cac-a2ab-adea2bcd721e",
+                "nodeTo": "7a98cb20-9240-4211-91c8-dd8cb8156bb5",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "56b9daa1-6c43-4527-b236-e851767be1bb",
+                "nodeTo": "90b4ed31-8596-487b-a71e-e089023e655e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "56b9daa1-6c43-4527-b236-e851767be1bb",
+                "nodeTo": "9b35d63e-b02e-4ca1-a94c-2e5200285363",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d832e2e6-4d09-47c4-9d6b-357bb52e3a55",
+                "nodeTo": "90b4ed31-8596-487b-a71e-e089023e655e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d832e2e6-4d09-47c4-9d6b-357bb52e3a55",
+                "nodeTo": "9b35d63e-b02e-4ca1-a94c-2e5200285363",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7a98cb20-9240-4211-91c8-dd8cb8156bb5",
+                "nodeTo": "90b4ed31-8596-487b-a71e-e089023e655e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7a98cb20-9240-4211-91c8-dd8cb8156bb5",
+                "nodeTo": "9b35d63e-b02e-4ca1-a94c-2e5200285363",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "90b4ed31-8596-487b-a71e-e089023e655e",
+                "nodeTo": "9650d88a-4719-4b82-a736-10889e80c45b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9b35d63e-b02e-4ca1-a94c-2e5200285363",
+                "nodeTo": "9650d88a-4719-4b82-a736-10889e80c45b",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-07 19:42:54"
+}

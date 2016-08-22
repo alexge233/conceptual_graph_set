@@ -1,0 +1,94 @@
+{
+    "uuid": 247,
+    "text": "Abba members on stage at Olivier awards",
+    "graph": {
+        "version": 1,
+        "guid": "1c17e818-d92a-4b31-a75b-100533502785",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "on",
+                "id": "345bd1b3-3883-42aa-a336-5008aa6e0acd",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "at",
+                "id": "1285d262-ee13-4818-8172-65425a1b02d7",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Abba",
+                "id": "105dd851-d41c-4d41-81b9-8ea877d9b7b5",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "members",
+                "id": "80122595-9c2c-446a-a43d-ba710c07374b",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "stage",
+                "id": "560b575b-e8c7-4d59-843a-38d5c779275a",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "Olivier",
+                "id": "cb10ecd7-1a0d-48d5-87bd-40ba22a98b58",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "awards",
+                "id": "ec80cb69-1263-4ee7-bbeb-13bc4e3924da",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "105dd851-d41c-4d41-81b9-8ea877d9b7b5",
+                "nodeTo": "345bd1b3-3883-42aa-a336-5008aa6e0acd",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "80122595-9c2c-446a-a43d-ba710c07374b",
+                "nodeTo": "345bd1b3-3883-42aa-a336-5008aa6e0acd",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "345bd1b3-3883-42aa-a336-5008aa6e0acd",
+                "nodeTo": "560b575b-e8c7-4d59-843a-38d5c779275a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "560b575b-e8c7-4d59-843a-38d5c779275a",
+                "nodeTo": "1285d262-ee13-4818-8172-65425a1b02d7",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1285d262-ee13-4818-8172-65425a1b02d7",
+                "nodeTo": "cb10ecd7-1a0d-48d5-87bd-40ba22a98b58",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1285d262-ee13-4818-8172-65425a1b02d7",
+                "nodeTo": "ec80cb69-1263-4ee7-bbeb-13bc4e3924da",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-01 20:05:40"
+}

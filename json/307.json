@@ -1,0 +1,232 @@
+{
+    "uuid": 307,
+    "text": "Abnormal binocular vision which involves way eyes work together as team increases dramatically as we age",
+    "graph": {
+        "version": 1,
+        "guid": "4c25a789-b948-462a-91d3-27a147712933",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "which",
+                "id": "79ebb6d7-44a7-4440-aa7b-3992d5eb838e",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "involves",
+                "id": "328d89ca-b831-41b5-838b-647e115185c0",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "work",
+                "id": "0e00d04a-208a-4356-bca0-bcbded260a02",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "as",
+                "id": "68345800-3349-4583-a8e7-63a613e6d290",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "increases",
+                "id": "e1a7c929-75e7-4b81-a775-9e7520548e59",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "as",
+                "id": "a3b8b349-6d68-4342-988e-c4ed0054d409",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "age",
+                "id": "8b4bd1c0-a0b7-4ee2-b3d6-7ccc51a765dc",
+                "index": 15,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Abnormal",
+                "id": "0d2d9d26-e1a9-4b25-8a65-6091062a92c2",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "binocular",
+                "id": "e84d6a2e-b3dd-4480-991b-86ea8506d795",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "vision",
+                "id": "191a466c-14ee-40b2-950e-a43a257e582c",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "way",
+                "id": "b40627e4-c804-4570-b5c3-a9c3b209cc15",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "eyes",
+                "id": "72d58ae9-3946-4071-b197-45276c768922",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "together",
+                "id": "c63de7e1-8234-4a4d-8e85-d673447e526b",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "team",
+                "id": "d558206d-740d-4eae-9c28-0cc5e38597db",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "dramatically",
+                "id": "d0889950-e547-4d32-85b7-5835e098aaa3",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "we",
+                "id": "471cb2d2-8809-44c9-928b-bb157eeb95e7",
+                "postag": "NA",
+                "index": 14
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "0d2d9d26-e1a9-4b25-8a65-6091062a92c2",
+                "nodeTo": "79ebb6d7-44a7-4440-aa7b-3992d5eb838e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e84d6a2e-b3dd-4480-991b-86ea8506d795",
+                "nodeTo": "79ebb6d7-44a7-4440-aa7b-3992d5eb838e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "191a466c-14ee-40b2-950e-a43a257e582c",
+                "nodeTo": "79ebb6d7-44a7-4440-aa7b-3992d5eb838e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0d2d9d26-e1a9-4b25-8a65-6091062a92c2",
+                "nodeTo": "328d89ca-b831-41b5-838b-647e115185c0",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e84d6a2e-b3dd-4480-991b-86ea8506d795",
+                "nodeTo": "328d89ca-b831-41b5-838b-647e115185c0",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "191a466c-14ee-40b2-950e-a43a257e582c",
+                "nodeTo": "328d89ca-b831-41b5-838b-647e115185c0",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "328d89ca-b831-41b5-838b-647e115185c0",
+                "nodeTo": "b40627e4-c804-4570-b5c3-a9c3b209cc15",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "328d89ca-b831-41b5-838b-647e115185c0",
+                "nodeTo": "72d58ae9-3946-4071-b197-45276c768922",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b40627e4-c804-4570-b5c3-a9c3b209cc15",
+                "nodeTo": "0e00d04a-208a-4356-bca0-bcbded260a02",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "72d58ae9-3946-4071-b197-45276c768922",
+                "nodeTo": "0e00d04a-208a-4356-bca0-bcbded260a02",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0e00d04a-208a-4356-bca0-bcbded260a02",
+                "nodeTo": "c63de7e1-8234-4a4d-8e85-d673447e526b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c63de7e1-8234-4a4d-8e85-d673447e526b",
+                "nodeTo": "68345800-3349-4583-a8e7-63a613e6d290",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "68345800-3349-4583-a8e7-63a613e6d290",
+                "nodeTo": "d558206d-740d-4eae-9c28-0cc5e38597db",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0d2d9d26-e1a9-4b25-8a65-6091062a92c2",
+                "nodeTo": "e1a7c929-75e7-4b81-a775-9e7520548e59",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e84d6a2e-b3dd-4480-991b-86ea8506d795",
+                "nodeTo": "e1a7c929-75e7-4b81-a775-9e7520548e59",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "191a466c-14ee-40b2-950e-a43a257e582c",
+                "nodeTo": "e1a7c929-75e7-4b81-a775-9e7520548e59",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e1a7c929-75e7-4b81-a775-9e7520548e59",
+                "nodeTo": "d0889950-e547-4d32-85b7-5835e098aaa3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d0889950-e547-4d32-85b7-5835e098aaa3",
+                "nodeTo": "a3b8b349-6d68-4342-988e-c4ed0054d409",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a3b8b349-6d68-4342-988e-c4ed0054d409",
+                "nodeTo": "471cb2d2-8809-44c9-928b-bb157eeb95e7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "471cb2d2-8809-44c9-928b-bb157eeb95e7",
+                "nodeTo": "8b4bd1c0-a0b7-4ee2-b3d6-7ccc51a765dc",
+                "index": 1,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2014-12-04 20:02:29"
+}

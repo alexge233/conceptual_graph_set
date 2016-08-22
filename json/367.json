@@ -1,0 +1,124 @@
+{
+    "uuid": 367,
+    "text": "Anesthetic technique important to prevent damage to brain",
+    "graph": {
+        "version": 1,
+        "guid": "7db0603c-0393-43bd-859c-563e1b3dd7cc",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "to",
+                "id": "9d7373e7-c5d7-442c-a565-0d5db91ca828",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "prevent",
+                "id": "7437add9-3219-4940-ba24-ac932833545c",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "85d00575-ba41-42ec-847c-314b604eb0e6",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Anesthetic",
+                "id": "31940c31-0221-4797-b086-4208a115004b",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "technique",
+                "id": "b2ea6925-6bb0-40c0-a070-7ec30c7b389a",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "important",
+                "id": "c3c23d7c-0b2a-4c62-a3d4-7731e600e778",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "damage",
+                "id": "8e935555-b7d2-43aa-88d4-e16b0e53b81b",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "brain",
+                "id": "bc071675-7283-421b-8578-ee1dab1e61b2",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "31940c31-0221-4797-b086-4208a115004b",
+                "nodeTo": "9d7373e7-c5d7-442c-a565-0d5db91ca828",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b2ea6925-6bb0-40c0-a070-7ec30c7b389a",
+                "nodeTo": "9d7373e7-c5d7-442c-a565-0d5db91ca828",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c3c23d7c-0b2a-4c62-a3d4-7731e600e778",
+                "nodeTo": "9d7373e7-c5d7-442c-a565-0d5db91ca828",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "31940c31-0221-4797-b086-4208a115004b",
+                "nodeTo": "7437add9-3219-4940-ba24-ac932833545c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b2ea6925-6bb0-40c0-a070-7ec30c7b389a",
+                "nodeTo": "7437add9-3219-4940-ba24-ac932833545c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c3c23d7c-0b2a-4c62-a3d4-7731e600e778",
+                "nodeTo": "7437add9-3219-4940-ba24-ac932833545c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9d7373e7-c5d7-442c-a565-0d5db91ca828",
+                "nodeTo": "8e935555-b7d2-43aa-88d4-e16b0e53b81b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7437add9-3219-4940-ba24-ac932833545c",
+                "nodeTo": "8e935555-b7d2-43aa-88d4-e16b0e53b81b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8e935555-b7d2-43aa-88d4-e16b0e53b81b",
+                "nodeTo": "85d00575-ba41-42ec-847c-314b604eb0e6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "85d00575-ba41-42ec-847c-314b604eb0e6",
+                "nodeTo": "bc071675-7283-421b-8578-ee1dab1e61b2",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-16 16:48:34"
+}

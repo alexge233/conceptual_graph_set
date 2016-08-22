@@ -1,0 +1,316 @@
+{
+    "uuid": 540,
+    "text": "dose of drug metoprolol if given to heart attack patients early can significantly improve contractile strength of heart muscle",
+    "graph": {
+        "version": 1,
+        "guid": "417dc69a-8b69-49a2-8223-6a17e08b4c13",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "of",
+                "id": "a4c6c2bd-445b-4e93-80d5-a426cd0e2303",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "if",
+                "id": "42b9b7b2-357e-4a89-8843-6466deb137e9",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "given",
+                "id": "4ac8a6ce-cd29-417c-ae50-78111e763396",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "b67286b9-da76-40c7-ab66-4a065364bbb7",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "can",
+                "id": "98e8c97d-eb56-482c-8085-65de6e17979e",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "significantly",
+                "id": "8d56aa19-7ad9-4c49-b84d-007862c62328",
+                "postag": "NA",
+                "index": 12
+            },
+            {
+                "label": "improve",
+                "id": "9820342c-bca0-4157-94e3-3b67186c64b4",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "6a9d0273-15c0-4a4a-841e-c39a5d809b55",
+                "index": 16,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "dose",
+                "id": "ead16d02-73d9-4884-94e0-e4940aa1e14c",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "drug",
+                "id": "71452486-c1dd-4552-ba55-97a2121ade65",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "metoprolol",
+                "id": "762b0422-2524-4919-b054-6d924ee1e0c6",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "heart",
+                "id": "45cb9656-27a8-4290-b710-7a595ba7951e",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "attack",
+                "id": "d098cc3a-1d32-4eee-9ea8-161e3675b5b7",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "patients",
+                "id": "204c4798-b579-45dd-aa21-622e0cb5a55e",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "early",
+                "id": "c39d1e78-db75-4989-86d2-70ba889ea838",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "contractile",
+                "id": "a7d5ddcb-0eae-46b8-81b0-140982a0b849",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "strength",
+                "id": "7a18ec08-2a25-436c-997e-064e86821782",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "heart",
+                "id": "045567a2-0c54-4542-9d5b-8cb1714027c7",
+                "index": 17,
+                "postag": "NA"
+            },
+            {
+                "label": "muscle",
+                "id": "639b52cc-4cdb-4b68-b8e7-576447b14530",
+                "index": 18,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "ead16d02-73d9-4884-94e0-e4940aa1e14c",
+                "nodeTo": "a4c6c2bd-445b-4e93-80d5-a426cd0e2303",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a4c6c2bd-445b-4e93-80d5-a426cd0e2303",
+                "nodeTo": "71452486-c1dd-4552-ba55-97a2121ade65",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a4c6c2bd-445b-4e93-80d5-a426cd0e2303",
+                "nodeTo": "762b0422-2524-4919-b054-6d924ee1e0c6",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ead16d02-73d9-4884-94e0-e4940aa1e14c",
+                "nodeTo": "42b9b7b2-357e-4a89-8843-6466deb137e9",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ead16d02-73d9-4884-94e0-e4940aa1e14c",
+                "nodeTo": "4ac8a6ce-cd29-417c-ae50-78111e763396",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ead16d02-73d9-4884-94e0-e4940aa1e14c",
+                "nodeTo": "b67286b9-da76-40c7-ab66-4a065364bbb7",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "42b9b7b2-357e-4a89-8843-6466deb137e9",
+                "nodeTo": "45cb9656-27a8-4290-b710-7a595ba7951e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4ac8a6ce-cd29-417c-ae50-78111e763396",
+                "nodeTo": "45cb9656-27a8-4290-b710-7a595ba7951e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b67286b9-da76-40c7-ab66-4a065364bbb7",
+                "nodeTo": "45cb9656-27a8-4290-b710-7a595ba7951e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "42b9b7b2-357e-4a89-8843-6466deb137e9",
+                "nodeTo": "d098cc3a-1d32-4eee-9ea8-161e3675b5b7",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4ac8a6ce-cd29-417c-ae50-78111e763396",
+                "nodeTo": "d098cc3a-1d32-4eee-9ea8-161e3675b5b7",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b67286b9-da76-40c7-ab66-4a065364bbb7",
+                "nodeTo": "d098cc3a-1d32-4eee-9ea8-161e3675b5b7",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "42b9b7b2-357e-4a89-8843-6466deb137e9",
+                "nodeTo": "204c4798-b579-45dd-aa21-622e0cb5a55e",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4ac8a6ce-cd29-417c-ae50-78111e763396",
+                "nodeTo": "204c4798-b579-45dd-aa21-622e0cb5a55e",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b67286b9-da76-40c7-ab66-4a065364bbb7",
+                "nodeTo": "204c4798-b579-45dd-aa21-622e0cb5a55e",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "42b9b7b2-357e-4a89-8843-6466deb137e9",
+                "nodeTo": "c39d1e78-db75-4989-86d2-70ba889ea838",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4ac8a6ce-cd29-417c-ae50-78111e763396",
+                "nodeTo": "c39d1e78-db75-4989-86d2-70ba889ea838",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b67286b9-da76-40c7-ab66-4a065364bbb7",
+                "nodeTo": "c39d1e78-db75-4989-86d2-70ba889ea838",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ead16d02-73d9-4884-94e0-e4940aa1e14c",
+                "nodeTo": "98e8c97d-eb56-482c-8085-65de6e17979e",
+                "index": 5,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ead16d02-73d9-4884-94e0-e4940aa1e14c",
+                "nodeTo": "8d56aa19-7ad9-4c49-b84d-007862c62328",
+                "index": 6,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ead16d02-73d9-4884-94e0-e4940aa1e14c",
+                "nodeTo": "9820342c-bca0-4157-94e3-3b67186c64b4",
+                "index": 7,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "98e8c97d-eb56-482c-8085-65de6e17979e",
+                "nodeTo": "a7d5ddcb-0eae-46b8-81b0-140982a0b849",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8d56aa19-7ad9-4c49-b84d-007862c62328",
+                "nodeTo": "a7d5ddcb-0eae-46b8-81b0-140982a0b849",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9820342c-bca0-4157-94e3-3b67186c64b4",
+                "nodeTo": "a7d5ddcb-0eae-46b8-81b0-140982a0b849",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "98e8c97d-eb56-482c-8085-65de6e17979e",
+                "nodeTo": "7a18ec08-2a25-436c-997e-064e86821782",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8d56aa19-7ad9-4c49-b84d-007862c62328",
+                "nodeTo": "7a18ec08-2a25-436c-997e-064e86821782",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9820342c-bca0-4157-94e3-3b67186c64b4",
+                "nodeTo": "7a18ec08-2a25-436c-997e-064e86821782",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a7d5ddcb-0eae-46b8-81b0-140982a0b849",
+                "nodeTo": "6a9d0273-15c0-4a4a-841e-c39a5d809b55",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7a18ec08-2a25-436c-997e-064e86821782",
+                "nodeTo": "6a9d0273-15c0-4a4a-841e-c39a5d809b55",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6a9d0273-15c0-4a4a-841e-c39a5d809b55",
+                "nodeTo": "045567a2-0c54-4542-9d5b-8cb1714027c7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6a9d0273-15c0-4a4a-841e-c39a5d809b55",
+                "nodeTo": "639b52cc-4cdb-4b68-b8e7-576447b14530",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-31 19:46:48"
+}

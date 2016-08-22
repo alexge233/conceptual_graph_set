@@ -1,0 +1,202 @@
+{
+    "uuid": 987,
+    "text": "bystander effect that causes rotavirus infection to accelerate onset of type 1 diabetes",
+    "graph": {
+        "version": 1,
+        "guid": "edeb255b-887b-4193-a776-b5bebb88c2a0",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "that",
+                "id": "43ddd34a-4a00-4d33-9258-27947215784c",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "causes",
+                "id": "a62c8007-63bc-4de5-9a9d-bcc1ebc17c61",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "ea690d83-6eb5-49da-8a74-8030de75c3ee",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "accelerate",
+                "id": "60c41eae-d309-404e-9184-985902993beb",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "9ba83947-0a08-4bce-a21b-c3e101d6ec58",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "bystander",
+                "id": "6a015d40-ae0c-4e5d-9aad-4d937bd6d606",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "effect",
+                "id": "85e15532-79e0-4528-b050-057c5390382a",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "rotavirus",
+                "id": "100d9b87-4652-403a-9097-6e12b62e46e1",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "infection",
+                "id": "ed89d7a3-ae16-4335-b783-24c7026b6b8e",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "onset",
+                "id": "a5c89836-7c42-492c-a271-005433e24256",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "type",
+                "id": "5c86e270-161b-4147-ac76-5e4228c38541",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": 1,
+                "id": "4a2e34d3-aa39-4e30-95de-92c7999a4602",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "diabetes",
+                "id": "c201ce38-78c4-4158-9ed8-0b9bc5140515",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "6a015d40-ae0c-4e5d-9aad-4d937bd6d606",
+                "nodeTo": "a62c8007-63bc-4de5-9a9d-bcc1ebc17c61",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6a015d40-ae0c-4e5d-9aad-4d937bd6d606",
+                "nodeTo": "43ddd34a-4a00-4d33-9258-27947215784c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "85e15532-79e0-4528-b050-057c5390382a",
+                "nodeTo": "a62c8007-63bc-4de5-9a9d-bcc1ebc17c61",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "85e15532-79e0-4528-b050-057c5390382a",
+                "nodeTo": "43ddd34a-4a00-4d33-9258-27947215784c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a62c8007-63bc-4de5-9a9d-bcc1ebc17c61",
+                "nodeTo": "100d9b87-4652-403a-9097-6e12b62e46e1",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a62c8007-63bc-4de5-9a9d-bcc1ebc17c61",
+                "nodeTo": "ed89d7a3-ae16-4335-b783-24c7026b6b8e",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "43ddd34a-4a00-4d33-9258-27947215784c",
+                "nodeTo": "100d9b87-4652-403a-9097-6e12b62e46e1",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "43ddd34a-4a00-4d33-9258-27947215784c",
+                "nodeTo": "ed89d7a3-ae16-4335-b783-24c7026b6b8e",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "100d9b87-4652-403a-9097-6e12b62e46e1",
+                "nodeTo": "ea690d83-6eb5-49da-8a74-8030de75c3ee",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ed89d7a3-ae16-4335-b783-24c7026b6b8e",
+                "nodeTo": "ea690d83-6eb5-49da-8a74-8030de75c3ee",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "100d9b87-4652-403a-9097-6e12b62e46e1",
+                "nodeTo": "60c41eae-d309-404e-9184-985902993beb",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ed89d7a3-ae16-4335-b783-24c7026b6b8e",
+                "nodeTo": "60c41eae-d309-404e-9184-985902993beb",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ea690d83-6eb5-49da-8a74-8030de75c3ee",
+                "nodeTo": "a5c89836-7c42-492c-a271-005433e24256",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "60c41eae-d309-404e-9184-985902993beb",
+                "nodeTo": "a5c89836-7c42-492c-a271-005433e24256",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a5c89836-7c42-492c-a271-005433e24256",
+                "nodeTo": "9ba83947-0a08-4bce-a21b-c3e101d6ec58",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9ba83947-0a08-4bce-a21b-c3e101d6ec58",
+                "nodeTo": "5c86e270-161b-4147-ac76-5e4228c38541",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9ba83947-0a08-4bce-a21b-c3e101d6ec58",
+                "nodeTo": "4a2e34d3-aa39-4e30-95de-92c7999a4602",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9ba83947-0a08-4bce-a21b-c3e101d6ec58",
+                "nodeTo": "c201ce38-78c4-4158-9ed8-0b9bc5140515",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-28 14:21:53"
+}

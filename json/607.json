@@ -1,0 +1,100 @@
+{
+    "uuid": 607,
+    "text": "Then suddenly these skills seem to vanish",
+    "graph": {
+        "version": 1,
+        "guid": "ea1ad8db-a933-44b7-b6dc-07da469490c4",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "Then",
+                "id": "8d103e4a-12e1-42dd-98b8-6745bd939a59",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "these",
+                "id": "9752b38c-b872-4027-8b3a-8d52b1245717",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "seem",
+                "id": "15a76104-bd1a-41d4-8e63-0e286a34bc05",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "9719d24e-4dd1-4336-90e4-c52375429c88",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "suddenly",
+                "id": "3a25299d-5adb-4d54-8e94-77863dc79d93",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "skills",
+                "id": "3191da93-3986-4707-a909-beeeee7b88b3",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "vanish",
+                "id": "19203937-28c5-43bb-a4d9-cdea2aee7620",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "8d103e4a-12e1-42dd-98b8-6745bd939a59",
+                "nodeTo": "3a25299d-5adb-4d54-8e94-77863dc79d93",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3a25299d-5adb-4d54-8e94-77863dc79d93",
+                "nodeTo": "9752b38c-b872-4027-8b3a-8d52b1245717",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9752b38c-b872-4027-8b3a-8d52b1245717",
+                "nodeTo": "3191da93-3986-4707-a909-beeeee7b88b3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3191da93-3986-4707-a909-beeeee7b88b3",
+                "nodeTo": "15a76104-bd1a-41d4-8e63-0e286a34bc05",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3191da93-3986-4707-a909-beeeee7b88b3",
+                "nodeTo": "9719d24e-4dd1-4336-90e4-c52375429c88",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "15a76104-bd1a-41d4-8e63-0e286a34bc05",
+                "nodeTo": "19203937-28c5-43bb-a4d9-cdea2aee7620",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9719d24e-4dd1-4336-90e4-c52375429c88",
+                "nodeTo": "19203937-28c5-43bb-a4d9-cdea2aee7620",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-08 18:28:18"
+}

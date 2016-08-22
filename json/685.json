@@ -1,0 +1,298 @@
+{
+    "uuid": 685,
+    "text": "Petroleum solvents are used in carpet glue furniture polishes paint thinner and varnish",
+    "graph": {
+        "version": 1,
+        "guid": "db1e091d-b949-4612-9531-9eb398ac907e",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "are",
+                "id": "c43e0eab-6c58-4d93-92d7-37624b87972c",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "used",
+                "id": "18cc7127-9661-48c1-bab7-b45175455852",
+                "postag": "NA",
+                "index": 3
+            },
+            {
+                "label": "in",
+                "id": "11152156-0110-4375-8330-18d85018148e",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "c8886dca-0c9a-4b1b-b025-2a8a5520ee45",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Petroleum",
+                "id": "dd543836-61b4-4bcd-844a-47a5d4b39e4a",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "solvents",
+                "id": "c4e68b6a-8216-4e90-8049-c280bd697de4",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "carpet",
+                "id": "1d5419b4-11cb-4d28-9c13-237d990ec32e",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "glue",
+                "id": "a636e224-5063-47b0-a5ea-0d306e8ebc68",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "furniture",
+                "id": "239c2ab3-bc85-47ea-a125-510016115b2a",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "polishes",
+                "id": "9c540de3-4165-4e33-aece-4d875ed8e53a",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "paint",
+                "id": "acbd193b-ee1e-4cd6-9871-1276e82bcb56",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "thinner",
+                "id": "0507430b-12b7-4e75-a152-94912418a131",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "varnish",
+                "id": "d24d9927-c1da-413e-b670-87726aceab57",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "dd543836-61b4-4bcd-844a-47a5d4b39e4a",
+                "nodeTo": "c43e0eab-6c58-4d93-92d7-37624b87972c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c4e68b6a-8216-4e90-8049-c280bd697de4",
+                "nodeTo": "c43e0eab-6c58-4d93-92d7-37624b87972c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "dd543836-61b4-4bcd-844a-47a5d4b39e4a",
+                "nodeTo": "18cc7127-9661-48c1-bab7-b45175455852",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c4e68b6a-8216-4e90-8049-c280bd697de4",
+                "nodeTo": "18cc7127-9661-48c1-bab7-b45175455852",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "dd543836-61b4-4bcd-844a-47a5d4b39e4a",
+                "nodeTo": "11152156-0110-4375-8330-18d85018148e",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c4e68b6a-8216-4e90-8049-c280bd697de4",
+                "nodeTo": "11152156-0110-4375-8330-18d85018148e",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c43e0eab-6c58-4d93-92d7-37624b87972c",
+                "nodeTo": "1d5419b4-11cb-4d28-9c13-237d990ec32e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c43e0eab-6c58-4d93-92d7-37624b87972c",
+                "nodeTo": "a636e224-5063-47b0-a5ea-0d306e8ebc68",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c43e0eab-6c58-4d93-92d7-37624b87972c",
+                "nodeTo": "239c2ab3-bc85-47ea-a125-510016115b2a",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c43e0eab-6c58-4d93-92d7-37624b87972c",
+                "nodeTo": "9c540de3-4165-4e33-aece-4d875ed8e53a",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c43e0eab-6c58-4d93-92d7-37624b87972c",
+                "nodeTo": "acbd193b-ee1e-4cd6-9871-1276e82bcb56",
+                "index": 5,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c43e0eab-6c58-4d93-92d7-37624b87972c",
+                "nodeTo": "0507430b-12b7-4e75-a152-94912418a131",
+                "index": 6,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "18cc7127-9661-48c1-bab7-b45175455852",
+                "nodeTo": "1d5419b4-11cb-4d28-9c13-237d990ec32e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "18cc7127-9661-48c1-bab7-b45175455852",
+                "nodeTo": "a636e224-5063-47b0-a5ea-0d306e8ebc68",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "18cc7127-9661-48c1-bab7-b45175455852",
+                "nodeTo": "239c2ab3-bc85-47ea-a125-510016115b2a",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "18cc7127-9661-48c1-bab7-b45175455852",
+                "nodeTo": "9c540de3-4165-4e33-aece-4d875ed8e53a",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "18cc7127-9661-48c1-bab7-b45175455852",
+                "nodeTo": "acbd193b-ee1e-4cd6-9871-1276e82bcb56",
+                "index": 5,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "18cc7127-9661-48c1-bab7-b45175455852",
+                "nodeTo": "0507430b-12b7-4e75-a152-94912418a131",
+                "index": 6,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "11152156-0110-4375-8330-18d85018148e",
+                "nodeTo": "1d5419b4-11cb-4d28-9c13-237d990ec32e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "11152156-0110-4375-8330-18d85018148e",
+                "nodeTo": "a636e224-5063-47b0-a5ea-0d306e8ebc68",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "11152156-0110-4375-8330-18d85018148e",
+                "nodeTo": "239c2ab3-bc85-47ea-a125-510016115b2a",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "11152156-0110-4375-8330-18d85018148e",
+                "nodeTo": "9c540de3-4165-4e33-aece-4d875ed8e53a",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "11152156-0110-4375-8330-18d85018148e",
+                "nodeTo": "acbd193b-ee1e-4cd6-9871-1276e82bcb56",
+                "index": 5,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "11152156-0110-4375-8330-18d85018148e",
+                "nodeTo": "0507430b-12b7-4e75-a152-94912418a131",
+                "index": 6,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1d5419b4-11cb-4d28-9c13-237d990ec32e",
+                "nodeTo": "c8886dca-0c9a-4b1b-b025-2a8a5520ee45",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a636e224-5063-47b0-a5ea-0d306e8ebc68",
+                "nodeTo": "c8886dca-0c9a-4b1b-b025-2a8a5520ee45",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "239c2ab3-bc85-47ea-a125-510016115b2a",
+                "nodeTo": "c8886dca-0c9a-4b1b-b025-2a8a5520ee45",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9c540de3-4165-4e33-aece-4d875ed8e53a",
+                "nodeTo": "c8886dca-0c9a-4b1b-b025-2a8a5520ee45",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "acbd193b-ee1e-4cd6-9871-1276e82bcb56",
+                "nodeTo": "c8886dca-0c9a-4b1b-b025-2a8a5520ee45",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0507430b-12b7-4e75-a152-94912418a131",
+                "nodeTo": "c8886dca-0c9a-4b1b-b025-2a8a5520ee45",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c8886dca-0c9a-4b1b-b025-2a8a5520ee45",
+                "nodeTo": "d24d9927-c1da-413e-b670-87726aceab57",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c43e0eab-6c58-4d93-92d7-37624b87972c",
+                "nodeTo": "d24d9927-c1da-413e-b670-87726aceab57",
+                "index": 7,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "18cc7127-9661-48c1-bab7-b45175455852",
+                "nodeTo": "d24d9927-c1da-413e-b670-87726aceab57",
+                "index": 7,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "11152156-0110-4375-8330-18d85018148e",
+                "nodeTo": "d24d9927-c1da-413e-b670-87726aceab57",
+                "index": 7,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-09 21:50:56"
+}

@@ -1,0 +1,100 @@
+{
+    "uuid": 451,
+    "text": "Astronauts hearts become more spherical in space",
+    "graph": {
+        "version": 1,
+        "guid": "80b87ba6-5892-4aca-bb31-22c62e896b61",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "become",
+                "id": "a9e6ceba-74da-4d05-a514-bb057919da74",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "e083c881-b005-4853-a2b8-5b9bb2c236c2",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Astronauts",
+                "id": "10316692-891a-48dd-bbba-d3754dca2bc8",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "hearts",
+                "id": "b2138029-a183-4590-a4cc-86dc88da656b",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "more",
+                "id": "3c0d0cd5-3280-4506-8123-5e01ea6e8a32",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "spherical",
+                "id": "0800ed51-9a68-4ca3-aed5-a22b43d74420",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "space",
+                "id": "4dcd756d-2870-4196-9807-2b6dab9c6604",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "10316692-891a-48dd-bbba-d3754dca2bc8",
+                "nodeTo": "a9e6ceba-74da-4d05-a514-bb057919da74",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b2138029-a183-4590-a4cc-86dc88da656b",
+                "nodeTo": "a9e6ceba-74da-4d05-a514-bb057919da74",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a9e6ceba-74da-4d05-a514-bb057919da74",
+                "nodeTo": "3c0d0cd5-3280-4506-8123-5e01ea6e8a32",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a9e6ceba-74da-4d05-a514-bb057919da74",
+                "nodeTo": "0800ed51-9a68-4ca3-aed5-a22b43d74420",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e083c881-b005-4853-a2b8-5b9bb2c236c2",
+                "nodeTo": "4dcd756d-2870-4196-9807-2b6dab9c6604",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "10316692-891a-48dd-bbba-d3754dca2bc8",
+                "nodeTo": "e083c881-b005-4853-a2b8-5b9bb2c236c2",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b2138029-a183-4590-a4cc-86dc88da656b",
+                "nodeTo": "e083c881-b005-4853-a2b8-5b9bb2c236c2",
+                "index": 2,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2014-12-18 18:15:01"
+}

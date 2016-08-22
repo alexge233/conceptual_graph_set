@@ -1,0 +1,196 @@
+{
+    "uuid": 302,
+    "text": "Coming into hospital with self-inflicted injuries or poisoning is strong risk factor for suicide",
+    "graph": {
+        "version": 1,
+        "guid": "77e205b7-701e-45ce-ac03-be91b5575099",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "into",
+                "id": "9e0ac0d9-baa9-4a60-b520-27aae39a7560",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "Coming",
+                "id": "a48e6675-4b6c-460e-8812-bea0362ce286",
+                "postag": "NA",
+                "index": 0
+            },
+            {
+                "label": "with",
+                "id": "6ce0c995-5b27-4802-8b23-56e22d269da7",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "or",
+                "id": "704a9a4a-55d3-4e11-9666-02875d487d92",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "is",
+                "id": "11e9e938-7a02-495c-80a1-c80aba773594",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "246dce68-0e37-4182-aaa3-a3b281400857",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "hospital",
+                "id": "52eddd70-e890-4c15-bd90-7a193d474d76",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "self-inflicted",
+                "id": "7b835746-881a-4988-adb3-9786c938845e",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "injuries",
+                "id": "80499351-1784-4e5d-9762-13069a825259",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "poisoning",
+                "id": "4e295c8d-32c2-4111-ab32-42164a2c1416",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "strong",
+                "id": "e537ceb1-e4e4-4e54-bacc-2d558420a490",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "risk",
+                "id": "ad96954d-cd23-4412-ad27-d2a23c1245bd",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "factor",
+                "id": "4e8ce681-9028-4e16-9d2b-4bb0be446e7a",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "suicide",
+                "id": "60ecacc8-69b8-4abb-8d5d-edeb2ebad97b",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "9e0ac0d9-baa9-4a60-b520-27aae39a7560",
+                "nodeTo": "52eddd70-e890-4c15-bd90-7a193d474d76",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a48e6675-4b6c-460e-8812-bea0362ce286",
+                "nodeTo": "52eddd70-e890-4c15-bd90-7a193d474d76",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "52eddd70-e890-4c15-bd90-7a193d474d76",
+                "nodeTo": "6ce0c995-5b27-4802-8b23-56e22d269da7",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6ce0c995-5b27-4802-8b23-56e22d269da7",
+                "nodeTo": "7b835746-881a-4988-adb3-9786c938845e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6ce0c995-5b27-4802-8b23-56e22d269da7",
+                "nodeTo": "80499351-1784-4e5d-9762-13069a825259",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "80499351-1784-4e5d-9762-13069a825259",
+                "nodeTo": "704a9a4a-55d3-4e11-9666-02875d487d92",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7b835746-881a-4988-adb3-9786c938845e",
+                "nodeTo": "704a9a4a-55d3-4e11-9666-02875d487d92",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "704a9a4a-55d3-4e11-9666-02875d487d92",
+                "nodeTo": "4e295c8d-32c2-4111-ab32-42164a2c1416",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "52eddd70-e890-4c15-bd90-7a193d474d76",
+                "nodeTo": "11e9e938-7a02-495c-80a1-c80aba773594",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "11e9e938-7a02-495c-80a1-c80aba773594",
+                "nodeTo": "e537ceb1-e4e4-4e54-bacc-2d558420a490",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "11e9e938-7a02-495c-80a1-c80aba773594",
+                "nodeTo": "ad96954d-cd23-4412-ad27-d2a23c1245bd",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "11e9e938-7a02-495c-80a1-c80aba773594",
+                "nodeTo": "4e8ce681-9028-4e16-9d2b-4bb0be446e7a",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e537ceb1-e4e4-4e54-bacc-2d558420a490",
+                "nodeTo": "246dce68-0e37-4182-aaa3-a3b281400857",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ad96954d-cd23-4412-ad27-d2a23c1245bd",
+                "nodeTo": "246dce68-0e37-4182-aaa3-a3b281400857",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4e8ce681-9028-4e16-9d2b-4bb0be446e7a",
+                "nodeTo": "246dce68-0e37-4182-aaa3-a3b281400857",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "246dce68-0e37-4182-aaa3-a3b281400857",
+                "nodeTo": "60ecacc8-69b8-4abb-8d5d-edeb2ebad97b",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-04 12:52:11"
+}

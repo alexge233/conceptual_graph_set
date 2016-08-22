@@ -1,0 +1,214 @@
+{
+    "uuid": 488,
+    "text": "Baby life saved after 3D printed devices were implanted restore his breathing",
+    "graph": {
+        "version": 1,
+        "guid": "16a432aa-7543-43e2-ad0d-7a377851536d",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "saved",
+                "id": "8b321469-07d1-4c68-8d27-82252bd568ca",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "after",
+                "id": "5871d5de-0ca1-43d8-9820-97158e66eac6",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "were",
+                "id": "3c3ebb74-4ea8-4ce6-9a7d-5bb780996b51",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "implanted",
+                "id": "1c8ebd96-8343-45ae-b989-8a4b20957029",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "restore",
+                "id": "c8a4daeb-54c6-477d-9898-382daa5ccba0",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Baby",
+                "id": "db7e4764-96a8-4493-9ac4-d4b632088828",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "life",
+                "id": "499d22b4-9c7b-44de-b557-8e3e044ec447",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "3D",
+                "id": "31dbb17a-a122-4847-bab2-2ddb893c0613",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "printed",
+                "id": "dc2c0c06-29d9-48d7-928a-992d7205d0e5",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "devices",
+                "id": "763ead2e-6456-4113-aeba-468cd9e115ba",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "his",
+                "id": "aeabb2e2-773d-4a26-8b4d-80186ee619d5",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "breathing",
+                "id": "07d9d95e-a052-4d94-8561-b26069791c64",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "db7e4764-96a8-4493-9ac4-d4b632088828",
+                "nodeTo": "8b321469-07d1-4c68-8d27-82252bd568ca",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "499d22b4-9c7b-44de-b557-8e3e044ec447",
+                "nodeTo": "8b321469-07d1-4c68-8d27-82252bd568ca",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "db7e4764-96a8-4493-9ac4-d4b632088828",
+                "nodeTo": "5871d5de-0ca1-43d8-9820-97158e66eac6",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "499d22b4-9c7b-44de-b557-8e3e044ec447",
+                "nodeTo": "5871d5de-0ca1-43d8-9820-97158e66eac6",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8b321469-07d1-4c68-8d27-82252bd568ca",
+                "nodeTo": "31dbb17a-a122-4847-bab2-2ddb893c0613",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5871d5de-0ca1-43d8-9820-97158e66eac6",
+                "nodeTo": "31dbb17a-a122-4847-bab2-2ddb893c0613",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8b321469-07d1-4c68-8d27-82252bd568ca",
+                "nodeTo": "dc2c0c06-29d9-48d7-928a-992d7205d0e5",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5871d5de-0ca1-43d8-9820-97158e66eac6",
+                "nodeTo": "dc2c0c06-29d9-48d7-928a-992d7205d0e5",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8b321469-07d1-4c68-8d27-82252bd568ca",
+                "nodeTo": "763ead2e-6456-4113-aeba-468cd9e115ba",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5871d5de-0ca1-43d8-9820-97158e66eac6",
+                "nodeTo": "763ead2e-6456-4113-aeba-468cd9e115ba",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "31dbb17a-a122-4847-bab2-2ddb893c0613",
+                "nodeTo": "3c3ebb74-4ea8-4ce6-9a7d-5bb780996b51",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "dc2c0c06-29d9-48d7-928a-992d7205d0e5",
+                "nodeTo": "3c3ebb74-4ea8-4ce6-9a7d-5bb780996b51",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "763ead2e-6456-4113-aeba-468cd9e115ba",
+                "nodeTo": "3c3ebb74-4ea8-4ce6-9a7d-5bb780996b51",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "31dbb17a-a122-4847-bab2-2ddb893c0613",
+                "nodeTo": "1c8ebd96-8343-45ae-b989-8a4b20957029",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "dc2c0c06-29d9-48d7-928a-992d7205d0e5",
+                "nodeTo": "1c8ebd96-8343-45ae-b989-8a4b20957029",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "763ead2e-6456-4113-aeba-468cd9e115ba",
+                "nodeTo": "1c8ebd96-8343-45ae-b989-8a4b20957029",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "31dbb17a-a122-4847-bab2-2ddb893c0613",
+                "nodeTo": "c8a4daeb-54c6-477d-9898-382daa5ccba0",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "dc2c0c06-29d9-48d7-928a-992d7205d0e5",
+                "nodeTo": "c8a4daeb-54c6-477d-9898-382daa5ccba0",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "763ead2e-6456-4113-aeba-468cd9e115ba",
+                "nodeTo": "c8a4daeb-54c6-477d-9898-382daa5ccba0",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c8a4daeb-54c6-477d-9898-382daa5ccba0",
+                "nodeTo": "aeabb2e2-773d-4a26-8b4d-80186ee619d5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c8a4daeb-54c6-477d-9898-382daa5ccba0",
+                "nodeTo": "07d9d95e-a052-4d94-8561-b26069791c64",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-19 14:05:57"
+}

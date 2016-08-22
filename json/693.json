@@ -1,0 +1,58 @@
+{
+    "uuid": 693,
+    "text": "deconstructing goal oriented movement",
+    "graph": {
+        "version": 1,
+        "guid": "984dc562-cae7-4ab7-b539-83d599a24615",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "deconstructing",
+                "id": "1c45e1b5-2697-4027-9d83-91e9c2074e0a",
+                "index": 0,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "goal",
+                "id": "90966993-173c-45d7-a269-e302601da64b",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "oriented",
+                "id": "b3c10787-155e-4c51-9706-2ede0aaa04c5",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "movement",
+                "id": "34c5e1e3-534e-47d8-9ceb-148d38991ad2",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "1c45e1b5-2697-4027-9d83-91e9c2074e0a",
+                "nodeTo": "90966993-173c-45d7-a269-e302601da64b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1c45e1b5-2697-4027-9d83-91e9c2074e0a",
+                "nodeTo": "b3c10787-155e-4c51-9706-2ede0aaa04c5",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1c45e1b5-2697-4027-9d83-91e9c2074e0a",
+                "nodeTo": "34c5e1e3-534e-47d8-9ceb-148d38991ad2",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-12 12:50:26"
+}

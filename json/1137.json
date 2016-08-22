@@ -1,0 +1,178 @@
+{
+    "uuid": 1137,
+    "text": "colon cancer incidence rates decreasing steeply in older Americans",
+    "graph": {
+        "version": 1,
+        "guid": "69d8412d-369b-4c7c-bbe1-314a932b9947",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "decreasing",
+                "id": "9b9be1ca-7030-4265-9ec4-2c86b7ebe16a",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "steeply",
+                "id": "733d5bc0-19b8-4e52-9797-4b6a8e4384c6",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "67eeba4e-da3e-418b-ba4e-1decee735531",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "colon",
+                "id": "45c0d0d7-5988-4d66-ba04-7639bae78125",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "cancer",
+                "id": "2102461c-a378-4156-83c3-c8b0a461b124",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "incidence",
+                "id": "be729030-44b4-4424-9472-69b4bb1b168d",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "rates",
+                "id": "7e3cc376-5e48-4947-9a96-5a373d8a50b7",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "older",
+                "id": "6b495c55-897b-47b0-9289-ae4944955a02",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "Americans",
+                "id": "37d572ad-bcbe-4a2d-b47d-e994d383b0aa",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "45c0d0d7-5988-4d66-ba04-7639bae78125",
+                "nodeTo": "9b9be1ca-7030-4265-9ec4-2c86b7ebe16a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2102461c-a378-4156-83c3-c8b0a461b124",
+                "nodeTo": "9b9be1ca-7030-4265-9ec4-2c86b7ebe16a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "be729030-44b4-4424-9472-69b4bb1b168d",
+                "nodeTo": "9b9be1ca-7030-4265-9ec4-2c86b7ebe16a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7e3cc376-5e48-4947-9a96-5a373d8a50b7",
+                "nodeTo": "9b9be1ca-7030-4265-9ec4-2c86b7ebe16a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7e3cc376-5e48-4947-9a96-5a373d8a50b7",
+                "nodeTo": "733d5bc0-19b8-4e52-9797-4b6a8e4384c6",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "45c0d0d7-5988-4d66-ba04-7639bae78125",
+                "nodeTo": "733d5bc0-19b8-4e52-9797-4b6a8e4384c6",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2102461c-a378-4156-83c3-c8b0a461b124",
+                "nodeTo": "733d5bc0-19b8-4e52-9797-4b6a8e4384c6",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "be729030-44b4-4424-9472-69b4bb1b168d",
+                "nodeTo": "733d5bc0-19b8-4e52-9797-4b6a8e4384c6",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "be729030-44b4-4424-9472-69b4bb1b168d",
+                "nodeTo": "67eeba4e-da3e-418b-ba4e-1decee735531",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2102461c-a378-4156-83c3-c8b0a461b124",
+                "nodeTo": "67eeba4e-da3e-418b-ba4e-1decee735531",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "45c0d0d7-5988-4d66-ba04-7639bae78125",
+                "nodeTo": "67eeba4e-da3e-418b-ba4e-1decee735531",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7e3cc376-5e48-4947-9a96-5a373d8a50b7",
+                "nodeTo": "67eeba4e-da3e-418b-ba4e-1decee735531",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9b9be1ca-7030-4265-9ec4-2c86b7ebe16a",
+                "nodeTo": "6b495c55-897b-47b0-9289-ae4944955a02",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9b9be1ca-7030-4265-9ec4-2c86b7ebe16a",
+                "nodeTo": "37d572ad-bcbe-4a2d-b47d-e994d383b0aa",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "733d5bc0-19b8-4e52-9797-4b6a8e4384c6",
+                "nodeTo": "6b495c55-897b-47b0-9289-ae4944955a02",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "733d5bc0-19b8-4e52-9797-4b6a8e4384c6",
+                "nodeTo": "37d572ad-bcbe-4a2d-b47d-e994d383b0aa",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "67eeba4e-da3e-418b-ba4e-1decee735531",
+                "nodeTo": "6b495c55-897b-47b0-9289-ae4944955a02",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "67eeba4e-da3e-418b-ba4e-1decee735531",
+                "nodeTo": "37d572ad-bcbe-4a2d-b47d-e994d383b0aa",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-23 19:19:28"
+}

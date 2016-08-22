@@ -1,0 +1,70 @@
+{
+    "uuid": 255,
+    "text": "Active mums have active children",
+    "graph": {
+        "version": 1,
+        "guid": "99e9074d-7c85-4e27-b9ab-457b0990967d",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "have",
+                "id": "c02b6540-445b-4192-9998-67827d1450ec",
+                "index": 2,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Active",
+                "id": "673a24c0-5572-4150-9cb9-36060a9e30bd",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "mums",
+                "id": "d0382e6e-3980-4e05-9785-d1d31e673eb2",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "active",
+                "id": "1baebb98-b950-4823-b92c-b57bb1b8306d",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "children",
+                "id": "0c00943e-32d0-4845-b031-99212581c13b",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "673a24c0-5572-4150-9cb9-36060a9e30bd",
+                "nodeTo": "c02b6540-445b-4192-9998-67827d1450ec",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d0382e6e-3980-4e05-9785-d1d31e673eb2",
+                "nodeTo": "c02b6540-445b-4192-9998-67827d1450ec",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c02b6540-445b-4192-9998-67827d1450ec",
+                "nodeTo": "1baebb98-b950-4823-b92c-b57bb1b8306d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c02b6540-445b-4192-9998-67827d1450ec",
+                "nodeTo": "0c00943e-32d0-4845-b031-99212581c13b",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-03 12:26:49"
+}

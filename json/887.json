@@ -1,0 +1,166 @@
+{
+    "uuid": 887,
+    "text": "Agencies must ensure people they recruit as carers can speak English",
+    "graph": {
+        "version": 1,
+        "guid": "3b173825-41d2-4d43-952a-8d7a6cd47c23",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "must",
+                "id": "26c21b87-b210-4030-a594-23a31168c914",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "ensure",
+                "id": "8d82dc8a-9d02-4598-9a2e-7443a35abe7c",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "recruit",
+                "id": "c0257ac3-335c-4881-9bd7-628915552b6c",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "as",
+                "id": "c6b09696-4ca8-4705-9681-e3ae960d970d",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "can",
+                "id": "415eb887-1e3d-4a8b-ad2a-49be111a4410",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "speak",
+                "id": "a3862784-ce5c-437b-a890-3d622164414e",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "they",
+                "id": "db67b280-0b9d-497e-bdcd-8183cada6a40",
+                "postag": "NA",
+                "index": 4
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Agencies",
+                "id": "4187b2a0-a131-4355-86c9-0bccb69c2721",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "people",
+                "id": "948e6aad-d09d-45ab-9e10-dc2ca95ced2e",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "carers",
+                "id": "43161e27-32d5-4414-b7b2-0a8d7d42c9ac",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "English",
+                "id": "c421c01a-7460-4029-ba6d-7c6d7a387b7e",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "4187b2a0-a131-4355-86c9-0bccb69c2721",
+                "nodeTo": "26c21b87-b210-4030-a594-23a31168c914",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4187b2a0-a131-4355-86c9-0bccb69c2721",
+                "nodeTo": "8d82dc8a-9d02-4598-9a2e-7443a35abe7c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "26c21b87-b210-4030-a594-23a31168c914",
+                "nodeTo": "948e6aad-d09d-45ab-9e10-dc2ca95ced2e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8d82dc8a-9d02-4598-9a2e-7443a35abe7c",
+                "nodeTo": "948e6aad-d09d-45ab-9e10-dc2ca95ced2e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c0257ac3-335c-4881-9bd7-628915552b6c",
+                "nodeTo": "43161e27-32d5-4414-b7b2-0a8d7d42c9ac",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c6b09696-4ca8-4705-9681-e3ae960d970d",
+                "nodeTo": "43161e27-32d5-4414-b7b2-0a8d7d42c9ac",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "948e6aad-d09d-45ab-9e10-dc2ca95ced2e",
+                "nodeTo": "db67b280-0b9d-497e-bdcd-8183cada6a40",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "948e6aad-d09d-45ab-9e10-dc2ca95ced2e",
+                "nodeTo": "c0257ac3-335c-4881-9bd7-628915552b6c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "948e6aad-d09d-45ab-9e10-dc2ca95ced2e",
+                "nodeTo": "c6b09696-4ca8-4705-9681-e3ae960d970d",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "db67b280-0b9d-497e-bdcd-8183cada6a40",
+                "nodeTo": "43161e27-32d5-4414-b7b2-0a8d7d42c9ac",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "948e6aad-d09d-45ab-9e10-dc2ca95ced2e",
+                "nodeTo": "415eb887-1e3d-4a8b-ad2a-49be111a4410",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "948e6aad-d09d-45ab-9e10-dc2ca95ced2e",
+                "nodeTo": "a3862784-ce5c-437b-a890-3d622164414e",
+                "index": 5,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "415eb887-1e3d-4a8b-ad2a-49be111a4410",
+                "nodeTo": "c421c01a-7460-4029-ba6d-7c6d7a387b7e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a3862784-ce5c-437b-a890-3d622164414e",
+                "nodeTo": "c421c01a-7460-4029-ba6d-7c6d7a387b7e",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-20 17:43:57"
+}

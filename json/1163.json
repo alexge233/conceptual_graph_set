@@ -1,0 +1,88 @@
+{
+    "uuid": 1163,
+    "text": "common links between neurodegenerative diseases identified",
+    "graph": {
+        "version": 1,
+        "guid": "91525e71-c788-4cd0-ab39-09361bd2b6ab",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "between",
+                "id": "4001633a-2e28-47b3-8b79-d3584cdaa719",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "identified",
+                "id": "c8b8e209-62aa-4906-aee0-24ec3a06c35e",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "common",
+                "id": "d1d3a265-0403-472e-a040-e72620756424",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "links",
+                "id": "93cd7975-9dd7-43a3-8b47-13257c20e41e",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "neurodegenerative",
+                "id": "dc203b21-c822-469a-94db-46eca44e3076",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "diseases",
+                "id": "190108a9-0740-4de8-9387-0ca902b7050c",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "d1d3a265-0403-472e-a040-e72620756424",
+                "nodeTo": "4001633a-2e28-47b3-8b79-d3584cdaa719",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "93cd7975-9dd7-43a3-8b47-13257c20e41e",
+                "nodeTo": "4001633a-2e28-47b3-8b79-d3584cdaa719",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4001633a-2e28-47b3-8b79-d3584cdaa719",
+                "nodeTo": "dc203b21-c822-469a-94db-46eca44e3076",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4001633a-2e28-47b3-8b79-d3584cdaa719",
+                "nodeTo": "190108a9-0740-4de8-9387-0ca902b7050c",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d1d3a265-0403-472e-a040-e72620756424",
+                "nodeTo": "c8b8e209-62aa-4906-aee0-24ec3a06c35e",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "93cd7975-9dd7-43a3-8b47-13257c20e41e",
+                "nodeTo": "c8b8e209-62aa-4906-aee0-24ec3a06c35e",
+                "index": 2,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2015-02-24 17:26:27"
+}

@@ -1,0 +1,196 @@
+{
+    "uuid": 1232,
+    "text": "This knowledge is useful for development of tools that convert brain signals into speech",
+    "graph": {
+        "version": 1,
+        "guid": "12d5b532-935b-4ba8-90d7-e05962994440",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "is",
+                "id": "8c41a725-63c3-4ec4-99e4-481eaebebc55",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "5ec98754-e337-438d-b235-8d255b546ce4",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "528b41c3-1d42-41dd-b7a9-1e802bb6d8a9",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "that",
+                "id": "879de8b5-10e4-450b-acec-4a8be74e1e70",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "convert",
+                "id": "7928db9b-5d3a-4da0-8b96-2dc1c4d1d863",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "into",
+                "id": "4c52820a-97d2-4347-9505-32773d012b7b",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "This",
+                "id": "833e7779-4eb6-4e8e-bc96-324470eba5e6",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "knowledge",
+                "id": "64492721-0e41-4918-bbb9-a15352a5d257",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "useful",
+                "id": "a70ba06b-3876-417c-8c5a-1bc7d9a0da47",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "development",
+                "id": "82c8caa1-1b85-4304-b7c9-87736aee976c",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "tools",
+                "id": "5e9b37e4-4e71-4904-b033-b798a2b4b16c",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "brain",
+                "id": "e72ddc27-5637-42ba-a130-22d88c128307",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "signals",
+                "id": "e83ae0b9-3e34-4c4d-a030-d210109d7b7c",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "speech",
+                "id": "92c73ce9-88ed-4967-8113-de56a80c9de3",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "833e7779-4eb6-4e8e-bc96-324470eba5e6",
+                "nodeTo": "8c41a725-63c3-4ec4-99e4-481eaebebc55",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "64492721-0e41-4918-bbb9-a15352a5d257",
+                "nodeTo": "8c41a725-63c3-4ec4-99e4-481eaebebc55",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8c41a725-63c3-4ec4-99e4-481eaebebc55",
+                "nodeTo": "a70ba06b-3876-417c-8c5a-1bc7d9a0da47",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a70ba06b-3876-417c-8c5a-1bc7d9a0da47",
+                "nodeTo": "5ec98754-e337-438d-b235-8d255b546ce4",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5ec98754-e337-438d-b235-8d255b546ce4",
+                "nodeTo": "82c8caa1-1b85-4304-b7c9-87736aee976c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "82c8caa1-1b85-4304-b7c9-87736aee976c",
+                "nodeTo": "528b41c3-1d42-41dd-b7a9-1e802bb6d8a9",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "528b41c3-1d42-41dd-b7a9-1e802bb6d8a9",
+                "nodeTo": "5e9b37e4-4e71-4904-b033-b798a2b4b16c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5e9b37e4-4e71-4904-b033-b798a2b4b16c",
+                "nodeTo": "879de8b5-10e4-450b-acec-4a8be74e1e70",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5e9b37e4-4e71-4904-b033-b798a2b4b16c",
+                "nodeTo": "7928db9b-5d3a-4da0-8b96-2dc1c4d1d863",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "879de8b5-10e4-450b-acec-4a8be74e1e70",
+                "nodeTo": "e72ddc27-5637-42ba-a130-22d88c128307",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7928db9b-5d3a-4da0-8b96-2dc1c4d1d863",
+                "nodeTo": "e72ddc27-5637-42ba-a130-22d88c128307",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "879de8b5-10e4-450b-acec-4a8be74e1e70",
+                "nodeTo": "e83ae0b9-3e34-4c4d-a030-d210109d7b7c",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7928db9b-5d3a-4da0-8b96-2dc1c4d1d863",
+                "nodeTo": "e83ae0b9-3e34-4c4d-a030-d210109d7b7c",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e72ddc27-5637-42ba-a130-22d88c128307",
+                "nodeTo": "4c52820a-97d2-4347-9505-32773d012b7b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e83ae0b9-3e34-4c4d-a030-d210109d7b7c",
+                "nodeTo": "4c52820a-97d2-4347-9505-32773d012b7b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4c52820a-97d2-4347-9505-32773d012b7b",
+                "nodeTo": "92c73ce9-88ed-4967-8113-de56a80c9de3",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-03-02 18:25:26"
+}

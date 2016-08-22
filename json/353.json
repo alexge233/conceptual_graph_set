@@ -1,0 +1,178 @@
+{
+    "uuid": 353,
+    "text": "non invasive optical procedures such as Raman spectroscopy accelerate this procedure",
+    "graph": {
+        "version": 1,
+        "guid": "08c349c3-77cd-4be1-9c0d-204715d16663",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "non",
+                "id": "448a963b-65bc-4a91-85c9-539cb3c59e91",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "such",
+                "id": "5a347e09-4e5b-4042-b4cc-4e9a65120cdb",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "as",
+                "id": "7dcc35e8-4e87-4629-a206-d6809d25d947",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "accelerate",
+                "id": "d7a2a858-6c83-4412-8676-66aeba822300",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "invasive",
+                "id": "e057c14b-6332-4e39-8b40-edda5ee7d047",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "optical",
+                "id": "3c37de66-7577-4ced-b760-259b8eecd9aa",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "procedures",
+                "id": "09d17d76-6e80-4c5b-bc5b-168755e57bdd",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "Raman",
+                "id": "23dd17b4-2c25-4ad0-ae7a-436044a99b9e",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "spectroscopy",
+                "id": "46d32e83-32c0-4b5b-83c5-5bc3a1c66ce2",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "this",
+                "id": "180b54ca-2d0a-497d-9613-cdcb519da6c0",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "procedure",
+                "id": "481eac84-3aaa-42cc-8328-536b43650b06",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "448a963b-65bc-4a91-85c9-539cb3c59e91",
+                "nodeTo": "e057c14b-6332-4e39-8b40-edda5ee7d047",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e057c14b-6332-4e39-8b40-edda5ee7d047",
+                "nodeTo": "5a347e09-4e5b-4042-b4cc-4e9a65120cdb",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e057c14b-6332-4e39-8b40-edda5ee7d047",
+                "nodeTo": "7dcc35e8-4e87-4629-a206-d6809d25d947",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3c37de66-7577-4ced-b760-259b8eecd9aa",
+                "nodeTo": "5a347e09-4e5b-4042-b4cc-4e9a65120cdb",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3c37de66-7577-4ced-b760-259b8eecd9aa",
+                "nodeTo": "7dcc35e8-4e87-4629-a206-d6809d25d947",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "09d17d76-6e80-4c5b-bc5b-168755e57bdd",
+                "nodeTo": "5a347e09-4e5b-4042-b4cc-4e9a65120cdb",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "09d17d76-6e80-4c5b-bc5b-168755e57bdd",
+                "nodeTo": "7dcc35e8-4e87-4629-a206-d6809d25d947",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5a347e09-4e5b-4042-b4cc-4e9a65120cdb",
+                "nodeTo": "23dd17b4-2c25-4ad0-ae7a-436044a99b9e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5a347e09-4e5b-4042-b4cc-4e9a65120cdb",
+                "nodeTo": "46d32e83-32c0-4b5b-83c5-5bc3a1c66ce2",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7dcc35e8-4e87-4629-a206-d6809d25d947",
+                "nodeTo": "23dd17b4-2c25-4ad0-ae7a-436044a99b9e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7dcc35e8-4e87-4629-a206-d6809d25d947",
+                "nodeTo": "46d32e83-32c0-4b5b-83c5-5bc3a1c66ce2",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e057c14b-6332-4e39-8b40-edda5ee7d047",
+                "nodeTo": "d7a2a858-6c83-4412-8676-66aeba822300",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3c37de66-7577-4ced-b760-259b8eecd9aa",
+                "nodeTo": "d7a2a858-6c83-4412-8676-66aeba822300",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "09d17d76-6e80-4c5b-bc5b-168755e57bdd",
+                "nodeTo": "d7a2a858-6c83-4412-8676-66aeba822300",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d7a2a858-6c83-4412-8676-66aeba822300",
+                "nodeTo": "180b54ca-2d0a-497d-9613-cdcb519da6c0",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d7a2a858-6c83-4412-8676-66aeba822300",
+                "nodeTo": "481eac84-3aaa-42cc-8328-536b43650b06",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-16 15:56:09"
+}

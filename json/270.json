@@ -1,0 +1,118 @@
+{
+    "uuid": 270,
+    "text": "ADHD treatment associated with lower smoking rates",
+    "graph": {
+        "version": 1,
+        "guid": "c52d637b-3746-46ed-8015-283c20b558e7",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "associated",
+                "id": "0e143820-87dd-4c5b-95d3-1051cccbd9ca",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "with",
+                "id": "17ba13e4-7006-49ed-b436-39832944ebb4",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "ADHD",
+                "id": "ebb3de92-98de-415b-8610-bd1d4cce2983",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "treatment",
+                "id": "cd5a2227-0b32-4224-ad7b-ac2389021ab9",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "lower",
+                "id": "2ebadc97-7a62-4e4c-a83e-06cc85c19e99",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "smoking",
+                "id": "56302615-a5ca-48eb-a934-d4c77b128d68",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "rates",
+                "id": "9dd65bea-c139-49b4-bb44-906390692146",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "ebb3de92-98de-415b-8610-bd1d4cce2983",
+                "nodeTo": "0e143820-87dd-4c5b-95d3-1051cccbd9ca",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ebb3de92-98de-415b-8610-bd1d4cce2983",
+                "nodeTo": "17ba13e4-7006-49ed-b436-39832944ebb4",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cd5a2227-0b32-4224-ad7b-ac2389021ab9",
+                "nodeTo": "0e143820-87dd-4c5b-95d3-1051cccbd9ca",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cd5a2227-0b32-4224-ad7b-ac2389021ab9",
+                "nodeTo": "17ba13e4-7006-49ed-b436-39832944ebb4",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0e143820-87dd-4c5b-95d3-1051cccbd9ca",
+                "nodeTo": "2ebadc97-7a62-4e4c-a83e-06cc85c19e99",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0e143820-87dd-4c5b-95d3-1051cccbd9ca",
+                "nodeTo": "56302615-a5ca-48eb-a934-d4c77b128d68",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0e143820-87dd-4c5b-95d3-1051cccbd9ca",
+                "nodeTo": "9dd65bea-c139-49b4-bb44-906390692146",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "17ba13e4-7006-49ed-b436-39832944ebb4",
+                "nodeTo": "2ebadc97-7a62-4e4c-a83e-06cc85c19e99",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "17ba13e4-7006-49ed-b436-39832944ebb4",
+                "nodeTo": "56302615-a5ca-48eb-a934-d4c77b128d68",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "17ba13e4-7006-49ed-b436-39832944ebb4",
+                "nodeTo": "9dd65bea-c139-49b4-bb44-906390692146",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-03 13:42:46"
+}

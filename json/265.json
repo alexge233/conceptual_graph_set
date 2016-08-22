@@ -1,0 +1,166 @@
+{
+    "uuid": 265,
+    "text": "Added benefit of fixed combination of dapagliflozin metformin is not proven",
+    "graph": {
+        "version": 1,
+        "guid": "a04558e3-e2a0-441a-bab7-ba50630b96a0",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "of",
+                "id": "00743c18-3bb3-4e02-a876-a881026b11a1",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "d942c114-9903-41a3-a73d-88dadb2b946b",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "is",
+                "id": "d118155b-bb97-424b-bc46-7c8899d0aa5d",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "not",
+                "id": "505d218d-d859-4e3a-9e11-c97cc732ca40",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Added",
+                "id": "63880644-6069-4da2-a6d7-40e77c583607",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "benefit",
+                "id": "90362360-8b5d-4665-8a67-51406434959a",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "fixed",
+                "id": "8ca6dc7a-bc66-4ce3-b69a-9d5bdb64d4e2",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "combination",
+                "id": "35e9a132-a24e-44c1-9870-542399e7cac5",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "dapagliflozin",
+                "id": "c1c802aa-c754-4da0-89b6-dbb779b649c2",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "metformin",
+                "id": "441072c8-8192-4840-9a33-3b02298a1473",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "proven",
+                "id": "20771a8d-6c67-4ca4-a4aa-c585985dcaa3",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "63880644-6069-4da2-a6d7-40e77c583607",
+                "nodeTo": "00743c18-3bb3-4e02-a876-a881026b11a1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "90362360-8b5d-4665-8a67-51406434959a",
+                "nodeTo": "00743c18-3bb3-4e02-a876-a881026b11a1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "00743c18-3bb3-4e02-a876-a881026b11a1",
+                "nodeTo": "8ca6dc7a-bc66-4ce3-b69a-9d5bdb64d4e2",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "00743c18-3bb3-4e02-a876-a881026b11a1",
+                "nodeTo": "35e9a132-a24e-44c1-9870-542399e7cac5",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8ca6dc7a-bc66-4ce3-b69a-9d5bdb64d4e2",
+                "nodeTo": "d942c114-9903-41a3-a73d-88dadb2b946b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "35e9a132-a24e-44c1-9870-542399e7cac5",
+                "nodeTo": "d942c114-9903-41a3-a73d-88dadb2b946b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d942c114-9903-41a3-a73d-88dadb2b946b",
+                "nodeTo": "c1c802aa-c754-4da0-89b6-dbb779b649c2",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d942c114-9903-41a3-a73d-88dadb2b946b",
+                "nodeTo": "441072c8-8192-4840-9a33-3b02298a1473",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "63880644-6069-4da2-a6d7-40e77c583607",
+                "nodeTo": "d118155b-bb97-424b-bc46-7c8899d0aa5d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "90362360-8b5d-4665-8a67-51406434959a",
+                "nodeTo": "d118155b-bb97-424b-bc46-7c8899d0aa5d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d118155b-bb97-424b-bc46-7c8899d0aa5d",
+                "nodeTo": "20771a8d-6c67-4ca4-a4aa-c585985dcaa3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "505d218d-d859-4e3a-9e11-c97cc732ca40",
+                "nodeTo": "20771a8d-6c67-4ca4-a4aa-c585985dcaa3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "63880644-6069-4da2-a6d7-40e77c583607",
+                "nodeTo": "505d218d-d859-4e3a-9e11-c97cc732ca40",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "90362360-8b5d-4665-8a67-51406434959a",
+                "nodeTo": "505d218d-d859-4e3a-9e11-c97cc732ca40",
+                "index": 3,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2014-12-03 13:12:42"
+}

@@ -1,0 +1,208 @@
+{
+    "uuid": 620,
+    "text": "worlds largest study of correlation between blood poisoning and risk of blood clots is underway",
+    "graph": {
+        "version": 1,
+        "guid": "a38410c6-e0d2-494c-b905-821054061007",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "of",
+                "id": "2ed2dd4a-813b-4d34-8668-9d04524c243c",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "between",
+                "id": "02a00c82-7054-4304-9592-bdb58d967190",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "c7129119-743c-47c3-be88-679ed0cb5ed1",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "cda13e47-7016-4eaa-8072-97636a75a42c",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "is",
+                "id": "600d47a0-66ac-4cb2-a126-1721e1877222",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "worlds",
+                "id": "468b3e80-6d73-49a4-b60a-823a26d84614",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "largest",
+                "id": "b688474d-871c-4469-9bab-5088557348d4",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "study",
+                "id": "089171e9-cbd8-43c7-b26a-512c3193022d",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "correlation",
+                "id": "7e080ba4-380a-4632-a49b-8b4e76e39eeb",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "blood",
+                "id": "049cd541-8c2e-40a0-a315-96daebb2bd0d",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "poisoning",
+                "id": "45972649-4e39-4466-904a-be973c58b999",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "risk",
+                "id": "5c2bad10-67e0-4d93-b2db-7d7782661d3b",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "blood",
+                "id": "2a81cc90-7270-4093-a5b0-4c230ed6d525",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "clots",
+                "id": "8a54add5-71bd-45de-b2ea-9e7ee8e17b54",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "underway",
+                "id": "cd35e743-146d-4212-a423-9a16ab6a630a",
+                "index": 14,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "468b3e80-6d73-49a4-b60a-823a26d84614",
+                "nodeTo": "2ed2dd4a-813b-4d34-8668-9d04524c243c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b688474d-871c-4469-9bab-5088557348d4",
+                "nodeTo": "2ed2dd4a-813b-4d34-8668-9d04524c243c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "089171e9-cbd8-43c7-b26a-512c3193022d",
+                "nodeTo": "2ed2dd4a-813b-4d34-8668-9d04524c243c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2ed2dd4a-813b-4d34-8668-9d04524c243c",
+                "nodeTo": "7e080ba4-380a-4632-a49b-8b4e76e39eeb",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7e080ba4-380a-4632-a49b-8b4e76e39eeb",
+                "nodeTo": "02a00c82-7054-4304-9592-bdb58d967190",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "02a00c82-7054-4304-9592-bdb58d967190",
+                "nodeTo": "049cd541-8c2e-40a0-a315-96daebb2bd0d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "02a00c82-7054-4304-9592-bdb58d967190",
+                "nodeTo": "45972649-4e39-4466-904a-be973c58b999",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "049cd541-8c2e-40a0-a315-96daebb2bd0d",
+                "nodeTo": "c7129119-743c-47c3-be88-679ed0cb5ed1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "45972649-4e39-4466-904a-be973c58b999",
+                "nodeTo": "c7129119-743c-47c3-be88-679ed0cb5ed1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c7129119-743c-47c3-be88-679ed0cb5ed1",
+                "nodeTo": "5c2bad10-67e0-4d93-b2db-7d7782661d3b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5c2bad10-67e0-4d93-b2db-7d7782661d3b",
+                "nodeTo": "cda13e47-7016-4eaa-8072-97636a75a42c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cda13e47-7016-4eaa-8072-97636a75a42c",
+                "nodeTo": "2a81cc90-7270-4093-a5b0-4c230ed6d525",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "cda13e47-7016-4eaa-8072-97636a75a42c",
+                "nodeTo": "8a54add5-71bd-45de-b2ea-9e7ee8e17b54",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "468b3e80-6d73-49a4-b60a-823a26d84614",
+                "nodeTo": "600d47a0-66ac-4cb2-a126-1721e1877222",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b688474d-871c-4469-9bab-5088557348d4",
+                "nodeTo": "600d47a0-66ac-4cb2-a126-1721e1877222",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "089171e9-cbd8-43c7-b26a-512c3193022d",
+                "nodeTo": "600d47a0-66ac-4cb2-a126-1721e1877222",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "600d47a0-66ac-4cb2-a126-1721e1877222",
+                "nodeTo": "cd35e743-146d-4212-a423-9a16ab6a630a",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-08 19:32:58"
+}

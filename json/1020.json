@@ -1,0 +1,94 @@
+{
+    "uuid": 1020,
+    "text": "China study improves understanding of disease spread",
+    "graph": {
+        "version": 1,
+        "guid": "d88c297d-78a6-47aa-8adc-11553a398823",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "improves",
+                "id": "5e979116-eaee-4355-ba15-9ed86b7ee09a",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "b1de5313-65ec-448e-ba9b-606b41bead38",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "China",
+                "id": "09030dcd-dd50-4755-82e6-e160c733119e",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "study",
+                "id": "758de0b0-19be-49b5-8be0-56b821e902e1",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "understanding",
+                "id": "6c57125c-859e-4c0a-aad6-85c7d3354942",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "disease",
+                "id": "19181463-5e78-4bbb-a0ee-abd082211074",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "spread",
+                "id": "91e0a575-3d11-4c4a-abac-eb7a160ab3d8",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "09030dcd-dd50-4755-82e6-e160c733119e",
+                "nodeTo": "5e979116-eaee-4355-ba15-9ed86b7ee09a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "758de0b0-19be-49b5-8be0-56b821e902e1",
+                "nodeTo": "5e979116-eaee-4355-ba15-9ed86b7ee09a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5e979116-eaee-4355-ba15-9ed86b7ee09a",
+                "nodeTo": "6c57125c-859e-4c0a-aad6-85c7d3354942",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6c57125c-859e-4c0a-aad6-85c7d3354942",
+                "nodeTo": "b1de5313-65ec-448e-ba9b-606b41bead38",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b1de5313-65ec-448e-ba9b-606b41bead38",
+                "nodeTo": "19181463-5e78-4bbb-a0ee-abd082211074",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b1de5313-65ec-448e-ba9b-606b41bead38",
+                "nodeTo": "91e0a575-3d11-4c4a-abac-eb7a160ab3d8",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-03 17:31:41"
+}

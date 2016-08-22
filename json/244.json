@@ -1,0 +1,106 @@
+{
+    "uuid": 244,
+    "text": "Jeanne and Robert Segal know this sorrow",
+    "graph": {
+        "version": 1,
+        "guid": "4972c67d-cd6b-48eb-ae1d-5288b3216078",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "and",
+                "id": "2c1c6052-36a9-4317-89b6-dd1db5892074",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "know",
+                "id": "130060d7-8cd6-4b50-8be9-209a85670b1b",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Jeanne",
+                "id": "be85cc9b-6661-4560-a54e-0669e76177e8",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "Robert",
+                "id": "916d60c8-4b34-4597-a053-388b6133ba74",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "Segal",
+                "id": "317483b8-6238-4366-ac08-b0ee71bd648b",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "this",
+                "id": "650754a1-253b-4862-9663-b8acb9545341",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "sorrow",
+                "id": "c802d64d-3e88-4ab8-a8ae-745946e41784",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "be85cc9b-6661-4560-a54e-0669e76177e8",
+                "nodeTo": "2c1c6052-36a9-4317-89b6-dd1db5892074",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2c1c6052-36a9-4317-89b6-dd1db5892074",
+                "nodeTo": "916d60c8-4b34-4597-a053-388b6133ba74",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2c1c6052-36a9-4317-89b6-dd1db5892074",
+                "nodeTo": "317483b8-6238-4366-ac08-b0ee71bd648b",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "be85cc9b-6661-4560-a54e-0669e76177e8",
+                "nodeTo": "130060d7-8cd6-4b50-8be9-209a85670b1b",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "916d60c8-4b34-4597-a053-388b6133ba74",
+                "nodeTo": "130060d7-8cd6-4b50-8be9-209a85670b1b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "317483b8-6238-4366-ac08-b0ee71bd648b",
+                "nodeTo": "130060d7-8cd6-4b50-8be9-209a85670b1b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "130060d7-8cd6-4b50-8be9-209a85670b1b",
+                "nodeTo": "650754a1-253b-4862-9663-b8acb9545341",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "130060d7-8cd6-4b50-8be9-209a85670b1b",
+                "nodeTo": "c802d64d-3e88-4ab8-a8ae-745946e41784",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-01 16:26:29"
+}

@@ -1,0 +1,136 @@
+{
+    "uuid": 985,
+    "text": "Childhood virus may increase type 1 diabetes risk",
+    "graph": {
+        "version": 1,
+        "guid": "b00261c3-bb1d-4948-8d37-ab40422763ad",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "may",
+                "id": "99c5419b-5002-4e4c-acc0-d84ac31b51a9",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "increase",
+                "id": "96400ee0-2a36-4be1-9e65-6b85a4da1b71",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Childhood",
+                "id": "581d67c0-e848-4083-b533-605b7e13577e",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "virus",
+                "id": "cda8120c-0b4a-4858-ada5-470702829093",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "type",
+                "id": "61834741-d462-495c-8b89-4e3229151711",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": 1,
+                "id": "2cb30c79-6b06-478c-8ed6-eb6b123185c5",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "diabetes",
+                "id": "b9535964-d6e0-44a8-b334-9679e5ba8eb8",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "risk",
+                "id": "9281c01a-510b-4281-88c7-ae873390e92e",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "581d67c0-e848-4083-b533-605b7e13577e",
+                "nodeTo": "99c5419b-5002-4e4c-acc0-d84ac31b51a9",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cda8120c-0b4a-4858-ada5-470702829093",
+                "nodeTo": "99c5419b-5002-4e4c-acc0-d84ac31b51a9",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "581d67c0-e848-4083-b533-605b7e13577e",
+                "nodeTo": "96400ee0-2a36-4be1-9e65-6b85a4da1b71",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cda8120c-0b4a-4858-ada5-470702829093",
+                "nodeTo": "96400ee0-2a36-4be1-9e65-6b85a4da1b71",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "96400ee0-2a36-4be1-9e65-6b85a4da1b71",
+                "nodeTo": "61834741-d462-495c-8b89-4e3229151711",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "96400ee0-2a36-4be1-9e65-6b85a4da1b71",
+                "nodeTo": "2cb30c79-6b06-478c-8ed6-eb6b123185c5",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "96400ee0-2a36-4be1-9e65-6b85a4da1b71",
+                "nodeTo": "b9535964-d6e0-44a8-b334-9679e5ba8eb8",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "96400ee0-2a36-4be1-9e65-6b85a4da1b71",
+                "nodeTo": "9281c01a-510b-4281-88c7-ae873390e92e",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "99c5419b-5002-4e4c-acc0-d84ac31b51a9",
+                "nodeTo": "61834741-d462-495c-8b89-4e3229151711",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "99c5419b-5002-4e4c-acc0-d84ac31b51a9",
+                "nodeTo": "2cb30c79-6b06-478c-8ed6-eb6b123185c5",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "99c5419b-5002-4e4c-acc0-d84ac31b51a9",
+                "nodeTo": "b9535964-d6e0-44a8-b334-9679e5ba8eb8",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "99c5419b-5002-4e4c-acc0-d84ac31b51a9",
+                "nodeTo": "9281c01a-510b-4281-88c7-ae873390e92e",
+                "index": 4,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-28 13:59:16"
+}

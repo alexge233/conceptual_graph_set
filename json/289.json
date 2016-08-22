@@ -1,0 +1,124 @@
+{
+    "uuid": 289,
+    "text": "Adults with autism virtually learn how to get job",
+    "graph": {
+        "version": 1,
+        "guid": "5ae12725-b460-4882-9170-acd587510281",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "with",
+                "id": "ab523c7d-8081-41a2-a101-babc6276b1b1",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "learn",
+                "id": "852860b8-1811-4ac8-a793-4d99e6615312",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "virtually",
+                "id": "72c2ac25-31a8-49d2-b931-d1758ea9a571",
+                "postag": "NA",
+                "index": 3
+            },
+            {
+                "label": "how",
+                "id": "2b4b3323-664e-43ea-a1a0-2b753b378926",
+                "postag": "NA",
+                "index": 5
+            },
+            {
+                "label": "get",
+                "id": "c7b790b3-e632-48c4-bcc2-51e021e7ad65",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Adults",
+                "id": "b17d57a4-933b-4eb9-866c-92c4573b8a94",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "autism",
+                "id": "a6c47ede-6e7e-4973-8be0-84514d2100db",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "e11bbc7a-65c1-4498-8404-576bd2b40897",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "job",
+                "id": "434d0137-a760-4808-a08b-b3a6cb5c29e0",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "b17d57a4-933b-4eb9-866c-92c4573b8a94",
+                "nodeTo": "ab523c7d-8081-41a2-a101-babc6276b1b1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ab523c7d-8081-41a2-a101-babc6276b1b1",
+                "nodeTo": "a6c47ede-6e7e-4973-8be0-84514d2100db",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b17d57a4-933b-4eb9-866c-92c4573b8a94",
+                "nodeTo": "72c2ac25-31a8-49d2-b931-d1758ea9a571",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b17d57a4-933b-4eb9-866c-92c4573b8a94",
+                "nodeTo": "852860b8-1811-4ac8-a793-4d99e6615312",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2b4b3323-664e-43ea-a1a0-2b753b378926",
+                "nodeTo": "e11bbc7a-65c1-4498-8404-576bd2b40897",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "852860b8-1811-4ac8-a793-4d99e6615312",
+                "nodeTo": "e11bbc7a-65c1-4498-8404-576bd2b40897",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "72c2ac25-31a8-49d2-b931-d1758ea9a571",
+                "nodeTo": "e11bbc7a-65c1-4498-8404-576bd2b40897",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e11bbc7a-65c1-4498-8404-576bd2b40897",
+                "nodeTo": "c7b790b3-e632-48c4-bcc2-51e021e7ad65",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c7b790b3-e632-48c4-bcc2-51e021e7ad65",
+                "nodeTo": "434d0137-a760-4808-a08b-b3a6cb5c29e0",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-04 10:05:27"
+}

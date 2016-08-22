@@ -1,0 +1,268 @@
+{
+    "uuid": 161,
+    "text": "Spending lots of time on Facebook looking at pictures of friends could make women insecure about their bodies",
+    "graph": {
+        "version": 1,
+        "guid": "5a956ae8-d428-4b7a-b7a9-77530ae3c178",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "Spending",
+                "id": "4cb8e09e-6b69-441e-bbea-88d148de4b8a",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "2a8ac302-ce06-40be-9d87-9b6d03055149",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "on",
+                "id": "5d0d5274-8610-4368-9311-727e546a3a59",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "looking",
+                "id": "a2866486-5062-45ba-b071-b92e68e93909",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "at",
+                "id": "4e71243a-0b69-4d71-8e98-a8685305b64a",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "3e38656b-cdc2-4cbe-826b-ce8c21c01e01",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "could",
+                "id": "46d0ea15-b081-4e34-b02b-8102e52e002d",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "make",
+                "id": "1341b288-e032-4a15-bea9-96579ac1900b",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "about",
+                "id": "66c7e818-1326-4c7d-b68d-cd3375e444a3",
+                "index": 15,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "lots",
+                "id": "9046ac32-81ac-4298-89b8-51516cc068d2",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "time",
+                "id": "37210085-b5b7-41a9-83c6-5161d0d4e6c3",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "Facebook",
+                "id": "3057eb42-ad01-4467-86ee-e9b67a9343e3",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "pictures",
+                "id": "b0e8064d-5436-4663-88a5-644c3c42ead5",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "friends",
+                "id": "5659465b-556c-4701-aa89-33196326e856",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "women",
+                "id": "4595a556-80e2-4128-86ad-6034d8b75d8d",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "insecure",
+                "id": "75bba355-eeae-469e-9cd4-34628ec7c255",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "their",
+                "id": "74b15563-bd1a-49e6-9bc8-a3c7563a80ce",
+                "index": 16,
+                "postag": "NA"
+            },
+            {
+                "label": "bodies",
+                "id": "ee395976-e7e0-4663-b98c-4d8921749136",
+                "index": 17,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "4cb8e09e-6b69-441e-bbea-88d148de4b8a",
+                "nodeTo": "9046ac32-81ac-4298-89b8-51516cc068d2",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9046ac32-81ac-4298-89b8-51516cc068d2",
+                "nodeTo": "2a8ac302-ce06-40be-9d87-9b6d03055149",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2a8ac302-ce06-40be-9d87-9b6d03055149",
+                "nodeTo": "37210085-b5b7-41a9-83c6-5161d0d4e6c3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "37210085-b5b7-41a9-83c6-5161d0d4e6c3",
+                "nodeTo": "5d0d5274-8610-4368-9311-727e546a3a59",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4cb8e09e-6b69-441e-bbea-88d148de4b8a",
+                "nodeTo": "37210085-b5b7-41a9-83c6-5161d0d4e6c3",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9046ac32-81ac-4298-89b8-51516cc068d2",
+                "nodeTo": "5d0d5274-8610-4368-9311-727e546a3a59",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5d0d5274-8610-4368-9311-727e546a3a59",
+                "nodeTo": "3057eb42-ad01-4467-86ee-e9b67a9343e3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9046ac32-81ac-4298-89b8-51516cc068d2",
+                "nodeTo": "a2866486-5062-45ba-b071-b92e68e93909",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "37210085-b5b7-41a9-83c6-5161d0d4e6c3",
+                "nodeTo": "a2866486-5062-45ba-b071-b92e68e93909",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9046ac32-81ac-4298-89b8-51516cc068d2",
+                "nodeTo": "4e71243a-0b69-4d71-8e98-a8685305b64a",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "37210085-b5b7-41a9-83c6-5161d0d4e6c3",
+                "nodeTo": "4e71243a-0b69-4d71-8e98-a8685305b64a",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a2866486-5062-45ba-b071-b92e68e93909",
+                "nodeTo": "b0e8064d-5436-4663-88a5-644c3c42ead5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4e71243a-0b69-4d71-8e98-a8685305b64a",
+                "nodeTo": "b0e8064d-5436-4663-88a5-644c3c42ead5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b0e8064d-5436-4663-88a5-644c3c42ead5",
+                "nodeTo": "3e38656b-cdc2-4cbe-826b-ce8c21c01e01",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3e38656b-cdc2-4cbe-826b-ce8c21c01e01",
+                "nodeTo": "5659465b-556c-4701-aa89-33196326e856",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9046ac32-81ac-4298-89b8-51516cc068d2",
+                "nodeTo": "46d0ea15-b081-4e34-b02b-8102e52e002d",
+                "index": 5,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "37210085-b5b7-41a9-83c6-5161d0d4e6c3",
+                "nodeTo": "1341b288-e032-4a15-bea9-96579ac1900b",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "46d0ea15-b081-4e34-b02b-8102e52e002d",
+                "nodeTo": "4595a556-80e2-4128-86ad-6034d8b75d8d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1341b288-e032-4a15-bea9-96579ac1900b",
+                "nodeTo": "4595a556-80e2-4128-86ad-6034d8b75d8d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "46d0ea15-b081-4e34-b02b-8102e52e002d",
+                "nodeTo": "75bba355-eeae-469e-9cd4-34628ec7c255",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1341b288-e032-4a15-bea9-96579ac1900b",
+                "nodeTo": "75bba355-eeae-469e-9cd4-34628ec7c255",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "75bba355-eeae-469e-9cd4-34628ec7c255",
+                "nodeTo": "66c7e818-1326-4c7d-b68d-cd3375e444a3",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "66c7e818-1326-4c7d-b68d-cd3375e444a3",
+                "nodeTo": "74b15563-bd1a-49e6-9bc8-a3c7563a80ce",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "66c7e818-1326-4c7d-b68d-cd3375e444a3",
+                "nodeTo": "ee395976-e7e0-4663-b98c-4d8921749136",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-11-03 19:59:15"
+}

@@ -1,0 +1,64 @@
+{
+    "uuid": 503,
+    "text": "bad at recognizing people",
+    "graph": {
+        "version": 1,
+        "guid": "0d1c4c42-04a9-4677-a250-418a887cb5d4",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "at",
+                "id": "ae23d472-9b08-41e5-b709-7128a659ed16",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "recognizing",
+                "id": "b9416d3a-e2d7-43da-b0b8-460761714c07",
+                "postag": "NA",
+                "index": 2
+            }
+        ],
+        "concepts": [
+            {
+                "label": "bad",
+                "id": "1579730c-c45a-474b-bbcb-09e72d783842",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "people",
+                "id": "617909e6-541e-4b04-b80b-8e2be5db3730",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "1579730c-c45a-474b-bbcb-09e72d783842",
+                "nodeTo": "ae23d472-9b08-41e5-b709-7128a659ed16",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1579730c-c45a-474b-bbcb-09e72d783842",
+                "nodeTo": "b9416d3a-e2d7-43da-b0b8-460761714c07",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b9416d3a-e2d7-43da-b0b8-460761714c07",
+                "nodeTo": "617909e6-541e-4b04-b80b-8e2be5db3730",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ae23d472-9b08-41e5-b709-7128a659ed16",
+                "nodeTo": "617909e6-541e-4b04-b80b-8e2be5db3730",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-23 17:35:00"
+}

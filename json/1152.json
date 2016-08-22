@@ -1,0 +1,262 @@
+{
+    "uuid": 1152,
+    "text": "in undeveloped countries inexpensive and well tolerated antibiotics for therapy of streptococcal infections are often not available",
+    "graph": {
+        "version": 1,
+        "guid": "12d487d8-c4dd-4aa6-96d4-548ceabc3705",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "in",
+                "id": "e2e57258-3664-4842-95c0-d2e4b4039c0a",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "58ae9505-113e-4d0a-9eec-5ed5aec1b0a6",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "65beb645-dd14-42d9-b79d-26d34bed6a05",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "3a6a0e9d-2987-4ba7-9566-573911ec052a",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "are",
+                "id": "c9b3cb38-ec14-4c37-a5a1-390066166c40",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "not",
+                "id": "3c27dd95-4ed9-4632-9839-a6c87b93bd86",
+                "index": 15,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "countries",
+                "id": "b24d1185-cb2c-427b-81e7-3118475e5a66",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "undeveloped",
+                "id": "a405ee54-d281-4246-ab2b-c6e67ad71c10",
+                "postag": "NA",
+                "index": 1
+            },
+            {
+                "label": "inexpensive",
+                "id": "c8abd8b1-dc45-4a3c-9735-a500267a296b",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "well",
+                "id": "403bb61e-3581-4e83-9de8-da1a3de92200",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "tolerated",
+                "id": "28542382-8d99-4280-a609-c90d8004d730",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "antibiotics",
+                "id": "30299d0d-ed4e-453b-ad07-d2d4ca7ccca2",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "therapy",
+                "id": "bb2cb651-0c66-4d66-9211-d01da24bda25",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "streptococcal",
+                "id": "a62c6150-a5ee-4d74-b4bb-6c80b6301143",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "infections",
+                "id": "3c5c976a-5151-4dea-896e-2ee964ce4d17",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "often",
+                "id": "2c5c7031-3a46-40e4-8aaa-326196bce5a0",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "available",
+                "id": "845251ad-5aa9-4ac4-bd54-243cdb893d5d",
+                "index": 16,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "e2e57258-3664-4842-95c0-d2e4b4039c0a",
+                "nodeTo": "a405ee54-d281-4246-ab2b-c6e67ad71c10",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e2e57258-3664-4842-95c0-d2e4b4039c0a",
+                "nodeTo": "b24d1185-cb2c-427b-81e7-3118475e5a66",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e2e57258-3664-4842-95c0-d2e4b4039c0a",
+                "nodeTo": "c8abd8b1-dc45-4a3c-9735-a500267a296b",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c8abd8b1-dc45-4a3c-9735-a500267a296b",
+                "nodeTo": "58ae9505-113e-4d0a-9eec-5ed5aec1b0a6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "58ae9505-113e-4d0a-9eec-5ed5aec1b0a6",
+                "nodeTo": "403bb61e-3581-4e83-9de8-da1a3de92200",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "58ae9505-113e-4d0a-9eec-5ed5aec1b0a6",
+                "nodeTo": "28542382-8d99-4280-a609-c90d8004d730",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e2e57258-3664-4842-95c0-d2e4b4039c0a",
+                "nodeTo": "403bb61e-3581-4e83-9de8-da1a3de92200",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e2e57258-3664-4842-95c0-d2e4b4039c0a",
+                "nodeTo": "28542382-8d99-4280-a609-c90d8004d730",
+                "index": 5,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e2e57258-3664-4842-95c0-d2e4b4039c0a",
+                "nodeTo": "30299d0d-ed4e-453b-ad07-d2d4ca7ccca2",
+                "index": 6,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c8abd8b1-dc45-4a3c-9735-a500267a296b",
+                "nodeTo": "65beb645-dd14-42d9-b79d-26d34bed6a05",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "403bb61e-3581-4e83-9de8-da1a3de92200",
+                "nodeTo": "65beb645-dd14-42d9-b79d-26d34bed6a05",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "28542382-8d99-4280-a609-c90d8004d730",
+                "nodeTo": "65beb645-dd14-42d9-b79d-26d34bed6a05",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "30299d0d-ed4e-453b-ad07-d2d4ca7ccca2",
+                "nodeTo": "65beb645-dd14-42d9-b79d-26d34bed6a05",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "65beb645-dd14-42d9-b79d-26d34bed6a05",
+                "nodeTo": "bb2cb651-0c66-4d66-9211-d01da24bda25",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "bb2cb651-0c66-4d66-9211-d01da24bda25",
+                "nodeTo": "3a6a0e9d-2987-4ba7-9566-573911ec052a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3a6a0e9d-2987-4ba7-9566-573911ec052a",
+                "nodeTo": "a62c6150-a5ee-4d74-b4bb-6c80b6301143",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3a6a0e9d-2987-4ba7-9566-573911ec052a",
+                "nodeTo": "3c5c976a-5151-4dea-896e-2ee964ce4d17",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c8abd8b1-dc45-4a3c-9735-a500267a296b",
+                "nodeTo": "c9b3cb38-ec14-4c37-a5a1-390066166c40",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "403bb61e-3581-4e83-9de8-da1a3de92200",
+                "nodeTo": "c9b3cb38-ec14-4c37-a5a1-390066166c40",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "28542382-8d99-4280-a609-c90d8004d730",
+                "nodeTo": "c9b3cb38-ec14-4c37-a5a1-390066166c40",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "30299d0d-ed4e-453b-ad07-d2d4ca7ccca2",
+                "nodeTo": "c9b3cb38-ec14-4c37-a5a1-390066166c40",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c9b3cb38-ec14-4c37-a5a1-390066166c40",
+                "nodeTo": "2c5c7031-3a46-40e4-8aaa-326196bce5a0",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2c5c7031-3a46-40e4-8aaa-326196bce5a0",
+                "nodeTo": "3c27dd95-4ed9-4632-9839-a6c87b93bd86",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3c27dd95-4ed9-4632-9839-a6c87b93bd86",
+                "nodeTo": "845251ad-5aa9-4ac4-bd54-243cdb893d5d",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-24 15:36:55"
+}

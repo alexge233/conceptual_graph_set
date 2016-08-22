@@ -1,0 +1,190 @@
+{
+    "uuid": 295,
+    "text": "review concludes that more women benefit from use of Trastuzumab than are harmed",
+    "graph": {
+        "version": 1,
+        "guid": "71b3a03a-21d0-40a3-bc2d-72487c8a247e",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "concludes",
+                "id": "874767e8-65ab-491e-a78d-483b527d98ba",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "benefit",
+                "id": "b047c4a6-861c-4ca9-97c8-97e8290a4384",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "from",
+                "id": "2e953b6c-04cc-4dd9-ae6d-b940685539e7",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "0a291cd7-0733-444e-950c-eaac2d04a15a",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "than",
+                "id": "980cd385-c868-465e-981d-a3caa8b8976e",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "are",
+                "id": "d9d5b886-3c23-40b6-90d5-694741c068de",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "review",
+                "id": "4bd99e8a-68b3-4454-81d1-0a93d37d300c",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "that",
+                "id": "b171a261-e061-44a1-83ee-4ddead9824d5",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "more",
+                "id": "079e6bd5-a8b2-48e7-9986-deea332c539a",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "women",
+                "id": "21a0b737-0323-41b2-8c01-c46c79e5112b",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "use",
+                "id": "61059b7c-1dd0-4dec-8b28-3647ea3dac3e",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "Trastuzumab",
+                "id": "26e11369-78c7-4cd5-b74a-482718071cd9",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "harmed",
+                "id": "aa711c30-ac45-4d5a-b5c5-2bc74d69c9d6",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "4bd99e8a-68b3-4454-81d1-0a93d37d300c",
+                "nodeTo": "874767e8-65ab-491e-a78d-483b527d98ba",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "874767e8-65ab-491e-a78d-483b527d98ba",
+                "nodeTo": "b171a261-e061-44a1-83ee-4ddead9824d5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "874767e8-65ab-491e-a78d-483b527d98ba",
+                "nodeTo": "079e6bd5-a8b2-48e7-9986-deea332c539a",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "874767e8-65ab-491e-a78d-483b527d98ba",
+                "nodeTo": "21a0b737-0323-41b2-8c01-c46c79e5112b",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "079e6bd5-a8b2-48e7-9986-deea332c539a",
+                "nodeTo": "b047c4a6-861c-4ca9-97c8-97e8290a4384",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "21a0b737-0323-41b2-8c01-c46c79e5112b",
+                "nodeTo": "b047c4a6-861c-4ca9-97c8-97e8290a4384",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "079e6bd5-a8b2-48e7-9986-deea332c539a",
+                "nodeTo": "2e953b6c-04cc-4dd9-ae6d-b940685539e7",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "21a0b737-0323-41b2-8c01-c46c79e5112b",
+                "nodeTo": "2e953b6c-04cc-4dd9-ae6d-b940685539e7",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b047c4a6-861c-4ca9-97c8-97e8290a4384",
+                "nodeTo": "61059b7c-1dd0-4dec-8b28-3647ea3dac3e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2e953b6c-04cc-4dd9-ae6d-b940685539e7",
+                "nodeTo": "61059b7c-1dd0-4dec-8b28-3647ea3dac3e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "61059b7c-1dd0-4dec-8b28-3647ea3dac3e",
+                "nodeTo": "0a291cd7-0733-444e-950c-eaac2d04a15a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0a291cd7-0733-444e-950c-eaac2d04a15a",
+                "nodeTo": "26e11369-78c7-4cd5-b74a-482718071cd9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d9d5b886-3c23-40b6-90d5-694741c068de",
+                "nodeTo": "aa711c30-ac45-4d5a-b5c5-2bc74d69c9d6",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "980cd385-c868-465e-981d-a3caa8b8976e",
+                "nodeTo": "aa711c30-ac45-4d5a-b5c5-2bc74d69c9d6",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "21a0b737-0323-41b2-8c01-c46c79e5112b",
+                "nodeTo": "980cd385-c868-465e-981d-a3caa8b8976e",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "21a0b737-0323-41b2-8c01-c46c79e5112b",
+                "nodeTo": "d9d5b886-3c23-40b6-90d5-694741c068de",
+                "index": 4,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2014-12-04 12:03:30"
+}

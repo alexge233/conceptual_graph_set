@@ -1,0 +1,70 @@
+{
+    "uuid": 181,
+    "text": "Terror of patients op wake-up",
+    "graph": {
+        "version": 1,
+        "guid": "de2859c5-c262-4433-95dc-85c89609c28d",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "of",
+                "id": "48eac409-7723-4b1d-8ced-2d0899c71c8c",
+                "index": 1,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Terror",
+                "id": "70d8932b-d44b-40ad-b604-9ec90a45caa6",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "patients",
+                "id": "c1c319a9-9d71-4cb1-a77d-e30c30d0829a",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "wake-up",
+                "id": "23326b0d-2ae3-499c-8596-6ae077d03a62",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "op",
+                "id": "e8c1e524-5692-4723-82cd-bd88ac4c2c90",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "70d8932b-d44b-40ad-b604-9ec90a45caa6",
+                "nodeTo": "48eac409-7723-4b1d-8ced-2d0899c71c8c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "48eac409-7723-4b1d-8ced-2d0899c71c8c",
+                "nodeTo": "c1c319a9-9d71-4cb1-a77d-e30c30d0829a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "48eac409-7723-4b1d-8ced-2d0899c71c8c",
+                "nodeTo": "e8c1e524-5692-4723-82cd-bd88ac4c2c90",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "48eac409-7723-4b1d-8ced-2d0899c71c8c",
+                "nodeTo": "23326b0d-2ae3-499c-8596-6ae077d03a62",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-11-12 18:15:01"
+}

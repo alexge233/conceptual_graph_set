@@ -1,0 +1,94 @@
+{
+    "uuid": 1204,
+    "text": "comparable outcomes for outpatient inpatient orthopaedic surgeries",
+    "graph": {
+        "version": 1,
+        "guid": "551a97a8-ccba-4652-abd5-25a0b53baa29",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "for",
+                "id": "223190e8-9762-48b9-aa7b-bc0216e60270",
+                "index": 2,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "comparable",
+                "id": "165a22cd-576b-48e6-90c2-28c1710181bb",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "outcomes",
+                "id": "e52841c3-a4bc-4b3c-a9a6-e39953a79971",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "outpatient",
+                "id": "371cc1ab-ad25-494d-a700-4c326d93b607",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "inpatient",
+                "id": "bda79c47-0a58-41bd-9488-8b5cc34b8cd1",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "orthopaedic",
+                "id": "65c469a7-47e9-4241-8240-b85827957955",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "surgeries",
+                "id": "45257a37-db86-4139-8a51-0c0d01331833",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "165a22cd-576b-48e6-90c2-28c1710181bb",
+                "nodeTo": "223190e8-9762-48b9-aa7b-bc0216e60270",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e52841c3-a4bc-4b3c-a9a6-e39953a79971",
+                "nodeTo": "223190e8-9762-48b9-aa7b-bc0216e60270",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "223190e8-9762-48b9-aa7b-bc0216e60270",
+                "nodeTo": "371cc1ab-ad25-494d-a700-4c326d93b607",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "223190e8-9762-48b9-aa7b-bc0216e60270",
+                "nodeTo": "bda79c47-0a58-41bd-9488-8b5cc34b8cd1",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "223190e8-9762-48b9-aa7b-bc0216e60270",
+                "nodeTo": "65c469a7-47e9-4241-8240-b85827957955",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "223190e8-9762-48b9-aa7b-bc0216e60270",
+                "nodeTo": "45257a37-db86-4139-8a51-0c0d01331833",
+                "index": 4,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-26 16:46:24"
+}

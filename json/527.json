@@ -1,0 +1,94 @@
+{
+    "uuid": 527,
+    "text": "beating odds to be NUS president",
+    "graph": {
+        "version": 1,
+        "guid": "9317ad32-1951-4ded-893a-1c56d7c123cb",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "beating",
+                "id": "d1238d31-2cd9-4410-b3d7-db4484a84711",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "23842b5e-824c-4db3-ad5a-957e8c1c304a",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "be",
+                "id": "7eed3e28-a7d9-4ecd-8311-01041bade858",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "odds",
+                "id": "53195086-c483-498b-9d8a-babbcd0d1002",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "NUS",
+                "id": "5e4c558d-d912-4eb0-bdb3-5608166451d8",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "president",
+                "id": "d17d2172-c4da-43bc-89da-e2566934c391",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "d1238d31-2cd9-4410-b3d7-db4484a84711",
+                "nodeTo": "53195086-c483-498b-9d8a-babbcd0d1002",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "53195086-c483-498b-9d8a-babbcd0d1002",
+                "nodeTo": "23842b5e-824c-4db3-ad5a-957e8c1c304a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "53195086-c483-498b-9d8a-babbcd0d1002",
+                "nodeTo": "7eed3e28-a7d9-4ecd-8311-01041bade858",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "23842b5e-824c-4db3-ad5a-957e8c1c304a",
+                "nodeTo": "5e4c558d-d912-4eb0-bdb3-5608166451d8",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7eed3e28-a7d9-4ecd-8311-01041bade858",
+                "nodeTo": "5e4c558d-d912-4eb0-bdb3-5608166451d8",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "23842b5e-824c-4db3-ad5a-957e8c1c304a",
+                "nodeTo": "d17d2172-c4da-43bc-89da-e2566934c391",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7eed3e28-a7d9-4ecd-8311-01041bade858",
+                "nodeTo": "d17d2172-c4da-43bc-89da-e2566934c391",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-24 17:22:00"
+}

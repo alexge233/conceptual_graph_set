@@ -1,0 +1,112 @@
+{
+    "uuid": 592,
+    "text": "Biomarkers predict long-term outcomes in juvenile idiopathic arthritis",
+    "graph": {
+        "version": 1,
+        "guid": "9eb98442-edd8-482e-9d44-482da2a370be",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "predict",
+                "id": "8b87e710-a632-4154-93ba-c1ade92d39e6",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "84608c8a-2240-4ea5-8ae4-3bb16622e3c7",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Biomarkers",
+                "id": "1bcc3716-d839-47b6-9cd5-7c6ea956bcec",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "long-term",
+                "id": "5b2011a3-2822-4d7e-89c6-db544a771974",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "outcomes",
+                "id": "3872bbe6-3ceb-4410-b3cd-78705065195e",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "juvenile",
+                "id": "21abd92b-843c-4e20-b782-a2085602ee13",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "idiopathic",
+                "id": "bc872a78-29ad-44ed-9b64-115277ea9c36",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "arthritis",
+                "id": "8926d034-941e-423b-b17c-3b1ab78915a7",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "1bcc3716-d839-47b6-9cd5-7c6ea956bcec",
+                "nodeTo": "8b87e710-a632-4154-93ba-c1ade92d39e6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8b87e710-a632-4154-93ba-c1ade92d39e6",
+                "nodeTo": "5b2011a3-2822-4d7e-89c6-db544a771974",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8b87e710-a632-4154-93ba-c1ade92d39e6",
+                "nodeTo": "3872bbe6-3ceb-4410-b3cd-78705065195e",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5b2011a3-2822-4d7e-89c6-db544a771974",
+                "nodeTo": "84608c8a-2240-4ea5-8ae4-3bb16622e3c7",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3872bbe6-3ceb-4410-b3cd-78705065195e",
+                "nodeTo": "84608c8a-2240-4ea5-8ae4-3bb16622e3c7",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "84608c8a-2240-4ea5-8ae4-3bb16622e3c7",
+                "nodeTo": "21abd92b-843c-4e20-b782-a2085602ee13",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "84608c8a-2240-4ea5-8ae4-3bb16622e3c7",
+                "nodeTo": "bc872a78-29ad-44ed-9b64-115277ea9c36",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "84608c8a-2240-4ea5-8ae4-3bb16622e3c7",
+                "nodeTo": "8926d034-941e-423b-b17c-3b1ab78915a7",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-07 21:44:16"
+}

@@ -1,0 +1,94 @@
+{
+    "uuid": 807,
+    "text": "can you live without processed food",
+    "graph": {
+        "version": 1,
+        "guid": "19d6da5b-2211-4cac-8137-5dc0079a546c",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "can",
+                "id": "ca4102a6-1884-41d0-b805-d1021074c5e0",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "live",
+                "id": "763cebb6-ed3b-4340-bed5-9bbe2a09c75b",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "without",
+                "id": "b48e8d81-7526-4519-a131-aaaea1383d13",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "you",
+                "id": "ac9a6ab9-a69b-49e0-95c5-1365680a7ab7",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "processed",
+                "id": "80e02b5b-79b9-4d32-a858-3cb75729eea0",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "food",
+                "id": "c47d4030-4c5d-4c65-bce3-1a49ca44c118",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "ca4102a6-1884-41d0-b805-d1021074c5e0",
+                "nodeTo": "ac9a6ab9-a69b-49e0-95c5-1365680a7ab7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ac9a6ab9-a69b-49e0-95c5-1365680a7ab7",
+                "nodeTo": "763cebb6-ed3b-4340-bed5-9bbe2a09c75b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ac9a6ab9-a69b-49e0-95c5-1365680a7ab7",
+                "nodeTo": "b48e8d81-7526-4519-a131-aaaea1383d13",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "763cebb6-ed3b-4340-bed5-9bbe2a09c75b",
+                "nodeTo": "80e02b5b-79b9-4d32-a858-3cb75729eea0",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "763cebb6-ed3b-4340-bed5-9bbe2a09c75b",
+                "nodeTo": "c47d4030-4c5d-4c65-bce3-1a49ca44c118",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b48e8d81-7526-4519-a131-aaaea1383d13",
+                "nodeTo": "80e02b5b-79b9-4d32-a858-3cb75729eea0",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b48e8d81-7526-4519-a131-aaaea1383d13",
+                "nodeTo": "c47d4030-4c5d-4c65-bce3-1a49ca44c118",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-16 18:17:20"
+}

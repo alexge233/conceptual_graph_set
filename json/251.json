@@ -1,0 +1,118 @@
+{
+    "uuid": 251,
+    "text": "Academic workplace bias against parents hurts non-parents too",
+    "graph": {
+        "version": 1,
+        "guid": "49039e04-621d-4add-b94b-cb7710823d1c",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "against",
+                "id": "ab0d8872-b7cd-4359-ab8a-852958cad92c",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "hurts",
+                "id": "2305849d-4a53-41a0-be32-08e3d002c68d",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Academic",
+                "id": "5eeb7760-d815-4969-a7a5-aa477260b7c7",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "workplace",
+                "id": "759a6816-ce41-49db-8e94-aae32c736585",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "bias",
+                "id": "410b4a01-6d9a-42dd-a5da-8622c6969a32",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "parents",
+                "id": "c0be0780-869e-422c-83b4-5b0b23049856",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "non-parents",
+                "id": "80dbba1e-b1d8-417b-90a8-4ebb437a9a37",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "too",
+                "id": "46ea3d1a-1605-4e05-a50e-344e6b80a273",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "5eeb7760-d815-4969-a7a5-aa477260b7c7",
+                "nodeTo": "ab0d8872-b7cd-4359-ab8a-852958cad92c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "759a6816-ce41-49db-8e94-aae32c736585",
+                "nodeTo": "ab0d8872-b7cd-4359-ab8a-852958cad92c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "410b4a01-6d9a-42dd-a5da-8622c6969a32",
+                "nodeTo": "ab0d8872-b7cd-4359-ab8a-852958cad92c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ab0d8872-b7cd-4359-ab8a-852958cad92c",
+                "nodeTo": "c0be0780-869e-422c-83b4-5b0b23049856",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "410b4a01-6d9a-42dd-a5da-8622c6969a32",
+                "nodeTo": "2305849d-4a53-41a0-be32-08e3d002c68d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5eeb7760-d815-4969-a7a5-aa477260b7c7",
+                "nodeTo": "2305849d-4a53-41a0-be32-08e3d002c68d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "759a6816-ce41-49db-8e94-aae32c736585",
+                "nodeTo": "2305849d-4a53-41a0-be32-08e3d002c68d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2305849d-4a53-41a0-be32-08e3d002c68d",
+                "nodeTo": "80dbba1e-b1d8-417b-90a8-4ebb437a9a37",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2305849d-4a53-41a0-be32-08e3d002c68d",
+                "nodeTo": "46ea3d1a-1605-4e05-a50e-344e6b80a273",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-03 12:17:05"
+}

@@ -1,0 +1,148 @@
+{
+    "uuid": 581,
+    "text": "biological signal processing where body cells are instrumentalists in symphony orchestra",
+    "graph": {
+        "version": 1,
+        "guid": "c98c6764-bd6e-4711-881b-65e1c4a1decc",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "where",
+                "id": "2e1aa3cd-8b3a-40ba-9a4b-5b4043220033",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "are",
+                "id": "5e76e07c-7055-4590-85ac-4c729405bb90",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "c766acbc-0acb-401b-b433-70ca40de1846",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "biological",
+                "id": "4ebb5bd0-d372-445c-9105-a82677d91166",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "signal",
+                "id": "ce037ce3-445d-4270-b168-0c6ee5b9ca63",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "processing",
+                "id": "b8be915a-4068-4413-a7b7-6ee9dab7dda5",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "body",
+                "id": "a7e38c75-8aeb-4b4a-a302-abc6b98247a9",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "cells",
+                "id": "b6eed386-b111-411b-a9ba-10d3da4494c0",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "instrumentalists",
+                "id": "73b19c91-3a61-4d47-81be-3c5eb691a21a",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "symphony",
+                "id": "678b5c96-1936-45e7-b657-e2a567cb9088",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "orchestra",
+                "id": "8cb13e25-2eb4-4b95-9288-292b3754bcb1",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "4ebb5bd0-d372-445c-9105-a82677d91166",
+                "nodeTo": "2e1aa3cd-8b3a-40ba-9a4b-5b4043220033",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ce037ce3-445d-4270-b168-0c6ee5b9ca63",
+                "nodeTo": "2e1aa3cd-8b3a-40ba-9a4b-5b4043220033",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b8be915a-4068-4413-a7b7-6ee9dab7dda5",
+                "nodeTo": "2e1aa3cd-8b3a-40ba-9a4b-5b4043220033",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2e1aa3cd-8b3a-40ba-9a4b-5b4043220033",
+                "nodeTo": "a7e38c75-8aeb-4b4a-a302-abc6b98247a9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2e1aa3cd-8b3a-40ba-9a4b-5b4043220033",
+                "nodeTo": "b6eed386-b111-411b-a9ba-10d3da4494c0",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a7e38c75-8aeb-4b4a-a302-abc6b98247a9",
+                "nodeTo": "5e76e07c-7055-4590-85ac-4c729405bb90",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b6eed386-b111-411b-a9ba-10d3da4494c0",
+                "nodeTo": "5e76e07c-7055-4590-85ac-4c729405bb90",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5e76e07c-7055-4590-85ac-4c729405bb90",
+                "nodeTo": "73b19c91-3a61-4d47-81be-3c5eb691a21a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "73b19c91-3a61-4d47-81be-3c5eb691a21a",
+                "nodeTo": "c766acbc-0acb-401b-b433-70ca40de1846",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c766acbc-0acb-401b-b433-70ca40de1846",
+                "nodeTo": "678b5c96-1936-45e7-b657-e2a567cb9088",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c766acbc-0acb-401b-b433-70ca40de1846",
+                "nodeTo": "8cb13e25-2eb4-4b95-9288-292b3754bcb1",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-07 20:22:46"
+}

@@ -1,0 +1,214 @@
+{
+    "uuid": 965,
+    "text": "national charity for patient safety and justice has called for review of patient safety",
+    "graph": {
+        "version": 1,
+        "guid": "5d05d26d-925a-42b6-b547-61489464d05b",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "for",
+                "id": "4eb99366-8422-4e68-988b-46e9d5792392",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "1369de42-9846-44cb-a661-de1d4489865a",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "has",
+                "id": "8a0a1b6e-2a94-4d33-a7a3-6533dc80925c",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "called",
+                "id": "56435950-0ddb-47eb-b70e-8b5eda717404",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "06156c42-9290-47da-83bc-c52b8da9392b",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "d30de60a-dd6d-4756-ad38-514c854c355a",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "national",
+                "id": "c5be9704-a747-4cbb-a4c1-c99e65c48e47",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "charity",
+                "id": "c3b04d40-879a-498b-ac6a-7d2ad2a1d0e1",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "patient",
+                "id": "63ccee16-6161-42a8-b82a-2b2b589e3410",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "safety",
+                "id": "6d232585-04d1-418b-9adc-617a570b3129",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "justice",
+                "id": "6525aa14-12d2-483c-a232-1a65ea8826ac",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "review",
+                "id": "ab875787-98cc-4614-b366-ea9e62262153",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "patient",
+                "id": "1d558421-d59a-4142-93ea-e0a564a7c873",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "safety",
+                "id": "01664248-291c-4e92-aca0-e3c980dd7665",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "c5be9704-a747-4cbb-a4c1-c99e65c48e47",
+                "nodeTo": "4eb99366-8422-4e68-988b-46e9d5792392",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c3b04d40-879a-498b-ac6a-7d2ad2a1d0e1",
+                "nodeTo": "4eb99366-8422-4e68-988b-46e9d5792392",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4eb99366-8422-4e68-988b-46e9d5792392",
+                "nodeTo": "63ccee16-6161-42a8-b82a-2b2b589e3410",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4eb99366-8422-4e68-988b-46e9d5792392",
+                "nodeTo": "6d232585-04d1-418b-9adc-617a570b3129",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "63ccee16-6161-42a8-b82a-2b2b589e3410",
+                "nodeTo": "1369de42-9846-44cb-a661-de1d4489865a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6d232585-04d1-418b-9adc-617a570b3129",
+                "nodeTo": "1369de42-9846-44cb-a661-de1d4489865a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1369de42-9846-44cb-a661-de1d4489865a",
+                "nodeTo": "6525aa14-12d2-483c-a232-1a65ea8826ac",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c5be9704-a747-4cbb-a4c1-c99e65c48e47",
+                "nodeTo": "8a0a1b6e-2a94-4d33-a7a3-6533dc80925c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c3b04d40-879a-498b-ac6a-7d2ad2a1d0e1",
+                "nodeTo": "8a0a1b6e-2a94-4d33-a7a3-6533dc80925c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c5be9704-a747-4cbb-a4c1-c99e65c48e47",
+                "nodeTo": "56435950-0ddb-47eb-b70e-8b5eda717404",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c3b04d40-879a-498b-ac6a-7d2ad2a1d0e1",
+                "nodeTo": "56435950-0ddb-47eb-b70e-8b5eda717404",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c5be9704-a747-4cbb-a4c1-c99e65c48e47",
+                "nodeTo": "06156c42-9290-47da-83bc-c52b8da9392b",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c3b04d40-879a-498b-ac6a-7d2ad2a1d0e1",
+                "nodeTo": "06156c42-9290-47da-83bc-c52b8da9392b",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8a0a1b6e-2a94-4d33-a7a3-6533dc80925c",
+                "nodeTo": "ab875787-98cc-4614-b366-ea9e62262153",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "56435950-0ddb-47eb-b70e-8b5eda717404",
+                "nodeTo": "ab875787-98cc-4614-b366-ea9e62262153",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "06156c42-9290-47da-83bc-c52b8da9392b",
+                "nodeTo": "ab875787-98cc-4614-b366-ea9e62262153",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ab875787-98cc-4614-b366-ea9e62262153",
+                "nodeTo": "d30de60a-dd6d-4756-ad38-514c854c355a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d30de60a-dd6d-4756-ad38-514c854c355a",
+                "nodeTo": "1d558421-d59a-4142-93ea-e0a564a7c873",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d30de60a-dd6d-4756-ad38-514c854c355a",
+                "nodeTo": "01664248-291c-4e92-aca0-e3c980dd7665",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-28 12:03:21"
+}

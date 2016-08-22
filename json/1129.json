@@ -1,0 +1,136 @@
+{
+    "uuid": 1129,
+    "text": "cognitive function and oral perception in independently living octogenarians",
+    "graph": {
+        "version": 1,
+        "guid": "458be525-4439-4d38-85e9-9bce5a2514b5",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "and",
+                "id": "3a8124ce-e544-479c-9cb7-30ade050a66d",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "72e06283-ccb8-44b1-b923-e9b1e4ddc1b5",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "cognitive",
+                "id": "e7e5a409-90e3-4331-bcb5-01a7b6e03c00",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "function",
+                "id": "b7b96c59-7e92-415a-9d04-d0cbcc3903cd",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "oral",
+                "id": "d3bb995c-ccb4-4ebb-94d9-64ecdad2d31e",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "perception",
+                "id": "8c229b0e-d54e-4ca4-8b14-c108ed8bba03",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "independently",
+                "id": "8e63ecd6-2e6d-4e91-9d06-933bbe4e1c31",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "living",
+                "id": "75a56e81-7873-461b-b2bb-a7484855bc3e",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "octogenarians",
+                "id": "bc509967-99ee-48a5-8875-e774a0306050",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "e7e5a409-90e3-4331-bcb5-01a7b6e03c00",
+                "nodeTo": "3a8124ce-e544-479c-9cb7-30ade050a66d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b7b96c59-7e92-415a-9d04-d0cbcc3903cd",
+                "nodeTo": "3a8124ce-e544-479c-9cb7-30ade050a66d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3a8124ce-e544-479c-9cb7-30ade050a66d",
+                "nodeTo": "d3bb995c-ccb4-4ebb-94d9-64ecdad2d31e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3a8124ce-e544-479c-9cb7-30ade050a66d",
+                "nodeTo": "8c229b0e-d54e-4ca4-8b14-c108ed8bba03",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e7e5a409-90e3-4331-bcb5-01a7b6e03c00",
+                "nodeTo": "72e06283-ccb8-44b1-b923-e9b1e4ddc1b5",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b7b96c59-7e92-415a-9d04-d0cbcc3903cd",
+                "nodeTo": "72e06283-ccb8-44b1-b923-e9b1e4ddc1b5",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d3bb995c-ccb4-4ebb-94d9-64ecdad2d31e",
+                "nodeTo": "72e06283-ccb8-44b1-b923-e9b1e4ddc1b5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8c229b0e-d54e-4ca4-8b14-c108ed8bba03",
+                "nodeTo": "72e06283-ccb8-44b1-b923-e9b1e4ddc1b5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "72e06283-ccb8-44b1-b923-e9b1e4ddc1b5",
+                "nodeTo": "8e63ecd6-2e6d-4e91-9d06-933bbe4e1c31",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "72e06283-ccb8-44b1-b923-e9b1e4ddc1b5",
+                "nodeTo": "75a56e81-7873-461b-b2bb-a7484855bc3e",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "72e06283-ccb8-44b1-b923-e9b1e4ddc1b5",
+                "nodeTo": "bc509967-99ee-48a5-8875-e774a0306050",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-23 18:40:20"
+}

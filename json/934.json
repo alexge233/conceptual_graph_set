@@ -1,0 +1,88 @@
+{
+    "uuid": 934,
+    "text": "Cellular complexity of brain tumors charted",
+    "graph": {
+        "version": 1,
+        "guid": "cb6d66e7-ead5-48be-8dc5-d9b4171c7ca7",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "of",
+                "id": "eccd1b0d-b22d-4958-a051-007bd079d2dc",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "charted",
+                "id": "9ca05e4c-184d-4be3-86a6-e46167720ea6",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Cellular",
+                "id": "6db97464-ed93-43b5-bc35-7658a76a6b9e",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "complexity",
+                "id": "bdab325e-748e-4688-b036-40a36e3be82d",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "brain",
+                "id": "794a30c3-7573-4d52-8147-e26ace2152c7",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "tumors",
+                "id": "5512ce25-7c8b-45c8-9d43-d67d737caa96",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "6db97464-ed93-43b5-bc35-7658a76a6b9e",
+                "nodeTo": "eccd1b0d-b22d-4958-a051-007bd079d2dc",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bdab325e-748e-4688-b036-40a36e3be82d",
+                "nodeTo": "eccd1b0d-b22d-4958-a051-007bd079d2dc",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "eccd1b0d-b22d-4958-a051-007bd079d2dc",
+                "nodeTo": "794a30c3-7573-4d52-8147-e26ace2152c7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "eccd1b0d-b22d-4958-a051-007bd079d2dc",
+                "nodeTo": "5512ce25-7c8b-45c8-9d43-d67d737caa96",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6db97464-ed93-43b5-bc35-7658a76a6b9e",
+                "nodeTo": "9ca05e4c-184d-4be3-86a6-e46167720ea6",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bdab325e-748e-4688-b036-40a36e3be82d",
+                "nodeTo": "9ca05e4c-184d-4be3-86a6-e46167720ea6",
+                "index": 2,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2015-01-22 17:44:57"
+}

@@ -1,0 +1,106 @@
+{
+    "uuid": 670,
+    "text": "boy band singer Lee Ryan in drug arrest",
+    "graph": {
+        "version": 1,
+        "guid": "d23e7687-6096-49ee-9865-211903ea3a11",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "in",
+                "id": "e0c10051-4c38-4448-b91d-32713032a3eb",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "boy",
+                "id": "0b8ede67-ecda-4867-88b9-6513245a9e8b",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "band",
+                "id": "6d74ed8c-b4c1-4102-961d-ac464e2d7951",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "singer",
+                "id": "6a16e589-00eb-41eb-9363-853c6c9e3e06",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "Lee",
+                "id": "165e2d28-d6d0-40b0-958e-70d798bd1eeb",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "Ryan",
+                "id": "7254d561-398b-47ec-a186-e187e0087356",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "drug",
+                "id": "14c6ab3c-160e-46e2-ab0d-9ca6a5ca5165",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "arrest",
+                "id": "9693d5e2-757c-4c6d-a1b7-73a29812570e",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "0b8ede67-ecda-4867-88b9-6513245a9e8b",
+                "nodeTo": "e0c10051-4c38-4448-b91d-32713032a3eb",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6d74ed8c-b4c1-4102-961d-ac464e2d7951",
+                "nodeTo": "e0c10051-4c38-4448-b91d-32713032a3eb",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6a16e589-00eb-41eb-9363-853c6c9e3e06",
+                "nodeTo": "e0c10051-4c38-4448-b91d-32713032a3eb",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "165e2d28-d6d0-40b0-958e-70d798bd1eeb",
+                "nodeTo": "e0c10051-4c38-4448-b91d-32713032a3eb",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7254d561-398b-47ec-a186-e187e0087356",
+                "nodeTo": "e0c10051-4c38-4448-b91d-32713032a3eb",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e0c10051-4c38-4448-b91d-32713032a3eb",
+                "nodeTo": "14c6ab3c-160e-46e2-ab0d-9ca6a5ca5165",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e0c10051-4c38-4448-b91d-32713032a3eb",
+                "nodeTo": "9693d5e2-757c-4c6d-a1b7-73a29812570e",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-09 20:32:45"
+}

@@ -1,0 +1,232 @@
+{
+    "uuid": 701,
+    "text": "as soon as these receptors are activated inflammation occurs and bodys defense mechanisms kick in",
+    "graph": {
+        "version": 1,
+        "guid": "250d86c6-67bd-4a2d-9655-ce7da0b358b2",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "as",
+                "id": "dc901b7a-0949-405c-b40a-ea2184537705",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "as",
+                "id": "d3c7c5a2-eb06-4383-9bdc-8dde9c039389",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "are",
+                "id": "bd82de21-bcad-415a-9100-8ee87c11c0e1",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "activated",
+                "id": "bb48e803-dade-4818-95a5-24d135475d19",
+                "postag": "NA",
+                "index": 6
+            },
+            {
+                "label": "occurs",
+                "id": "e9324967-8410-4560-9900-5ded7b2de734",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "b8ac03bd-b8d3-4402-ade4-15da1a5da609",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "kick",
+                "id": "b869b96d-646e-44aa-8a7e-3d480a32bd3b",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "66a4e69c-308e-42b1-9465-816cbd92b401",
+                "index": 14,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "soon",
+                "id": "4629de75-d633-4cb0-b784-bc689a184cd8",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "these",
+                "id": "a11e0032-2174-429c-a0b6-749461caa20d",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "receptors",
+                "id": "c3db8abc-6bb7-4b4b-b056-5b459d30562e",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "inflammation",
+                "id": "3c1eae54-4735-4526-947c-6db628247b20",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "bodys",
+                "id": "b6476886-b71d-4395-9105-b791b9354db5",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "defense",
+                "id": "59c3c7b6-17be-451d-a305-484d2125dc44",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "mechanisms",
+                "id": "93ee8652-20a8-47a9-badd-2b9ed952dcde",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "dc901b7a-0949-405c-b40a-ea2184537705",
+                "nodeTo": "4629de75-d633-4cb0-b784-bc689a184cd8",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4629de75-d633-4cb0-b784-bc689a184cd8",
+                "nodeTo": "d3c7c5a2-eb06-4383-9bdc-8dde9c039389",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d3c7c5a2-eb06-4383-9bdc-8dde9c039389",
+                "nodeTo": "a11e0032-2174-429c-a0b6-749461caa20d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d3c7c5a2-eb06-4383-9bdc-8dde9c039389",
+                "nodeTo": "c3db8abc-6bb7-4b4b-b056-5b459d30562e",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a11e0032-2174-429c-a0b6-749461caa20d",
+                "nodeTo": "bd82de21-bcad-415a-9100-8ee87c11c0e1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c3db8abc-6bb7-4b4b-b056-5b459d30562e",
+                "nodeTo": "bd82de21-bcad-415a-9100-8ee87c11c0e1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a11e0032-2174-429c-a0b6-749461caa20d",
+                "nodeTo": "bb48e803-dade-4818-95a5-24d135475d19",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c3db8abc-6bb7-4b4b-b056-5b459d30562e",
+                "nodeTo": "bb48e803-dade-4818-95a5-24d135475d19",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bd82de21-bcad-415a-9100-8ee87c11c0e1",
+                "nodeTo": "3c1eae54-4735-4526-947c-6db628247b20",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "bb48e803-dade-4818-95a5-24d135475d19",
+                "nodeTo": "3c1eae54-4735-4526-947c-6db628247b20",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3c1eae54-4735-4526-947c-6db628247b20",
+                "nodeTo": "e9324967-8410-4560-9900-5ded7b2de734",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3c1eae54-4735-4526-947c-6db628247b20",
+                "nodeTo": "b8ac03bd-b8d3-4402-ade4-15da1a5da609",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b8ac03bd-b8d3-4402-ade4-15da1a5da609",
+                "nodeTo": "b6476886-b71d-4395-9105-b791b9354db5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b8ac03bd-b8d3-4402-ade4-15da1a5da609",
+                "nodeTo": "59c3c7b6-17be-451d-a305-484d2125dc44",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b8ac03bd-b8d3-4402-ade4-15da1a5da609",
+                "nodeTo": "93ee8652-20a8-47a9-badd-2b9ed952dcde",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b6476886-b71d-4395-9105-b791b9354db5",
+                "nodeTo": "b869b96d-646e-44aa-8a7e-3d480a32bd3b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "59c3c7b6-17be-451d-a305-484d2125dc44",
+                "nodeTo": "b869b96d-646e-44aa-8a7e-3d480a32bd3b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "93ee8652-20a8-47a9-badd-2b9ed952dcde",
+                "nodeTo": "b869b96d-646e-44aa-8a7e-3d480a32bd3b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b6476886-b71d-4395-9105-b791b9354db5",
+                "nodeTo": "66a4e69c-308e-42b1-9465-816cbd92b401",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "59c3c7b6-17be-451d-a305-484d2125dc44",
+                "nodeTo": "66a4e69c-308e-42b1-9465-816cbd92b401",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "93ee8652-20a8-47a9-badd-2b9ed952dcde",
+                "nodeTo": "66a4e69c-308e-42b1-9465-816cbd92b401",
+                "index": 2,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2015-01-12 13:30:10"
+}

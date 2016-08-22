@@ -1,0 +1,316 @@
+{
+    "uuid": 1141,
+    "text": "critically ill patients in Queen Alexandra Hospital are put on exercise bike to help speed up recovery",
+    "graph": {
+        "version": 1,
+        "guid": "2e249488-8d61-43d0-95bc-e98c9d65eb22",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "in",
+                "id": "ece13d8d-ad2b-4863-9963-45187eead59e",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "are",
+                "id": "d064b9b3-4a52-4304-8b45-8de52d830718",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "put",
+                "id": "180c4639-b40d-491a-8b2b-8c72c03e76a1",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "on",
+                "id": "3269ccb6-e369-4508-aead-637d40c3895e",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "0885e004-2ddb-4b72-8434-08e47e370038",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "help",
+                "id": "1e601687-1e45-4752-894b-797c67e2e727",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "speed",
+                "id": "8a7736b8-272e-4d11-b514-0b3b824a904d",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "up",
+                "id": "56ac08b7-1d88-4735-969d-0221b07a7e0b",
+                "postag": "NA",
+                "index": 15
+            }
+        ],
+        "concepts": [
+            {
+                "label": "critically",
+                "id": "5014eac5-23de-4ec4-b6c1-d0e9e8d3165d",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "ill",
+                "id": "292e744a-5ae9-4e7e-a954-b2da2c935b06",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "patients",
+                "id": "a0e66a17-6637-46a2-ae12-0acc97eb8284",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "Queen",
+                "id": "bc9a43d9-0925-4905-a577-28a89337cd12",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "Alexandra",
+                "id": "c5247d1d-b978-4575-9313-b2682b75454a",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "Hospital",
+                "id": "b5a9525d-e50b-4e47-b73d-448eca307264",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "exercise",
+                "id": "ab028cce-2123-4308-80d8-060286cac725",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "bike",
+                "id": "cb9be596-2e00-462c-b444-131b54be81d7",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "recovery",
+                "id": "66442bb9-3052-4942-9220-8c441cc48e12",
+                "index": 16,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "5014eac5-23de-4ec4-b6c1-d0e9e8d3165d",
+                "nodeTo": "ece13d8d-ad2b-4863-9963-45187eead59e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "292e744a-5ae9-4e7e-a954-b2da2c935b06",
+                "nodeTo": "ece13d8d-ad2b-4863-9963-45187eead59e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a0e66a17-6637-46a2-ae12-0acc97eb8284",
+                "nodeTo": "ece13d8d-ad2b-4863-9963-45187eead59e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ece13d8d-ad2b-4863-9963-45187eead59e",
+                "nodeTo": "bc9a43d9-0925-4905-a577-28a89337cd12",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ece13d8d-ad2b-4863-9963-45187eead59e",
+                "nodeTo": "c5247d1d-b978-4575-9313-b2682b75454a",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ece13d8d-ad2b-4863-9963-45187eead59e",
+                "nodeTo": "b5a9525d-e50b-4e47-b73d-448eca307264",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5014eac5-23de-4ec4-b6c1-d0e9e8d3165d",
+                "nodeTo": "d064b9b3-4a52-4304-8b45-8de52d830718",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "292e744a-5ae9-4e7e-a954-b2da2c935b06",
+                "nodeTo": "d064b9b3-4a52-4304-8b45-8de52d830718",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a0e66a17-6637-46a2-ae12-0acc97eb8284",
+                "nodeTo": "d064b9b3-4a52-4304-8b45-8de52d830718",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5014eac5-23de-4ec4-b6c1-d0e9e8d3165d",
+                "nodeTo": "180c4639-b40d-491a-8b2b-8c72c03e76a1",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "292e744a-5ae9-4e7e-a954-b2da2c935b06",
+                "nodeTo": "180c4639-b40d-491a-8b2b-8c72c03e76a1",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a0e66a17-6637-46a2-ae12-0acc97eb8284",
+                "nodeTo": "180c4639-b40d-491a-8b2b-8c72c03e76a1",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5014eac5-23de-4ec4-b6c1-d0e9e8d3165d",
+                "nodeTo": "3269ccb6-e369-4508-aead-637d40c3895e",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "292e744a-5ae9-4e7e-a954-b2da2c935b06",
+                "nodeTo": "3269ccb6-e369-4508-aead-637d40c3895e",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a0e66a17-6637-46a2-ae12-0acc97eb8284",
+                "nodeTo": "3269ccb6-e369-4508-aead-637d40c3895e",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d064b9b3-4a52-4304-8b45-8de52d830718",
+                "nodeTo": "ab028cce-2123-4308-80d8-060286cac725",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "180c4639-b40d-491a-8b2b-8c72c03e76a1",
+                "nodeTo": "ab028cce-2123-4308-80d8-060286cac725",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3269ccb6-e369-4508-aead-637d40c3895e",
+                "nodeTo": "ab028cce-2123-4308-80d8-060286cac725",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d064b9b3-4a52-4304-8b45-8de52d830718",
+                "nodeTo": "cb9be596-2e00-462c-b444-131b54be81d7",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "180c4639-b40d-491a-8b2b-8c72c03e76a1",
+                "nodeTo": "cb9be596-2e00-462c-b444-131b54be81d7",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3269ccb6-e369-4508-aead-637d40c3895e",
+                "nodeTo": "cb9be596-2e00-462c-b444-131b54be81d7",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ab028cce-2123-4308-80d8-060286cac725",
+                "nodeTo": "0885e004-2ddb-4b72-8434-08e47e370038",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cb9be596-2e00-462c-b444-131b54be81d7",
+                "nodeTo": "0885e004-2ddb-4b72-8434-08e47e370038",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ab028cce-2123-4308-80d8-060286cac725",
+                "nodeTo": "1e601687-1e45-4752-894b-797c67e2e727",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cb9be596-2e00-462c-b444-131b54be81d7",
+                "nodeTo": "1e601687-1e45-4752-894b-797c67e2e727",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ab028cce-2123-4308-80d8-060286cac725",
+                "nodeTo": "8a7736b8-272e-4d11-b514-0b3b824a904d",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cb9be596-2e00-462c-b444-131b54be81d7",
+                "nodeTo": "8a7736b8-272e-4d11-b514-0b3b824a904d",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ab028cce-2123-4308-80d8-060286cac725",
+                "nodeTo": "56ac08b7-1d88-4735-969d-0221b07a7e0b",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cb9be596-2e00-462c-b444-131b54be81d7",
+                "nodeTo": "56ac08b7-1d88-4735-969d-0221b07a7e0b",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0885e004-2ddb-4b72-8434-08e47e370038",
+                "nodeTo": "66442bb9-3052-4942-9220-8c441cc48e12",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1e601687-1e45-4752-894b-797c67e2e727",
+                "nodeTo": "66442bb9-3052-4942-9220-8c441cc48e12",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8a7736b8-272e-4d11-b514-0b3b824a904d",
+                "nodeTo": "66442bb9-3052-4942-9220-8c441cc48e12",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "56ac08b7-1d88-4735-969d-0221b07a7e0b",
+                "nodeTo": "66442bb9-3052-4942-9220-8c441cc48e12",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-23 19:45:01"
+}

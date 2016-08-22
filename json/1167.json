@@ -1,0 +1,292 @@
+{
+    "uuid": 1167,
+    "text": "different genetic defects cause dysfunction of cilia which often act as sensory organs that receive signals from other cells",
+    "graph": {
+        "version": 1,
+        "guid": "76b25249-9d08-4103-a2c4-1675ee963227",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "cause",
+                "id": "50ec34b1-7b64-4d1c-938a-ccd47a8849e9",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "a0929a5b-8ed6-43c6-b983-b1034ba5cd41",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "which",
+                "id": "15bc5761-a515-4985-9a15-123a7d515369",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "often",
+                "id": "5e320b13-c037-4398-aa6e-9a02ebb20842",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "act",
+                "id": "b082cb0c-1b21-4261-b110-8e98bcda9885",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "as",
+                "id": "6d6cd633-8667-4d28-a4e0-15b93e1d57d9",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "that",
+                "id": "c86da152-957d-4a17-9349-8e0a51c5231e",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "receive",
+                "id": "acaab6ca-aee3-4b81-8306-5a595d154b68",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "from",
+                "id": "ab6cd680-8d8b-4ae6-bbe3-c61858371746",
+                "index": 16,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "different",
+                "id": "04c00c0e-cc4c-4677-bd99-2762ae6b0456",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "genetic",
+                "id": "597c9088-6c7a-4e51-87a8-222e4bde6044",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "defects",
+                "id": "478bdaaa-5eeb-4541-bd96-baa913692e47",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "dysfunction",
+                "id": "3e66edc0-e93b-48d7-b489-538a62203c9e",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "cilia",
+                "id": "d353402d-7536-4a6c-b81c-2a7d669594d8",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "sensory",
+                "id": "1518e36c-c313-4e90-8eae-8bba13a53123",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "organs",
+                "id": "5d1675d4-de58-4297-b581-a663904e1a22",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "signals",
+                "id": "0b636c0a-e776-4b94-ac3d-c788aebbceba",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "other",
+                "id": "79503c2a-ed8d-4a38-88c7-c804836a093e",
+                "index": 17,
+                "postag": "NA"
+            },
+            {
+                "label": "cells",
+                "id": "d93e1bdb-b235-4380-a9ac-770ba87c8544",
+                "index": 18,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "04c00c0e-cc4c-4677-bd99-2762ae6b0456",
+                "nodeTo": "50ec34b1-7b64-4d1c-938a-ccd47a8849e9",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "597c9088-6c7a-4e51-87a8-222e4bde6044",
+                "nodeTo": "50ec34b1-7b64-4d1c-938a-ccd47a8849e9",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "478bdaaa-5eeb-4541-bd96-baa913692e47",
+                "nodeTo": "50ec34b1-7b64-4d1c-938a-ccd47a8849e9",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "50ec34b1-7b64-4d1c-938a-ccd47a8849e9",
+                "nodeTo": "3e66edc0-e93b-48d7-b489-538a62203c9e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3e66edc0-e93b-48d7-b489-538a62203c9e",
+                "nodeTo": "a0929a5b-8ed6-43c6-b983-b1034ba5cd41",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a0929a5b-8ed6-43c6-b983-b1034ba5cd41",
+                "nodeTo": "d353402d-7536-4a6c-b81c-2a7d669594d8",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d353402d-7536-4a6c-b81c-2a7d669594d8",
+                "nodeTo": "15bc5761-a515-4985-9a15-123a7d515369",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d353402d-7536-4a6c-b81c-2a7d669594d8",
+                "nodeTo": "5e320b13-c037-4398-aa6e-9a02ebb20842",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d353402d-7536-4a6c-b81c-2a7d669594d8",
+                "nodeTo": "b082cb0c-1b21-4261-b110-8e98bcda9885",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d353402d-7536-4a6c-b81c-2a7d669594d8",
+                "nodeTo": "6d6cd633-8667-4d28-a4e0-15b93e1d57d9",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "15bc5761-a515-4985-9a15-123a7d515369",
+                "nodeTo": "1518e36c-c313-4e90-8eae-8bba13a53123",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5e320b13-c037-4398-aa6e-9a02ebb20842",
+                "nodeTo": "1518e36c-c313-4e90-8eae-8bba13a53123",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b082cb0c-1b21-4261-b110-8e98bcda9885",
+                "nodeTo": "1518e36c-c313-4e90-8eae-8bba13a53123",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6d6cd633-8667-4d28-a4e0-15b93e1d57d9",
+                "nodeTo": "1518e36c-c313-4e90-8eae-8bba13a53123",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "15bc5761-a515-4985-9a15-123a7d515369",
+                "nodeTo": "5d1675d4-de58-4297-b581-a663904e1a22",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5e320b13-c037-4398-aa6e-9a02ebb20842",
+                "nodeTo": "5d1675d4-de58-4297-b581-a663904e1a22",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b082cb0c-1b21-4261-b110-8e98bcda9885",
+                "nodeTo": "5d1675d4-de58-4297-b581-a663904e1a22",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6d6cd633-8667-4d28-a4e0-15b93e1d57d9",
+                "nodeTo": "5d1675d4-de58-4297-b581-a663904e1a22",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1518e36c-c313-4e90-8eae-8bba13a53123",
+                "nodeTo": "c86da152-957d-4a17-9349-8e0a51c5231e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5d1675d4-de58-4297-b581-a663904e1a22",
+                "nodeTo": "c86da152-957d-4a17-9349-8e0a51c5231e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1518e36c-c313-4e90-8eae-8bba13a53123",
+                "nodeTo": "acaab6ca-aee3-4b81-8306-5a595d154b68",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5d1675d4-de58-4297-b581-a663904e1a22",
+                "nodeTo": "acaab6ca-aee3-4b81-8306-5a595d154b68",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c86da152-957d-4a17-9349-8e0a51c5231e",
+                "nodeTo": "0b636c0a-e776-4b94-ac3d-c788aebbceba",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "acaab6ca-aee3-4b81-8306-5a595d154b68",
+                "nodeTo": "0b636c0a-e776-4b94-ac3d-c788aebbceba",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0b636c0a-e776-4b94-ac3d-c788aebbceba",
+                "nodeTo": "ab6cd680-8d8b-4ae6-bbe3-c61858371746",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ab6cd680-8d8b-4ae6-bbe3-c61858371746",
+                "nodeTo": "79503c2a-ed8d-4a38-88c7-c804836a093e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ab6cd680-8d8b-4ae6-bbe3-c61858371746",
+                "nodeTo": "d93e1bdb-b235-4380-a9ac-770ba87c8544",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-24 23:51:09"
+}

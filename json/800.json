@@ -1,0 +1,88 @@
+{
+    "uuid": 800,
+    "text": "can we control how we age",
+    "graph": {
+        "version": 1,
+        "guid": "b552225d-77ac-4eb1-ac0a-c5a5ca187b3c",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "can",
+                "id": "ee936c37-8ea7-4625-b399-435e25c0a39d",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "control",
+                "id": "8d55c0ec-ac98-4ad7-8422-21c1cd48e9ee",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "how",
+                "id": "e8881493-c836-4dde-a44b-6d9adb8a5629",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "age",
+                "id": "e9c1d8ac-e2db-44dd-a1ec-41c747b644cc",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "we",
+                "id": "5a282ecc-cc67-4917-bd02-60daa3ee6de8",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "we",
+                "id": "79de1d76-947e-441d-98d2-1ab3d7570da4",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "ee936c37-8ea7-4625-b399-435e25c0a39d",
+                "nodeTo": "5a282ecc-cc67-4917-bd02-60daa3ee6de8",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5a282ecc-cc67-4917-bd02-60daa3ee6de8",
+                "nodeTo": "8d55c0ec-ac98-4ad7-8422-21c1cd48e9ee",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5a282ecc-cc67-4917-bd02-60daa3ee6de8",
+                "nodeTo": "e8881493-c836-4dde-a44b-6d9adb8a5629",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8d55c0ec-ac98-4ad7-8422-21c1cd48e9ee",
+                "nodeTo": "79de1d76-947e-441d-98d2-1ab3d7570da4",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e8881493-c836-4dde-a44b-6d9adb8a5629",
+                "nodeTo": "79de1d76-947e-441d-98d2-1ab3d7570da4",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "79de1d76-947e-441d-98d2-1ab3d7570da4",
+                "nodeTo": "e9c1d8ac-e2db-44dd-a1ec-41c747b644cc",
+                "index": 1,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2015-01-16 17:53:17"
+}

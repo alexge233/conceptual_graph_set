@@ -1,0 +1,286 @@
+{
+    "uuid": 118,
+    "text": "answer is probably around one-third of time according to new research by communication expert who conducted research on fake laughs",
+    "graph": {
+        "version": 1,
+        "guid": "a017527a-70ac-431e-928d-51c05d33091d",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "is",
+                "id": "978a8b18-2641-4992-b1b5-e329b1568e92",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "probably",
+                "id": "050ae2c0-2d65-4929-ab55-87eb6d0dd928",
+                "postag": "NA",
+                "index": 2
+            },
+            {
+                "label": "of",
+                "id": "d12b76a2-8181-4e2c-826c-037cbb61338a",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "according",
+                "id": "ce933cb4-2383-4ecb-91d3-3a85ed6dcd04",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "by",
+                "id": "4c13250a-137a-4172-89da-975300962cad",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "who",
+                "id": "a07d6091-321c-4a9a-8972-c65279180c25",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "conducted",
+                "id": "cba11dae-0138-491b-b7d1-06b328c3db6a",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "on",
+                "id": "0351971e-528e-4d9e-97a7-d47ea9763799",
+                "index": 17,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "answer",
+                "id": "a4381930-de9c-44ec-b634-d777d1b7e1ba",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "around",
+                "id": "6b01cd78-447d-421a-98ce-0105474e1a8b",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "one-third",
+                "id": "87b18779-6b81-446a-9e19-99a63a425551",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "time",
+                "id": "b31e766d-6374-4287-ab95-dbe46db1e73e",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "new",
+                "id": "c2999ccc-84cb-4a0b-83e5-180b30c355eb",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "research",
+                "id": "b6939b22-156c-44be-be34-67d529e5e2c0",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "communication",
+                "id": "3c4ed5ea-936e-4b70-b862-2de487cb513a",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "expert",
+                "id": "a3b0ac76-c0eb-4979-986a-0b0919b56170",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "research",
+                "id": "bc7dd81c-4c86-45b5-8019-c75944237246",
+                "index": 16,
+                "postag": "NA"
+            },
+            {
+                "label": "fake",
+                "id": "edb63cb6-ae97-42c5-a2d0-38966a9aa6b8",
+                "index": 18,
+                "postag": "NA"
+            },
+            {
+                "label": "laughs",
+                "id": "88254e64-b407-4dd8-ab4d-8ae9d6664db7",
+                "index": 19,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "6890de6d-6c44-4147-90b4-dad52b876b43",
+                "postag": "NA",
+                "index": 8
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "a4381930-de9c-44ec-b634-d777d1b7e1ba",
+                "nodeTo": "978a8b18-2641-4992-b1b5-e329b1568e92",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "978a8b18-2641-4992-b1b5-e329b1568e92",
+                "nodeTo": "6b01cd78-447d-421a-98ce-0105474e1a8b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "978a8b18-2641-4992-b1b5-e329b1568e92",
+                "nodeTo": "87b18779-6b81-446a-9e19-99a63a425551",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a4381930-de9c-44ec-b634-d777d1b7e1ba",
+                "nodeTo": "050ae2c0-2d65-4929-ab55-87eb6d0dd928",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "050ae2c0-2d65-4929-ab55-87eb6d0dd928",
+                "nodeTo": "6b01cd78-447d-421a-98ce-0105474e1a8b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "050ae2c0-2d65-4929-ab55-87eb6d0dd928",
+                "nodeTo": "87b18779-6b81-446a-9e19-99a63a425551",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6b01cd78-447d-421a-98ce-0105474e1a8b",
+                "nodeTo": "d12b76a2-8181-4e2c-826c-037cbb61338a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "87b18779-6b81-446a-9e19-99a63a425551",
+                "nodeTo": "d12b76a2-8181-4e2c-826c-037cbb61338a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d12b76a2-8181-4e2c-826c-037cbb61338a",
+                "nodeTo": "b31e766d-6374-4287-ab95-dbe46db1e73e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c2999ccc-84cb-4a0b-83e5-180b30c355eb",
+                "nodeTo": "4c13250a-137a-4172-89da-975300962cad",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b6939b22-156c-44be-be34-67d529e5e2c0",
+                "nodeTo": "4c13250a-137a-4172-89da-975300962cad",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4c13250a-137a-4172-89da-975300962cad",
+                "nodeTo": "3c4ed5ea-936e-4b70-b862-2de487cb513a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4c13250a-137a-4172-89da-975300962cad",
+                "nodeTo": "a3b0ac76-c0eb-4979-986a-0b0919b56170",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3c4ed5ea-936e-4b70-b862-2de487cb513a",
+                "nodeTo": "a07d6091-321c-4a9a-8972-c65279180c25",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a3b0ac76-c0eb-4979-986a-0b0919b56170",
+                "nodeTo": "a07d6091-321c-4a9a-8972-c65279180c25",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3c4ed5ea-936e-4b70-b862-2de487cb513a",
+                "nodeTo": "cba11dae-0138-491b-b7d1-06b328c3db6a",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a3b0ac76-c0eb-4979-986a-0b0919b56170",
+                "nodeTo": "cba11dae-0138-491b-b7d1-06b328c3db6a",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cba11dae-0138-491b-b7d1-06b328c3db6a",
+                "nodeTo": "bc7dd81c-4c86-45b5-8019-c75944237246",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "bc7dd81c-4c86-45b5-8019-c75944237246",
+                "nodeTo": "0351971e-528e-4d9e-97a7-d47ea9763799",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0351971e-528e-4d9e-97a7-d47ea9763799",
+                "nodeTo": "edb63cb6-ae97-42c5-a2d0-38966a9aa6b8",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0351971e-528e-4d9e-97a7-d47ea9763799",
+                "nodeTo": "88254e64-b407-4dd8-ab4d-8ae9d6664db7",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a4381930-de9c-44ec-b634-d777d1b7e1ba",
+                "nodeTo": "ce933cb4-2383-4ecb-91d3-3a85ed6dcd04",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ce933cb4-2383-4ecb-91d3-3a85ed6dcd04",
+                "nodeTo": "6890de6d-6c44-4147-90b4-dad52b876b43",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ce933cb4-2383-4ecb-91d3-3a85ed6dcd04",
+                "nodeTo": "c2999ccc-84cb-4a0b-83e5-180b30c355eb",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ce933cb4-2383-4ecb-91d3-3a85ed6dcd04",
+                "nodeTo": "b6939b22-156c-44be-be34-67d529e5e2c0",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-11-06 09:16:57"
+}

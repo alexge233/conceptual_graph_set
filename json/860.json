@@ -1,0 +1,214 @@
+{
+    "uuid": 860,
+    "text": "obesity in general population may be genetically linked to how our bodies digest carbohydrates",
+    "graph": {
+        "version": 1,
+        "guid": "ca541084-bd16-4584-b4d6-1d9793c139d4",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "in",
+                "id": "124bc2ca-0275-48b6-8eb4-36ea5ce47bae",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "may",
+                "id": "69dda7d3-0e5d-4c20-ace1-c8eed8964408",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "be",
+                "id": "335c5a5d-5064-4809-a63a-ce0b6976badd",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "linked",
+                "id": "9bc46381-0474-4837-90e3-812266ae8993",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "614c5387-333b-4536-a26d-ece94005c3ba",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "how",
+                "id": "11a1cb9a-4988-44ed-9183-4577ced75a65",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "digest",
+                "id": "0e794ea4-92ca-4251-80c2-e1e3e3869042",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "obesity",
+                "id": "ac7ddbbe-a303-4065-9684-79a492852122",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "general",
+                "id": "d5972190-630b-410a-8d0c-1898a9d96164",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "population",
+                "id": "dd808046-61ab-446d-884c-658ae3b66a9d",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "genetically",
+                "id": "58e7a2b5-cb24-4381-8a1a-d78d54d5bbae",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "our",
+                "id": "ca0d114c-eece-4411-bac1-0488519d65dc",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "bodies",
+                "id": "ba35cc0d-01a3-4665-b410-0ae551ae4a7c",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "carbohydrates",
+                "id": "79522c61-3d54-4003-b1e4-2ec4601190ca",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "ac7ddbbe-a303-4065-9684-79a492852122",
+                "nodeTo": "124bc2ca-0275-48b6-8eb4-36ea5ce47bae",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "124bc2ca-0275-48b6-8eb4-36ea5ce47bae",
+                "nodeTo": "d5972190-630b-410a-8d0c-1898a9d96164",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "124bc2ca-0275-48b6-8eb4-36ea5ce47bae",
+                "nodeTo": "dd808046-61ab-446d-884c-658ae3b66a9d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ac7ddbbe-a303-4065-9684-79a492852122",
+                "nodeTo": "69dda7d3-0e5d-4c20-ace1-c8eed8964408",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ac7ddbbe-a303-4065-9684-79a492852122",
+                "nodeTo": "335c5a5d-5064-4809-a63a-ce0b6976badd",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "69dda7d3-0e5d-4c20-ace1-c8eed8964408",
+                "nodeTo": "58e7a2b5-cb24-4381-8a1a-d78d54d5bbae",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "335c5a5d-5064-4809-a63a-ce0b6976badd",
+                "nodeTo": "58e7a2b5-cb24-4381-8a1a-d78d54d5bbae",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "58e7a2b5-cb24-4381-8a1a-d78d54d5bbae",
+                "nodeTo": "9bc46381-0474-4837-90e3-812266ae8993",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "58e7a2b5-cb24-4381-8a1a-d78d54d5bbae",
+                "nodeTo": "614c5387-333b-4536-a26d-ece94005c3ba",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "58e7a2b5-cb24-4381-8a1a-d78d54d5bbae",
+                "nodeTo": "11a1cb9a-4988-44ed-9183-4577ced75a65",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9bc46381-0474-4837-90e3-812266ae8993",
+                "nodeTo": "ca0d114c-eece-4411-bac1-0488519d65dc",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "614c5387-333b-4536-a26d-ece94005c3ba",
+                "nodeTo": "ca0d114c-eece-4411-bac1-0488519d65dc",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "11a1cb9a-4988-44ed-9183-4577ced75a65",
+                "nodeTo": "ca0d114c-eece-4411-bac1-0488519d65dc",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9bc46381-0474-4837-90e3-812266ae8993",
+                "nodeTo": "ba35cc0d-01a3-4665-b410-0ae551ae4a7c",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "614c5387-333b-4536-a26d-ece94005c3ba",
+                "nodeTo": "ba35cc0d-01a3-4665-b410-0ae551ae4a7c",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "11a1cb9a-4988-44ed-9183-4577ced75a65",
+                "nodeTo": "ba35cc0d-01a3-4665-b410-0ae551ae4a7c",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ca0d114c-eece-4411-bac1-0488519d65dc",
+                "nodeTo": "0e794ea4-92ca-4251-80c2-e1e3e3869042",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ba35cc0d-01a3-4665-b410-0ae551ae4a7c",
+                "nodeTo": "0e794ea4-92ca-4251-80c2-e1e3e3869042",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0e794ea4-92ca-4251-80c2-e1e3e3869042",
+                "nodeTo": "79522c61-3d54-4003-b1e4-2ec4601190ca",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-19 20:04:09"
+}

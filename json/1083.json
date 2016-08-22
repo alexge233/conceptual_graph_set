@@ -1,0 +1,76 @@
+{
+    "uuid": 1083,
+    "text": "Classifying cognitive styles across disciplines",
+    "graph": {
+        "version": 1,
+        "guid": "15a69621-72be-4876-9173-85dae9880a85",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "Classifying",
+                "id": "b7284192-bdba-42aa-b388-15a4cc4b2532",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "across",
+                "id": "94d37684-a1d9-4574-bc1d-017024aa65b6",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "cognitive",
+                "id": "5611b907-889c-4c81-aca8-ea8262ea0784",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "styles",
+                "id": "45342c4a-6a03-43e8-bd66-bd4d2bcda6dc",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "disciplines",
+                "id": "e2cc4a2d-bcec-4aed-a601-b8198eec1ae1",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "b7284192-bdba-42aa-b388-15a4cc4b2532",
+                "nodeTo": "5611b907-889c-4c81-aca8-ea8262ea0784",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b7284192-bdba-42aa-b388-15a4cc4b2532",
+                "nodeTo": "45342c4a-6a03-43e8-bd66-bd4d2bcda6dc",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5611b907-889c-4c81-aca8-ea8262ea0784",
+                "nodeTo": "94d37684-a1d9-4574-bc1d-017024aa65b6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "45342c4a-6a03-43e8-bd66-bd4d2bcda6dc",
+                "nodeTo": "94d37684-a1d9-4574-bc1d-017024aa65b6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "94d37684-a1d9-4574-bc1d-017024aa65b6",
+                "nodeTo": "e2cc4a2d-bcec-4aed-a601-b8198eec1ae1",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-09 18:28:10"
+}

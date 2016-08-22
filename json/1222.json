@@ -1,0 +1,136 @@
+{
+    "uuid": 1222,
+    "text": "How cells of fruit fly react to changes in environment",
+    "graph": {
+        "version": 1,
+        "guid": "00b25ee9-290e-4ebd-a0ca-89e356568589",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "How",
+                "id": "1335463e-d719-4000-bd8a-cc571d124a86",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "1246d06b-d9cd-4660-9194-babcdbd15655",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "react",
+                "id": "ba94577d-e3a0-4c71-b01d-dd6ea3434054",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "5add0788-7b70-4b6b-b577-a41bdbe50834",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "005b061c-e294-4302-947d-18a8a677c7b6",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "cells",
+                "id": "b001e268-1ee5-4dd2-979a-a621e725ced5",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "fruit",
+                "id": "eea8eb03-22db-488e-b17c-e315d0d0ad16",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "fly",
+                "id": "a8320d84-9559-47b3-8ba1-9a17c7272bb5",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "changes",
+                "id": "b0eece18-7e71-412e-a40d-b05a9a69c290",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "environment",
+                "id": "b834a745-6819-4959-9e3e-132ab9db0dd1",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "1335463e-d719-4000-bd8a-cc571d124a86",
+                "nodeTo": "b001e268-1ee5-4dd2-979a-a621e725ced5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b001e268-1ee5-4dd2-979a-a621e725ced5",
+                "nodeTo": "1246d06b-d9cd-4660-9194-babcdbd15655",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1246d06b-d9cd-4660-9194-babcdbd15655",
+                "nodeTo": "eea8eb03-22db-488e-b17c-e315d0d0ad16",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1246d06b-d9cd-4660-9194-babcdbd15655",
+                "nodeTo": "a8320d84-9559-47b3-8ba1-9a17c7272bb5",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b001e268-1ee5-4dd2-979a-a621e725ced5",
+                "nodeTo": "ba94577d-e3a0-4c71-b01d-dd6ea3434054",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b001e268-1ee5-4dd2-979a-a621e725ced5",
+                "nodeTo": "5add0788-7b70-4b6b-b577-a41bdbe50834",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ba94577d-e3a0-4c71-b01d-dd6ea3434054",
+                "nodeTo": "b0eece18-7e71-412e-a40d-b05a9a69c290",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5add0788-7b70-4b6b-b577-a41bdbe50834",
+                "nodeTo": "b0eece18-7e71-412e-a40d-b05a9a69c290",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b0eece18-7e71-412e-a40d-b05a9a69c290",
+                "nodeTo": "005b061c-e294-4302-947d-18a8a677c7b6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "005b061c-e294-4302-947d-18a8a677c7b6",
+                "nodeTo": "b834a745-6819-4959-9e3e-132ab9db0dd1",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-26 21:44:41"
+}

@@ -1,0 +1,148 @@
+{
+    "uuid": 542,
+    "text": "benefits of two drugs in treating type 1 diabetes compared",
+    "graph": {
+        "version": 1,
+        "guid": "a1916a89-951d-47d3-904a-04872233cc18",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "of",
+                "id": "6ae678b7-dce0-4cd8-a0d6-b12053290495",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "5b97dacb-80c1-49dc-b049-23a878822480",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "treating",
+                "id": "a1cd4b87-4052-4d38-b003-c91bd6b8d144",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "compared",
+                "id": "9d378c4c-ec70-4ccc-a321-1cee46c136d7",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "benefits",
+                "id": "ebb625de-cc69-4b59-a8ab-00c4560e3ae5",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "two",
+                "id": "12e97bb6-73b2-48ba-bd1d-edea816700ec",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "drugs",
+                "id": "2d984a6a-6c76-403d-abde-9b265379a39e",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "type",
+                "id": "21c21382-3dd4-43e4-89c1-d97e1825e072",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": 1,
+                "id": "1d9499b1-a88c-4adb-9d7a-7030d8318968",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "diabetes",
+                "id": "e3badc84-5173-40d2-b236-c56c672a6c37",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "ebb625de-cc69-4b59-a8ab-00c4560e3ae5",
+                "nodeTo": "6ae678b7-dce0-4cd8-a0d6-b12053290495",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6ae678b7-dce0-4cd8-a0d6-b12053290495",
+                "nodeTo": "12e97bb6-73b2-48ba-bd1d-edea816700ec",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6ae678b7-dce0-4cd8-a0d6-b12053290495",
+                "nodeTo": "2d984a6a-6c76-403d-abde-9b265379a39e",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ebb625de-cc69-4b59-a8ab-00c4560e3ae5",
+                "nodeTo": "5b97dacb-80c1-49dc-b049-23a878822480",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ebb625de-cc69-4b59-a8ab-00c4560e3ae5",
+                "nodeTo": "a1cd4b87-4052-4d38-b003-c91bd6b8d144",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5b97dacb-80c1-49dc-b049-23a878822480",
+                "nodeTo": "21c21382-3dd4-43e4-89c1-d97e1825e072",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a1cd4b87-4052-4d38-b003-c91bd6b8d144",
+                "nodeTo": "21c21382-3dd4-43e4-89c1-d97e1825e072",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5b97dacb-80c1-49dc-b049-23a878822480",
+                "nodeTo": "1d9499b1-a88c-4adb-9d7a-7030d8318968",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a1cd4b87-4052-4d38-b003-c91bd6b8d144",
+                "nodeTo": "1d9499b1-a88c-4adb-9d7a-7030d8318968",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5b97dacb-80c1-49dc-b049-23a878822480",
+                "nodeTo": "e3badc84-5173-40d2-b236-c56c672a6c37",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a1cd4b87-4052-4d38-b003-c91bd6b8d144",
+                "nodeTo": "e3badc84-5173-40d2-b236-c56c672a6c37",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ebb625de-cc69-4b59-a8ab-00c4560e3ae5",
+                "nodeTo": "9d378c4c-ec70-4ccc-a321-1cee46c136d7",
+                "index": 4,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2014-12-31 19:52:10"
+}

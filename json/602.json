@@ -1,0 +1,118 @@
+{
+    "uuid": 602,
+    "text": "Black Sabbath to headline Hyde Park festival",
+    "graph": {
+        "version": 1,
+        "guid": "02b17947-5963-40ac-9785-56eb02351a18",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "to",
+                "id": "404bcd50-0a24-4417-8c3d-b067611d88e1",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "headline",
+                "id": "61071a73-b060-4c98-9ed3-c4c6153bad1d",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Black",
+                "id": "bea287d7-a967-4368-b39d-03b5e3d04353",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "Sabbath",
+                "id": "9eb7d3bd-972e-4eb3-ad8a-3c830a0ddc37",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "Hyde",
+                "id": "a20ac23d-d316-4d49-b693-e1b96d047b10",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "Park",
+                "id": "8b95e723-291e-466c-adc0-2b101ddcb316",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "festival",
+                "id": "35d79b3b-b61a-456b-81ec-0e86236ca0a3",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "bea287d7-a967-4368-b39d-03b5e3d04353",
+                "nodeTo": "404bcd50-0a24-4417-8c3d-b067611d88e1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bea287d7-a967-4368-b39d-03b5e3d04353",
+                "nodeTo": "61071a73-b060-4c98-9ed3-c4c6153bad1d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9eb7d3bd-972e-4eb3-ad8a-3c830a0ddc37",
+                "nodeTo": "404bcd50-0a24-4417-8c3d-b067611d88e1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9eb7d3bd-972e-4eb3-ad8a-3c830a0ddc37",
+                "nodeTo": "61071a73-b060-4c98-9ed3-c4c6153bad1d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "404bcd50-0a24-4417-8c3d-b067611d88e1",
+                "nodeTo": "a20ac23d-d316-4d49-b693-e1b96d047b10",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "404bcd50-0a24-4417-8c3d-b067611d88e1",
+                "nodeTo": "8b95e723-291e-466c-adc0-2b101ddcb316",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "404bcd50-0a24-4417-8c3d-b067611d88e1",
+                "nodeTo": "35d79b3b-b61a-456b-81ec-0e86236ca0a3",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "61071a73-b060-4c98-9ed3-c4c6153bad1d",
+                "nodeTo": "a20ac23d-d316-4d49-b693-e1b96d047b10",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "61071a73-b060-4c98-9ed3-c4c6153bad1d",
+                "nodeTo": "8b95e723-291e-466c-adc0-2b101ddcb316",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "61071a73-b060-4c98-9ed3-c4c6153bad1d",
+                "nodeTo": "35d79b3b-b61a-456b-81ec-0e86236ca0a3",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-08 18:15:00"
+}

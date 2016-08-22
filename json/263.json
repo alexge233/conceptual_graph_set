@@ -1,0 +1,82 @@
+{
+    "uuid": 263,
+    "text": "Actors faking sick to help doctors",
+    "graph": {
+        "version": 1,
+        "guid": "ee615834-7957-4809-b857-b10b54546acd",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "faking",
+                "id": "33865292-3306-4c1b-8057-91a51dce8951",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "help",
+                "id": "2a06be23-eaee-4502-9350-68b620a055c7",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Actors",
+                "id": "84ede85c-47c9-4d41-b21d-796eb75bdc6a",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "sick",
+                "id": "d5204670-a843-48b0-8a3a-d8ead4ad70b4",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "aeeaddde-2c91-4e14-96b9-96c5d0831b09",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "doctors",
+                "id": "004c0789-6698-4d18-bb10-bae1e8918dd4",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "84ede85c-47c9-4d41-b21d-796eb75bdc6a",
+                "nodeTo": "33865292-3306-4c1b-8057-91a51dce8951",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "33865292-3306-4c1b-8057-91a51dce8951",
+                "nodeTo": "d5204670-a843-48b0-8a3a-d8ead4ad70b4",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "33865292-3306-4c1b-8057-91a51dce8951",
+                "nodeTo": "aeeaddde-2c91-4e14-96b9-96c5d0831b09",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "aeeaddde-2c91-4e14-96b9-96c5d0831b09",
+                "nodeTo": "2a06be23-eaee-4502-9350-68b620a055c7",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2a06be23-eaee-4502-9350-68b620a055c7",
+                "nodeTo": "004c0789-6698-4d18-bb10-bae1e8918dd4",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-03 12:57:07"
+}

@@ -1,0 +1,196 @@
+{
+    "uuid": 578,
+    "text": "This pattern of activity is similar to pattern observed in people who are dreaming",
+    "graph": {
+        "version": 1,
+        "guid": "3270529b-21ba-4ae9-b146-d0453ceda778",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "This",
+                "id": "6960682c-0e96-4932-ab9a-47610a4b64a1",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "1d187cc3-7ae3-40a6-ba14-9739ac55833c",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "is",
+                "id": "63552828-0a77-44ec-8d09-9c71a73cc6a4",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "similar",
+                "id": "146bd6a0-27e4-48c3-b840-338c05b44328",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "d2051082-deab-4975-b8a5-1ecb513c2bdd",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "observed",
+                "id": "caec46ac-ab7b-4ae5-b82e-49489672eb3e",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "c2d08718-c768-4232-a9cd-779e52c85dd7",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "who",
+                "id": "d0d434b4-787d-4ed8-a7c3-0313a1538d51",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "are",
+                "id": "0c207c81-49cd-4887-a695-38bcc1bbe1e6",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "pattern",
+                "id": "2d831e73-6a6a-4695-ae45-2c01cac5c2e7",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "activity",
+                "id": "2760d0ab-6a80-45b0-b940-c5342c2d3598",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "pattern",
+                "id": "1d601684-cac6-465d-92ea-3c4ddd745a2e",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "people",
+                "id": "b6cb8817-94b4-4b33-9da2-c0d9bed69ab8",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "dreaming",
+                "id": "e1d5ac6d-b626-42b0-b4a5-608610535cb9",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "6960682c-0e96-4932-ab9a-47610a4b64a1",
+                "nodeTo": "2d831e73-6a6a-4695-ae45-2c01cac5c2e7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2d831e73-6a6a-4695-ae45-2c01cac5c2e7",
+                "nodeTo": "1d187cc3-7ae3-40a6-ba14-9739ac55833c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1d187cc3-7ae3-40a6-ba14-9739ac55833c",
+                "nodeTo": "2760d0ab-6a80-45b0-b940-c5342c2d3598",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2d831e73-6a6a-4695-ae45-2c01cac5c2e7",
+                "nodeTo": "63552828-0a77-44ec-8d09-9c71a73cc6a4",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2d831e73-6a6a-4695-ae45-2c01cac5c2e7",
+                "nodeTo": "146bd6a0-27e4-48c3-b840-338c05b44328",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2d831e73-6a6a-4695-ae45-2c01cac5c2e7",
+                "nodeTo": "d2051082-deab-4975-b8a5-1ecb513c2bdd",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "63552828-0a77-44ec-8d09-9c71a73cc6a4",
+                "nodeTo": "1d601684-cac6-465d-92ea-3c4ddd745a2e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "146bd6a0-27e4-48c3-b840-338c05b44328",
+                "nodeTo": "1d601684-cac6-465d-92ea-3c4ddd745a2e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d2051082-deab-4975-b8a5-1ecb513c2bdd",
+                "nodeTo": "1d601684-cac6-465d-92ea-3c4ddd745a2e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1d601684-cac6-465d-92ea-3c4ddd745a2e",
+                "nodeTo": "caec46ac-ab7b-4ae5-b82e-49489672eb3e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1d601684-cac6-465d-92ea-3c4ddd745a2e",
+                "nodeTo": "c2d08718-c768-4232-a9cd-779e52c85dd7",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "caec46ac-ab7b-4ae5-b82e-49489672eb3e",
+                "nodeTo": "b6cb8817-94b4-4b33-9da2-c0d9bed69ab8",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c2d08718-c768-4232-a9cd-779e52c85dd7",
+                "nodeTo": "b6cb8817-94b4-4b33-9da2-c0d9bed69ab8",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b6cb8817-94b4-4b33-9da2-c0d9bed69ab8",
+                "nodeTo": "d0d434b4-787d-4ed8-a7c3-0313a1538d51",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b6cb8817-94b4-4b33-9da2-c0d9bed69ab8",
+                "nodeTo": "0c207c81-49cd-4887-a695-38bcc1bbe1e6",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0c207c81-49cd-4887-a695-38bcc1bbe1e6",
+                "nodeTo": "e1d5ac6d-b626-42b0-b4a5-608610535cb9",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-07 19:58:18"
+}

@@ -1,0 +1,58 @@
+{
+    "uuid": 1230,
+    "text": "Conceptual representation in brain",
+    "graph": {
+        "version": 1,
+        "guid": "10e55e6c-8039-4731-8807-d4887cb88642",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "in",
+                "id": "3eade644-1d48-4674-b722-67e1beeda2d3",
+                "index": 2,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Conceptual",
+                "id": "b22e6884-4d4c-4ad6-a48d-0269ed8d5ee2",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "representation",
+                "id": "0a738ba3-5094-4aa4-854c-9e334d633bb5",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "brain",
+                "id": "c9d3698d-cd02-47a9-9723-e749537b92ad",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "b22e6884-4d4c-4ad6-a48d-0269ed8d5ee2",
+                "nodeTo": "3eade644-1d48-4674-b722-67e1beeda2d3",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0a738ba3-5094-4aa4-854c-9e334d633bb5",
+                "nodeTo": "3eade644-1d48-4674-b722-67e1beeda2d3",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3eade644-1d48-4674-b722-67e1beeda2d3",
+                "nodeTo": "c9d3698d-cd02-47a9-9723-e749537b92ad",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-03-02 18:18:14"
+}

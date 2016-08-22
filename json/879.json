@@ -1,0 +1,70 @@
+{
+    "uuid": 879,
+    "text": "Care home residents doped up",
+    "graph": {
+        "version": 1,
+        "guid": "e9a8daa6-2b85-4862-a30e-761e64d6e3c5",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "doped",
+                "id": "b5527dd0-8672-46b0-986c-2772d46b8be3",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Care",
+                "id": "5a213716-9e10-4c40-9442-ea424582864b",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "home",
+                "id": "96ad5cad-74d4-41d8-99bc-5a712cd30832",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "residents",
+                "id": "8a3a9d5b-858b-4ae4-bc2a-d2c325c5ac2a",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "up",
+                "id": "794ce843-72ac-4604-bd89-7c6080c3bcdc",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "5a213716-9e10-4c40-9442-ea424582864b",
+                "nodeTo": "b5527dd0-8672-46b0-986c-2772d46b8be3",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "96ad5cad-74d4-41d8-99bc-5a712cd30832",
+                "nodeTo": "b5527dd0-8672-46b0-986c-2772d46b8be3",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8a3a9d5b-858b-4ae4-bc2a-d2c325c5ac2a",
+                "nodeTo": "b5527dd0-8672-46b0-986c-2772d46b8be3",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b5527dd0-8672-46b0-986c-2772d46b8be3",
+                "nodeTo": "794ce843-72ac-4604-bd89-7c6080c3bcdc",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-20 15:21:28"
+}

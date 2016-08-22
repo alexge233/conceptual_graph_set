@@ -1,0 +1,208 @@
+{
+    "uuid": 1125,
+    "text": "heavy alcohol use was found to increase risk of death from cirrhosis",
+    "graph": {
+        "version": 1,
+        "guid": "e9140e25-4625-49be-9bdd-20cd46532505",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "was",
+                "id": "7eda9619-6c2e-4267-94ad-120077a89e5b",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "found",
+                "id": "4a23b512-20ab-474a-a067-4b9edca06299",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "d168c468-407e-4cc8-82ec-73cd6244c4d6",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "increase",
+                "id": "45503931-e005-4824-9a67-b62ee25734a5",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "44bd2dc5-3742-455b-b387-2765b25ed42e",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "from",
+                "id": "3d65ee2e-4c14-4bd9-b611-ee476ec5d9d4",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "heavy",
+                "id": "4a263bd3-247a-4bbb-b34e-b5ad36e96614",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "alcohol",
+                "id": "034b67b5-3dbc-4629-a926-029b26ce6ea4",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "use",
+                "id": "656d6778-8e5d-461a-8e17-d90c25437003",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "risk",
+                "id": "85a74789-4ea8-42de-902e-510c55d28758",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "death",
+                "id": "b915827a-492a-4562-9a12-509a3d77deb9",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "cirrhosis",
+                "id": "11ac04e1-38b5-442d-961a-c96b21cbb812",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "4a263bd3-247a-4bbb-b34e-b5ad36e96614",
+                "nodeTo": "7eda9619-6c2e-4267-94ad-120077a89e5b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4a263bd3-247a-4bbb-b34e-b5ad36e96614",
+                "nodeTo": "4a23b512-20ab-474a-a067-4b9edca06299",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4a263bd3-247a-4bbb-b34e-b5ad36e96614",
+                "nodeTo": "d168c468-407e-4cc8-82ec-73cd6244c4d6",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4a263bd3-247a-4bbb-b34e-b5ad36e96614",
+                "nodeTo": "45503931-e005-4824-9a67-b62ee25734a5",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "034b67b5-3dbc-4629-a926-029b26ce6ea4",
+                "nodeTo": "7eda9619-6c2e-4267-94ad-120077a89e5b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "034b67b5-3dbc-4629-a926-029b26ce6ea4",
+                "nodeTo": "4a23b512-20ab-474a-a067-4b9edca06299",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "034b67b5-3dbc-4629-a926-029b26ce6ea4",
+                "nodeTo": "d168c468-407e-4cc8-82ec-73cd6244c4d6",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "034b67b5-3dbc-4629-a926-029b26ce6ea4",
+                "nodeTo": "45503931-e005-4824-9a67-b62ee25734a5",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "656d6778-8e5d-461a-8e17-d90c25437003",
+                "nodeTo": "7eda9619-6c2e-4267-94ad-120077a89e5b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "656d6778-8e5d-461a-8e17-d90c25437003",
+                "nodeTo": "4a23b512-20ab-474a-a067-4b9edca06299",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "656d6778-8e5d-461a-8e17-d90c25437003",
+                "nodeTo": "d168c468-407e-4cc8-82ec-73cd6244c4d6",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "656d6778-8e5d-461a-8e17-d90c25437003",
+                "nodeTo": "45503931-e005-4824-9a67-b62ee25734a5",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7eda9619-6c2e-4267-94ad-120077a89e5b",
+                "nodeTo": "85a74789-4ea8-42de-902e-510c55d28758",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4a23b512-20ab-474a-a067-4b9edca06299",
+                "nodeTo": "85a74789-4ea8-42de-902e-510c55d28758",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d168c468-407e-4cc8-82ec-73cd6244c4d6",
+                "nodeTo": "85a74789-4ea8-42de-902e-510c55d28758",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "45503931-e005-4824-9a67-b62ee25734a5",
+                "nodeTo": "85a74789-4ea8-42de-902e-510c55d28758",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "85a74789-4ea8-42de-902e-510c55d28758",
+                "nodeTo": "44bd2dc5-3742-455b-b387-2765b25ed42e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "44bd2dc5-3742-455b-b387-2765b25ed42e",
+                "nodeTo": "b915827a-492a-4562-9a12-509a3d77deb9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b915827a-492a-4562-9a12-509a3d77deb9",
+                "nodeTo": "3d65ee2e-4c14-4bd9-b611-ee476ec5d9d4",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3d65ee2e-4c14-4bd9-b611-ee476ec5d9d4",
+                "nodeTo": "11ac04e1-38b5-442d-961a-c96b21cbb812",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-23 18:05:06"
+}

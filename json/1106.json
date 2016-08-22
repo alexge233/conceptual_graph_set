@@ -1,0 +1,298 @@
+{
+    "uuid": 1106,
+    "text": "health clinics that avoid costs associated with insurance administration can help hospitals save money by lowering hospital admission rates",
+    "graph": {
+        "version": 1,
+        "guid": "7e5e40b9-aecd-4a3c-ab6c-a8ae5e4da6da",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "that",
+                "id": "3848a895-aa11-4a53-a4a9-4c0b2c448e2d",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "avoid",
+                "id": "0c073558-c475-4899-a9b5-b219661c6722",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "associated",
+                "id": "b49e2db8-2946-4275-9286-b149c2e5154e",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "with",
+                "id": "4b8d4c42-e558-4dc7-98a7-25aeb3255544",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "can",
+                "id": "cb37b7e3-ae11-48bb-8593-287782c0ac0a",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "help",
+                "id": "e063d6cc-4249-454d-9eb2-888de56e40c3",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "save",
+                "id": "3dd9a044-467d-4982-953d-777be33d6128",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "by",
+                "id": "e397bc9c-bce5-4183-bede-e6e922ea735c",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "lowering",
+                "id": "c4bb10c1-cc33-48d6-b98a-494373a76c03",
+                "index": 15,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "health",
+                "id": "69b9bccd-ab51-4a1d-99a5-053b4530c3c8",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "clinics",
+                "id": "7b15a914-8b8e-4b78-b427-69de285e3cb9",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "costs",
+                "id": "a8bd7c29-3427-40c2-b832-8d72ada0d9c4",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "insurance",
+                "id": "a9b978c6-0c9a-43bb-8c7a-ecb89c4c6103",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "administration",
+                "id": "651cac11-770c-4e8d-8ad1-155264d68423",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "hospitals",
+                "id": "5d5d9e7a-2a58-4a95-a427-d192a941b198",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "money",
+                "id": "4c46eaca-aab6-4d4a-a6ee-23dde95492e9",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "hospital",
+                "id": "ed4c141b-49e0-45de-a17e-4c4be7525094",
+                "index": 16,
+                "postag": "NA"
+            },
+            {
+                "label": "admission",
+                "id": "70231ac3-c381-407a-8933-5749c713039b",
+                "index": 17,
+                "postag": "NA"
+            },
+            {
+                "label": "rates",
+                "id": "42456768-8972-4806-bc34-578e6cd1000b",
+                "index": 18,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "69b9bccd-ab51-4a1d-99a5-053b4530c3c8",
+                "nodeTo": "3848a895-aa11-4a53-a4a9-4c0b2c448e2d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7b15a914-8b8e-4b78-b427-69de285e3cb9",
+                "nodeTo": "3848a895-aa11-4a53-a4a9-4c0b2c448e2d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "69b9bccd-ab51-4a1d-99a5-053b4530c3c8",
+                "nodeTo": "0c073558-c475-4899-a9b5-b219661c6722",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7b15a914-8b8e-4b78-b427-69de285e3cb9",
+                "nodeTo": "0c073558-c475-4899-a9b5-b219661c6722",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3848a895-aa11-4a53-a4a9-4c0b2c448e2d",
+                "nodeTo": "a8bd7c29-3427-40c2-b832-8d72ada0d9c4",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0c073558-c475-4899-a9b5-b219661c6722",
+                "nodeTo": "a8bd7c29-3427-40c2-b832-8d72ada0d9c4",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a8bd7c29-3427-40c2-b832-8d72ada0d9c4",
+                "nodeTo": "b49e2db8-2946-4275-9286-b149c2e5154e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a8bd7c29-3427-40c2-b832-8d72ada0d9c4",
+                "nodeTo": "4b8d4c42-e558-4dc7-98a7-25aeb3255544",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b49e2db8-2946-4275-9286-b149c2e5154e",
+                "nodeTo": "a9b978c6-0c9a-43bb-8c7a-ecb89c4c6103",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4b8d4c42-e558-4dc7-98a7-25aeb3255544",
+                "nodeTo": "a9b978c6-0c9a-43bb-8c7a-ecb89c4c6103",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b49e2db8-2946-4275-9286-b149c2e5154e",
+                "nodeTo": "651cac11-770c-4e8d-8ad1-155264d68423",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4b8d4c42-e558-4dc7-98a7-25aeb3255544",
+                "nodeTo": "651cac11-770c-4e8d-8ad1-155264d68423",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "69b9bccd-ab51-4a1d-99a5-053b4530c3c8",
+                "nodeTo": "cb37b7e3-ae11-48bb-8593-287782c0ac0a",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7b15a914-8b8e-4b78-b427-69de285e3cb9",
+                "nodeTo": "cb37b7e3-ae11-48bb-8593-287782c0ac0a",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "69b9bccd-ab51-4a1d-99a5-053b4530c3c8",
+                "nodeTo": "e063d6cc-4249-454d-9eb2-888de56e40c3",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7b15a914-8b8e-4b78-b427-69de285e3cb9",
+                "nodeTo": "e063d6cc-4249-454d-9eb2-888de56e40c3",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cb37b7e3-ae11-48bb-8593-287782c0ac0a",
+                "nodeTo": "5d5d9e7a-2a58-4a95-a427-d192a941b198",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e063d6cc-4249-454d-9eb2-888de56e40c3",
+                "nodeTo": "5d5d9e7a-2a58-4a95-a427-d192a941b198",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5d5d9e7a-2a58-4a95-a427-d192a941b198",
+                "nodeTo": "3dd9a044-467d-4982-953d-777be33d6128",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3dd9a044-467d-4982-953d-777be33d6128",
+                "nodeTo": "4c46eaca-aab6-4d4a-a6ee-23dde95492e9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4c46eaca-aab6-4d4a-a6ee-23dde95492e9",
+                "nodeTo": "e397bc9c-bce5-4183-bede-e6e922ea735c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4c46eaca-aab6-4d4a-a6ee-23dde95492e9",
+                "nodeTo": "c4bb10c1-cc33-48d6-b98a-494373a76c03",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e397bc9c-bce5-4183-bede-e6e922ea735c",
+                "nodeTo": "ed4c141b-49e0-45de-a17e-4c4be7525094",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c4bb10c1-cc33-48d6-b98a-494373a76c03",
+                "nodeTo": "ed4c141b-49e0-45de-a17e-4c4be7525094",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e397bc9c-bce5-4183-bede-e6e922ea735c",
+                "nodeTo": "70231ac3-c381-407a-8933-5749c713039b",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c4bb10c1-cc33-48d6-b98a-494373a76c03",
+                "nodeTo": "70231ac3-c381-407a-8933-5749c713039b",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e397bc9c-bce5-4183-bede-e6e922ea735c",
+                "nodeTo": "42456768-8972-4806-bc34-578e6cd1000b",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c4bb10c1-cc33-48d6-b98a-494373a76c03",
+                "nodeTo": "42456768-8972-4806-bc34-578e6cd1000b",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-12 15:55:53"
+}

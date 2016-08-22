@@ -1,0 +1,226 @@
+{
+    "uuid": 1108,
+    "text": "Researchers have found set of biomarkers in urine and serum samples that were different between women",
+    "graph": {
+        "version": 1,
+        "guid": "b8e2abe3-3a57-4d19-aa1b-ae099035ca2c",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "have",
+                "id": "b7e21c6c-143a-47d4-bacb-55a23018b82e",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "found",
+                "id": "c58db8b5-4b29-40d7-a0db-81e47619b357",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "5e891159-3338-4682-a714-b4db44d30dc1",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "b81be971-2a3b-4a08-ae03-7ad0795ba0d3",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "c37e66a7-e694-4888-b340-a46a72713004",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "that",
+                "id": "4a5338a2-d907-4116-b18b-14d17941ac81",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "were",
+                "id": "a4020476-bbbb-48e3-a7a4-13427d5296ae",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "between",
+                "id": "99d72816-5332-4465-a53e-6c9c8b0ecebb",
+                "index": 14,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Researchers",
+                "id": "38599596-a889-4205-9403-a560604e59bd",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "set",
+                "id": "b6480686-986b-4162-b5bc-8c4c32771cb2",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "biomarkers",
+                "id": "4399bca4-841b-47b1-90c1-d939b73ae0d7",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "urine",
+                "id": "04663d2c-405c-4a92-bbde-b8592489857d",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "serum",
+                "id": "d13380ba-1d33-48d2-a451-e33e27838de0",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "samples",
+                "id": "9711b824-0607-4c6e-bd1d-30cd6b69c219",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "different",
+                "id": "9000644d-0649-49d1-a8a3-42d9ee644e99",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "women",
+                "id": "d743b943-27e0-4b05-8b05-c44c2028e1bd",
+                "index": 15,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "38599596-a889-4205-9403-a560604e59bd",
+                "nodeTo": "b7e21c6c-143a-47d4-bacb-55a23018b82e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "38599596-a889-4205-9403-a560604e59bd",
+                "nodeTo": "c58db8b5-4b29-40d7-a0db-81e47619b357",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b7e21c6c-143a-47d4-bacb-55a23018b82e",
+                "nodeTo": "b6480686-986b-4162-b5bc-8c4c32771cb2",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c58db8b5-4b29-40d7-a0db-81e47619b357",
+                "nodeTo": "b6480686-986b-4162-b5bc-8c4c32771cb2",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b6480686-986b-4162-b5bc-8c4c32771cb2",
+                "nodeTo": "5e891159-3338-4682-a714-b4db44d30dc1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5e891159-3338-4682-a714-b4db44d30dc1",
+                "nodeTo": "4399bca4-841b-47b1-90c1-d939b73ae0d7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4399bca4-841b-47b1-90c1-d939b73ae0d7",
+                "nodeTo": "b81be971-2a3b-4a08-ae03-7ad0795ba0d3",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b81be971-2a3b-4a08-ae03-7ad0795ba0d3",
+                "nodeTo": "04663d2c-405c-4a92-bbde-b8592489857d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "04663d2c-405c-4a92-bbde-b8592489857d",
+                "nodeTo": "c37e66a7-e694-4888-b340-a46a72713004",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c37e66a7-e694-4888-b340-a46a72713004",
+                "nodeTo": "d13380ba-1d33-48d2-a451-e33e27838de0",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c37e66a7-e694-4888-b340-a46a72713004",
+                "nodeTo": "9711b824-0607-4c6e-bd1d-30cd6b69c219",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b81be971-2a3b-4a08-ae03-7ad0795ba0d3",
+                "nodeTo": "d13380ba-1d33-48d2-a451-e33e27838de0",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b81be971-2a3b-4a08-ae03-7ad0795ba0d3",
+                "nodeTo": "9711b824-0607-4c6e-bd1d-30cd6b69c219",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4399bca4-841b-47b1-90c1-d939b73ae0d7",
+                "nodeTo": "4a5338a2-d907-4116-b18b-14d17941ac81",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4399bca4-841b-47b1-90c1-d939b73ae0d7",
+                "nodeTo": "a4020476-bbbb-48e3-a7a4-13427d5296ae",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4a5338a2-d907-4116-b18b-14d17941ac81",
+                "nodeTo": "9000644d-0649-49d1-a8a3-42d9ee644e99",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a4020476-bbbb-48e3-a7a4-13427d5296ae",
+                "nodeTo": "9000644d-0649-49d1-a8a3-42d9ee644e99",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9000644d-0649-49d1-a8a3-42d9ee644e99",
+                "nodeTo": "99d72816-5332-4465-a53e-6c9c8b0ecebb",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "99d72816-5332-4465-a53e-6c9c8b0ecebb",
+                "nodeTo": "d743b943-27e0-4b05-8b05-c44c2028e1bd",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-12 16:00:02"
+}

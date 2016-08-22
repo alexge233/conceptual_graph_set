@@ -1,0 +1,250 @@
+{
+    "uuid": 717,
+    "text": "It could circumvent need to harvest and transfer large amounts of tissue avoiding many current complications",
+    "graph": {
+        "version": 1,
+        "guid": "6c681a21-9e5b-4bcd-8e9e-9930bca7be1c",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "could",
+                "id": "d8b0d96b-15a6-47e6-83c4-e1176562bee5",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "circumvent",
+                "id": "8a69e60a-0807-4679-967b-16e3a2ac665c",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "18104e7a-1655-4b7d-89ab-ce730147dd7b",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "harvest",
+                "id": "595ca13a-769e-4c5e-89c3-3267d6d889b1",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "5d479733-0447-450a-a99b-b8d5a4859a7a",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "transfer",
+                "id": "7133cccb-31b5-4ecd-882c-01e1d39c18bc",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "17eb149e-eeac-451c-838d-b398ce4b612a",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "avoiding",
+                "id": "593353a0-1668-4324-8145-399e6dadd9db",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "It",
+                "id": "56477165-e8a0-4297-ade3-2cbe709ab570",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "need",
+                "id": "e1a60886-299b-47de-97bb-5878941ad9b5",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "large",
+                "id": "9c8586d3-8092-42ae-a69b-6374ce144a0e",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "amounts",
+                "id": "b8549ad6-1a80-4a79-ad7b-1895957b616b",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "tissue",
+                "id": "35db2010-b1b8-4211-a681-3034bbbb594b",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "many",
+                "id": "a7b3c6de-7126-4846-ae20-34490933ae77",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "current",
+                "id": "ca74a95a-868b-4644-ad6d-9b91c77ba493",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "complications",
+                "id": "9a04e047-ab32-4eaa-bd88-777572cec9e1",
+                "index": 15,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "56477165-e8a0-4297-ade3-2cbe709ab570",
+                "nodeTo": "d8b0d96b-15a6-47e6-83c4-e1176562bee5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "56477165-e8a0-4297-ade3-2cbe709ab570",
+                "nodeTo": "8a69e60a-0807-4679-967b-16e3a2ac665c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d8b0d96b-15a6-47e6-83c4-e1176562bee5",
+                "nodeTo": "e1a60886-299b-47de-97bb-5878941ad9b5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8a69e60a-0807-4679-967b-16e3a2ac665c",
+                "nodeTo": "e1a60886-299b-47de-97bb-5878941ad9b5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e1a60886-299b-47de-97bb-5878941ad9b5",
+                "nodeTo": "18104e7a-1655-4b7d-89ab-ce730147dd7b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e1a60886-299b-47de-97bb-5878941ad9b5",
+                "nodeTo": "595ca13a-769e-4c5e-89c3-3267d6d889b1",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e1a60886-299b-47de-97bb-5878941ad9b5",
+                "nodeTo": "5d479733-0447-450a-a99b-b8d5a4859a7a",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e1a60886-299b-47de-97bb-5878941ad9b5",
+                "nodeTo": "7133cccb-31b5-4ecd-882c-01e1d39c18bc",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "18104e7a-1655-4b7d-89ab-ce730147dd7b",
+                "nodeTo": "9c8586d3-8092-42ae-a69b-6374ce144a0e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "595ca13a-769e-4c5e-89c3-3267d6d889b1",
+                "nodeTo": "9c8586d3-8092-42ae-a69b-6374ce144a0e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5d479733-0447-450a-a99b-b8d5a4859a7a",
+                "nodeTo": "9c8586d3-8092-42ae-a69b-6374ce144a0e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7133cccb-31b5-4ecd-882c-01e1d39c18bc",
+                "nodeTo": "9c8586d3-8092-42ae-a69b-6374ce144a0e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "18104e7a-1655-4b7d-89ab-ce730147dd7b",
+                "nodeTo": "b8549ad6-1a80-4a79-ad7b-1895957b616b",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "595ca13a-769e-4c5e-89c3-3267d6d889b1",
+                "nodeTo": "b8549ad6-1a80-4a79-ad7b-1895957b616b",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5d479733-0447-450a-a99b-b8d5a4859a7a",
+                "nodeTo": "b8549ad6-1a80-4a79-ad7b-1895957b616b",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7133cccb-31b5-4ecd-882c-01e1d39c18bc",
+                "nodeTo": "b8549ad6-1a80-4a79-ad7b-1895957b616b",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9c8586d3-8092-42ae-a69b-6374ce144a0e",
+                "nodeTo": "17eb149e-eeac-451c-838d-b398ce4b612a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b8549ad6-1a80-4a79-ad7b-1895957b616b",
+                "nodeTo": "17eb149e-eeac-451c-838d-b398ce4b612a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "17eb149e-eeac-451c-838d-b398ce4b612a",
+                "nodeTo": "35db2010-b1b8-4211-a681-3034bbbb594b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "593353a0-1668-4324-8145-399e6dadd9db",
+                "nodeTo": "a7b3c6de-7126-4846-ae20-34490933ae77",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "593353a0-1668-4324-8145-399e6dadd9db",
+                "nodeTo": "ca74a95a-868b-4644-ad6d-9b91c77ba493",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "593353a0-1668-4324-8145-399e6dadd9db",
+                "nodeTo": "9a04e047-ab32-4eaa-bd88-777572cec9e1",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "35db2010-b1b8-4211-a681-3034bbbb594b",
+                "nodeTo": "593353a0-1668-4324-8145-399e6dadd9db",
+                "index": 1,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2015-01-12 18:40:17"
+}

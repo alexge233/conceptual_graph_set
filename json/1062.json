@@ -1,0 +1,274 @@
+{
+    "uuid": 1062,
+    "text": "chronic cigarette use continues to impact brain systems regulating postural stability even during abstinence from alcohol",
+    "graph": {
+        "version": 1,
+        "guid": "453c9eb7-3771-445a-a069-3a1058c2ac5d",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "continues",
+                "id": "0817d739-55b0-487b-9996-25962ca13e09",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "dca7c310-4a9d-4e2e-87b1-0805533e009e",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "impact",
+                "id": "6762783e-a070-4232-a8ec-e287814c0808",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "regulating",
+                "id": "194bb89e-a60b-4aca-beb6-118194819c3e",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "even",
+                "id": "e4b3845d-845c-48ab-bd76-ddc10ac452a2",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "during",
+                "id": "675bdda7-36d2-45b9-ab9b-a0e9c4ea264c",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "from",
+                "id": "a0c6e239-7563-468b-a242-c7393a7538aa",
+                "index": 14,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "chronic",
+                "id": "23e1b96b-ed0a-4551-b5cd-369d5e7c1037",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "cigarette",
+                "id": "03d16715-a038-4b3c-8507-b7a1bc6e56b6",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "use",
+                "id": "9a5b4262-57db-4c79-a594-2233c5dee9c1",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "brain",
+                "id": "be658a44-1d0c-4425-8ed7-9625553b013e",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "systems",
+                "id": "e4a7e4a2-96e9-49b4-898a-7c4623ce439b",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "postural",
+                "id": "d1b9741b-3e4d-47ed-ae42-d63643a17709",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "stability",
+                "id": "9b3ce4ae-cd15-4d7d-8c37-39c230805b56",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "abstinence",
+                "id": "4b29b718-5090-44bd-aad0-787ed437373e",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "alcohol",
+                "id": "c871dc01-22b8-4c27-8e0c-c0d2c4730c8e",
+                "index": 15,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "23e1b96b-ed0a-4551-b5cd-369d5e7c1037",
+                "nodeTo": "0817d739-55b0-487b-9996-25962ca13e09",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "03d16715-a038-4b3c-8507-b7a1bc6e56b6",
+                "nodeTo": "0817d739-55b0-487b-9996-25962ca13e09",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9a5b4262-57db-4c79-a594-2233c5dee9c1",
+                "nodeTo": "0817d739-55b0-487b-9996-25962ca13e09",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "23e1b96b-ed0a-4551-b5cd-369d5e7c1037",
+                "nodeTo": "dca7c310-4a9d-4e2e-87b1-0805533e009e",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "03d16715-a038-4b3c-8507-b7a1bc6e56b6",
+                "nodeTo": "dca7c310-4a9d-4e2e-87b1-0805533e009e",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9a5b4262-57db-4c79-a594-2233c5dee9c1",
+                "nodeTo": "dca7c310-4a9d-4e2e-87b1-0805533e009e",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "23e1b96b-ed0a-4551-b5cd-369d5e7c1037",
+                "nodeTo": "6762783e-a070-4232-a8ec-e287814c0808",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "03d16715-a038-4b3c-8507-b7a1bc6e56b6",
+                "nodeTo": "6762783e-a070-4232-a8ec-e287814c0808",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9a5b4262-57db-4c79-a594-2233c5dee9c1",
+                "nodeTo": "6762783e-a070-4232-a8ec-e287814c0808",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0817d739-55b0-487b-9996-25962ca13e09",
+                "nodeTo": "be658a44-1d0c-4425-8ed7-9625553b013e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "dca7c310-4a9d-4e2e-87b1-0805533e009e",
+                "nodeTo": "be658a44-1d0c-4425-8ed7-9625553b013e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6762783e-a070-4232-a8ec-e287814c0808",
+                "nodeTo": "be658a44-1d0c-4425-8ed7-9625553b013e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0817d739-55b0-487b-9996-25962ca13e09",
+                "nodeTo": "e4a7e4a2-96e9-49b4-898a-7c4623ce439b",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "dca7c310-4a9d-4e2e-87b1-0805533e009e",
+                "nodeTo": "e4a7e4a2-96e9-49b4-898a-7c4623ce439b",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6762783e-a070-4232-a8ec-e287814c0808",
+                "nodeTo": "e4a7e4a2-96e9-49b4-898a-7c4623ce439b",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "be658a44-1d0c-4425-8ed7-9625553b013e",
+                "nodeTo": "194bb89e-a60b-4aca-beb6-118194819c3e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e4a7e4a2-96e9-49b4-898a-7c4623ce439b",
+                "nodeTo": "194bb89e-a60b-4aca-beb6-118194819c3e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "194bb89e-a60b-4aca-beb6-118194819c3e",
+                "nodeTo": "d1b9741b-3e4d-47ed-ae42-d63643a17709",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "194bb89e-a60b-4aca-beb6-118194819c3e",
+                "nodeTo": "9b3ce4ae-cd15-4d7d-8c37-39c230805b56",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d1b9741b-3e4d-47ed-ae42-d63643a17709",
+                "nodeTo": "e4b3845d-845c-48ab-bd76-ddc10ac452a2",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9b3ce4ae-cd15-4d7d-8c37-39c230805b56",
+                "nodeTo": "e4b3845d-845c-48ab-bd76-ddc10ac452a2",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d1b9741b-3e4d-47ed-ae42-d63643a17709",
+                "nodeTo": "675bdda7-36d2-45b9-ab9b-a0e9c4ea264c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9b3ce4ae-cd15-4d7d-8c37-39c230805b56",
+                "nodeTo": "675bdda7-36d2-45b9-ab9b-a0e9c4ea264c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e4b3845d-845c-48ab-bd76-ddc10ac452a2",
+                "nodeTo": "4b29b718-5090-44bd-aad0-787ed437373e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "675bdda7-36d2-45b9-ab9b-a0e9c4ea264c",
+                "nodeTo": "4b29b718-5090-44bd-aad0-787ed437373e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4b29b718-5090-44bd-aad0-787ed437373e",
+                "nodeTo": "a0c6e239-7563-468b-a242-c7393a7538aa",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a0c6e239-7563-468b-a242-c7393a7538aa",
+                "nodeTo": "c871dc01-22b8-4c27-8e0c-c0d2c4730c8e",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-05 18:57:48"
+}

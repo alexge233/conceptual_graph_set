@@ -1,0 +1,88 @@
+{
+    "uuid": 754,
+    "text": "positive effect on tau deposits demonstrated",
+    "graph": {
+        "version": 1,
+        "guid": "772414a6-a906-4564-b831-b0ab60e0d607",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "on",
+                "id": "3b8c6052-a3c6-4385-aac4-e6e726958c68",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "demonstrated",
+                "id": "a4e77018-4d2c-45c9-b304-056327ab4289",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "positive",
+                "id": "6412ac52-0d7e-4756-8817-d4aa052588b7",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "effect",
+                "id": "732ebad0-d58e-4c9e-b5cc-d257a65b5501",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "tau",
+                "id": "5561a932-4717-47bc-a7a8-deb11bd9d2bb",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "deposits",
+                "id": "1c04e5d1-68cc-4634-8255-90588342ac20",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "6412ac52-0d7e-4756-8817-d4aa052588b7",
+                "nodeTo": "3b8c6052-a3c6-4385-aac4-e6e726958c68",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "732ebad0-d58e-4c9e-b5cc-d257a65b5501",
+                "nodeTo": "3b8c6052-a3c6-4385-aac4-e6e726958c68",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3b8c6052-a3c6-4385-aac4-e6e726958c68",
+                "nodeTo": "5561a932-4717-47bc-a7a8-deb11bd9d2bb",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3b8c6052-a3c6-4385-aac4-e6e726958c68",
+                "nodeTo": "1c04e5d1-68cc-4634-8255-90588342ac20",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6412ac52-0d7e-4756-8817-d4aa052588b7",
+                "nodeTo": "a4e77018-4d2c-45c9-b304-056327ab4289",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "732ebad0-d58e-4c9e-b5cc-d257a65b5501",
+                "nodeTo": "a4e77018-4d2c-45c9-b304-056327ab4289",
+                "index": 2,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2015-01-13 17:04:00"
+}

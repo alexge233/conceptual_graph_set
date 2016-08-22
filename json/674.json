@@ -1,0 +1,202 @@
+{
+    "uuid": 674,
+    "text": "Brain anatomy differences between deaf and hearing depend on first language learned",
+    "graph": {
+        "version": 1,
+        "guid": "371672dd-4ed6-458a-8de4-939532de858c",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "between",
+                "id": "881873ea-3c0e-46d5-ad87-876023908707",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "e0d1ade4-7dd9-4063-963d-8976a75662c3",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "depend",
+                "id": "7adc5472-c891-4e42-a45b-866a52caa63c",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "on",
+                "id": "550adc23-c6c7-4972-bcd8-8ce89e150432",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Brain",
+                "id": "7e16ab44-926d-42ec-85eb-a0472264065b",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "anatomy",
+                "id": "c0377300-90b6-4b9e-b313-19d9bc6c1417",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "differences",
+                "id": "0b7a2e94-a055-42ea-aa48-70c833c1a852",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "deaf",
+                "id": "4de113ac-d089-4b75-b9ad-20ac0e972d48",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "hearing",
+                "id": "96dc62a8-3a9e-4c0a-b4a8-e76044d26a6b",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "first",
+                "id": "8a98d020-6a53-4c6a-a5b2-7bac6e0305c7",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "language",
+                "id": "ed77d6a7-3d5a-4349-b517-82aa6c919ea0",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "learned",
+                "id": "c55a6624-e36b-4e33-9dd6-2a5b806a4529",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "7e16ab44-926d-42ec-85eb-a0472264065b",
+                "nodeTo": "881873ea-3c0e-46d5-ad87-876023908707",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c0377300-90b6-4b9e-b313-19d9bc6c1417",
+                "nodeTo": "881873ea-3c0e-46d5-ad87-876023908707",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0b7a2e94-a055-42ea-aa48-70c833c1a852",
+                "nodeTo": "881873ea-3c0e-46d5-ad87-876023908707",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "881873ea-3c0e-46d5-ad87-876023908707",
+                "nodeTo": "4de113ac-d089-4b75-b9ad-20ac0e972d48",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4de113ac-d089-4b75-b9ad-20ac0e972d48",
+                "nodeTo": "e0d1ade4-7dd9-4063-963d-8976a75662c3",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e0d1ade4-7dd9-4063-963d-8976a75662c3",
+                "nodeTo": "96dc62a8-3a9e-4c0a-b4a8-e76044d26a6b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "881873ea-3c0e-46d5-ad87-876023908707",
+                "nodeTo": "96dc62a8-3a9e-4c0a-b4a8-e76044d26a6b",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7e16ab44-926d-42ec-85eb-a0472264065b",
+                "nodeTo": "7adc5472-c891-4e42-a45b-866a52caa63c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c0377300-90b6-4b9e-b313-19d9bc6c1417",
+                "nodeTo": "7adc5472-c891-4e42-a45b-866a52caa63c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0b7a2e94-a055-42ea-aa48-70c833c1a852",
+                "nodeTo": "7adc5472-c891-4e42-a45b-866a52caa63c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7e16ab44-926d-42ec-85eb-a0472264065b",
+                "nodeTo": "550adc23-c6c7-4972-bcd8-8ce89e150432",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c0377300-90b6-4b9e-b313-19d9bc6c1417",
+                "nodeTo": "550adc23-c6c7-4972-bcd8-8ce89e150432",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0b7a2e94-a055-42ea-aa48-70c833c1a852",
+                "nodeTo": "550adc23-c6c7-4972-bcd8-8ce89e150432",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7adc5472-c891-4e42-a45b-866a52caa63c",
+                "nodeTo": "8a98d020-6a53-4c6a-a5b2-7bac6e0305c7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7adc5472-c891-4e42-a45b-866a52caa63c",
+                "nodeTo": "ed77d6a7-3d5a-4349-b517-82aa6c919ea0",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7adc5472-c891-4e42-a45b-866a52caa63c",
+                "nodeTo": "c55a6624-e36b-4e33-9dd6-2a5b806a4529",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "550adc23-c6c7-4972-bcd8-8ce89e150432",
+                "nodeTo": "8a98d020-6a53-4c6a-a5b2-7bac6e0305c7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "550adc23-c6c7-4972-bcd8-8ce89e150432",
+                "nodeTo": "ed77d6a7-3d5a-4349-b517-82aa6c919ea0",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "550adc23-c6c7-4972-bcd8-8ce89e150432",
+                "nodeTo": "c55a6624-e36b-4e33-9dd6-2a5b806a4529",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-09 20:54:55"
+}

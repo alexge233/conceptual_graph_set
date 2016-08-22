@@ -1,0 +1,184 @@
+{
+    "uuid": 844,
+    "text": "This makes cancer cells susceptible to minor changes in cell power house",
+    "graph": {
+        "version": 1,
+        "guid": "3195b84d-56a0-455d-8a0a-edb6ca1957e2",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "makes",
+                "id": "116232a7-d57c-419e-b029-b72e53d9a1e6",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "susceptible",
+                "id": "91d9eadd-d3c8-4d06-943c-db8863de089b",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "181bcca9-2bb9-4db1-9ab2-103d430ad47a",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "c3368772-a5a3-4590-a840-36e6b1784b7c",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "This",
+                "id": "2c9a79de-e5e4-40b3-80ac-8a2802ab1a65",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "cancer",
+                "id": "c53a66a1-0d34-4c32-bdcd-767081d63787",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "cells",
+                "id": "57962816-3a1a-48e0-b093-d01d8954aa74",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "minor",
+                "id": "09e7280c-c2ec-4883-88d8-db6ad12a85e5",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "changes",
+                "id": "08c0dd68-6aa4-4e53-b89a-dd313d1297d0",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "cell",
+                "id": "367aad52-3876-4ada-a636-3de59ca00ce7",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "power",
+                "id": "ebea78bc-293d-455b-b02b-a4813e09943c",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "house",
+                "id": "e12e542a-1092-4480-b026-84026cad41c3",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "2c9a79de-e5e4-40b3-80ac-8a2802ab1a65",
+                "nodeTo": "116232a7-d57c-419e-b029-b72e53d9a1e6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "116232a7-d57c-419e-b029-b72e53d9a1e6",
+                "nodeTo": "c53a66a1-0d34-4c32-bdcd-767081d63787",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "116232a7-d57c-419e-b029-b72e53d9a1e6",
+                "nodeTo": "57962816-3a1a-48e0-b093-d01d8954aa74",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c53a66a1-0d34-4c32-bdcd-767081d63787",
+                "nodeTo": "91d9eadd-d3c8-4d06-943c-db8863de089b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "57962816-3a1a-48e0-b093-d01d8954aa74",
+                "nodeTo": "91d9eadd-d3c8-4d06-943c-db8863de089b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c53a66a1-0d34-4c32-bdcd-767081d63787",
+                "nodeTo": "181bcca9-2bb9-4db1-9ab2-103d430ad47a",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "57962816-3a1a-48e0-b093-d01d8954aa74",
+                "nodeTo": "181bcca9-2bb9-4db1-9ab2-103d430ad47a",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "91d9eadd-d3c8-4d06-943c-db8863de089b",
+                "nodeTo": "09e7280c-c2ec-4883-88d8-db6ad12a85e5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "181bcca9-2bb9-4db1-9ab2-103d430ad47a",
+                "nodeTo": "09e7280c-c2ec-4883-88d8-db6ad12a85e5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "91d9eadd-d3c8-4d06-943c-db8863de089b",
+                "nodeTo": "08c0dd68-6aa4-4e53-b89a-dd313d1297d0",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "181bcca9-2bb9-4db1-9ab2-103d430ad47a",
+                "nodeTo": "08c0dd68-6aa4-4e53-b89a-dd313d1297d0",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "09e7280c-c2ec-4883-88d8-db6ad12a85e5",
+                "nodeTo": "c3368772-a5a3-4590-a840-36e6b1784b7c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "08c0dd68-6aa4-4e53-b89a-dd313d1297d0",
+                "nodeTo": "c3368772-a5a3-4590-a840-36e6b1784b7c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c3368772-a5a3-4590-a840-36e6b1784b7c",
+                "nodeTo": "367aad52-3876-4ada-a636-3de59ca00ce7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c3368772-a5a3-4590-a840-36e6b1784b7c",
+                "nodeTo": "ebea78bc-293d-455b-b02b-a4813e09943c",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c3368772-a5a3-4590-a840-36e6b1784b7c",
+                "nodeTo": "e12e542a-1092-4480-b026-84026cad41c3",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-16 21:03:33"
+}

@@ -1,0 +1,196 @@
+{
+    "uuid": 921,
+    "text": "It involves visual searching for clues to meaning and skipping non essential words",
+    "graph": {
+        "version": 1,
+        "guid": "dcac8483-ae9b-467d-ae12-173c9d1d5714",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "involves",
+                "id": "e9a62d99-d6c2-4796-a909-5bd216b15b94",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "756601cd-3066-47d4-a712-005e553078bd",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "49064156-7116-4950-9301-5839921cdd80",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "42a09152-6983-45a3-8567-c067cc3ba339",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "searching",
+                "id": "568a75bb-2930-41da-acb7-1b11c80144dc",
+                "postag": "NA",
+                "index": 3
+            },
+            {
+                "label": "skipping",
+                "id": "39820c57-dba8-4959-9ce4-dd2c29749c92",
+                "postag": "NA",
+                "index": 9
+            }
+        ],
+        "concepts": [
+            {
+                "label": "It",
+                "id": "da136e57-c91c-4e67-a98a-8084ea15c2b5",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "visual",
+                "id": "a012aaea-08a9-4cd6-aae6-cd4d200ac61c",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "clues",
+                "id": "9eb386b9-443a-4e52-b80b-868b8b3613ec",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "meaning",
+                "id": "221b0ac4-547e-4958-8068-05c2c199723c",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "non",
+                "id": "43755065-b182-4d4a-ac47-953a3ce7c69b",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "essential",
+                "id": "9a898393-dae9-4405-a810-22ecccea07d5",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "words",
+                "id": "8136925a-6245-48a8-9140-d6a893cba837",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "da136e57-c91c-4e67-a98a-8084ea15c2b5",
+                "nodeTo": "e9a62d99-d6c2-4796-a909-5bd216b15b94",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e9a62d99-d6c2-4796-a909-5bd216b15b94",
+                "nodeTo": "a012aaea-08a9-4cd6-aae6-cd4d200ac61c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "756601cd-3066-47d4-a712-005e553078bd",
+                "nodeTo": "9eb386b9-443a-4e52-b80b-868b8b3613ec",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9eb386b9-443a-4e52-b80b-868b8b3613ec",
+                "nodeTo": "49064156-7116-4950-9301-5839921cdd80",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "49064156-7116-4950-9301-5839921cdd80",
+                "nodeTo": "221b0ac4-547e-4958-8068-05c2c199723c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a012aaea-08a9-4cd6-aae6-cd4d200ac61c",
+                "nodeTo": "568a75bb-2930-41da-acb7-1b11c80144dc",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a012aaea-08a9-4cd6-aae6-cd4d200ac61c",
+                "nodeTo": "756601cd-3066-47d4-a712-005e553078bd",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "568a75bb-2930-41da-acb7-1b11c80144dc",
+                "nodeTo": "9eb386b9-443a-4e52-b80b-868b8b3613ec",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a012aaea-08a9-4cd6-aae6-cd4d200ac61c",
+                "nodeTo": "42a09152-6983-45a3-8567-c067cc3ba339",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a012aaea-08a9-4cd6-aae6-cd4d200ac61c",
+                "nodeTo": "39820c57-dba8-4959-9ce4-dd2c29749c92",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "42a09152-6983-45a3-8567-c067cc3ba339",
+                "nodeTo": "9eb386b9-443a-4e52-b80b-868b8b3613ec",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "42a09152-6983-45a3-8567-c067cc3ba339",
+                "nodeTo": "43755065-b182-4d4a-ac47-953a3ce7c69b",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "42a09152-6983-45a3-8567-c067cc3ba339",
+                "nodeTo": "9a898393-dae9-4405-a810-22ecccea07d5",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "42a09152-6983-45a3-8567-c067cc3ba339",
+                "nodeTo": "8136925a-6245-48a8-9140-d6a893cba837",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "39820c57-dba8-4959-9ce4-dd2c29749c92",
+                "nodeTo": "43755065-b182-4d4a-ac47-953a3ce7c69b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "39820c57-dba8-4959-9ce4-dd2c29749c92",
+                "nodeTo": "9a898393-dae9-4405-a810-22ecccea07d5",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "39820c57-dba8-4959-9ce4-dd2c29749c92",
+                "nodeTo": "8136925a-6245-48a8-9140-d6a893cba837",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-03-28 22:30:17"
+}

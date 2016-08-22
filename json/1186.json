@@ -1,0 +1,184 @@
+{
+    "uuid": 1186,
+    "text": "kidneys from most patients with chronic kidney disease were positive for active cytomegalovirus infection",
+    "graph": {
+        "version": 1,
+        "guid": "1483a657-3904-45de-9c01-80731ae7a13a",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "from",
+                "id": "51942623-ab7d-4da9-a305-aa3b91230c00",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "with",
+                "id": "7766ec43-de30-42dc-8381-753161cc3e00",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "were",
+                "id": "a7c6700a-7e90-478b-a92e-77787cd091eb",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "09b613d1-bc27-48a2-8d2c-823397c8b669",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "kidneys",
+                "id": "41419949-9e85-4194-ab63-17ecad125db9",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "most",
+                "id": "2a89b064-7130-4a92-a21d-21b68a3dc030",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "patients",
+                "id": "e4615e2c-c4ab-4e01-b7e5-dbee95b30098",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "chronic",
+                "id": "a672e40b-6565-4193-abe9-ab6abc166220",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "kidney",
+                "id": "4b2d866c-23d8-4219-9d09-86d73032d219",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "disease",
+                "id": "6587903b-87b6-47a6-bc3e-57899ab3de63",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "positive",
+                "id": "8e809e4b-6460-4039-88dd-d744579ea208",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "active",
+                "id": "2e55b044-0cec-4568-a85a-290a2a5d1976",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "cytomegalovirus",
+                "id": "7a8bdcde-37cb-44cc-a456-90d5dcb1a773",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "infection",
+                "id": "b512435e-d7a2-4566-bc76-71b280e2c47e",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "41419949-9e85-4194-ab63-17ecad125db9",
+                "nodeTo": "51942623-ab7d-4da9-a305-aa3b91230c00",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "51942623-ab7d-4da9-a305-aa3b91230c00",
+                "nodeTo": "2a89b064-7130-4a92-a21d-21b68a3dc030",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "51942623-ab7d-4da9-a305-aa3b91230c00",
+                "nodeTo": "e4615e2c-c4ab-4e01-b7e5-dbee95b30098",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2a89b064-7130-4a92-a21d-21b68a3dc030",
+                "nodeTo": "7766ec43-de30-42dc-8381-753161cc3e00",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e4615e2c-c4ab-4e01-b7e5-dbee95b30098",
+                "nodeTo": "7766ec43-de30-42dc-8381-753161cc3e00",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7766ec43-de30-42dc-8381-753161cc3e00",
+                "nodeTo": "a672e40b-6565-4193-abe9-ab6abc166220",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7766ec43-de30-42dc-8381-753161cc3e00",
+                "nodeTo": "6587903b-87b6-47a6-bc3e-57899ab3de63",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7766ec43-de30-42dc-8381-753161cc3e00",
+                "nodeTo": "4b2d866c-23d8-4219-9d09-86d73032d219",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "41419949-9e85-4194-ab63-17ecad125db9",
+                "nodeTo": "a7c6700a-7e90-478b-a92e-77787cd091eb",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a7c6700a-7e90-478b-a92e-77787cd091eb",
+                "nodeTo": "8e809e4b-6460-4039-88dd-d744579ea208",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8e809e4b-6460-4039-88dd-d744579ea208",
+                "nodeTo": "09b613d1-bc27-48a2-8d2c-823397c8b669",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "09b613d1-bc27-48a2-8d2c-823397c8b669",
+                "nodeTo": "2e55b044-0cec-4568-a85a-290a2a5d1976",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "09b613d1-bc27-48a2-8d2c-823397c8b669",
+                "nodeTo": "7a8bdcde-37cb-44cc-a456-90d5dcb1a773",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "09b613d1-bc27-48a2-8d2c-823397c8b669",
+                "nodeTo": "b512435e-d7a2-4566-bc76-71b280e2c47e",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-25 19:51:41"
+}

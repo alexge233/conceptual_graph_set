@@ -1,0 +1,220 @@
+{
+    "uuid": 1109,
+    "text": "biomarkers tell story of what is happening to metabolism of women who have developed preeclampsia",
+    "graph": {
+        "version": 1,
+        "guid": "3802e29e-4216-4cd3-adbd-53c1567b57c5",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "tell",
+                "id": "6139d404-489a-45ad-9386-56d0459acb21",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "2e58e63b-a082-4270-b6c6-d997c4994c23",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "is",
+                "id": "69d7609c-5b4c-4667-bea9-02da194c330c",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "happening",
+                "id": "a8dd7832-bcd4-4d1c-a4ca-3ebe960ab686",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "23e355c4-d0b9-479e-b1b0-be2267359a98",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "b4073d17-a844-4be0-8baa-71614374ea7a",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "have",
+                "id": "7b467e18-eade-4aeb-880e-b2e12333c174",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "developed",
+                "id": "89e211c0-78b4-4a3a-9253-b399b61459ad",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "biomarkers",
+                "id": "0a954d11-337c-44c2-ac83-d951a96119d5",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "story",
+                "id": "6949e97b-d0d9-48c8-a752-320aa61ab3b3",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "what",
+                "id": "8d441c51-0388-4a5a-b9d2-8b987b82166a",
+                "postag": "NA",
+                "index": 4
+            },
+            {
+                "label": "metabolism",
+                "id": "5eb6e5e2-10a8-495a-b39a-5033a80163d1",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "women",
+                "id": "eb913322-33dd-42b8-81aa-c6600dcac593",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "preeclampsia",
+                "id": "6dd63b92-b27d-4bc6-847b-19815a41cd8b",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "who",
+                "id": "515ec40a-00e0-46c4-9773-1ae0a8ac527c",
+                "postag": "NA",
+                "index": 11
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "0a954d11-337c-44c2-ac83-d951a96119d5",
+                "nodeTo": "6139d404-489a-45ad-9386-56d0459acb21",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6139d404-489a-45ad-9386-56d0459acb21",
+                "nodeTo": "6949e97b-d0d9-48c8-a752-320aa61ab3b3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6949e97b-d0d9-48c8-a752-320aa61ab3b3",
+                "nodeTo": "2e58e63b-a082-4270-b6c6-d997c4994c23",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2e58e63b-a082-4270-b6c6-d997c4994c23",
+                "nodeTo": "8d441c51-0388-4a5a-b9d2-8b987b82166a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8d441c51-0388-4a5a-b9d2-8b987b82166a",
+                "nodeTo": "69d7609c-5b4c-4667-bea9-02da194c330c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8d441c51-0388-4a5a-b9d2-8b987b82166a",
+                "nodeTo": "a8dd7832-bcd4-4d1c-a4ca-3ebe960ab686",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8d441c51-0388-4a5a-b9d2-8b987b82166a",
+                "nodeTo": "23e355c4-d0b9-479e-b1b0-be2267359a98",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "69d7609c-5b4c-4667-bea9-02da194c330c",
+                "nodeTo": "5eb6e5e2-10a8-495a-b39a-5033a80163d1",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a8dd7832-bcd4-4d1c-a4ca-3ebe960ab686",
+                "nodeTo": "5eb6e5e2-10a8-495a-b39a-5033a80163d1",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "23e355c4-d0b9-479e-b1b0-be2267359a98",
+                "nodeTo": "5eb6e5e2-10a8-495a-b39a-5033a80163d1",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5eb6e5e2-10a8-495a-b39a-5033a80163d1",
+                "nodeTo": "b4073d17-a844-4be0-8baa-71614374ea7a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b4073d17-a844-4be0-8baa-71614374ea7a",
+                "nodeTo": "eb913322-33dd-42b8-81aa-c6600dcac593",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7b467e18-eade-4aeb-880e-b2e12333c174",
+                "nodeTo": "6dd63b92-b27d-4bc6-847b-19815a41cd8b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "89e211c0-78b4-4a3a-9253-b399b61459ad",
+                "nodeTo": "6dd63b92-b27d-4bc6-847b-19815a41cd8b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b4073d17-a844-4be0-8baa-71614374ea7a",
+                "nodeTo": "515ec40a-00e0-46c4-9773-1ae0a8ac527c",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "eb913322-33dd-42b8-81aa-c6600dcac593",
+                "nodeTo": "7b467e18-eade-4aeb-880e-b2e12333c174",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "eb913322-33dd-42b8-81aa-c6600dcac593",
+                "nodeTo": "89e211c0-78b4-4a3a-9253-b399b61459ad",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "515ec40a-00e0-46c4-9773-1ae0a8ac527c",
+                "nodeTo": "7b467e18-eade-4aeb-880e-b2e12333c174",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "515ec40a-00e0-46c4-9773-1ae0a8ac527c",
+                "nodeTo": "89e211c0-78b4-4a3a-9253-b399b61459ad",
+                "index": 2,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2015-02-12 16:02:43"
+}

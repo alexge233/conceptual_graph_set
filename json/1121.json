@@ -1,0 +1,262 @@
+{
+    "uuid": 1121,
+    "text": "total of 43 percent of high school boys and young college men reported they had unwanted sexual experience",
+    "graph": {
+        "version": 1,
+        "guid": "ab26cc78-3671-425e-9387-d0c8725b9e94",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "of",
+                "id": "9a796e26-bca6-46ab-aa23-54808ed60e09",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "973ba726-2a4b-4164-b7e9-9d5c0202e247",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "e47baa53-8d71-42d7-9a60-6b28b50da9ea",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "reported",
+                "id": "512d6be4-80c6-4d04-9274-3534d21b1ed2",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "had",
+                "id": "97c1bec3-37cb-4e0d-ade1-06b31118d008",
+                "index": 14,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "total",
+                "id": "ccb1018a-136d-4615-9a14-573eb6e6bb50",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": 43,
+                "id": "3dbe3177-2094-4473-9eda-687544055a7e",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "percent",
+                "id": "c5768115-4142-43ea-a803-d4b6ada0e8d0",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "high",
+                "id": "de34199a-8d71-408c-a1c2-a62292e2d95e",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "school",
+                "id": "ae0c0033-875b-4987-b758-d543c7610659",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "boys",
+                "id": "83b487c8-320e-4ea4-b807-877b1b38d6d5",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "young",
+                "id": "d0cc4569-de34-4e8d-b951-e7498725a600",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "college",
+                "id": "08d4a256-dba3-454b-96dd-6b2bb941a3e2",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "men",
+                "id": "b97c78b4-c6ce-423c-8c1e-727da5546a5e",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "they",
+                "id": "d68d5ad8-619a-4e2d-b054-8a00c9b39999",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "unwanted",
+                "id": "17becc19-d66e-4526-b0ec-e3e566651363",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "sexual",
+                "id": "4acb0d91-2dab-45e5-8508-cdc1915bea56",
+                "index": 16,
+                "postag": "NA"
+            },
+            {
+                "label": "experience",
+                "id": "ee0a13b9-c6e3-49ad-9c91-309c563e7cdd",
+                "index": 17,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "ccb1018a-136d-4615-9a14-573eb6e6bb50",
+                "nodeTo": "9a796e26-bca6-46ab-aa23-54808ed60e09",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9a796e26-bca6-46ab-aa23-54808ed60e09",
+                "nodeTo": "3dbe3177-2094-4473-9eda-687544055a7e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9a796e26-bca6-46ab-aa23-54808ed60e09",
+                "nodeTo": "c5768115-4142-43ea-a803-d4b6ada0e8d0",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3dbe3177-2094-4473-9eda-687544055a7e",
+                "nodeTo": "973ba726-2a4b-4164-b7e9-9d5c0202e247",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c5768115-4142-43ea-a803-d4b6ada0e8d0",
+                "nodeTo": "973ba726-2a4b-4164-b7e9-9d5c0202e247",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "973ba726-2a4b-4164-b7e9-9d5c0202e247",
+                "nodeTo": "de34199a-8d71-408c-a1c2-a62292e2d95e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "973ba726-2a4b-4164-b7e9-9d5c0202e247",
+                "nodeTo": "ae0c0033-875b-4987-b758-d543c7610659",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "973ba726-2a4b-4164-b7e9-9d5c0202e247",
+                "nodeTo": "83b487c8-320e-4ea4-b807-877b1b38d6d5",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "de34199a-8d71-408c-a1c2-a62292e2d95e",
+                "nodeTo": "e47baa53-8d71-42d7-9a60-6b28b50da9ea",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ae0c0033-875b-4987-b758-d543c7610659",
+                "nodeTo": "e47baa53-8d71-42d7-9a60-6b28b50da9ea",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "83b487c8-320e-4ea4-b807-877b1b38d6d5",
+                "nodeTo": "e47baa53-8d71-42d7-9a60-6b28b50da9ea",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e47baa53-8d71-42d7-9a60-6b28b50da9ea",
+                "nodeTo": "d0cc4569-de34-4e8d-b951-e7498725a600",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e47baa53-8d71-42d7-9a60-6b28b50da9ea",
+                "nodeTo": "08d4a256-dba3-454b-96dd-6b2bb941a3e2",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e47baa53-8d71-42d7-9a60-6b28b50da9ea",
+                "nodeTo": "b97c78b4-c6ce-423c-8c1e-727da5546a5e",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "973ba726-2a4b-4164-b7e9-9d5c0202e247",
+                "nodeTo": "d0cc4569-de34-4e8d-b951-e7498725a600",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "973ba726-2a4b-4164-b7e9-9d5c0202e247",
+                "nodeTo": "08d4a256-dba3-454b-96dd-6b2bb941a3e2",
+                "index": 5,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "973ba726-2a4b-4164-b7e9-9d5c0202e247",
+                "nodeTo": "b97c78b4-c6ce-423c-8c1e-727da5546a5e",
+                "index": 6,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ccb1018a-136d-4615-9a14-573eb6e6bb50",
+                "nodeTo": "512d6be4-80c6-4d04-9274-3534d21b1ed2",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "512d6be4-80c6-4d04-9274-3534d21b1ed2",
+                "nodeTo": "d68d5ad8-619a-4e2d-b054-8a00c9b39999",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d68d5ad8-619a-4e2d-b054-8a00c9b39999",
+                "nodeTo": "97c1bec3-37cb-4e0d-ade1-06b31118d008",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "97c1bec3-37cb-4e0d-ade1-06b31118d008",
+                "nodeTo": "17becc19-d66e-4526-b0ec-e3e566651363",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "97c1bec3-37cb-4e0d-ade1-06b31118d008",
+                "nodeTo": "4acb0d91-2dab-45e5-8508-cdc1915bea56",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "97c1bec3-37cb-4e0d-ade1-06b31118d008",
+                "nodeTo": "ee0a13b9-c6e3-49ad-9c91-309c563e7cdd",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-12 23:38:02"
+}

@@ -1,0 +1,238 @@
+{
+    "uuid": 1130,
+    "text": "researchers hypothesized that decline of cognitive impairment is involved in oral perceptions since its preclinical stage",
+    "graph": {
+        "version": 1,
+        "guid": "57e074c7-ad24-47c0-a2c8-c82e91117ba2",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "hypothesized",
+                "id": "72db3aa9-b34c-4922-a016-5b7cc7cd8884",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "that",
+                "id": "e82052b2-e5b7-43d0-a651-919526a76d7e",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "4b228c93-3e91-4884-9607-c7bbd3150538",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "is",
+                "id": "6101e5e4-5e36-4c55-b524-98e5a2391290",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "involved",
+                "id": "863a167b-acc5-4a1b-ad54-a720a1bc9592",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "20dd4996-5086-4224-b54d-90dc30179c4c",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "since",
+                "id": "5a58e56b-c527-48d6-a955-3498ae004758",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "researchers",
+                "id": "e00a658c-8aa3-4305-b486-0c8191335624",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "decline",
+                "id": "2759712e-c908-478e-829a-e21a4e9520bb",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "cognitive",
+                "id": "24ed706a-4a56-409a-80e9-62a241452985",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "impairment",
+                "id": "11eb1271-c21c-49b2-95eb-d129ba215b37",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "oral",
+                "id": "be206088-1d20-442a-9469-d47c40a56338",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "perceptions",
+                "id": "c25197c7-9da5-40b9-80b6-e3a179025d20",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "its",
+                "id": "892b494c-75e9-4d9e-a651-0c3719469d12",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "preclinical",
+                "id": "e60506dd-b609-4995-ac07-4adb7a9262ad",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "stage",
+                "id": "1ad84d4b-5b07-46d7-81d7-338b59001d4d",
+                "index": 15,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "e00a658c-8aa3-4305-b486-0c8191335624",
+                "nodeTo": "72db3aa9-b34c-4922-a016-5b7cc7cd8884",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e00a658c-8aa3-4305-b486-0c8191335624",
+                "nodeTo": "e82052b2-e5b7-43d0-a651-919526a76d7e",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "72db3aa9-b34c-4922-a016-5b7cc7cd8884",
+                "nodeTo": "2759712e-c908-478e-829a-e21a4e9520bb",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e82052b2-e5b7-43d0-a651-919526a76d7e",
+                "nodeTo": "2759712e-c908-478e-829a-e21a4e9520bb",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2759712e-c908-478e-829a-e21a4e9520bb",
+                "nodeTo": "4b228c93-3e91-4884-9607-c7bbd3150538",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4b228c93-3e91-4884-9607-c7bbd3150538",
+                "nodeTo": "24ed706a-4a56-409a-80e9-62a241452985",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4b228c93-3e91-4884-9607-c7bbd3150538",
+                "nodeTo": "11eb1271-c21c-49b2-95eb-d129ba215b37",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2759712e-c908-478e-829a-e21a4e9520bb",
+                "nodeTo": "6101e5e4-5e36-4c55-b524-98e5a2391290",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2759712e-c908-478e-829a-e21a4e9520bb",
+                "nodeTo": "863a167b-acc5-4a1b-ad54-a720a1bc9592",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2759712e-c908-478e-829a-e21a4e9520bb",
+                "nodeTo": "20dd4996-5086-4224-b54d-90dc30179c4c",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6101e5e4-5e36-4c55-b524-98e5a2391290",
+                "nodeTo": "be206088-1d20-442a-9469-d47c40a56338",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "863a167b-acc5-4a1b-ad54-a720a1bc9592",
+                "nodeTo": "be206088-1d20-442a-9469-d47c40a56338",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "20dd4996-5086-4224-b54d-90dc30179c4c",
+                "nodeTo": "be206088-1d20-442a-9469-d47c40a56338",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6101e5e4-5e36-4c55-b524-98e5a2391290",
+                "nodeTo": "c25197c7-9da5-40b9-80b6-e3a179025d20",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "863a167b-acc5-4a1b-ad54-a720a1bc9592",
+                "nodeTo": "c25197c7-9da5-40b9-80b6-e3a179025d20",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "20dd4996-5086-4224-b54d-90dc30179c4c",
+                "nodeTo": "c25197c7-9da5-40b9-80b6-e3a179025d20",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "be206088-1d20-442a-9469-d47c40a56338",
+                "nodeTo": "5a58e56b-c527-48d6-a955-3498ae004758",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c25197c7-9da5-40b9-80b6-e3a179025d20",
+                "nodeTo": "5a58e56b-c527-48d6-a955-3498ae004758",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5a58e56b-c527-48d6-a955-3498ae004758",
+                "nodeTo": "892b494c-75e9-4d9e-a651-0c3719469d12",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5a58e56b-c527-48d6-a955-3498ae004758",
+                "nodeTo": "e60506dd-b609-4995-ac07-4adb7a9262ad",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5a58e56b-c527-48d6-a955-3498ae004758",
+                "nodeTo": "1ad84d4b-5b07-46d7-81d7-338b59001d4d",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-23 18:48:42"
+}

@@ -1,0 +1,250 @@
+{
+    "uuid": 206,
+    "text": "health watchdog is warning that thousands of people have been sent hoax emails suggesting they have cancer",
+    "graph": {
+        "version": 1,
+        "guid": "3c9d308c-4046-4371-804a-da6406a40935",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "is",
+                "id": "0ee7e506-9787-4816-b9db-29a99dc662e2",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "warning",
+                "id": "c85d237b-a3c8-4eda-9a54-134509d1d8cb",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "that",
+                "id": "465a44ce-b07c-4233-a337-a64a2556423e",
+                "postag": "NA",
+                "index": 4
+            },
+            {
+                "label": "of",
+                "id": "b9d39a9c-85ce-4585-a314-8d78619b48a5",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "have",
+                "id": "2a1a7a69-95a0-4ac7-aad4-b1912162bd6a",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "been",
+                "id": "6b16cd60-34ce-464d-b4cc-8583cdc21149",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "sent",
+                "id": "9cd8ad5d-d168-4aa0-abe2-795c28c5ecda",
+                "postag": "NA",
+                "index": 10
+            },
+            {
+                "label": "suggesting",
+                "id": "03599db8-c357-4681-8b76-0297e0e8dd20",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "have",
+                "id": "d8606992-aea8-47d7-bd45-115295ee3c38",
+                "index": 15,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "health",
+                "id": "89246261-6185-4dc7-98c5-90974bc3ed6a",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "watchdog",
+                "id": "6942ddc7-b218-459c-a6a8-a24dae3994a5",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "thousands",
+                "id": "13d2d86b-257c-47d1-97e7-9bc6dc9ae173",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "people",
+                "id": "270cb2eb-5723-478c-84d3-702b3abcbd13",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "hoax",
+                "id": "a07c6ee6-1a78-4410-8cbe-22ae0bb70514",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "emails",
+                "id": "63e0dc02-0067-468b-b13d-e9e3b7ce8513",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "they",
+                "id": "7961a0b9-d02a-427b-b39b-755dd15c0e3d",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "cancer",
+                "id": "0577d55a-9e2c-4c7a-8d66-c8c08d94cc18",
+                "index": 16,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "89246261-6185-4dc7-98c5-90974bc3ed6a",
+                "nodeTo": "0ee7e506-9787-4816-b9db-29a99dc662e2",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6942ddc7-b218-459c-a6a8-a24dae3994a5",
+                "nodeTo": "0ee7e506-9787-4816-b9db-29a99dc662e2",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "89246261-6185-4dc7-98c5-90974bc3ed6a",
+                "nodeTo": "c85d237b-a3c8-4eda-9a54-134509d1d8cb",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6942ddc7-b218-459c-a6a8-a24dae3994a5",
+                "nodeTo": "c85d237b-a3c8-4eda-9a54-134509d1d8cb",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c85d237b-a3c8-4eda-9a54-134509d1d8cb",
+                "nodeTo": "13d2d86b-257c-47d1-97e7-9bc6dc9ae173",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "465a44ce-b07c-4233-a337-a64a2556423e",
+                "nodeTo": "13d2d86b-257c-47d1-97e7-9bc6dc9ae173",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "13d2d86b-257c-47d1-97e7-9bc6dc9ae173",
+                "nodeTo": "b9d39a9c-85ce-4585-a314-8d78619b48a5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b9d39a9c-85ce-4585-a314-8d78619b48a5",
+                "nodeTo": "270cb2eb-5723-478c-84d3-702b3abcbd13",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "270cb2eb-5723-478c-84d3-702b3abcbd13",
+                "nodeTo": "2a1a7a69-95a0-4ac7-aad4-b1912162bd6a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "270cb2eb-5723-478c-84d3-702b3abcbd13",
+                "nodeTo": "6b16cd60-34ce-464d-b4cc-8583cdc21149",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "270cb2eb-5723-478c-84d3-702b3abcbd13",
+                "nodeTo": "9cd8ad5d-d168-4aa0-abe2-795c28c5ecda",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2a1a7a69-95a0-4ac7-aad4-b1912162bd6a",
+                "nodeTo": "a07c6ee6-1a78-4410-8cbe-22ae0bb70514",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6b16cd60-34ce-464d-b4cc-8583cdc21149",
+                "nodeTo": "a07c6ee6-1a78-4410-8cbe-22ae0bb70514",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9cd8ad5d-d168-4aa0-abe2-795c28c5ecda",
+                "nodeTo": "a07c6ee6-1a78-4410-8cbe-22ae0bb70514",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2a1a7a69-95a0-4ac7-aad4-b1912162bd6a",
+                "nodeTo": "63e0dc02-0067-468b-b13d-e9e3b7ce8513",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6b16cd60-34ce-464d-b4cc-8583cdc21149",
+                "nodeTo": "63e0dc02-0067-468b-b13d-e9e3b7ce8513",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9cd8ad5d-d168-4aa0-abe2-795c28c5ecda",
+                "nodeTo": "63e0dc02-0067-468b-b13d-e9e3b7ce8513",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a07c6ee6-1a78-4410-8cbe-22ae0bb70514",
+                "nodeTo": "03599db8-c357-4681-8b76-0297e0e8dd20",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "63e0dc02-0067-468b-b13d-e9e3b7ce8513",
+                "nodeTo": "03599db8-c357-4681-8b76-0297e0e8dd20",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "03599db8-c357-4681-8b76-0297e0e8dd20",
+                "nodeTo": "7961a0b9-d02a-427b-b39b-755dd15c0e3d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7961a0b9-d02a-427b-b39b-755dd15c0e3d",
+                "nodeTo": "d8606992-aea8-47d7-bd45-115295ee3c38",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d8606992-aea8-47d7-bd45-115295ee3c38",
+                "nodeTo": "0577d55a-9e2c-4c7a-8d66-c8c08d94cc18",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-11-17 22:59:50"
+}

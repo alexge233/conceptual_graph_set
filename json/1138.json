@@ -1,0 +1,292 @@
+{
+    "uuid": 1138,
+    "text": "colon cancer incidence rates have dropped 30 percent in US in last 10 years among adults 50 and older",
+    "graph": {
+        "version": 1,
+        "guid": "d04845c7-3bd8-40eb-a364-ac1e24b557e9",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "have",
+                "id": "cb5a8b27-db6e-423b-b89b-b661ed5c6396",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "dropped",
+                "id": "2c562344-c4bd-4e9d-9e64-acc7d61ae51c",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "3e99b627-6594-496b-b602-b6650414cee1",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "57327654-8be5-4268-adb7-72c338db2188",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "among",
+                "id": "78b2d92d-8ace-405d-ad24-acd72bed8b9c",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "91ad6390-c94c-46b1-9625-58983d89a14d",
+                "index": 17,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "colon",
+                "id": "e9d12890-5061-4134-b0a1-b3717206cb17",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "cancer",
+                "id": "a9ec3ac7-0a68-4aed-9226-bb3771e10803",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "incidence",
+                "id": "794bb713-0a54-4bc6-9dd6-57aa106875d9",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "rates",
+                "id": "579eb06e-b7bd-4de2-aa91-a62a97d9ecc4",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": 30,
+                "id": "6cd307a5-506e-4e62-bb05-433098de3666",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "percent",
+                "id": "9ada51e9-6c1c-4914-8364-bcd457ed8188",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "US",
+                "id": "ea8c2d02-cb32-4845-bd78-4327a5be2e76",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "last",
+                "id": "889302a8-c322-4399-94a9-ce6d97859235",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": 10,
+                "id": "5040c6b6-e97d-440d-8548-76521e06d1b5",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "years",
+                "id": "6bb34c2e-d4ae-4166-bd9d-a38712668728",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "adults",
+                "id": "30249744-1cc3-4ac8-b2a9-e54e43c99a6b",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": 50,
+                "id": "68787944-0069-4239-8730-4aa06442c050",
+                "index": 16,
+                "postag": "NA"
+            },
+            {
+                "label": "older",
+                "id": "d6059a26-814b-45eb-901a-b21b6dd91743",
+                "index": 18,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "e9d12890-5061-4134-b0a1-b3717206cb17",
+                "nodeTo": "cb5a8b27-db6e-423b-b89b-b661ed5c6396",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a9ec3ac7-0a68-4aed-9226-bb3771e10803",
+                "nodeTo": "cb5a8b27-db6e-423b-b89b-b661ed5c6396",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "794bb713-0a54-4bc6-9dd6-57aa106875d9",
+                "nodeTo": "cb5a8b27-db6e-423b-b89b-b661ed5c6396",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "579eb06e-b7bd-4de2-aa91-a62a97d9ecc4",
+                "nodeTo": "cb5a8b27-db6e-423b-b89b-b661ed5c6396",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e9d12890-5061-4134-b0a1-b3717206cb17",
+                "nodeTo": "2c562344-c4bd-4e9d-9e64-acc7d61ae51c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a9ec3ac7-0a68-4aed-9226-bb3771e10803",
+                "nodeTo": "2c562344-c4bd-4e9d-9e64-acc7d61ae51c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "794bb713-0a54-4bc6-9dd6-57aa106875d9",
+                "nodeTo": "2c562344-c4bd-4e9d-9e64-acc7d61ae51c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "579eb06e-b7bd-4de2-aa91-a62a97d9ecc4",
+                "nodeTo": "2c562344-c4bd-4e9d-9e64-acc7d61ae51c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cb5a8b27-db6e-423b-b89b-b661ed5c6396",
+                "nodeTo": "6cd307a5-506e-4e62-bb05-433098de3666",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2c562344-c4bd-4e9d-9e64-acc7d61ae51c",
+                "nodeTo": "6cd307a5-506e-4e62-bb05-433098de3666",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "cb5a8b27-db6e-423b-b89b-b661ed5c6396",
+                "nodeTo": "9ada51e9-6c1c-4914-8364-bcd457ed8188",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2c562344-c4bd-4e9d-9e64-acc7d61ae51c",
+                "nodeTo": "9ada51e9-6c1c-4914-8364-bcd457ed8188",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6cd307a5-506e-4e62-bb05-433098de3666",
+                "nodeTo": "3e99b627-6594-496b-b602-b6650414cee1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9ada51e9-6c1c-4914-8364-bcd457ed8188",
+                "nodeTo": "3e99b627-6594-496b-b602-b6650414cee1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3e99b627-6594-496b-b602-b6650414cee1",
+                "nodeTo": "ea8c2d02-cb32-4845-bd78-4327a5be2e76",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6cd307a5-506e-4e62-bb05-433098de3666",
+                "nodeTo": "57327654-8be5-4268-adb7-72c338db2188",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9ada51e9-6c1c-4914-8364-bcd457ed8188",
+                "nodeTo": "57327654-8be5-4268-adb7-72c338db2188",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "57327654-8be5-4268-adb7-72c338db2188",
+                "nodeTo": "889302a8-c322-4399-94a9-ce6d97859235",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "57327654-8be5-4268-adb7-72c338db2188",
+                "nodeTo": "5040c6b6-e97d-440d-8548-76521e06d1b5",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "57327654-8be5-4268-adb7-72c338db2188",
+                "nodeTo": "6bb34c2e-d4ae-4166-bd9d-a38712668728",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6cd307a5-506e-4e62-bb05-433098de3666",
+                "nodeTo": "78b2d92d-8ace-405d-ad24-acd72bed8b9c",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9ada51e9-6c1c-4914-8364-bcd457ed8188",
+                "nodeTo": "78b2d92d-8ace-405d-ad24-acd72bed8b9c",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "78b2d92d-8ace-405d-ad24-acd72bed8b9c",
+                "nodeTo": "30249744-1cc3-4ac8-b2a9-e54e43c99a6b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "78b2d92d-8ace-405d-ad24-acd72bed8b9c",
+                "nodeTo": "68787944-0069-4239-8730-4aa06442c050",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "30249744-1cc3-4ac8-b2a9-e54e43c99a6b",
+                "nodeTo": "91ad6390-c94c-46b1-9625-58983d89a14d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "68787944-0069-4239-8730-4aa06442c050",
+                "nodeTo": "91ad6390-c94c-46b1-9625-58983d89a14d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "91ad6390-c94c-46b1-9625-58983d89a14d",
+                "nodeTo": "d6059a26-814b-45eb-901a-b21b6dd91743",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-23 19:26:31"
+}

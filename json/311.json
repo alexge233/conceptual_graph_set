@@ -1,0 +1,70 @@
+{
+    "uuid": 311,
+    "text": "Air pollution killed seven million",
+    "graph": {
+        "version": 1,
+        "guid": "c609cd1d-3367-4cd7-a5a1-ba683bd704b6",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "killed",
+                "id": "ccba3b3e-e50d-424e-b4e0-61ba74598579",
+                "index": 2,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Air",
+                "id": "12b152b5-b22b-402d-bc92-e362d6447b27",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "pollution",
+                "id": "cb4c918e-aa73-4115-96e8-8b626c61a501",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "seven",
+                "id": "d884179d-53d5-4c2d-bc08-b30885b67cc4",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "million",
+                "id": "ed3116a3-9191-4111-996b-63d7d5029dc6",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "12b152b5-b22b-402d-bc92-e362d6447b27",
+                "nodeTo": "ccba3b3e-e50d-424e-b4e0-61ba74598579",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cb4c918e-aa73-4115-96e8-8b626c61a501",
+                "nodeTo": "ccba3b3e-e50d-424e-b4e0-61ba74598579",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ccba3b3e-e50d-424e-b4e0-61ba74598579",
+                "nodeTo": "d884179d-53d5-4c2d-bc08-b30885b67cc4",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ccba3b3e-e50d-424e-b4e0-61ba74598579",
+                "nodeTo": "ed3116a3-9191-4111-996b-63d7d5029dc6",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-04 20:15:52"
+}

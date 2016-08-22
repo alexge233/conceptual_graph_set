@@ -1,0 +1,160 @@
+{
+    "uuid": 233,
+    "text": "Every mother and father wish they could do better as parent",
+    "graph": {
+        "version": 1,
+        "guid": "d8327c8e-ec25-402e-9a89-290e7c6a14d7",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "Every",
+                "id": "9c37c778-407c-4915-a3d9-565378835d7b",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "b26cb932-d423-4252-8128-b9141a8b25c7",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "wish",
+                "id": "6591b086-57b0-43d8-9a00-69c0640e1058",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "could",
+                "id": "4894995d-3d0c-4846-b43c-320771c42354",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "do",
+                "id": "0853db48-4e22-4210-89e8-0895a06e4440",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "as",
+                "id": "8858ab17-8e26-402a-bc80-9d0ee3d3be36",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "mother",
+                "id": "2c88beb5-93e6-4783-b99e-a1b4dc35096e",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "father",
+                "id": "9d87527a-86e6-49ea-b364-c8729be3653a",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "they",
+                "id": "5cea9636-1090-4ca7-979e-4b7e358c3660",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "better",
+                "id": "926dcd28-a680-4251-b6d0-d530800ec754",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "parent",
+                "id": "64db2932-290c-4813-a36e-a120d6c3e037",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "9c37c778-407c-4915-a3d9-565378835d7b",
+                "nodeTo": "2c88beb5-93e6-4783-b99e-a1b4dc35096e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2c88beb5-93e6-4783-b99e-a1b4dc35096e",
+                "nodeTo": "b26cb932-d423-4252-8128-b9141a8b25c7",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b26cb932-d423-4252-8128-b9141a8b25c7",
+                "nodeTo": "9d87527a-86e6-49ea-b364-c8729be3653a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9c37c778-407c-4915-a3d9-565378835d7b",
+                "nodeTo": "9d87527a-86e6-49ea-b364-c8729be3653a",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2c88beb5-93e6-4783-b99e-a1b4dc35096e",
+                "nodeTo": "6591b086-57b0-43d8-9a00-69c0640e1058",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9d87527a-86e6-49ea-b364-c8729be3653a",
+                "nodeTo": "6591b086-57b0-43d8-9a00-69c0640e1058",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6591b086-57b0-43d8-9a00-69c0640e1058",
+                "nodeTo": "5cea9636-1090-4ca7-979e-4b7e358c3660",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5cea9636-1090-4ca7-979e-4b7e358c3660",
+                "nodeTo": "4894995d-3d0c-4846-b43c-320771c42354",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5cea9636-1090-4ca7-979e-4b7e358c3660",
+                "nodeTo": "0853db48-4e22-4210-89e8-0895a06e4440",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0853db48-4e22-4210-89e8-0895a06e4440",
+                "nodeTo": "926dcd28-a680-4251-b6d0-d530800ec754",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4894995d-3d0c-4846-b43c-320771c42354",
+                "nodeTo": "926dcd28-a680-4251-b6d0-d530800ec754",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "926dcd28-a680-4251-b6d0-d530800ec754",
+                "nodeTo": "8858ab17-8e26-402a-bc80-9d0ee3d3be36",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8858ab17-8e26-402a-bc80-9d0ee3d3be36",
+                "nodeTo": "64db2932-290c-4813-a36e-a120d6c3e037",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-01 15:53:26"
+}

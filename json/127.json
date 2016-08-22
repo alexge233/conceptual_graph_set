@@ -1,0 +1,196 @@
+{
+    "uuid": 127,
+    "text": "Their aggressive cancers were not detected by conventional blind biopsy using ultrasound alone",
+    "graph": {
+        "version": 1,
+        "guid": "ee010701-5236-41d4-9314-e9745c82e63b",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "were",
+                "id": "bdb8eb0e-90b4-476d-9665-70532e0a0739",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "not",
+                "id": "cc77a10a-6310-4dd7-876b-2e220e01b4d0",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "by",
+                "id": "eeab5852-b410-4a96-b053-a26d4ecd8998",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "using",
+                "id": "383de0d7-2966-44e8-a27b-9e9a2a757302",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Their",
+                "id": "59e01992-d9e0-409a-89c4-d28b90e72633",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "aggressive",
+                "id": "31319b56-4a4e-4714-972a-bc5d931d28cc",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "cancers",
+                "id": "68de8858-dea6-4739-a03d-012402336d18",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "detected",
+                "id": "1c8871a7-2252-4eeb-8d47-dea966ec5b7c",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "conventional",
+                "id": "89c49c0a-ab6e-4883-a589-aa62e479a9d8",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "blind",
+                "id": "a24644cb-e3ed-40c1-85a0-58cdad459253",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "biopsy",
+                "id": "d5b5e836-35dd-49a4-86c5-1660ab328b52",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "ultrasound",
+                "id": "054084ba-1312-4442-b206-50b70c68d17c",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "alone",
+                "id": "c9206803-a797-4b21-b046-e5cad340b5e1",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "59e01992-d9e0-409a-89c4-d28b90e72633",
+                "nodeTo": "bdb8eb0e-90b4-476d-9665-70532e0a0739",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "31319b56-4a4e-4714-972a-bc5d931d28cc",
+                "nodeTo": "bdb8eb0e-90b4-476d-9665-70532e0a0739",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "68de8858-dea6-4739-a03d-012402336d18",
+                "nodeTo": "bdb8eb0e-90b4-476d-9665-70532e0a0739",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "59e01992-d9e0-409a-89c4-d28b90e72633",
+                "nodeTo": "cc77a10a-6310-4dd7-876b-2e220e01b4d0",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "31319b56-4a4e-4714-972a-bc5d931d28cc",
+                "nodeTo": "cc77a10a-6310-4dd7-876b-2e220e01b4d0",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "68de8858-dea6-4739-a03d-012402336d18",
+                "nodeTo": "cc77a10a-6310-4dd7-876b-2e220e01b4d0",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bdb8eb0e-90b4-476d-9665-70532e0a0739",
+                "nodeTo": "1c8871a7-2252-4eeb-8d47-dea966ec5b7c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "cc77a10a-6310-4dd7-876b-2e220e01b4d0",
+                "nodeTo": "1c8871a7-2252-4eeb-8d47-dea966ec5b7c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1c8871a7-2252-4eeb-8d47-dea966ec5b7c",
+                "nodeTo": "eeab5852-b410-4a96-b053-a26d4ecd8998",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "eeab5852-b410-4a96-b053-a26d4ecd8998",
+                "nodeTo": "89c49c0a-ab6e-4883-a589-aa62e479a9d8",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "eeab5852-b410-4a96-b053-a26d4ecd8998",
+                "nodeTo": "a24644cb-e3ed-40c1-85a0-58cdad459253",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "eeab5852-b410-4a96-b053-a26d4ecd8998",
+                "nodeTo": "d5b5e836-35dd-49a4-86c5-1660ab328b52",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "89c49c0a-ab6e-4883-a589-aa62e479a9d8",
+                "nodeTo": "383de0d7-2966-44e8-a27b-9e9a2a757302",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a24644cb-e3ed-40c1-85a0-58cdad459253",
+                "nodeTo": "383de0d7-2966-44e8-a27b-9e9a2a757302",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d5b5e836-35dd-49a4-86c5-1660ab328b52",
+                "nodeTo": "383de0d7-2966-44e8-a27b-9e9a2a757302",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "383de0d7-2966-44e8-a27b-9e9a2a757302",
+                "nodeTo": "054084ba-1312-4442-b206-50b70c68d17c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "383de0d7-2966-44e8-a27b-9e9a2a757302",
+                "nodeTo": "c9206803-a797-4b21-b046-e5cad340b5e1",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-10-29 23:18:29"
+}

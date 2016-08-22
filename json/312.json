@@ -1,0 +1,166 @@
+{
+    "uuid": 312,
+    "text": "Seven million people died as result of air pollution in 2012",
+    "graph": {
+        "version": 1,
+        "guid": "134dbd96-809a-42cd-98b1-ab9e81e2da29",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "died",
+                "id": "9cae9ac7-980c-437e-9b4d-036747bddd38",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "as",
+                "id": "db8a1680-8c57-41d4-9c1b-e72c684d8295",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "a390ca40-29d5-4094-863d-b88b262e1bc2",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "0056b674-2713-4c3b-9181-2e331de1a323",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Seven",
+                "id": "9a55117b-d040-422d-b2a8-e0dc26623059",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "million",
+                "id": "59783a4c-73e2-4338-a422-ccab3492e642",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "people",
+                "id": "e0ec0b56-4e9c-407b-8e20-470ddc04bd19",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "result",
+                "id": "89e0d772-4c98-494b-aa83-e3e5e6b23398",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "air",
+                "id": "e56180a4-8db4-487c-bed9-a7e70ad2338d",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "pollution",
+                "id": "8ba3c35c-6b34-4e51-8de7-5bdc20340abd",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": 2012,
+                "id": "b64e9286-0815-48ae-a98b-9aeb462d31d5",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "9a55117b-d040-422d-b2a8-e0dc26623059",
+                "nodeTo": "9cae9ac7-980c-437e-9b4d-036747bddd38",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "59783a4c-73e2-4338-a422-ccab3492e642",
+                "nodeTo": "9cae9ac7-980c-437e-9b4d-036747bddd38",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e0ec0b56-4e9c-407b-8e20-470ddc04bd19",
+                "nodeTo": "9cae9ac7-980c-437e-9b4d-036747bddd38",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9a55117b-d040-422d-b2a8-e0dc26623059",
+                "nodeTo": "db8a1680-8c57-41d4-9c1b-e72c684d8295",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "59783a4c-73e2-4338-a422-ccab3492e642",
+                "nodeTo": "db8a1680-8c57-41d4-9c1b-e72c684d8295",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e0ec0b56-4e9c-407b-8e20-470ddc04bd19",
+                "nodeTo": "db8a1680-8c57-41d4-9c1b-e72c684d8295",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "db8a1680-8c57-41d4-9c1b-e72c684d8295",
+                "nodeTo": "89e0d772-4c98-494b-aa83-e3e5e6b23398",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9cae9ac7-980c-437e-9b4d-036747bddd38",
+                "nodeTo": "89e0d772-4c98-494b-aa83-e3e5e6b23398",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "89e0d772-4c98-494b-aa83-e3e5e6b23398",
+                "nodeTo": "a390ca40-29d5-4094-863d-b88b262e1bc2",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a390ca40-29d5-4094-863d-b88b262e1bc2",
+                "nodeTo": "e56180a4-8db4-487c-bed9-a7e70ad2338d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a390ca40-29d5-4094-863d-b88b262e1bc2",
+                "nodeTo": "8ba3c35c-6b34-4e51-8de7-5bdc20340abd",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e56180a4-8db4-487c-bed9-a7e70ad2338d",
+                "nodeTo": "0056b674-2713-4c3b-9181-2e331de1a323",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8ba3c35c-6b34-4e51-8de7-5bdc20340abd",
+                "nodeTo": "0056b674-2713-4c3b-9181-2e331de1a323",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0056b674-2713-4c3b-9181-2e331de1a323",
+                "nodeTo": "b64e9286-0815-48ae-a98b-9aeb462d31d5",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-04 20:17:54"
+}

@@ -1,0 +1,214 @@
+{
+    "uuid": 268,
+    "text": "conclusions can lead to ineffective policymaking and may perpetuate negative stereotypes about marginalized groups",
+    "graph": {
+        "version": 1,
+        "guid": "ba9eb21a-2d07-4277-8822-521bc58b690b",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "can",
+                "id": "4d100db5-7586-48e3-acac-0e4b4c473bb3",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "7884c492-498a-49dc-8692-9d66d6002049",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "3ee030a0-2653-4add-a355-d0a4c82d5e53",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "perpetuate",
+                "id": "6c5b2c7b-9932-4e44-a658-3dbc52c664a9",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "about",
+                "id": "7822bae1-e139-400d-b0d9-1e091881d7e6",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "may",
+                "id": "7dc8259e-5057-4347-83a1-445003d19241",
+                "postag": "NA",
+                "index": 7
+            }
+        ],
+        "concepts": [
+            {
+                "label": "conclusions",
+                "id": "199c7088-6150-438d-bc10-8248a7518b80",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "ineffective",
+                "id": "dea84a98-009b-4b9a-976e-a888321ee578",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "policymaking",
+                "id": "9e05aa9a-c589-4e96-8e8c-3e84602949bc",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "negative",
+                "id": "a1ec8747-6b80-4c9d-905d-731a7039e573",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "lead",
+                "id": "a019d732-5dd6-48cc-87dd-67b260896b45",
+                "postag": "NA",
+                "index": 2
+            },
+            {
+                "label": "stereotypes",
+                "id": "1ccdc4c8-7179-41d6-8396-cea6ec91a089",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "marginalized",
+                "id": "b9e3bba9-10d6-4dd0-a033-dd8317a38c3a",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "groups",
+                "id": "51353449-c548-4aae-8a66-1da2288e9b4e",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "199c7088-6150-438d-bc10-8248a7518b80",
+                "nodeTo": "4d100db5-7586-48e3-acac-0e4b4c473bb3",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7884c492-498a-49dc-8692-9d66d6002049",
+                "nodeTo": "dea84a98-009b-4b9a-976e-a888321ee578",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7884c492-498a-49dc-8692-9d66d6002049",
+                "nodeTo": "9e05aa9a-c589-4e96-8e8c-3e84602949bc",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6c5b2c7b-9932-4e44-a658-3dbc52c664a9",
+                "nodeTo": "a1ec8747-6b80-4c9d-905d-731a7039e573",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4d100db5-7586-48e3-acac-0e4b4c473bb3",
+                "nodeTo": "a019d732-5dd6-48cc-87dd-67b260896b45",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a019d732-5dd6-48cc-87dd-67b260896b45",
+                "nodeTo": "7884c492-498a-49dc-8692-9d66d6002049",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6c5b2c7b-9932-4e44-a658-3dbc52c664a9",
+                "nodeTo": "1ccdc4c8-7179-41d6-8396-cea6ec91a089",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a1ec8747-6b80-4c9d-905d-731a7039e573",
+                "nodeTo": "7822bae1-e139-400d-b0d9-1e091881d7e6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1ccdc4c8-7179-41d6-8396-cea6ec91a089",
+                "nodeTo": "7822bae1-e139-400d-b0d9-1e091881d7e6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7822bae1-e139-400d-b0d9-1e091881d7e6",
+                "nodeTo": "b9e3bba9-10d6-4dd0-a033-dd8317a38c3a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7822bae1-e139-400d-b0d9-1e091881d7e6",
+                "nodeTo": "51353449-c548-4aae-8a66-1da2288e9b4e",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "199c7088-6150-438d-bc10-8248a7518b80",
+                "nodeTo": "3ee030a0-2653-4add-a355-d0a4c82d5e53",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "199c7088-6150-438d-bc10-8248a7518b80",
+                "nodeTo": "7dc8259e-5057-4347-83a1-445003d19241",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "199c7088-6150-438d-bc10-8248a7518b80",
+                "nodeTo": "6c5b2c7b-9932-4e44-a658-3dbc52c664a9",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7dc8259e-5057-4347-83a1-445003d19241",
+                "nodeTo": "a1ec8747-6b80-4c9d-905d-731a7039e573",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7dc8259e-5057-4347-83a1-445003d19241",
+                "nodeTo": "1ccdc4c8-7179-41d6-8396-cea6ec91a089",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3ee030a0-2653-4add-a355-d0a4c82d5e53",
+                "nodeTo": "a019d732-5dd6-48cc-87dd-67b260896b45",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3ee030a0-2653-4add-a355-d0a4c82d5e53",
+                "nodeTo": "1ccdc4c8-7179-41d6-8396-cea6ec91a089",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3ee030a0-2653-4add-a355-d0a4c82d5e53",
+                "nodeTo": "a1ec8747-6b80-4c9d-905d-731a7039e573",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-20 16:34:50"
+}

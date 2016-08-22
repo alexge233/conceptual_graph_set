@@ -1,0 +1,292 @@
+{
+    "uuid": 111,
+    "text": "Royal College of Physicians claims better screening for osteoporosis would reduce risk of further injury as well as cost to NHS",
+    "graph": {
+        "version": 1,
+        "guid": "20e6a274-9458-4c7d-91d6-5999debdc798",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "of",
+                "id": "b9bd4bdc-a1c2-4b45-a733-10a14e07b5a6",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "claims",
+                "id": "1b44e698-8434-41b5-a8ac-504a8808cee1",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "6e05c8b1-1989-4ea4-b834-7ac87e792618",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "would",
+                "id": "74e2091c-0515-4014-8b12-4a2814e4d448",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "reduce",
+                "id": "2ce266ae-d168-4de5-b89e-89bebd97e7a8",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "ab12eccc-1b38-4004-8583-b6784a7a20c2",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "as",
+                "id": "54da6c53-3da4-4528-9158-d76b9d0a46be",
+                "postag": "NA",
+                "index": 15
+            },
+            {
+                "label": "as",
+                "id": "e199d78d-9244-46ba-8a26-30a7d435c627",
+                "postag": "NA",
+                "index": 17
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Royal",
+                "id": "54c884e1-8874-491c-9590-a5411adce38d",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "College",
+                "id": "cca79045-2c34-4599-a351-3b632b6aa2b4",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "Physicians",
+                "id": "29b38bad-6d9d-4514-b11e-1dec611b506c",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "better",
+                "id": "d247940d-511c-46ca-91e5-02e006d73e68",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "screening",
+                "id": "381da835-9125-446d-be4d-12e57e16b3c8",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "osteoporosis",
+                "id": "34b17770-1e8a-4cb4-93b9-53a8edca385e",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "risk",
+                "id": "0a17d158-798e-4eb0-a545-e0c4939e9a62",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "further",
+                "id": "a8ea6233-23c4-4151-8e51-58018d27611e",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "injury",
+                "id": "39708e49-a4aa-4784-9503-1e4bd92a67e2",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "cost",
+                "id": "37b27094-518c-410e-96ca-3d8ac240e1d3",
+                "index": 18,
+                "postag": "NA"
+            },
+            {
+                "label": "NHS",
+                "id": "048d4614-beac-4c3a-b731-5c08ad72e18e",
+                "index": 20,
+                "postag": "NA"
+            },
+            {
+                "label": "well",
+                "id": "e8e13eb9-0c84-444a-a620-a31a5a04a57c",
+                "postag": "NA",
+                "index": 16
+            },
+            {
+                "label": "to",
+                "id": "7a66db6a-38e6-449b-8626-2e027657a9b6",
+                "postag": "NA",
+                "index": 19
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "54c884e1-8874-491c-9590-a5411adce38d",
+                "nodeTo": "b9bd4bdc-a1c2-4b45-a733-10a14e07b5a6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cca79045-2c34-4599-a351-3b632b6aa2b4",
+                "nodeTo": "b9bd4bdc-a1c2-4b45-a733-10a14e07b5a6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b9bd4bdc-a1c2-4b45-a733-10a14e07b5a6",
+                "nodeTo": "29b38bad-6d9d-4514-b11e-1dec611b506c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "54c884e1-8874-491c-9590-a5411adce38d",
+                "nodeTo": "1b44e698-8434-41b5-a8ac-504a8808cee1",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cca79045-2c34-4599-a351-3b632b6aa2b4",
+                "nodeTo": "1b44e698-8434-41b5-a8ac-504a8808cee1",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1b44e698-8434-41b5-a8ac-504a8808cee1",
+                "nodeTo": "d247940d-511c-46ca-91e5-02e006d73e68",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1b44e698-8434-41b5-a8ac-504a8808cee1",
+                "nodeTo": "381da835-9125-446d-be4d-12e57e16b3c8",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d247940d-511c-46ca-91e5-02e006d73e68",
+                "nodeTo": "6e05c8b1-1989-4ea4-b834-7ac87e792618",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "381da835-9125-446d-be4d-12e57e16b3c8",
+                "nodeTo": "6e05c8b1-1989-4ea4-b834-7ac87e792618",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6e05c8b1-1989-4ea4-b834-7ac87e792618",
+                "nodeTo": "34b17770-1e8a-4cb4-93b9-53a8edca385e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d247940d-511c-46ca-91e5-02e006d73e68",
+                "nodeTo": "74e2091c-0515-4014-8b12-4a2814e4d448",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "381da835-9125-446d-be4d-12e57e16b3c8",
+                "nodeTo": "74e2091c-0515-4014-8b12-4a2814e4d448",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d247940d-511c-46ca-91e5-02e006d73e68",
+                "nodeTo": "2ce266ae-d168-4de5-b89e-89bebd97e7a8",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "381da835-9125-446d-be4d-12e57e16b3c8",
+                "nodeTo": "2ce266ae-d168-4de5-b89e-89bebd97e7a8",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2ce266ae-d168-4de5-b89e-89bebd97e7a8",
+                "nodeTo": "0a17d158-798e-4eb0-a545-e0c4939e9a62",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0a17d158-798e-4eb0-a545-e0c4939e9a62",
+                "nodeTo": "ab12eccc-1b38-4004-8583-b6784a7a20c2",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ab12eccc-1b38-4004-8583-b6784a7a20c2",
+                "nodeTo": "a8ea6233-23c4-4151-8e51-58018d27611e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ab12eccc-1b38-4004-8583-b6784a7a20c2",
+                "nodeTo": "39708e49-a4aa-4784-9503-1e4bd92a67e2",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "54da6c53-3da4-4528-9158-d76b9d0a46be",
+                "nodeTo": "e8e13eb9-0c84-444a-a620-a31a5a04a57c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e8e13eb9-0c84-444a-a620-a31a5a04a57c",
+                "nodeTo": "e199d78d-9244-46ba-8a26-30a7d435c627",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e199d78d-9244-46ba-8a26-30a7d435c627",
+                "nodeTo": "37b27094-518c-410e-96ca-3d8ac240e1d3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e199d78d-9244-46ba-8a26-30a7d435c627",
+                "nodeTo": "7a66db6a-38e6-449b-8626-2e027657a9b6",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e199d78d-9244-46ba-8a26-30a7d435c627",
+                "nodeTo": "048d4614-beac-4c3a-b731-5c08ad72e18e",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "381da835-9125-446d-be4d-12e57e16b3c8",
+                "nodeTo": "54da6c53-3da4-4528-9158-d76b9d0a46be",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d247940d-511c-46ca-91e5-02e006d73e68",
+                "nodeTo": "54da6c53-3da4-4528-9158-d76b9d0a46be",
+                "index": 4,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2014-11-06 10:17:40"
+}

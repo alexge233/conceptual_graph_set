@@ -1,0 +1,136 @@
+{
+    "uuid": 1060,
+    "text": "chronic cigarette smoking has high co-occurrence with alcohol use disorders",
+    "graph": {
+        "version": 1,
+        "guid": "0b810c9d-7d77-4219-9bda-aed0ab94c17b",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "has",
+                "id": "3ca84590-03c4-42ea-9a62-3268e276a0ae",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "with",
+                "id": "96e56696-caa0-414d-81d5-62de20d1464b",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "chronic",
+                "id": "6545e529-b5cb-461c-96cb-b75caa308199",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "cigarette",
+                "id": "48e65cce-9815-4697-b484-2c4d38602431",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "smoking",
+                "id": "95955ab8-9599-4ac9-bcab-475452b60b08",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "high",
+                "id": "7a52bb9d-303a-45b1-b556-e1d7c1e457a7",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "co-occurrence",
+                "id": "9860c3ad-6a44-4c6d-aabd-60a4207d897d",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "alcohol",
+                "id": "476c1654-0a35-436c-bab0-1b421adcc9d7",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "use",
+                "id": "1a8b0284-1344-4976-91d7-2c4b71d72dc1",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "disorders",
+                "id": "9d6d0554-d95b-4122-b586-46b7625d1d35",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "6545e529-b5cb-461c-96cb-b75caa308199",
+                "nodeTo": "3ca84590-03c4-42ea-9a62-3268e276a0ae",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "48e65cce-9815-4697-b484-2c4d38602431",
+                "nodeTo": "3ca84590-03c4-42ea-9a62-3268e276a0ae",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "95955ab8-9599-4ac9-bcab-475452b60b08",
+                "nodeTo": "3ca84590-03c4-42ea-9a62-3268e276a0ae",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3ca84590-03c4-42ea-9a62-3268e276a0ae",
+                "nodeTo": "7a52bb9d-303a-45b1-b556-e1d7c1e457a7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3ca84590-03c4-42ea-9a62-3268e276a0ae",
+                "nodeTo": "9860c3ad-6a44-4c6d-aabd-60a4207d897d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7a52bb9d-303a-45b1-b556-e1d7c1e457a7",
+                "nodeTo": "96e56696-caa0-414d-81d5-62de20d1464b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9860c3ad-6a44-4c6d-aabd-60a4207d897d",
+                "nodeTo": "96e56696-caa0-414d-81d5-62de20d1464b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "96e56696-caa0-414d-81d5-62de20d1464b",
+                "nodeTo": "476c1654-0a35-436c-bab0-1b421adcc9d7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "96e56696-caa0-414d-81d5-62de20d1464b",
+                "nodeTo": "1a8b0284-1344-4976-91d7-2c4b71d72dc1",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "96e56696-caa0-414d-81d5-62de20d1464b",
+                "nodeTo": "9d6d0554-d95b-4122-b586-46b7625d1d35",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-05 18:46:21"
+}

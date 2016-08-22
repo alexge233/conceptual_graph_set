@@ -1,0 +1,160 @@
+{
+    "uuid": 821,
+    "text": "Cancer cells do not take drunken walks through body",
+    "graph": {
+        "version": 1,
+        "guid": "029687a7-8b16-44a6-a1e7-023b990e3c49",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "do",
+                "id": "b6750641-2571-4671-a87c-3e107d23443b",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "not",
+                "id": "4b37836c-28ca-4a3b-a98e-5391538c829d",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "take",
+                "id": "7a18d256-5ccb-41b6-9e27-ac6891ed1adb",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "through",
+                "id": "347e9e47-3d94-4ae3-918e-e7ac231b1d49",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Cancer",
+                "id": "34ea8433-c2e6-4319-845c-1bec00ba4714",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "cells",
+                "id": "dca92024-483b-4622-bba1-448657b04874",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "drunken",
+                "id": "9553c79d-0a18-4901-8ae5-2b455983dd18",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "walks",
+                "id": "e50871e2-b9a6-431a-99e5-b17265460252",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "body",
+                "id": "96387ba3-7bdc-4452-a930-60968a13b64b",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "34ea8433-c2e6-4319-845c-1bec00ba4714",
+                "nodeTo": "b6750641-2571-4671-a87c-3e107d23443b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "34ea8433-c2e6-4319-845c-1bec00ba4714",
+                "nodeTo": "4b37836c-28ca-4a3b-a98e-5391538c829d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "34ea8433-c2e6-4319-845c-1bec00ba4714",
+                "nodeTo": "7a18d256-5ccb-41b6-9e27-ac6891ed1adb",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "dca92024-483b-4622-bba1-448657b04874",
+                "nodeTo": "b6750641-2571-4671-a87c-3e107d23443b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "dca92024-483b-4622-bba1-448657b04874",
+                "nodeTo": "4b37836c-28ca-4a3b-a98e-5391538c829d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "dca92024-483b-4622-bba1-448657b04874",
+                "nodeTo": "7a18d256-5ccb-41b6-9e27-ac6891ed1adb",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b6750641-2571-4671-a87c-3e107d23443b",
+                "nodeTo": "9553c79d-0a18-4901-8ae5-2b455983dd18",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b6750641-2571-4671-a87c-3e107d23443b",
+                "nodeTo": "e50871e2-b9a6-431a-99e5-b17265460252",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4b37836c-28ca-4a3b-a98e-5391538c829d",
+                "nodeTo": "9553c79d-0a18-4901-8ae5-2b455983dd18",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4b37836c-28ca-4a3b-a98e-5391538c829d",
+                "nodeTo": "e50871e2-b9a6-431a-99e5-b17265460252",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7a18d256-5ccb-41b6-9e27-ac6891ed1adb",
+                "nodeTo": "9553c79d-0a18-4901-8ae5-2b455983dd18",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7a18d256-5ccb-41b6-9e27-ac6891ed1adb",
+                "nodeTo": "e50871e2-b9a6-431a-99e5-b17265460252",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9553c79d-0a18-4901-8ae5-2b455983dd18",
+                "nodeTo": "347e9e47-3d94-4ae3-918e-e7ac231b1d49",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e50871e2-b9a6-431a-99e5-b17265460252",
+                "nodeTo": "347e9e47-3d94-4ae3-918e-e7ac231b1d49",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "347e9e47-3d94-4ae3-918e-e7ac231b1d49",
+                "nodeTo": "96387ba3-7bdc-4452-a930-60968a13b64b",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-16 19:18:51"
+}

@@ -1,0 +1,154 @@
+{
+    "uuid": 851,
+    "text": "Epigenetics is phenomena whereby genetically identical cells express their genes differently",
+    "graph": {
+        "version": 1,
+        "guid": "0c871c93-a895-4b74-84e0-e921a79bb40c",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "is",
+                "id": "6762a678-180a-49e5-a44e-a5673dc95d98",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "whereby",
+                "id": "a75ac34c-8318-4013-b92b-89617546d266",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "express",
+                "id": "65eb0d69-5434-407c-92d4-6ed434be4270",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Epigenetics",
+                "id": "b53e2b6a-c34e-443a-85d8-65ca4c385ac0",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "phenomena",
+                "id": "d9154c7e-baa4-4879-84a3-bdcb70ea0887",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "genetically",
+                "id": "ca5dd859-a9e3-4aa7-9034-aebd37aada0c",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "identical",
+                "id": "19ce2474-0d76-48b1-a171-c150a0a2134d",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "cells",
+                "id": "646a8b75-e0b2-44a3-9554-02b3de91b3c5",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "their",
+                "id": "731d881d-1ba8-4101-9795-529b27b9a276",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "genes",
+                "id": "468dd8bc-6145-4357-a2d6-5e0ad57e4229",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "differently",
+                "id": "4a0107c1-5c08-4b39-8ecd-a34cb83291bd",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "b53e2b6a-c34e-443a-85d8-65ca4c385ac0",
+                "nodeTo": "6762a678-180a-49e5-a44e-a5673dc95d98",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6762a678-180a-49e5-a44e-a5673dc95d98",
+                "nodeTo": "d9154c7e-baa4-4879-84a3-bdcb70ea0887",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d9154c7e-baa4-4879-84a3-bdcb70ea0887",
+                "nodeTo": "a75ac34c-8318-4013-b92b-89617546d266",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a75ac34c-8318-4013-b92b-89617546d266",
+                "nodeTo": "ca5dd859-a9e3-4aa7-9034-aebd37aada0c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a75ac34c-8318-4013-b92b-89617546d266",
+                "nodeTo": "19ce2474-0d76-48b1-a171-c150a0a2134d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a75ac34c-8318-4013-b92b-89617546d266",
+                "nodeTo": "646a8b75-e0b2-44a3-9554-02b3de91b3c5",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ca5dd859-a9e3-4aa7-9034-aebd37aada0c",
+                "nodeTo": "65eb0d69-5434-407c-92d4-6ed434be4270",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "19ce2474-0d76-48b1-a171-c150a0a2134d",
+                "nodeTo": "65eb0d69-5434-407c-92d4-6ed434be4270",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "646a8b75-e0b2-44a3-9554-02b3de91b3c5",
+                "nodeTo": "65eb0d69-5434-407c-92d4-6ed434be4270",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "65eb0d69-5434-407c-92d4-6ed434be4270",
+                "nodeTo": "731d881d-1ba8-4101-9795-529b27b9a276",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "65eb0d69-5434-407c-92d4-6ed434be4270",
+                "nodeTo": "468dd8bc-6145-4357-a2d6-5e0ad57e4229",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "65eb0d69-5434-407c-92d4-6ed434be4270",
+                "nodeTo": "4a0107c1-5c08-4b39-8ecd-a34cb83291bd",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-19 13:45:16"
+}

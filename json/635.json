@@ -1,0 +1,250 @@
+{
+    "uuid": 635,
+    "text": "This disruptive condition known as diaschisis can lead to chronic post stroke deficits",
+    "graph": {
+        "version": 1,
+        "guid": "d33eae85-d066-4cc3-8c59-b29bb88634da",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "This",
+                "id": "60132579-ae73-433e-833d-4d73ed7ea127",
+                "postag": "NA",
+                "index": 0
+            },
+            {
+                "label": "known",
+                "id": "1d95435b-cddd-421e-8638-02a4a5eeb5ca",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "as",
+                "id": "85da2488-9697-4469-b4db-699865031de9",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "can",
+                "id": "0b4827b2-4385-4410-938d-82db1db8999b",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "lead",
+                "id": "a0dc3208-a5ed-4c5b-9d05-6a9e840369c5",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "44894ea1-d695-4256-9dea-ccd107e51804",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "disruptive",
+                "id": "96d3d8bc-ab1b-4b87-b3c1-4a04dca592ec",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "condition",
+                "id": "80168e19-993d-402e-bd41-b2725388e3ca",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "diaschisis",
+                "id": "5aabc287-dc85-4b4c-8904-6349be4c33cd",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "chronic",
+                "id": "42c9a609-53d1-4729-ac0a-416e45092987",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "post",
+                "id": "9735021b-4cc6-4193-ad57-d97632eed3dc",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "stroke",
+                "id": "932e8c80-5abc-4204-ab05-cc53c5467b0d",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "deficits",
+                "id": "dd0de79e-6eca-4ee1-9b78-95a712d46865",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "60132579-ae73-433e-833d-4d73ed7ea127",
+                "nodeTo": "96d3d8bc-ab1b-4b87-b3c1-4a04dca592ec",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "60132579-ae73-433e-833d-4d73ed7ea127",
+                "nodeTo": "80168e19-993d-402e-bd41-b2725388e3ca",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "96d3d8bc-ab1b-4b87-b3c1-4a04dca592ec",
+                "nodeTo": "1d95435b-cddd-421e-8638-02a4a5eeb5ca",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "96d3d8bc-ab1b-4b87-b3c1-4a04dca592ec",
+                "nodeTo": "85da2488-9697-4469-b4db-699865031de9",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "80168e19-993d-402e-bd41-b2725388e3ca",
+                "nodeTo": "1d95435b-cddd-421e-8638-02a4a5eeb5ca",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "80168e19-993d-402e-bd41-b2725388e3ca",
+                "nodeTo": "85da2488-9697-4469-b4db-699865031de9",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1d95435b-cddd-421e-8638-02a4a5eeb5ca",
+                "nodeTo": "5aabc287-dc85-4b4c-8904-6349be4c33cd",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "85da2488-9697-4469-b4db-699865031de9",
+                "nodeTo": "5aabc287-dc85-4b4c-8904-6349be4c33cd",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "96d3d8bc-ab1b-4b87-b3c1-4a04dca592ec",
+                "nodeTo": "0b4827b2-4385-4410-938d-82db1db8999b",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "96d3d8bc-ab1b-4b87-b3c1-4a04dca592ec",
+                "nodeTo": "a0dc3208-a5ed-4c5b-9d05-6a9e840369c5",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "96d3d8bc-ab1b-4b87-b3c1-4a04dca592ec",
+                "nodeTo": "44894ea1-d695-4256-9dea-ccd107e51804",
+                "index": 5,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "80168e19-993d-402e-bd41-b2725388e3ca",
+                "nodeTo": "0b4827b2-4385-4410-938d-82db1db8999b",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "80168e19-993d-402e-bd41-b2725388e3ca",
+                "nodeTo": "a0dc3208-a5ed-4c5b-9d05-6a9e840369c5",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "80168e19-993d-402e-bd41-b2725388e3ca",
+                "nodeTo": "44894ea1-d695-4256-9dea-ccd107e51804",
+                "index": 5,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0b4827b2-4385-4410-938d-82db1db8999b",
+                "nodeTo": "42c9a609-53d1-4729-ac0a-416e45092987",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0b4827b2-4385-4410-938d-82db1db8999b",
+                "nodeTo": "9735021b-4cc6-4193-ad57-d97632eed3dc",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0b4827b2-4385-4410-938d-82db1db8999b",
+                "nodeTo": "932e8c80-5abc-4204-ab05-cc53c5467b0d",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0b4827b2-4385-4410-938d-82db1db8999b",
+                "nodeTo": "dd0de79e-6eca-4ee1-9b78-95a712d46865",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a0dc3208-a5ed-4c5b-9d05-6a9e840369c5",
+                "nodeTo": "42c9a609-53d1-4729-ac0a-416e45092987",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a0dc3208-a5ed-4c5b-9d05-6a9e840369c5",
+                "nodeTo": "9735021b-4cc6-4193-ad57-d97632eed3dc",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a0dc3208-a5ed-4c5b-9d05-6a9e840369c5",
+                "nodeTo": "932e8c80-5abc-4204-ab05-cc53c5467b0d",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a0dc3208-a5ed-4c5b-9d05-6a9e840369c5",
+                "nodeTo": "dd0de79e-6eca-4ee1-9b78-95a712d46865",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "44894ea1-d695-4256-9dea-ccd107e51804",
+                "nodeTo": "42c9a609-53d1-4729-ac0a-416e45092987",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "44894ea1-d695-4256-9dea-ccd107e51804",
+                "nodeTo": "9735021b-4cc6-4193-ad57-d97632eed3dc",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "44894ea1-d695-4256-9dea-ccd107e51804",
+                "nodeTo": "932e8c80-5abc-4204-ab05-cc53c5467b0d",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "44894ea1-d695-4256-9dea-ccd107e51804",
+                "nodeTo": "dd0de79e-6eca-4ee1-9b78-95a712d46865",
+                "index": 4,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-08 20:38:09"
+}

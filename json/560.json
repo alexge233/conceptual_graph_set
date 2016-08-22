@@ -1,0 +1,70 @@
+{
+    "uuid": 560,
+    "text": "big brand suncreams fail tests",
+    "graph": {
+        "version": 1,
+        "guid": "e820bb1a-5b61-4829-9ca1-9bd769e4ccd3",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "fail",
+                "id": "80049402-e2ad-4da0-bb51-57ec620c1893",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "big",
+                "id": "0a9e1c39-90dc-4772-b383-e609b7542930",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "brand",
+                "id": "5c8dcdc1-8351-4a48-9b02-b78d6717c853",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "suncreams",
+                "id": "d7467528-88e9-4a93-94c3-1094425d09c7",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "tests",
+                "id": "44d120a5-284b-43cd-9125-93337cb70036",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "0a9e1c39-90dc-4772-b383-e609b7542930",
+                "nodeTo": "80049402-e2ad-4da0-bb51-57ec620c1893",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5c8dcdc1-8351-4a48-9b02-b78d6717c853",
+                "nodeTo": "80049402-e2ad-4da0-bb51-57ec620c1893",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d7467528-88e9-4a93-94c3-1094425d09c7",
+                "nodeTo": "80049402-e2ad-4da0-bb51-57ec620c1893",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "80049402-e2ad-4da0-bb51-57ec620c1893",
+                "nodeTo": "44d120a5-284b-43cd-9125-93337cb70036",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-07 16:58:57"
+}

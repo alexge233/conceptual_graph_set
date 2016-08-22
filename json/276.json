@@ -1,0 +1,106 @@
+{
+    "uuid": 276,
+    "text": "risks of plan to admit fewer patients",
+    "graph": {
+        "version": 1,
+        "guid": "65424e3b-ece0-4a7a-a622-4248ba833de0",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "of",
+                "id": "08738186-0318-4c16-8ea4-cdb7719b7ad7",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "admit",
+                "id": "5a033226-dbd9-459c-9dd3-9d337b7ace66",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "580be8a0-d332-4712-ade3-c08e2136de42",
+                "postag": "NA",
+                "index": 3
+            }
+        ],
+        "concepts": [
+            {
+                "label": "risks",
+                "id": "851ee310-03b8-4803-8c14-aec5b1c7219d",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "plan",
+                "id": "443db1bc-515d-407e-b211-528b056ddb43",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "fewer",
+                "id": "190b7e65-1464-4e5d-8dec-750a525665a4",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "patients",
+                "id": "3110b89e-c044-41e2-a186-d585c28e8429",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "851ee310-03b8-4803-8c14-aec5b1c7219d",
+                "nodeTo": "08738186-0318-4c16-8ea4-cdb7719b7ad7",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "08738186-0318-4c16-8ea4-cdb7719b7ad7",
+                "nodeTo": "443db1bc-515d-407e-b211-528b056ddb43",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5a033226-dbd9-459c-9dd3-9d337b7ace66",
+                "nodeTo": "190b7e65-1464-4e5d-8dec-750a525665a4",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5a033226-dbd9-459c-9dd3-9d337b7ace66",
+                "nodeTo": "3110b89e-c044-41e2-a186-d585c28e8429",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "443db1bc-515d-407e-b211-528b056ddb43",
+                "nodeTo": "580be8a0-d332-4712-ade3-c08e2136de42",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "443db1bc-515d-407e-b211-528b056ddb43",
+                "nodeTo": "5a033226-dbd9-459c-9dd3-9d337b7ace66",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "580be8a0-d332-4712-ade3-c08e2136de42",
+                "nodeTo": "190b7e65-1464-4e5d-8dec-750a525665a4",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "580be8a0-d332-4712-ade3-c08e2136de42",
+                "nodeTo": "3110b89e-c044-41e2-a186-d585c28e8429",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-04-30 20:37:34"
+}

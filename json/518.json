@@ -1,0 +1,106 @@
+{
+    "uuid": 518,
+    "text": "Bat eating ban to curb Ebola virus",
+    "graph": {
+        "version": 1,
+        "guid": "cd593519-e0e6-4bc1-9073-eedac2a1a0d4",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "eating",
+                "id": "213ad791-436d-46a4-96c3-d9e58933debb",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "38e1ba84-24d8-4d0a-bd07-d59697e53531",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "curb",
+                "id": "0cb5c18a-d523-41ed-be48-e563bbe93e7b",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Bat",
+                "id": "5a1e5bd7-3aeb-4d68-be3c-3e4aa8050ddb",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "ban",
+                "id": "51892085-ed3c-4a33-9894-6203401137ea",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "Ebola",
+                "id": "d84511c9-b1cb-4611-a6a6-e28bd3d51dad",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "virus",
+                "id": "197a3338-e3a2-45b3-87a7-ac3118e180a8",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "5a1e5bd7-3aeb-4d68-be3c-3e4aa8050ddb",
+                "nodeTo": "213ad791-436d-46a4-96c3-d9e58933debb",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "213ad791-436d-46a4-96c3-d9e58933debb",
+                "nodeTo": "51892085-ed3c-4a33-9894-6203401137ea",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "51892085-ed3c-4a33-9894-6203401137ea",
+                "nodeTo": "38e1ba84-24d8-4d0a-bd07-d59697e53531",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "51892085-ed3c-4a33-9894-6203401137ea",
+                "nodeTo": "0cb5c18a-d523-41ed-be48-e563bbe93e7b",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "38e1ba84-24d8-4d0a-bd07-d59697e53531",
+                "nodeTo": "d84511c9-b1cb-4611-a6a6-e28bd3d51dad",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0cb5c18a-d523-41ed-be48-e563bbe93e7b",
+                "nodeTo": "d84511c9-b1cb-4611-a6a6-e28bd3d51dad",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "38e1ba84-24d8-4d0a-bd07-d59697e53531",
+                "nodeTo": "197a3338-e3a2-45b3-87a7-ac3118e180a8",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0cb5c18a-d523-41ed-be48-e563bbe93e7b",
+                "nodeTo": "197a3338-e3a2-45b3-87a7-ac3118e180a8",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-23 19:50:09"
+}

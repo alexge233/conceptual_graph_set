@@ -1,0 +1,82 @@
+{
+    "uuid": 948,
+    "text": "Cereal flake size influences calorie intake",
+    "graph": {
+        "version": 1,
+        "guid": "09282470-a49e-439a-9e9a-e4cc44191d06",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "influences",
+                "id": "31555e04-a214-453e-bda5-504ce0347b5d",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Cereal",
+                "id": "29382796-0e6e-461c-8c5c-4895388d44bd",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "flake",
+                "id": "9ddeba23-93be-4969-976d-7d79a6ae070b",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "size",
+                "id": "b8e2d5b7-940e-46aa-a581-18583a5bb20b",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "calorie",
+                "id": "41a95869-429b-4a55-adb6-26680688ce75",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "intake",
+                "id": "391db970-3066-44c9-a1b3-6cb444591c22",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "29382796-0e6e-461c-8c5c-4895388d44bd",
+                "nodeTo": "31555e04-a214-453e-bda5-504ce0347b5d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9ddeba23-93be-4969-976d-7d79a6ae070b",
+                "nodeTo": "31555e04-a214-453e-bda5-504ce0347b5d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b8e2d5b7-940e-46aa-a581-18583a5bb20b",
+                "nodeTo": "31555e04-a214-453e-bda5-504ce0347b5d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "31555e04-a214-453e-bda5-504ce0347b5d",
+                "nodeTo": "41a95869-429b-4a55-adb6-26680688ce75",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "31555e04-a214-453e-bda5-504ce0347b5d",
+                "nodeTo": "391db970-3066-44c9-a1b3-6cb444591c22",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-22 18:33:58"
+}

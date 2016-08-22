@@ -1,0 +1,106 @@
+{
+    "uuid": 387,
+    "text": "anti psychotic meds offer hope against brain cancer",
+    "graph": {
+        "version": 1,
+        "guid": "323d72e0-7775-4652-9c7a-e63d992a1c8b",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "anti",
+                "id": "581a2a16-42d5-4070-b82b-4db185673e77",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "offer",
+                "id": "1c7c9a7a-202d-4120-8873-1c0ea7e17381",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "against",
+                "id": "d647a834-4640-41ab-85b8-a570ceaa12b5",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "psychotic",
+                "id": "0c33c71a-2b70-49c4-b1d0-8615d6409c3e",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "meds",
+                "id": "3b55e932-e963-4b93-ba04-c9dcba13e21c",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "hope",
+                "id": "1a13bb98-ec94-4864-9aa6-66b99ce823ee",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "brain",
+                "id": "b3aa838d-6acc-4a56-9a90-34377c3eae04",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "cancer",
+                "id": "7058c785-8e5c-438d-bc3e-a04692607a88",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "581a2a16-42d5-4070-b82b-4db185673e77",
+                "nodeTo": "0c33c71a-2b70-49c4-b1d0-8615d6409c3e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0c33c71a-2b70-49c4-b1d0-8615d6409c3e",
+                "nodeTo": "1c7c9a7a-202d-4120-8873-1c0ea7e17381",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3b55e932-e963-4b93-ba04-c9dcba13e21c",
+                "nodeTo": "1c7c9a7a-202d-4120-8873-1c0ea7e17381",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1c7c9a7a-202d-4120-8873-1c0ea7e17381",
+                "nodeTo": "1a13bb98-ec94-4864-9aa6-66b99ce823ee",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1a13bb98-ec94-4864-9aa6-66b99ce823ee",
+                "nodeTo": "d647a834-4640-41ab-85b8-a570ceaa12b5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d647a834-4640-41ab-85b8-a570ceaa12b5",
+                "nodeTo": "b3aa838d-6acc-4a56-9a90-34377c3eae04",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d647a834-4640-41ab-85b8-a570ceaa12b5",
+                "nodeTo": "7058c785-8e5c-438d-bc3e-a04692607a88",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-17 14:37:52"
+}

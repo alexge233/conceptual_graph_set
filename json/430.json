@@ -1,0 +1,136 @@
+{
+    "uuid": 430,
+    "text": "areas of brain process read and heard language differently",
+    "graph": {
+        "version": 1,
+        "guid": "cd1b0c69-e297-4164-90b2-89c248a80d0d",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "of",
+                "id": "a93e430a-8566-4e90-8982-28bbac223e0c",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "process",
+                "id": "5b99cc77-a0ae-4572-ae4e-d8dc462ed38d",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "73ec3333-58e6-4c92-a1ba-c7e3b2b42a69",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "differently",
+                "id": "0d2a6cac-4a62-4c18-a820-6b0070557534",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "areas",
+                "id": "cee9b00d-0ceb-4994-9ead-04ad19a9e130",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "brain",
+                "id": "25dd4c25-71c4-4681-9b84-8c4353c5227d",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "read",
+                "id": "d52e0499-3031-408d-98e2-445c7d6d3ccd",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "heard",
+                "id": "80acbde2-6309-49d9-ae97-6bd78e9a39cd",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "language",
+                "id": "c8b0972a-86b2-4eee-ac54-ded8c02468bc",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "cee9b00d-0ceb-4994-9ead-04ad19a9e130",
+                "nodeTo": "a93e430a-8566-4e90-8982-28bbac223e0c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a93e430a-8566-4e90-8982-28bbac223e0c",
+                "nodeTo": "25dd4c25-71c4-4681-9b84-8c4353c5227d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "cee9b00d-0ceb-4994-9ead-04ad19a9e130",
+                "nodeTo": "5b99cc77-a0ae-4572-ae4e-d8dc462ed38d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5b99cc77-a0ae-4572-ae4e-d8dc462ed38d",
+                "nodeTo": "d52e0499-3031-408d-98e2-445c7d6d3ccd",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d52e0499-3031-408d-98e2-445c7d6d3ccd",
+                "nodeTo": "73ec3333-58e6-4c92-a1ba-c7e3b2b42a69",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "73ec3333-58e6-4c92-a1ba-c7e3b2b42a69",
+                "nodeTo": "80acbde2-6309-49d9-ae97-6bd78e9a39cd",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5b99cc77-a0ae-4572-ae4e-d8dc462ed38d",
+                "nodeTo": "80acbde2-6309-49d9-ae97-6bd78e9a39cd",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5b99cc77-a0ae-4572-ae4e-d8dc462ed38d",
+                "nodeTo": "c8b0972a-86b2-4eee-ac54-ded8c02468bc",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c8b0972a-86b2-4eee-ac54-ded8c02468bc",
+                "nodeTo": "0d2a6cac-4a62-4c18-a820-6b0070557534",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d52e0499-3031-408d-98e2-445c7d6d3ccd",
+                "nodeTo": "0d2a6cac-4a62-4c18-a820-6b0070557534",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "80acbde2-6309-49d9-ae97-6bd78e9a39cd",
+                "nodeTo": "0d2a6cac-4a62-4c18-a820-6b0070557534",
+                "index": 1,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2014-12-18 16:40:31"
+}

@@ -1,0 +1,94 @@
+{
+    "uuid": 155,
+    "text": "Rice theory explains north-south China cultural differences",
+    "graph": {
+        "version": 1,
+        "guid": "85252379-4018-4836-a47e-9cdd54160a4d",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "explains",
+                "id": "a594d3d6-9929-4066-b3a8-932bb23e7671",
+                "index": 2,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Rice",
+                "id": "e5e49a36-00e1-4905-81ba-e6bc9ac42211",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "theory",
+                "id": "e35259c2-3b1b-4392-99c3-2047b3199c65",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "north-south",
+                "id": "79686d48-3c29-47a6-9753-36992e333d90",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "China",
+                "id": "d32d382d-9e97-4486-91ba-11b23469eb5b",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "cultural",
+                "id": "c2a4a212-c1b8-49d8-9b4a-0d999933275e",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "differences",
+                "id": "95693b18-27d6-4869-865d-894988cb611b",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "e5e49a36-00e1-4905-81ba-e6bc9ac42211",
+                "nodeTo": "a594d3d6-9929-4066-b3a8-932bb23e7671",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e35259c2-3b1b-4392-99c3-2047b3199c65",
+                "nodeTo": "a594d3d6-9929-4066-b3a8-932bb23e7671",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a594d3d6-9929-4066-b3a8-932bb23e7671",
+                "nodeTo": "79686d48-3c29-47a6-9753-36992e333d90",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a594d3d6-9929-4066-b3a8-932bb23e7671",
+                "nodeTo": "d32d382d-9e97-4486-91ba-11b23469eb5b",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a594d3d6-9929-4066-b3a8-932bb23e7671",
+                "nodeTo": "c2a4a212-c1b8-49d8-9b4a-0d999933275e",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a594d3d6-9929-4066-b3a8-932bb23e7671",
+                "nodeTo": "95693b18-27d6-4869-865d-894988cb611b",
+                "index": 4,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-11-03 19:43:44"
+}

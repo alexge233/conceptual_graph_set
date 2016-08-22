@@ -1,0 +1,196 @@
+{
+    "uuid": 400,
+    "text": "This procedure uses fragments from antibody that only occurs in camels and llamas",
+    "graph": {
+        "version": 1,
+        "guid": "487945e7-a7b2-4251-b26a-907edc530374",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "uses",
+                "id": "ea998884-bc24-4e21-ab18-b3ca9c850972",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "from",
+                "id": "a2070337-9905-458a-8e80-6c94d5a652d9",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "only",
+                "id": "6110cb38-ab0c-4268-8ea7-aa50b097b065",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "occurs",
+                "id": "16e35805-c004-430e-be72-5b95a041845d",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "6489066d-db34-46d8-b13a-3312247c7ab2",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "39375711-48b5-43d9-9b56-75b569181de9",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "This",
+                "id": "bc29d8ed-4d71-4942-9576-de6c45b67313",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "procedure",
+                "id": "282debd9-b5e6-4310-aa92-7ec5c3499cea",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "fragments",
+                "id": "451dc779-4cd8-4b48-99ca-1d73cb5b1649",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "antibody",
+                "id": "3cb7ae94-472a-4491-bb89-011dad952e79",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "that",
+                "id": "98d607e5-cda9-438c-a1d1-bbe2d30735bd",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "camels",
+                "id": "155e5543-b9b7-4d04-82c8-37747534757b",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "llamas",
+                "id": "30dd1462-4133-43d0-81a8-d9164aece719",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "bc29d8ed-4d71-4942-9576-de6c45b67313",
+                "nodeTo": "ea998884-bc24-4e21-ab18-b3ca9c850972",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "282debd9-b5e6-4310-aa92-7ec5c3499cea",
+                "nodeTo": "ea998884-bc24-4e21-ab18-b3ca9c850972",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ea998884-bc24-4e21-ab18-b3ca9c850972",
+                "nodeTo": "451dc779-4cd8-4b48-99ca-1d73cb5b1649",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "451dc779-4cd8-4b48-99ca-1d73cb5b1649",
+                "nodeTo": "a2070337-9905-458a-8e80-6c94d5a652d9",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a2070337-9905-458a-8e80-6c94d5a652d9",
+                "nodeTo": "3cb7ae94-472a-4491-bb89-011dad952e79",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a2070337-9905-458a-8e80-6c94d5a652d9",
+                "nodeTo": "98d607e5-cda9-438c-a1d1-bbe2d30735bd",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3cb7ae94-472a-4491-bb89-011dad952e79",
+                "nodeTo": "6110cb38-ab0c-4268-8ea7-aa50b097b065",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3cb7ae94-472a-4491-bb89-011dad952e79",
+                "nodeTo": "16e35805-c004-430e-be72-5b95a041845d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "98d607e5-cda9-438c-a1d1-bbe2d30735bd",
+                "nodeTo": "6110cb38-ab0c-4268-8ea7-aa50b097b065",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "98d607e5-cda9-438c-a1d1-bbe2d30735bd",
+                "nodeTo": "16e35805-c004-430e-be72-5b95a041845d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3cb7ae94-472a-4491-bb89-011dad952e79",
+                "nodeTo": "6489066d-db34-46d8-b13a-3312247c7ab2",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "98d607e5-cda9-438c-a1d1-bbe2d30735bd",
+                "nodeTo": "6489066d-db34-46d8-b13a-3312247c7ab2",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6110cb38-ab0c-4268-8ea7-aa50b097b065",
+                "nodeTo": "155e5543-b9b7-4d04-82c8-37747534757b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "16e35805-c004-430e-be72-5b95a041845d",
+                "nodeTo": "155e5543-b9b7-4d04-82c8-37747534757b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6489066d-db34-46d8-b13a-3312247c7ab2",
+                "nodeTo": "155e5543-b9b7-4d04-82c8-37747534757b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "155e5543-b9b7-4d04-82c8-37747534757b",
+                "nodeTo": "39375711-48b5-43d9-9b56-75b569181de9",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "39375711-48b5-43d9-9b56-75b569181de9",
+                "nodeTo": "30dd1462-4133-43d0-81a8-d9164aece719",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-17 15:57:53"
+}

@@ -1,0 +1,178 @@
+{
+    "uuid": 530,
+    "text": "beer marinade could reduce levels of potentially harmful substances in grilled meats",
+    "graph": {
+        "version": 1,
+        "guid": "e1ad2790-6773-43aa-b778-bdcc3e3aebb3",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "could",
+                "id": "6902aaa8-e9ec-4930-b571-6c8839eccd24",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "reduce",
+                "id": "87411b34-d425-4513-9ed9-8b56293b8ac1",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "1edb87ab-ae41-4c6a-8345-0a1cbe695750",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "19492a34-e22e-4c1a-a603-23a85b6cb3ec",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "beer",
+                "id": "7b3e4b76-ec40-4031-9957-36e26ba89ba3",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "marinade",
+                "id": "3272bd20-a29e-4bac-bcc5-2c1ab0bb3e11",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "levels",
+                "id": "d13c0028-791c-4056-838e-06bc028e2e36",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "potentially",
+                "id": "0d0bbe78-2035-4480-9963-ad8e2ba0a96d",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "harmful",
+                "id": "a311c3d9-0b41-4dba-8bc8-8c828343edd3",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "substances",
+                "id": "9220ea74-48a3-4bb5-9d4e-a666a41678c7",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "grilled",
+                "id": "cacb3bdc-0d09-4cdb-a5d8-32db16428a1e",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "meats",
+                "id": "2c241768-163a-4318-a855-423085e7cd78",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "7b3e4b76-ec40-4031-9957-36e26ba89ba3",
+                "nodeTo": "6902aaa8-e9ec-4930-b571-6c8839eccd24",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7b3e4b76-ec40-4031-9957-36e26ba89ba3",
+                "nodeTo": "87411b34-d425-4513-9ed9-8b56293b8ac1",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3272bd20-a29e-4bac-bcc5-2c1ab0bb3e11",
+                "nodeTo": "6902aaa8-e9ec-4930-b571-6c8839eccd24",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3272bd20-a29e-4bac-bcc5-2c1ab0bb3e11",
+                "nodeTo": "87411b34-d425-4513-9ed9-8b56293b8ac1",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6902aaa8-e9ec-4930-b571-6c8839eccd24",
+                "nodeTo": "d13c0028-791c-4056-838e-06bc028e2e36",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "87411b34-d425-4513-9ed9-8b56293b8ac1",
+                "nodeTo": "d13c0028-791c-4056-838e-06bc028e2e36",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d13c0028-791c-4056-838e-06bc028e2e36",
+                "nodeTo": "1edb87ab-ae41-4c6a-8345-0a1cbe695750",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1edb87ab-ae41-4c6a-8345-0a1cbe695750",
+                "nodeTo": "0d0bbe78-2035-4480-9963-ad8e2ba0a96d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1edb87ab-ae41-4c6a-8345-0a1cbe695750",
+                "nodeTo": "a311c3d9-0b41-4dba-8bc8-8c828343edd3",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1edb87ab-ae41-4c6a-8345-0a1cbe695750",
+                "nodeTo": "9220ea74-48a3-4bb5-9d4e-a666a41678c7",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0d0bbe78-2035-4480-9963-ad8e2ba0a96d",
+                "nodeTo": "19492a34-e22e-4c1a-a603-23a85b6cb3ec",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a311c3d9-0b41-4dba-8bc8-8c828343edd3",
+                "nodeTo": "19492a34-e22e-4c1a-a603-23a85b6cb3ec",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9220ea74-48a3-4bb5-9d4e-a666a41678c7",
+                "nodeTo": "19492a34-e22e-4c1a-a603-23a85b6cb3ec",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "19492a34-e22e-4c1a-a603-23a85b6cb3ec",
+                "nodeTo": "cacb3bdc-0d09-4cdb-a5d8-32db16428a1e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "19492a34-e22e-4c1a-a603-23a85b6cb3ec",
+                "nodeTo": "2c241768-163a-4318-a855-423085e7cd78",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-31 17:45:10"
+}

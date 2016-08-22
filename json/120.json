@@ -1,0 +1,220 @@
+{
+    "uuid": 120,
+    "text": "Members of group are more likely to lie after they inhale love hormone oxytocin study finds",
+    "graph": {
+        "version": 1,
+        "guid": "8307a0cd-b521-4037-b806-5d84e1747e38",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "of",
+                "id": "447911a9-5c3c-4edb-9018-52a51d2b5dd1",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "are",
+                "id": "d8c036e2-a55c-4b8c-aec6-30eb00d6dc86",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "after",
+                "id": "b52573e1-73cd-4a46-b89a-56255c78c3ee",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "more",
+                "id": "2224deab-ee6b-43a4-9462-76c326ba5499",
+                "postag": "NA",
+                "index": 4
+            },
+            {
+                "label": "inhale",
+                "id": "b84cbe47-56d6-400a-b022-158cb1b047c8",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "finds",
+                "id": "c6c794e0-e950-4a1e-9a66-e799290aee66",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "lie",
+                "id": "1d596b56-a538-48b9-a4eb-581d0d3693b3",
+                "postag": "NA",
+                "index": 7
+            },
+            {
+                "label": "to",
+                "id": "8d2a99eb-6b48-40c6-acdb-250a5eae82d5",
+                "postag": "NA",
+                "index": 6
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Members",
+                "id": "23d7545e-b496-4d90-bdd2-7bb3cc43b74a",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "group",
+                "id": "a1459bc8-0d90-4178-a424-3115b5c087ca",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "likely",
+                "id": "4b311bd0-97bd-481c-aea0-4da8717ec4b3",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "they",
+                "id": "a266476b-a987-456d-a578-3eb4cc7216d0",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "love",
+                "id": "44056801-d61d-4a77-91e3-e10deb142e0e",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "hormone",
+                "id": "614a1a86-757c-44b7-80c5-96a9ac895888",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "oxytocin",
+                "id": "3ee595d0-b560-4e90-b2a2-35e5a86de8c6",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "study",
+                "id": "77112b86-61e6-4078-855e-13d1214c00e9",
+                "index": 14,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "23d7545e-b496-4d90-bdd2-7bb3cc43b74a",
+                "nodeTo": "447911a9-5c3c-4edb-9018-52a51d2b5dd1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "447911a9-5c3c-4edb-9018-52a51d2b5dd1",
+                "nodeTo": "a1459bc8-0d90-4178-a424-3115b5c087ca",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "23d7545e-b496-4d90-bdd2-7bb3cc43b74a",
+                "nodeTo": "d8c036e2-a55c-4b8c-aec6-30eb00d6dc86",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "23d7545e-b496-4d90-bdd2-7bb3cc43b74a",
+                "nodeTo": "2224deab-ee6b-43a4-9462-76c326ba5499",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d8c036e2-a55c-4b8c-aec6-30eb00d6dc86",
+                "nodeTo": "4b311bd0-97bd-481c-aea0-4da8717ec4b3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2224deab-ee6b-43a4-9462-76c326ba5499",
+                "nodeTo": "4b311bd0-97bd-481c-aea0-4da8717ec4b3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b52573e1-73cd-4a46-b89a-56255c78c3ee",
+                "nodeTo": "a266476b-a987-456d-a578-3eb4cc7216d0",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a266476b-a987-456d-a578-3eb4cc7216d0",
+                "nodeTo": "b84cbe47-56d6-400a-b022-158cb1b047c8",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b84cbe47-56d6-400a-b022-158cb1b047c8",
+                "nodeTo": "44056801-d61d-4a77-91e3-e10deb142e0e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b84cbe47-56d6-400a-b022-158cb1b047c8",
+                "nodeTo": "614a1a86-757c-44b7-80c5-96a9ac895888",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b84cbe47-56d6-400a-b022-158cb1b047c8",
+                "nodeTo": "3ee595d0-b560-4e90-b2a2-35e5a86de8c6",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "77112b86-61e6-4078-855e-13d1214c00e9",
+                "nodeTo": "c6c794e0-e950-4a1e-9a66-e799290aee66",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c6c794e0-e950-4a1e-9a66-e799290aee66",
+                "nodeTo": "23d7545e-b496-4d90-bdd2-7bb3cc43b74a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1d596b56-a538-48b9-a4eb-581d0d3693b3",
+                "nodeTo": "a266476b-a987-456d-a578-3eb4cc7216d0",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4b311bd0-97bd-481c-aea0-4da8717ec4b3",
+                "nodeTo": "8d2a99eb-6b48-40c6-acdb-250a5eae82d5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4b311bd0-97bd-481c-aea0-4da8717ec4b3",
+                "nodeTo": "1d596b56-a538-48b9-a4eb-581d0d3693b3",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4b311bd0-97bd-481c-aea0-4da8717ec4b3",
+                "nodeTo": "b52573e1-73cd-4a46-b89a-56255c78c3ee",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8d2a99eb-6b48-40c6-acdb-250a5eae82d5",
+                "nodeTo": "a266476b-a987-456d-a578-3eb4cc7216d0",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-02 18:06:59"
+}

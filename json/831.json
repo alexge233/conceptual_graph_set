@@ -1,0 +1,256 @@
+{
+    "uuid": 831,
+    "text": "specialist cancer hospital in Greater Manchester is in breach of its licence to provide NHS services",
+    "graph": {
+        "version": 1,
+        "guid": "3c79383e-8249-4347-ad23-69e6a0a13143",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "in",
+                "id": "a6c469ad-5577-420a-8ba9-65d9716ce8ad",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "is",
+                "id": "58470415-4e56-4c04-9471-8ee180236239",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "e1401076-5684-4a21-b97b-42983ddec7b0",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "8ce434b7-abd3-4029-95a9-d575c0c9c6b5",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "a6168229-4607-4454-8002-5ca84d893b91",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "provide",
+                "id": "a13edb15-a138-40a6-8c89-c04ec2a53161",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "specialist",
+                "id": "a715b637-0746-4468-a824-099ec44c90bd",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "cancer",
+                "id": "13d1c1b8-3a86-4c71-ba6c-cd0c74b670b4",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "hospital",
+                "id": "815746ae-eb58-470e-9627-863a5307a40a",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "Greater",
+                "id": "d3545716-1448-423b-8e0d-6349136a25e9",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "Manchester",
+                "id": "964974c1-0298-4d21-8954-00629a7dcb19",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "breach",
+                "id": "29365c14-4d92-4934-8ccc-4ad4275ee8d0",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "its",
+                "id": "ce2eeb94-7aa7-4ba4-b462-c16d544752b7",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "licence",
+                "id": "6e9e9e30-6d53-4250-9cb8-a81c255e96d9",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "NHS",
+                "id": "73c281a9-b8a9-4ae8-b9ca-3e372525a15d",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "services",
+                "id": "b3841cbc-89e0-476e-a40b-98c435aca547",
+                "index": 15,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "a715b637-0746-4468-a824-099ec44c90bd",
+                "nodeTo": "a6c469ad-5577-420a-8ba9-65d9716ce8ad",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "13d1c1b8-3a86-4c71-ba6c-cd0c74b670b4",
+                "nodeTo": "a6c469ad-5577-420a-8ba9-65d9716ce8ad",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "815746ae-eb58-470e-9627-863a5307a40a",
+                "nodeTo": "a6c469ad-5577-420a-8ba9-65d9716ce8ad",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a6c469ad-5577-420a-8ba9-65d9716ce8ad",
+                "nodeTo": "d3545716-1448-423b-8e0d-6349136a25e9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a6c469ad-5577-420a-8ba9-65d9716ce8ad",
+                "nodeTo": "964974c1-0298-4d21-8954-00629a7dcb19",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "815746ae-eb58-470e-9627-863a5307a40a",
+                "nodeTo": "58470415-4e56-4c04-9471-8ee180236239",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "815746ae-eb58-470e-9627-863a5307a40a",
+                "nodeTo": "e1401076-5684-4a21-b97b-42983ddec7b0",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a715b637-0746-4468-a824-099ec44c90bd",
+                "nodeTo": "58470415-4e56-4c04-9471-8ee180236239",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "13d1c1b8-3a86-4c71-ba6c-cd0c74b670b4",
+                "nodeTo": "58470415-4e56-4c04-9471-8ee180236239",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a715b637-0746-4468-a824-099ec44c90bd",
+                "nodeTo": "e1401076-5684-4a21-b97b-42983ddec7b0",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "13d1c1b8-3a86-4c71-ba6c-cd0c74b670b4",
+                "nodeTo": "e1401076-5684-4a21-b97b-42983ddec7b0",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "58470415-4e56-4c04-9471-8ee180236239",
+                "nodeTo": "29365c14-4d92-4934-8ccc-4ad4275ee8d0",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e1401076-5684-4a21-b97b-42983ddec7b0",
+                "nodeTo": "29365c14-4d92-4934-8ccc-4ad4275ee8d0",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "29365c14-4d92-4934-8ccc-4ad4275ee8d0",
+                "nodeTo": "8ce434b7-abd3-4029-95a9-d575c0c9c6b5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8ce434b7-abd3-4029-95a9-d575c0c9c6b5",
+                "nodeTo": "ce2eeb94-7aa7-4ba4-b462-c16d544752b7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8ce434b7-abd3-4029-95a9-d575c0c9c6b5",
+                "nodeTo": "6e9e9e30-6d53-4250-9cb8-a81c255e96d9",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ce2eeb94-7aa7-4ba4-b462-c16d544752b7",
+                "nodeTo": "a6168229-4607-4454-8002-5ca84d893b91",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ce2eeb94-7aa7-4ba4-b462-c16d544752b7",
+                "nodeTo": "a13edb15-a138-40a6-8c89-c04ec2a53161",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6e9e9e30-6d53-4250-9cb8-a81c255e96d9",
+                "nodeTo": "a6168229-4607-4454-8002-5ca84d893b91",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6e9e9e30-6d53-4250-9cb8-a81c255e96d9",
+                "nodeTo": "a13edb15-a138-40a6-8c89-c04ec2a53161",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a6168229-4607-4454-8002-5ca84d893b91",
+                "nodeTo": "73c281a9-b8a9-4ae8-b9ca-3e372525a15d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a13edb15-a138-40a6-8c89-c04ec2a53161",
+                "nodeTo": "73c281a9-b8a9-4ae8-b9ca-3e372525a15d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a6168229-4607-4454-8002-5ca84d893b91",
+                "nodeTo": "b3841cbc-89e0-476e-a40b-98c435aca547",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a13edb15-a138-40a6-8c89-c04ec2a53161",
+                "nodeTo": "b3841cbc-89e0-476e-a40b-98c435aca547",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-16 20:09:09"
+}

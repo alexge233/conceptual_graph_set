@@ -1,0 +1,274 @@
+{
+    "uuid": 918,
+    "text": "data also showed slightly higher risk of stroke among people with celiac disease compared to controls",
+    "graph": {
+        "version": 1,
+        "guid": "640e4769-237c-418e-a22e-3cdc96750ebe",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "also",
+                "id": "a05ced3d-d889-48a1-b681-44862529d1a1",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "showed",
+                "id": "69118aa4-48ad-4b9b-9b5a-2e4ca8618943",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "5a5c0a62-c69b-4002-b280-74c6cb8a8053",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "among",
+                "id": "147a8042-b08d-45d5-aa65-28065126041c",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "with",
+                "id": "a2d89b51-dd05-45a5-823d-246367805a77",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "compared",
+                "id": "068d54bd-b926-46e1-abb7-827ea792cb7b",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "1b767714-3b18-4e2e-80ec-7c78c75273d7",
+                "index": 14,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "data",
+                "id": "b31c1475-7582-4014-a5ad-6dab5ee98ea7",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "slightly",
+                "id": "45d63bd1-dcc5-4029-81a6-c81479574493",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "higher",
+                "id": "b06cabb4-1138-4e2c-9b03-19cedc520dc9",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "risk",
+                "id": "374ba64e-69ed-4464-bd3d-b88192240cdc",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "stroke",
+                "id": "e4313058-b259-4c20-9a50-3e11221c0b7d",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "people",
+                "id": "aa3d79bc-1e8d-4953-b842-5e3dab8857e6",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "celiac",
+                "id": "b26d04a4-9149-4228-a3e3-04543671d4e3",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "disease",
+                "id": "57a19637-b16b-4468-8ad0-e7201ee53058",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "controls",
+                "id": "5490a4cd-02e4-4267-b073-5aea9da162bb",
+                "index": 15,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "b31c1475-7582-4014-a5ad-6dab5ee98ea7",
+                "nodeTo": "a05ced3d-d889-48a1-b681-44862529d1a1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b31c1475-7582-4014-a5ad-6dab5ee98ea7",
+                "nodeTo": "69118aa4-48ad-4b9b-9b5a-2e4ca8618943",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a05ced3d-d889-48a1-b681-44862529d1a1",
+                "nodeTo": "45d63bd1-dcc5-4029-81a6-c81479574493",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "69118aa4-48ad-4b9b-9b5a-2e4ca8618943",
+                "nodeTo": "45d63bd1-dcc5-4029-81a6-c81479574493",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a05ced3d-d889-48a1-b681-44862529d1a1",
+                "nodeTo": "b06cabb4-1138-4e2c-9b03-19cedc520dc9",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "69118aa4-48ad-4b9b-9b5a-2e4ca8618943",
+                "nodeTo": "b06cabb4-1138-4e2c-9b03-19cedc520dc9",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a05ced3d-d889-48a1-b681-44862529d1a1",
+                "nodeTo": "374ba64e-69ed-4464-bd3d-b88192240cdc",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "69118aa4-48ad-4b9b-9b5a-2e4ca8618943",
+                "nodeTo": "374ba64e-69ed-4464-bd3d-b88192240cdc",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "45d63bd1-dcc5-4029-81a6-c81479574493",
+                "nodeTo": "5a5c0a62-c69b-4002-b280-74c6cb8a8053",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b06cabb4-1138-4e2c-9b03-19cedc520dc9",
+                "nodeTo": "5a5c0a62-c69b-4002-b280-74c6cb8a8053",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "374ba64e-69ed-4464-bd3d-b88192240cdc",
+                "nodeTo": "5a5c0a62-c69b-4002-b280-74c6cb8a8053",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5a5c0a62-c69b-4002-b280-74c6cb8a8053",
+                "nodeTo": "e4313058-b259-4c20-9a50-3e11221c0b7d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "45d63bd1-dcc5-4029-81a6-c81479574493",
+                "nodeTo": "147a8042-b08d-45d5-aa65-28065126041c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b06cabb4-1138-4e2c-9b03-19cedc520dc9",
+                "nodeTo": "147a8042-b08d-45d5-aa65-28065126041c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "374ba64e-69ed-4464-bd3d-b88192240cdc",
+                "nodeTo": "147a8042-b08d-45d5-aa65-28065126041c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "147a8042-b08d-45d5-aa65-28065126041c",
+                "nodeTo": "aa3d79bc-1e8d-4953-b842-5e3dab8857e6",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "aa3d79bc-1e8d-4953-b842-5e3dab8857e6",
+                "nodeTo": "a2d89b51-dd05-45a5-823d-246367805a77",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a2d89b51-dd05-45a5-823d-246367805a77",
+                "nodeTo": "b26d04a4-9149-4228-a3e3-04543671d4e3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a2d89b51-dd05-45a5-823d-246367805a77",
+                "nodeTo": "57a19637-b16b-4468-8ad0-e7201ee53058",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "45d63bd1-dcc5-4029-81a6-c81479574493",
+                "nodeTo": "068d54bd-b926-46e1-abb7-827ea792cb7b",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b06cabb4-1138-4e2c-9b03-19cedc520dc9",
+                "nodeTo": "068d54bd-b926-46e1-abb7-827ea792cb7b",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "374ba64e-69ed-4464-bd3d-b88192240cdc",
+                "nodeTo": "068d54bd-b926-46e1-abb7-827ea792cb7b",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "45d63bd1-dcc5-4029-81a6-c81479574493",
+                "nodeTo": "1b767714-3b18-4e2e-80ec-7c78c75273d7",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b06cabb4-1138-4e2c-9b03-19cedc520dc9",
+                "nodeTo": "1b767714-3b18-4e2e-80ec-7c78c75273d7",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "374ba64e-69ed-4464-bd3d-b88192240cdc",
+                "nodeTo": "1b767714-3b18-4e2e-80ec-7c78c75273d7",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "068d54bd-b926-46e1-abb7-827ea792cb7b",
+                "nodeTo": "5490a4cd-02e4-4267-b073-5aea9da162bb",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1b767714-3b18-4e2e-80ec-7c78c75273d7",
+                "nodeTo": "5490a4cd-02e4-4267-b073-5aea9da162bb",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-21 21:21:20"
+}

@@ -1,0 +1,82 @@
+{
+    "uuid": 420,
+    "text": "Can smartphone cure fear of spiders",
+    "graph": {
+        "version": 1,
+        "guid": "8249ec8c-365a-46c4-a403-e1ec870ccd68",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "Can",
+                "id": "42c07421-ec2d-4263-9d4e-42a856b56610",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "cure",
+                "id": "6ca51ee1-ddb3-4424-98ce-b50bb10c57a6",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "e630357a-1d14-43d8-9c30-5b1d53395eaa",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "smartphone",
+                "id": "e84226d9-e8d4-4649-beb4-4cebdc7020b2",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "fear",
+                "id": "56050eb9-30d5-42b9-83b0-6054c40e8721",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "spiders",
+                "id": "8ceda62c-7ab7-41d4-a3dc-a2dccecc39e5",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "42c07421-ec2d-4263-9d4e-42a856b56610",
+                "nodeTo": "e84226d9-e8d4-4649-beb4-4cebdc7020b2",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e84226d9-e8d4-4649-beb4-4cebdc7020b2",
+                "nodeTo": "6ca51ee1-ddb3-4424-98ce-b50bb10c57a6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6ca51ee1-ddb3-4424-98ce-b50bb10c57a6",
+                "nodeTo": "56050eb9-30d5-42b9-83b0-6054c40e8721",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "56050eb9-30d5-42b9-83b0-6054c40e8721",
+                "nodeTo": "e630357a-1d14-43d8-9c30-5b1d53395eaa",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e630357a-1d14-43d8-9c30-5b1d53395eaa",
+                "nodeTo": "8ceda62c-7ab7-41d4-a3dc-a2dccecc39e5",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-18 15:50:49"
+}

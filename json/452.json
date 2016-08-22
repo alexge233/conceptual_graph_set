@@ -1,0 +1,148 @@
+{
+    "uuid": 452,
+    "text": "at least one in 20 adult outpatients misdiagnosed in US",
+    "graph": {
+        "version": 1,
+        "guid": "85ace00c-7c6a-4c13-a8b3-ab4472288436",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "at",
+                "id": "50d7c43a-6bc8-4a2e-b30a-0ba9e7595e70",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "a696cd21-e56e-4993-adac-a96c02dd31b5",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "misdiagnosed",
+                "id": "d81653c1-d1e1-481b-bb26-0d91adc394ac",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "12641bad-e6c6-470b-8c12-40d2d48e5eb0",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "least",
+                "id": "0495060a-9629-4abb-9c26-80e0c085b351",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "one",
+                "id": "d31247c7-6011-45c9-b2b2-1a86985c3788",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": 20,
+                "id": "53e7aab4-8595-4e57-be85-17721295738e",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "adult",
+                "id": "b742a45e-60c4-402c-a36b-b219d4e824e9",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "outpatients",
+                "id": "5b46e653-5de8-4447-8d64-6986ea54510d",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "US",
+                "id": "2b862007-c06a-460a-ad9c-60cd581350a9",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "50d7c43a-6bc8-4a2e-b30a-0ba9e7595e70",
+                "nodeTo": "0495060a-9629-4abb-9c26-80e0c085b351",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0495060a-9629-4abb-9c26-80e0c085b351",
+                "nodeTo": "a696cd21-e56e-4993-adac-a96c02dd31b5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d31247c7-6011-45c9-b2b2-1a86985c3788",
+                "nodeTo": "a696cd21-e56e-4993-adac-a96c02dd31b5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a696cd21-e56e-4993-adac-a96c02dd31b5",
+                "nodeTo": "53e7aab4-8595-4e57-be85-17721295738e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a696cd21-e56e-4993-adac-a96c02dd31b5",
+                "nodeTo": "b742a45e-60c4-402c-a36b-b219d4e824e9",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a696cd21-e56e-4993-adac-a96c02dd31b5",
+                "nodeTo": "5b46e653-5de8-4447-8d64-6986ea54510d",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0495060a-9629-4abb-9c26-80e0c085b351",
+                "nodeTo": "d81653c1-d1e1-481b-bb26-0d91adc394ac",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d31247c7-6011-45c9-b2b2-1a86985c3788",
+                "nodeTo": "d81653c1-d1e1-481b-bb26-0d91adc394ac",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0495060a-9629-4abb-9c26-80e0c085b351",
+                "nodeTo": "12641bad-e6c6-470b-8c12-40d2d48e5eb0",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d31247c7-6011-45c9-b2b2-1a86985c3788",
+                "nodeTo": "12641bad-e6c6-470b-8c12-40d2d48e5eb0",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d81653c1-d1e1-481b-bb26-0d91adc394ac",
+                "nodeTo": "2b862007-c06a-460a-ad9c-60cd581350a9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "12641bad-e6c6-470b-8c12-40d2d48e5eb0",
+                "nodeTo": "2b862007-c06a-460a-ad9c-60cd581350a9",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-18 19:49:58"
+}

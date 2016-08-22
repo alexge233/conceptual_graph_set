@@ -1,0 +1,148 @@
+{
+    "uuid": 201,
+    "text": "blood test can predict onset of Alzheimers disease with 90% accuracy",
+    "graph": {
+        "version": 1,
+        "guid": "dd748424-b709-47eb-be01-9cadb0ede761",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "can",
+                "id": "368c7893-9086-4733-a9e9-6834797ead16",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "predict",
+                "id": "8d9788ae-6da6-4208-a5dd-287da0ee3db4",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "cb3a380d-a7b5-4383-b432-047e6aa4a807",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "with",
+                "id": "3617e6ba-819e-434a-80e6-3ea6c726887e",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "blood",
+                "id": "be9575b1-4b35-4ee0-a70d-e4544311491e",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "test",
+                "id": "5b898a02-5183-4471-a685-90910469553b",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "onset",
+                "id": "494d57e9-e5c0-4035-b41c-961385bb2a13",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "Alzheimers",
+                "id": "b55002d5-e275-491b-9d97-61c79eccd2dd",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "disease",
+                "id": "9d924850-698a-4546-b9cd-ee894e5854b2",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "90%",
+                "id": "b7d13522-da58-4c04-b058-5c066bea3cc5",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "accuracy",
+                "id": "244683b7-08b2-4c80-a48e-e7c5adb0671c",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "be9575b1-4b35-4ee0-a70d-e4544311491e",
+                "nodeTo": "368c7893-9086-4733-a9e9-6834797ead16",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5b898a02-5183-4471-a685-90910469553b",
+                "nodeTo": "368c7893-9086-4733-a9e9-6834797ead16",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "be9575b1-4b35-4ee0-a70d-e4544311491e",
+                "nodeTo": "8d9788ae-6da6-4208-a5dd-287da0ee3db4",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5b898a02-5183-4471-a685-90910469553b",
+                "nodeTo": "8d9788ae-6da6-4208-a5dd-287da0ee3db4",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8d9788ae-6da6-4208-a5dd-287da0ee3db4",
+                "nodeTo": "494d57e9-e5c0-4035-b41c-961385bb2a13",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "494d57e9-e5c0-4035-b41c-961385bb2a13",
+                "nodeTo": "cb3a380d-a7b5-4383-b432-047e6aa4a807",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cb3a380d-a7b5-4383-b432-047e6aa4a807",
+                "nodeTo": "b55002d5-e275-491b-9d97-61c79eccd2dd",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "cb3a380d-a7b5-4383-b432-047e6aa4a807",
+                "nodeTo": "9d924850-698a-4546-b9cd-ee894e5854b2",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3617e6ba-819e-434a-80e6-3ea6c726887e",
+                "nodeTo": "b7d13522-da58-4c04-b058-5c066bea3cc5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3617e6ba-819e-434a-80e6-3ea6c726887e",
+                "nodeTo": "244683b7-08b2-4c80-a48e-e7c5adb0671c",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "494d57e9-e5c0-4035-b41c-961385bb2a13",
+                "nodeTo": "3617e6ba-819e-434a-80e6-3ea6c726887e",
+                "index": 2,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2014-11-17 22:43:23"
+}

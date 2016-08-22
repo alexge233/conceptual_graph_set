@@ -1,0 +1,226 @@
+{
+    "uuid": 700,
+    "text": "surface of immune system cells is home to number of receptors which are able to detect pathogens",
+    "graph": {
+        "version": 1,
+        "guid": "cddbcc5a-4bde-418c-85a3-4305dca07525",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "of",
+                "id": "4ab469a3-98de-438c-9801-9e9cb6be1a8e",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "is",
+                "id": "7682d002-79c6-49b7-bed9-8978ad69486c",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "b7409e6c-6045-47c2-869b-72e64a401d31",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "8bb86656-14e8-412b-a740-25cd557097d2",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "which",
+                "id": "b39b54ec-7333-4d4d-81e0-80ba5589d083",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "are",
+                "id": "41cebb57-9bd7-45b7-abe6-80519cd452d1",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "0c5a1a66-0219-4076-a552-9a91702bad84",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "detect",
+                "id": "1d1bc760-9a4c-4c11-a740-d70819773724",
+                "index": 15,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "surface",
+                "id": "cb33eb57-aa45-4413-b20e-1b0d44a2ceb7",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "immune",
+                "id": "6118a8be-c8b4-4d78-b614-a45714db15a5",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "system",
+                "id": "cab006e6-4e2b-4450-b537-e9514091c92a",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "cells",
+                "id": "61676aa1-d677-4917-87d2-051560c37b96",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "home",
+                "id": "9068d57c-9bc0-4dd1-a0c0-072cdd043128",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "number",
+                "id": "68d6dc40-6520-4601-a69a-80227d3406da",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "receptors",
+                "id": "25d84a42-38ae-4221-b1ee-7bc73a3798ac",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "able",
+                "id": "93c6839c-9202-492e-93d3-c33b6473b357",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "pathogens",
+                "id": "aee096a2-79e0-4270-8aae-00486cb71591",
+                "index": 16,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "cb33eb57-aa45-4413-b20e-1b0d44a2ceb7",
+                "nodeTo": "4ab469a3-98de-438c-9801-9e9cb6be1a8e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4ab469a3-98de-438c-9801-9e9cb6be1a8e",
+                "nodeTo": "6118a8be-c8b4-4d78-b614-a45714db15a5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4ab469a3-98de-438c-9801-9e9cb6be1a8e",
+                "nodeTo": "cab006e6-4e2b-4450-b537-e9514091c92a",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4ab469a3-98de-438c-9801-9e9cb6be1a8e",
+                "nodeTo": "61676aa1-d677-4917-87d2-051560c37b96",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "cb33eb57-aa45-4413-b20e-1b0d44a2ceb7",
+                "nodeTo": "7682d002-79c6-49b7-bed9-8978ad69486c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7682d002-79c6-49b7-bed9-8978ad69486c",
+                "nodeTo": "9068d57c-9bc0-4dd1-a0c0-072cdd043128",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9068d57c-9bc0-4dd1-a0c0-072cdd043128",
+                "nodeTo": "b7409e6c-6045-47c2-869b-72e64a401d31",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b7409e6c-6045-47c2-869b-72e64a401d31",
+                "nodeTo": "68d6dc40-6520-4601-a69a-80227d3406da",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "68d6dc40-6520-4601-a69a-80227d3406da",
+                "nodeTo": "8bb86656-14e8-412b-a740-25cd557097d2",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8bb86656-14e8-412b-a740-25cd557097d2",
+                "nodeTo": "25d84a42-38ae-4221-b1ee-7bc73a3798ac",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "25d84a42-38ae-4221-b1ee-7bc73a3798ac",
+                "nodeTo": "b39b54ec-7333-4d4d-81e0-80ba5589d083",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "25d84a42-38ae-4221-b1ee-7bc73a3798ac",
+                "nodeTo": "41cebb57-9bd7-45b7-abe6-80519cd452d1",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b39b54ec-7333-4d4d-81e0-80ba5589d083",
+                "nodeTo": "93c6839c-9202-492e-93d3-c33b6473b357",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "41cebb57-9bd7-45b7-abe6-80519cd452d1",
+                "nodeTo": "93c6839c-9202-492e-93d3-c33b6473b357",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "93c6839c-9202-492e-93d3-c33b6473b357",
+                "nodeTo": "0c5a1a66-0219-4076-a552-9a91702bad84",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "93c6839c-9202-492e-93d3-c33b6473b357",
+                "nodeTo": "1d1bc760-9a4c-4c11-a740-d70819773724",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0c5a1a66-0219-4076-a552-9a91702bad84",
+                "nodeTo": "aee096a2-79e0-4270-8aae-00486cb71591",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1d1bc760-9a4c-4c11-a740-d70819773724",
+                "nodeTo": "aee096a2-79e0-4270-8aae-00486cb71591",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-12 13:24:44"
+}

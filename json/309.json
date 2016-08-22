@@ -1,0 +1,148 @@
+{
+    "uuid": 309,
+    "text": "Aging linked to cellular interactions that occur across generations",
+    "graph": {
+        "version": 1,
+        "guid": "a644e1b5-06d8-4721-a371-09a55d51222d",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "linked",
+                "id": "480dad17-5789-4809-a551-de73e5411660",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "2e4daadb-601e-492e-a27c-1493b44822c3",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "occur",
+                "id": "a8da7469-6754-498c-9c2d-a6e7511358b8",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Aging",
+                "id": "6e8bd098-ac9c-498b-9857-b50ede124ad3",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "cellular",
+                "id": "9ee0733a-895c-474d-81d5-8c28b512459d",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "interactions",
+                "id": "4627e35b-7a61-4432-b0eb-83952ea33a99",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "that",
+                "id": "457c2678-1839-43a5-867d-8309142d5467",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "across",
+                "id": "63b14130-4044-48de-9ce9-690b511926a1",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "generations",
+                "id": "90ac5749-9a52-4434-8966-38100bd7d77a",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "6e8bd098-ac9c-498b-9857-b50ede124ad3",
+                "nodeTo": "480dad17-5789-4809-a551-de73e5411660",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6e8bd098-ac9c-498b-9857-b50ede124ad3",
+                "nodeTo": "2e4daadb-601e-492e-a27c-1493b44822c3",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "480dad17-5789-4809-a551-de73e5411660",
+                "nodeTo": "9ee0733a-895c-474d-81d5-8c28b512459d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "480dad17-5789-4809-a551-de73e5411660",
+                "nodeTo": "4627e35b-7a61-4432-b0eb-83952ea33a99",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "480dad17-5789-4809-a551-de73e5411660",
+                "nodeTo": "457c2678-1839-43a5-867d-8309142d5467",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2e4daadb-601e-492e-a27c-1493b44822c3",
+                "nodeTo": "9ee0733a-895c-474d-81d5-8c28b512459d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2e4daadb-601e-492e-a27c-1493b44822c3",
+                "nodeTo": "4627e35b-7a61-4432-b0eb-83952ea33a99",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2e4daadb-601e-492e-a27c-1493b44822c3",
+                "nodeTo": "457c2678-1839-43a5-867d-8309142d5467",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9ee0733a-895c-474d-81d5-8c28b512459d",
+                "nodeTo": "a8da7469-6754-498c-9c2d-a6e7511358b8",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4627e35b-7a61-4432-b0eb-83952ea33a99",
+                "nodeTo": "a8da7469-6754-498c-9c2d-a6e7511358b8",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "457c2678-1839-43a5-867d-8309142d5467",
+                "nodeTo": "a8da7469-6754-498c-9c2d-a6e7511358b8",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a8da7469-6754-498c-9c2d-a6e7511358b8",
+                "nodeTo": "63b14130-4044-48de-9ce9-690b511926a1",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a8da7469-6754-498c-9c2d-a6e7511358b8",
+                "nodeTo": "90ac5749-9a52-4434-8966-38100bd7d77a",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-04 20:13:08"
+}

@@ -1,0 +1,130 @@
+{
+    "uuid": 803,
+    "text": "new research reveals how perceptions of risk influence decisions",
+    "graph": {
+        "version": 1,
+        "guid": "e98459d7-05e7-4190-9d63-57636852e622",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "reveals",
+                "id": "90b0113c-e8ea-4dc1-87dc-aae2e18564b5",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "how",
+                "id": "b56d9641-7d13-41c4-a31b-46aea9995853",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "3a99d4b7-72c9-42b9-a853-c14b871d5b3b",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "influence",
+                "id": "33618615-5ebe-439a-aec0-6d9cd2c29d20",
+                "postag": "NA",
+                "index": 7
+            }
+        ],
+        "concepts": [
+            {
+                "label": "new",
+                "id": "70925b18-9cd3-4d7a-9041-83c7a2e1482b",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "research",
+                "id": "ed838da8-72b5-4018-9995-7b8e186ab894",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "perceptions",
+                "id": "60c86083-1876-4c43-b210-464b62c0ec09",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "risk",
+                "id": "298458e5-c4c0-4ea0-82a6-13e797a58be6",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "decisions",
+                "id": "aa44bee3-934b-40ac-a643-e4becc05d0e3",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "70925b18-9cd3-4d7a-9041-83c7a2e1482b",
+                "nodeTo": "90b0113c-e8ea-4dc1-87dc-aae2e18564b5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "70925b18-9cd3-4d7a-9041-83c7a2e1482b",
+                "nodeTo": "b56d9641-7d13-41c4-a31b-46aea9995853",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ed838da8-72b5-4018-9995-7b8e186ab894",
+                "nodeTo": "90b0113c-e8ea-4dc1-87dc-aae2e18564b5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ed838da8-72b5-4018-9995-7b8e186ab894",
+                "nodeTo": "b56d9641-7d13-41c4-a31b-46aea9995853",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "90b0113c-e8ea-4dc1-87dc-aae2e18564b5",
+                "nodeTo": "60c86083-1876-4c43-b210-464b62c0ec09",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b56d9641-7d13-41c4-a31b-46aea9995853",
+                "nodeTo": "60c86083-1876-4c43-b210-464b62c0ec09",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "60c86083-1876-4c43-b210-464b62c0ec09",
+                "nodeTo": "3a99d4b7-72c9-42b9-a853-c14b871d5b3b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3a99d4b7-72c9-42b9-a853-c14b871d5b3b",
+                "nodeTo": "298458e5-c4c0-4ea0-82a6-13e797a58be6",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "60c86083-1876-4c43-b210-464b62c0ec09",
+                "nodeTo": "33618615-5ebe-439a-aec0-6d9cd2c29d20",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "33618615-5ebe-439a-aec0-6d9cd2c29d20",
+                "nodeTo": "aa44bee3-934b-40ac-a643-e4becc05d0e3",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-16 17:57:49"
+}

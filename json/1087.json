@@ -1,0 +1,292 @@
+{
+    "uuid": 1087,
+    "text": "do you know Staphylococci coliforms pseudomonads yeasts intestinal bacteria may be on your toothbrush",
+    "graph": {
+        "version": 1,
+        "guid": "206d9c90-1c35-482e-aa20-a843a4ba9bb6",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "do",
+                "id": "b6e698a9-67ab-4c47-ace3-c7d6eb96594a",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "know",
+                "id": "e44cd556-16ea-4db3-bc1a-2ad765b537eb",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "may",
+                "id": "a7030674-23d1-473c-a10b-3e67d60a753d",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "be",
+                "id": "c33d2968-339d-4312-9014-ede6d3d26739",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "on",
+                "id": "e65aa8c0-b8e6-495e-a575-3b5448d36c5b",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "you",
+                "id": "74d87c6b-9266-4864-8a50-ec247c874c5d",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "Staphylococci",
+                "id": "23eac60c-6d9a-4b1c-8779-e6c02ad4aa96",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "coliforms",
+                "id": "b3a67486-acd2-4319-ad65-9e399e87e926",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "pseudomonads",
+                "id": "1c01c0ea-e89b-4215-8550-19866cc09ca3",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "yeasts",
+                "id": "1308aa82-b889-4db8-b585-d8e4a53030b4",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "intestinal",
+                "id": "9aca0d76-c362-4ce1-a569-483c4dd6b5a1",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "bacteria",
+                "id": "d97ac986-d33a-4ce6-804a-a67398e98782",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "your",
+                "id": "e9504c28-dd39-473a-bcc8-50b725220367",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "toothbrush",
+                "id": "0d889452-18b4-4775-817b-7e85e1bebd80",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "b6e698a9-67ab-4c47-ace3-c7d6eb96594a",
+                "nodeTo": "74d87c6b-9266-4864-8a50-ec247c874c5d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "74d87c6b-9266-4864-8a50-ec247c874c5d",
+                "nodeTo": "e44cd556-16ea-4db3-bc1a-2ad765b537eb",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e44cd556-16ea-4db3-bc1a-2ad765b537eb",
+                "nodeTo": "23eac60c-6d9a-4b1c-8779-e6c02ad4aa96",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e44cd556-16ea-4db3-bc1a-2ad765b537eb",
+                "nodeTo": "b3a67486-acd2-4319-ad65-9e399e87e926",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e44cd556-16ea-4db3-bc1a-2ad765b537eb",
+                "nodeTo": "1c01c0ea-e89b-4215-8550-19866cc09ca3",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e44cd556-16ea-4db3-bc1a-2ad765b537eb",
+                "nodeTo": "1308aa82-b889-4db8-b585-d8e4a53030b4",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e44cd556-16ea-4db3-bc1a-2ad765b537eb",
+                "nodeTo": "9aca0d76-c362-4ce1-a569-483c4dd6b5a1",
+                "index": 5,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e44cd556-16ea-4db3-bc1a-2ad765b537eb",
+                "nodeTo": "d97ac986-d33a-4ce6-804a-a67398e98782",
+                "index": 6,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "23eac60c-6d9a-4b1c-8779-e6c02ad4aa96",
+                "nodeTo": "a7030674-23d1-473c-a10b-3e67d60a753d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "23eac60c-6d9a-4b1c-8779-e6c02ad4aa96",
+                "nodeTo": "c33d2968-339d-4312-9014-ede6d3d26739",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "23eac60c-6d9a-4b1c-8779-e6c02ad4aa96",
+                "nodeTo": "e65aa8c0-b8e6-495e-a575-3b5448d36c5b",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b3a67486-acd2-4319-ad65-9e399e87e926",
+                "nodeTo": "a7030674-23d1-473c-a10b-3e67d60a753d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b3a67486-acd2-4319-ad65-9e399e87e926",
+                "nodeTo": "c33d2968-339d-4312-9014-ede6d3d26739",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b3a67486-acd2-4319-ad65-9e399e87e926",
+                "nodeTo": "e65aa8c0-b8e6-495e-a575-3b5448d36c5b",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1c01c0ea-e89b-4215-8550-19866cc09ca3",
+                "nodeTo": "a7030674-23d1-473c-a10b-3e67d60a753d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1c01c0ea-e89b-4215-8550-19866cc09ca3",
+                "nodeTo": "c33d2968-339d-4312-9014-ede6d3d26739",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1c01c0ea-e89b-4215-8550-19866cc09ca3",
+                "nodeTo": "e65aa8c0-b8e6-495e-a575-3b5448d36c5b",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1308aa82-b889-4db8-b585-d8e4a53030b4",
+                "nodeTo": "a7030674-23d1-473c-a10b-3e67d60a753d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1308aa82-b889-4db8-b585-d8e4a53030b4",
+                "nodeTo": "c33d2968-339d-4312-9014-ede6d3d26739",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1308aa82-b889-4db8-b585-d8e4a53030b4",
+                "nodeTo": "e65aa8c0-b8e6-495e-a575-3b5448d36c5b",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9aca0d76-c362-4ce1-a569-483c4dd6b5a1",
+                "nodeTo": "a7030674-23d1-473c-a10b-3e67d60a753d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9aca0d76-c362-4ce1-a569-483c4dd6b5a1",
+                "nodeTo": "c33d2968-339d-4312-9014-ede6d3d26739",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9aca0d76-c362-4ce1-a569-483c4dd6b5a1",
+                "nodeTo": "e65aa8c0-b8e6-495e-a575-3b5448d36c5b",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d97ac986-d33a-4ce6-804a-a67398e98782",
+                "nodeTo": "a7030674-23d1-473c-a10b-3e67d60a753d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d97ac986-d33a-4ce6-804a-a67398e98782",
+                "nodeTo": "c33d2968-339d-4312-9014-ede6d3d26739",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d97ac986-d33a-4ce6-804a-a67398e98782",
+                "nodeTo": "e65aa8c0-b8e6-495e-a575-3b5448d36c5b",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a7030674-23d1-473c-a10b-3e67d60a753d",
+                "nodeTo": "e9504c28-dd39-473a-bcc8-50b725220367",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c33d2968-339d-4312-9014-ede6d3d26739",
+                "nodeTo": "e9504c28-dd39-473a-bcc8-50b725220367",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e65aa8c0-b8e6-495e-a575-3b5448d36c5b",
+                "nodeTo": "e9504c28-dd39-473a-bcc8-50b725220367",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a7030674-23d1-473c-a10b-3e67d60a753d",
+                "nodeTo": "0d889452-18b4-4775-817b-7e85e1bebd80",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c33d2968-339d-4312-9014-ede6d3d26739",
+                "nodeTo": "0d889452-18b4-4775-817b-7e85e1bebd80",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e65aa8c0-b8e6-495e-a575-3b5448d36c5b",
+                "nodeTo": "0d889452-18b4-4775-817b-7e85e1bebd80",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-09 19:06:30"
+}

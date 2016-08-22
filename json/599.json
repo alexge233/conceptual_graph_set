@@ -1,0 +1,70 @@
+{
+    "uuid": 599,
+    "text": "black death skeletons yield secrets",
+    "graph": {
+        "version": 1,
+        "guid": "3039c8dd-850e-43da-ace1-16dc264eb281",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "yield",
+                "id": "7e34c7c8-08a3-4bbb-bcda-836d554c59cc",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "black",
+                "id": "a4a54c60-4d09-49de-82ea-47c494bc2281",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "death",
+                "id": "8914818a-2e37-43a5-a1a3-6531d71da229",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "skeletons",
+                "id": "5e5a66bc-463d-41c9-a0a9-eae4a2ca357d",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "secrets",
+                "id": "76039692-5705-4ab8-bc47-dc0568690cbb",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "a4a54c60-4d09-49de-82ea-47c494bc2281",
+                "nodeTo": "7e34c7c8-08a3-4bbb-bcda-836d554c59cc",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8914818a-2e37-43a5-a1a3-6531d71da229",
+                "nodeTo": "7e34c7c8-08a3-4bbb-bcda-836d554c59cc",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5e5a66bc-463d-41c9-a0a9-eae4a2ca357d",
+                "nodeTo": "7e34c7c8-08a3-4bbb-bcda-836d554c59cc",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7e34c7c8-08a3-4bbb-bcda-836d554c59cc",
+                "nodeTo": "76039692-5705-4ab8-bc47-dc0568690cbb",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-08 18:09:06"
+}

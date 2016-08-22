@@ -1,0 +1,262 @@
+{
+    "uuid": 159,
+    "text": "Liverpool council wants licensing powers to try to cut number of young people in city being diagnosed with skin cancer",
+    "graph": {
+        "version": 1,
+        "guid": "6bd8579c-87d3-48e4-b560-9b4534d6a3d0",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "wants",
+                "id": "68ebbe42-8dcb-4166-8b66-d1dac51d85bc",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "try",
+                "id": "acc1ac9c-eb50-41ed-8e85-ca0bd04824be",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "cut",
+                "id": "c8c23edd-db27-4eb4-8517-a8eeba021ed8",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "bdc79be9-c247-4ba4-b0db-20c9590024ca",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "6258ba68-e328-4e3c-a977-e9370db59361",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "being",
+                "id": "431917db-8ac8-4e0e-9c4a-a63517a1c786",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "with",
+                "id": "b08dd50c-9c97-429d-8ed0-18288245ea39",
+                "index": 17,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Liverpool",
+                "id": "6b190e1e-e000-479d-a6ab-10842c73e45c",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "council",
+                "id": "80cae00e-7ae3-4544-ae04-6a4807d61e29",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "licensing",
+                "id": "1114e02e-e13a-4654-993a-e7375399a2e8",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "powers",
+                "id": "80a67b44-2eb1-4a14-8488-ca50525772e0",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "number",
+                "id": "ed7b82a2-aa92-4a40-98ea-7591eac41e66",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "young",
+                "id": "bd8a6e93-3791-44ed-9569-9e1812ee1067",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "people",
+                "id": "97c57b94-88b3-4331-8e11-86c355c00346",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "city",
+                "id": "49860506-a691-4895-bbab-65b34dba6647",
+                "postag": "NA",
+                "index": 14
+            },
+            {
+                "label": "diagnosed",
+                "id": "0dc1cd8b-0243-418a-8907-5bcb9b592379",
+                "index": 16,
+                "postag": "NA"
+            },
+            {
+                "label": "skin",
+                "id": "1b7686e7-c005-4067-8a14-cb1c05d1559a",
+                "index": 18,
+                "postag": "NA"
+            },
+            {
+                "label": "cancer",
+                "id": "468ddad7-e3d1-4aea-9ab4-b0270296527d",
+                "index": 19,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "6651b35a-6cb8-4735-95db-a4bd4dbbbd0c",
+                "postag": "NA",
+                "index": 7
+            },
+            {
+                "label": "to",
+                "id": "a7da99e4-a515-4ae8-ab45-8060aabaa833",
+                "postag": "NA",
+                "index": 5
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "6b190e1e-e000-479d-a6ab-10842c73e45c",
+                "nodeTo": "68ebbe42-8dcb-4166-8b66-d1dac51d85bc",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "80cae00e-7ae3-4544-ae04-6a4807d61e29",
+                "nodeTo": "68ebbe42-8dcb-4166-8b66-d1dac51d85bc",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "68ebbe42-8dcb-4166-8b66-d1dac51d85bc",
+                "nodeTo": "1114e02e-e13a-4654-993a-e7375399a2e8",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "68ebbe42-8dcb-4166-8b66-d1dac51d85bc",
+                "nodeTo": "80a67b44-2eb1-4a14-8488-ca50525772e0",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c8c23edd-db27-4eb4-8517-a8eeba021ed8",
+                "nodeTo": "ed7b82a2-aa92-4a40-98ea-7591eac41e66",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ed7b82a2-aa92-4a40-98ea-7591eac41e66",
+                "nodeTo": "bdc79be9-c247-4ba4-b0db-20c9590024ca",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bdc79be9-c247-4ba4-b0db-20c9590024ca",
+                "nodeTo": "bd8a6e93-3791-44ed-9569-9e1812ee1067",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "bdc79be9-c247-4ba4-b0db-20c9590024ca",
+                "nodeTo": "97c57b94-88b3-4331-8e11-86c355c00346",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "bd8a6e93-3791-44ed-9569-9e1812ee1067",
+                "nodeTo": "6258ba68-e328-4e3c-a977-e9370db59361",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "97c57b94-88b3-4331-8e11-86c355c00346",
+                "nodeTo": "6258ba68-e328-4e3c-a977-e9370db59361",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6258ba68-e328-4e3c-a977-e9370db59361",
+                "nodeTo": "49860506-a691-4895-bbab-65b34dba6647",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "bd8a6e93-3791-44ed-9569-9e1812ee1067",
+                "nodeTo": "431917db-8ac8-4e0e-9c4a-a63517a1c786",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "97c57b94-88b3-4331-8e11-86c355c00346",
+                "nodeTo": "431917db-8ac8-4e0e-9c4a-a63517a1c786",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "431917db-8ac8-4e0e-9c4a-a63517a1c786",
+                "nodeTo": "0dc1cd8b-0243-418a-8907-5bcb9b592379",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0dc1cd8b-0243-418a-8907-5bcb9b592379",
+                "nodeTo": "b08dd50c-9c97-429d-8ed0-18288245ea39",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b08dd50c-9c97-429d-8ed0-18288245ea39",
+                "nodeTo": "1b7686e7-c005-4067-8a14-cb1c05d1559a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b08dd50c-9c97-429d-8ed0-18288245ea39",
+                "nodeTo": "468ddad7-e3d1-4aea-9ab4-b0270296527d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "68ebbe42-8dcb-4166-8b66-d1dac51d85bc",
+                "nodeTo": "6651b35a-6cb8-4735-95db-a4bd4dbbbd0c",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6651b35a-6cb8-4735-95db-a4bd4dbbbd0c",
+                "nodeTo": "acc1ac9c-eb50-41ed-8e85-ca0bd04824be",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "acc1ac9c-eb50-41ed-8e85-ca0bd04824be",
+                "nodeTo": "a7da99e4-a515-4ae8-ab45-8060aabaa833",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a7da99e4-a515-4ae8-ab45-8060aabaa833",
+                "nodeTo": "c8c23edd-db27-4eb4-8517-a8eeba021ed8",
+                "index": 1,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2014-11-06 09:34:47"
+}

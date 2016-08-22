@@ -1,0 +1,130 @@
+{
+    "uuid": 660,
+    "text": "boosting depression causing mechanisms in brain increases resilience",
+    "graph": {
+        "version": 1,
+        "guid": "c196e3e0-3470-4629-8557-8cd0e809deac",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "boosting",
+                "id": "e48a5a16-4497-458b-8541-5d0667d7b342",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "3d66ca7c-c983-45ac-9040-6be4d5dd377d",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "increases",
+                "id": "5a10eb59-37c5-4197-91e1-20e347e3bc38",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "depression",
+                "id": "5023d9e5-bca0-4802-8169-059080b775ec",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "causing",
+                "id": "0de94a8d-2163-48a5-b272-2aa1428a4711",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "mechanisms",
+                "id": "48dde2ba-67c9-42d9-8ac1-c095961a0cd6",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "brain",
+                "id": "b5dc5a56-4ab4-4575-8940-52460a79bca0",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "resilience",
+                "id": "3db86582-7717-46eb-824c-066508ab75b4",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "e48a5a16-4497-458b-8541-5d0667d7b342",
+                "nodeTo": "5023d9e5-bca0-4802-8169-059080b775ec",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e48a5a16-4497-458b-8541-5d0667d7b342",
+                "nodeTo": "0de94a8d-2163-48a5-b272-2aa1428a4711",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e48a5a16-4497-458b-8541-5d0667d7b342",
+                "nodeTo": "48dde2ba-67c9-42d9-8ac1-c095961a0cd6",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5023d9e5-bca0-4802-8169-059080b775ec",
+                "nodeTo": "3d66ca7c-c983-45ac-9040-6be4d5dd377d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0de94a8d-2163-48a5-b272-2aa1428a4711",
+                "nodeTo": "3d66ca7c-c983-45ac-9040-6be4d5dd377d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "48dde2ba-67c9-42d9-8ac1-c095961a0cd6",
+                "nodeTo": "3d66ca7c-c983-45ac-9040-6be4d5dd377d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3d66ca7c-c983-45ac-9040-6be4d5dd377d",
+                "nodeTo": "b5dc5a56-4ab4-4575-8940-52460a79bca0",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5023d9e5-bca0-4802-8169-059080b775ec",
+                "nodeTo": "5a10eb59-37c5-4197-91e1-20e347e3bc38",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0de94a8d-2163-48a5-b272-2aa1428a4711",
+                "nodeTo": "5a10eb59-37c5-4197-91e1-20e347e3bc38",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "48dde2ba-67c9-42d9-8ac1-c095961a0cd6",
+                "nodeTo": "5a10eb59-37c5-4197-91e1-20e347e3bc38",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5a10eb59-37c5-4197-91e1-20e347e3bc38",
+                "nodeTo": "3db86582-7717-46eb-824c-066508ab75b4",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-09 19:00:19"
+}

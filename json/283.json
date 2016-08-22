@@ -1,0 +1,70 @@
+{
+    "uuid": 283,
+    "text": "Adult social care under pressure",
+    "graph": {
+        "version": 1,
+        "guid": "436d43b5-edac-4ee9-9952-b2c51a33b177",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "under",
+                "id": "d9b65297-c52b-4bbc-a0d3-095e7aba5721",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Adult",
+                "id": "d5e14530-4a3c-462e-ae97-9ea21ade691d",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "social",
+                "id": "6236b9d8-5bd1-45ba-a8d6-4c1dc0b2283d",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "care",
+                "id": "69c292a5-a248-414a-9dbd-be626bbe50c2",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "pressure",
+                "id": "e5628416-4719-4514-a2ad-9b3863341600",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "d5e14530-4a3c-462e-ae97-9ea21ade691d",
+                "nodeTo": "d9b65297-c52b-4bbc-a0d3-095e7aba5721",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6236b9d8-5bd1-45ba-a8d6-4c1dc0b2283d",
+                "nodeTo": "d9b65297-c52b-4bbc-a0d3-095e7aba5721",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "69c292a5-a248-414a-9dbd-be626bbe50c2",
+                "nodeTo": "d9b65297-c52b-4bbc-a0d3-095e7aba5721",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d9b65297-c52b-4bbc-a0d3-095e7aba5721",
+                "nodeTo": "e5628416-4719-4514-a2ad-9b3863341600",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-04 09:36:42"
+}

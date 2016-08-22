@@ -1,0 +1,136 @@
+{
+    "uuid": 1219,
+    "text": "computer model helps Benin vaccinate more kids at lower cost",
+    "graph": {
+        "version": 1,
+        "guid": "b731c508-3546-4d39-8485-46ae70b24e2a",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "helps",
+                "id": "a394a063-888d-4b01-9d41-130072a1772e",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "vaccinate",
+                "id": "c1b2dc12-4a24-4ec5-ab09-d3aaa180d909",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "more",
+                "id": "0d154782-baa4-49e5-a9a4-7a8e2368153a",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "at",
+                "id": "bae66538-a8ba-4321-a5b2-35ae964cc5d7",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "computer",
+                "id": "0932d566-b103-4434-ba7b-d60d5d59e805",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "model",
+                "id": "9dd89a44-b6e9-4aaa-a8a5-ca5e947cc4b2",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "Benin",
+                "id": "c268b786-6c11-4d05-be87-8503d99740e1",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "kids",
+                "id": "70e749ec-9507-4509-8eb2-4cd2b085ca5b",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "lower",
+                "id": "4b8a3084-bb96-4961-922c-96292a12c51c",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "cost",
+                "id": "4dd05dd0-21a2-450e-8774-cd4bb2747a39",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "0932d566-b103-4434-ba7b-d60d5d59e805",
+                "nodeTo": "a394a063-888d-4b01-9d41-130072a1772e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9dd89a44-b6e9-4aaa-a8a5-ca5e947cc4b2",
+                "nodeTo": "a394a063-888d-4b01-9d41-130072a1772e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a394a063-888d-4b01-9d41-130072a1772e",
+                "nodeTo": "c268b786-6c11-4d05-be87-8503d99740e1",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c268b786-6c11-4d05-be87-8503d99740e1",
+                "nodeTo": "c1b2dc12-4a24-4ec5-ab09-d3aaa180d909",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c268b786-6c11-4d05-be87-8503d99740e1",
+                "nodeTo": "0d154782-baa4-49e5-a9a4-7a8e2368153a",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c1b2dc12-4a24-4ec5-ab09-d3aaa180d909",
+                "nodeTo": "70e749ec-9507-4509-8eb2-4cd2b085ca5b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0d154782-baa4-49e5-a9a4-7a8e2368153a",
+                "nodeTo": "70e749ec-9507-4509-8eb2-4cd2b085ca5b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "70e749ec-9507-4509-8eb2-4cd2b085ca5b",
+                "nodeTo": "bae66538-a8ba-4321-a5b2-35ae964cc5d7",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bae66538-a8ba-4321-a5b2-35ae964cc5d7",
+                "nodeTo": "4b8a3084-bb96-4961-922c-96292a12c51c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "bae66538-a8ba-4321-a5b2-35ae964cc5d7",
+                "nodeTo": "4dd05dd0-21a2-450e-8774-cd4bb2747a39",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-26 21:20:39"
+}

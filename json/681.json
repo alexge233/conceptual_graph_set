@@ -1,0 +1,106 @@
+{
+    "uuid": 681,
+    "text": "Brain differences in college aged occasional drug users",
+    "graph": {
+        "version": 1,
+        "guid": "d0acaec6-26b1-4d4e-b0ad-a7c3b91ae07c",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "in",
+                "id": "8257c757-7090-4a48-a8de-56a584ca8008",
+                "index": 2,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Brain",
+                "id": "96b448a2-add6-4562-837e-c6eeec2e0cb9",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "differences",
+                "id": "b4ccdeec-8dda-4720-acd4-ae4aeddb3939",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "college",
+                "id": "7aa4c6b0-7d27-49a4-8013-910c035c00c5",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "aged",
+                "id": "a9438920-39bb-4537-ac7c-bc8d284d674a",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "occasional",
+                "id": "07187118-c2a9-415a-b192-e818a7a39e61",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "drug",
+                "id": "c87e3eb2-7a91-4e16-9495-dc37aea16604",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "users",
+                "id": "c67ab5a3-359d-45c6-b189-a8a437a87b8b",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "96b448a2-add6-4562-837e-c6eeec2e0cb9",
+                "nodeTo": "8257c757-7090-4a48-a8de-56a584ca8008",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b4ccdeec-8dda-4720-acd4-ae4aeddb3939",
+                "nodeTo": "8257c757-7090-4a48-a8de-56a584ca8008",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8257c757-7090-4a48-a8de-56a584ca8008",
+                "nodeTo": "7aa4c6b0-7d27-49a4-8013-910c035c00c5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8257c757-7090-4a48-a8de-56a584ca8008",
+                "nodeTo": "a9438920-39bb-4537-ac7c-bc8d284d674a",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8257c757-7090-4a48-a8de-56a584ca8008",
+                "nodeTo": "07187118-c2a9-415a-b192-e818a7a39e61",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8257c757-7090-4a48-a8de-56a584ca8008",
+                "nodeTo": "c87e3eb2-7a91-4e16-9495-dc37aea16604",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8257c757-7090-4a48-a8de-56a584ca8008",
+                "nodeTo": "c67ab5a3-359d-45c6-b189-a8a437a87b8b",
+                "index": 5,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-09 21:29:55"
+}

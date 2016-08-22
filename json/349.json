@@ -1,0 +1,256 @@
+{
+    "uuid": 349,
+    "text": "researchers identified 12 key themes and related terms that came up most often in hit songs",
+    "graph": {
+        "version": 1,
+        "guid": "471033b9-b9b3-4589-8d63-4033269a34b2",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "identified",
+                "id": "3448906b-c181-4571-a1be-eb32ee8ce8b3",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "3b536e59-ac1d-4557-b9c9-d30ce8bc3560",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "came",
+                "id": "3e42eac3-644d-4bdb-9229-66d5366d7019",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "up",
+                "id": "2d8437a0-ec45-4421-8642-2c9b68b1127c",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "50191ed6-9ace-46e4-992d-48d185e86845",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "researchers",
+                "id": "1c63c217-2a8c-4c03-ade9-3b4452018973",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": 12,
+                "id": "b3928628-7a7a-4530-aaad-30ed6d20e05a",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "key",
+                "id": "7cd4094c-e812-4cd0-a65d-dba063edab2c",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "themes",
+                "id": "381d0622-67a9-4296-9526-408aec29a228",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "related",
+                "id": "335ac551-94ed-44d9-80c6-ee1ce6d37652",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "terms",
+                "id": "4a9d17ad-ec25-4c8c-8960-64268dcd2457",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "that",
+                "id": "c2583247-e0e1-41ea-b905-086e28382139",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "most",
+                "id": "b20874e0-1adb-47bd-b358-73677930695b",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "often",
+                "id": "41115767-be8e-4455-940d-c632a71253d3",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "hit",
+                "id": "67d2cee8-2578-4988-9614-3e921c77bbb4",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "songs",
+                "id": "4cb122c3-ac71-4e11-bc20-25610dea7843",
+                "index": 15,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "1c63c217-2a8c-4c03-ade9-3b4452018973",
+                "nodeTo": "3448906b-c181-4571-a1be-eb32ee8ce8b3",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3448906b-c181-4571-a1be-eb32ee8ce8b3",
+                "nodeTo": "b3928628-7a7a-4530-aaad-30ed6d20e05a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3448906b-c181-4571-a1be-eb32ee8ce8b3",
+                "nodeTo": "7cd4094c-e812-4cd0-a65d-dba063edab2c",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3448906b-c181-4571-a1be-eb32ee8ce8b3",
+                "nodeTo": "381d0622-67a9-4296-9526-408aec29a228",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b3928628-7a7a-4530-aaad-30ed6d20e05a",
+                "nodeTo": "3b536e59-ac1d-4557-b9c9-d30ce8bc3560",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7cd4094c-e812-4cd0-a65d-dba063edab2c",
+                "nodeTo": "3b536e59-ac1d-4557-b9c9-d30ce8bc3560",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "381d0622-67a9-4296-9526-408aec29a228",
+                "nodeTo": "3b536e59-ac1d-4557-b9c9-d30ce8bc3560",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3b536e59-ac1d-4557-b9c9-d30ce8bc3560",
+                "nodeTo": "335ac551-94ed-44d9-80c6-ee1ce6d37652",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3b536e59-ac1d-4557-b9c9-d30ce8bc3560",
+                "nodeTo": "4a9d17ad-ec25-4c8c-8960-64268dcd2457",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3b536e59-ac1d-4557-b9c9-d30ce8bc3560",
+                "nodeTo": "c2583247-e0e1-41ea-b905-086e28382139",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "335ac551-94ed-44d9-80c6-ee1ce6d37652",
+                "nodeTo": "3e42eac3-644d-4bdb-9229-66d5366d7019",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4a9d17ad-ec25-4c8c-8960-64268dcd2457",
+                "nodeTo": "3e42eac3-644d-4bdb-9229-66d5366d7019",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c2583247-e0e1-41ea-b905-086e28382139",
+                "nodeTo": "3e42eac3-644d-4bdb-9229-66d5366d7019",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "335ac551-94ed-44d9-80c6-ee1ce6d37652",
+                "nodeTo": "2d8437a0-ec45-4421-8642-2c9b68b1127c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4a9d17ad-ec25-4c8c-8960-64268dcd2457",
+                "nodeTo": "2d8437a0-ec45-4421-8642-2c9b68b1127c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c2583247-e0e1-41ea-b905-086e28382139",
+                "nodeTo": "2d8437a0-ec45-4421-8642-2c9b68b1127c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3e42eac3-644d-4bdb-9229-66d5366d7019",
+                "nodeTo": "b20874e0-1adb-47bd-b358-73677930695b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3e42eac3-644d-4bdb-9229-66d5366d7019",
+                "nodeTo": "41115767-be8e-4455-940d-c632a71253d3",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2d8437a0-ec45-4421-8642-2c9b68b1127c",
+                "nodeTo": "b20874e0-1adb-47bd-b358-73677930695b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2d8437a0-ec45-4421-8642-2c9b68b1127c",
+                "nodeTo": "41115767-be8e-4455-940d-c632a71253d3",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b20874e0-1adb-47bd-b358-73677930695b",
+                "nodeTo": "50191ed6-9ace-46e4-992d-48d185e86845",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "41115767-be8e-4455-940d-c632a71253d3",
+                "nodeTo": "50191ed6-9ace-46e4-992d-48d185e86845",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "50191ed6-9ace-46e4-992d-48d185e86845",
+                "nodeTo": "67d2cee8-2578-4988-9614-3e921c77bbb4",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "50191ed6-9ace-46e4-992d-48d185e86845",
+                "nodeTo": "4cb122c3-ac71-4e11-bc20-25610dea7843",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-15 20:25:58"
+}

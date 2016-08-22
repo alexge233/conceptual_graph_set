@@ -1,0 +1,118 @@
+{
+    "uuid": 1169,
+    "text": "common obesity gene contributes to weight gain",
+    "graph": {
+        "version": 1,
+        "guid": "dde43b72-0965-45e9-973e-43b2544c3d2c",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "contributes",
+                "id": "b538aba6-d6bd-40ce-b029-a98c56e6d67d",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "cb5cc238-1761-4e4a-ba82-ea650b6ed784",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "common",
+                "id": "3edd60d3-e3bc-4cca-abba-2a93e37e9453",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "obesity",
+                "id": "bc4bb403-37aa-41d1-bdad-98bd9e5becb4",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "gene",
+                "id": "77d3456a-bc31-435c-8779-d9aadc3a85a4",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "weight",
+                "id": "ce31274c-9726-48a1-916c-951aec6e959b",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "gain",
+                "id": "2da0c43b-6243-44e6-a885-80cc281e5c60",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "3edd60d3-e3bc-4cca-abba-2a93e37e9453",
+                "nodeTo": "b538aba6-d6bd-40ce-b029-a98c56e6d67d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bc4bb403-37aa-41d1-bdad-98bd9e5becb4",
+                "nodeTo": "b538aba6-d6bd-40ce-b029-a98c56e6d67d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "77d3456a-bc31-435c-8779-d9aadc3a85a4",
+                "nodeTo": "b538aba6-d6bd-40ce-b029-a98c56e6d67d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3edd60d3-e3bc-4cca-abba-2a93e37e9453",
+                "nodeTo": "cb5cc238-1761-4e4a-ba82-ea650b6ed784",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bc4bb403-37aa-41d1-bdad-98bd9e5becb4",
+                "nodeTo": "cb5cc238-1761-4e4a-ba82-ea650b6ed784",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "77d3456a-bc31-435c-8779-d9aadc3a85a4",
+                "nodeTo": "cb5cc238-1761-4e4a-ba82-ea650b6ed784",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b538aba6-d6bd-40ce-b029-a98c56e6d67d",
+                "nodeTo": "ce31274c-9726-48a1-916c-951aec6e959b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "cb5cc238-1761-4e4a-ba82-ea650b6ed784",
+                "nodeTo": "ce31274c-9726-48a1-916c-951aec6e959b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b538aba6-d6bd-40ce-b029-a98c56e6d67d",
+                "nodeTo": "2da0c43b-6243-44e6-a885-80cc281e5c60",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "cb5cc238-1761-4e4a-ba82-ea650b6ed784",
+                "nodeTo": "2da0c43b-6243-44e6-a885-80cc281e5c60",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-24 23:56:26"
+}

@@ -1,0 +1,256 @@
+{
+    "uuid": 63,
+    "text": "Severely ill patients and those with rare debilitating conditions could be given new medicines years before they are licensed",
+    "graph": {
+        "version": 1,
+        "guid": "98ed7592-22e1-4dc1-aac8-5288e8230a91",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "Severely",
+                "id": "90530508-094e-4748-a10d-7070995bd9bc",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "738ade1b-577a-4608-b542-282d6ecb9c08",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "with",
+                "id": "74704ab7-63ad-49d7-830d-398d20b657e2",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "rare",
+                "id": "121c313b-4419-4530-a2cc-4c903287d0ed",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "could",
+                "id": "729b083c-b501-4324-97be-d6787a82e969",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "given",
+                "id": "09d8586d-7e7b-42e9-9383-b2a5c2068703",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "before",
+                "id": "5572d105-aeb9-4d6b-b04d-2da0843a15a3",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "are",
+                "id": "48926cc7-3972-4b01-99c6-a5b7cc5d1ded",
+                "index": 17,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "ill",
+                "id": "46d91e2b-9947-412e-a35a-a0350ad79d7b",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "patients",
+                "id": "ec744e85-bd7c-45c6-870c-de08c2dbc277",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "those",
+                "id": "db445767-2641-40d5-939e-de92914d4424",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "debilitating",
+                "id": "e8aa1ad0-de01-4ba3-86da-1349c9cd5358",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "conditions",
+                "id": "709c7eb8-be44-437e-9d87-7ee7d2b3ce46",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "be",
+                "id": "621c5ec9-14bd-489b-8d8c-adbbccb5144b",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "new",
+                "id": "48ab31ca-6449-4352-b898-ecea7bb734ea",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "medicines",
+                "id": "3d7c05ab-e841-4657-9a22-1482e9594533",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "years",
+                "id": "01d1975a-d230-4591-8b5d-ace3a92bd64c",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "they",
+                "id": "b40ecab0-a7dd-4773-90c2-d4918883dad3",
+                "index": 16,
+                "postag": "NA"
+            },
+            {
+                "label": "licensed",
+                "id": "d3081d86-8c37-459b-8c5a-431481e5ec27",
+                "index": 18,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "90530508-094e-4748-a10d-7070995bd9bc",
+                "nodeTo": "46d91e2b-9947-412e-a35a-a0350ad79d7b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "46d91e2b-9947-412e-a35a-a0350ad79d7b",
+                "nodeTo": "738ade1b-577a-4608-b542-282d6ecb9c08",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ec744e85-bd7c-45c6-870c-de08c2dbc277",
+                "nodeTo": "738ade1b-577a-4608-b542-282d6ecb9c08",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "738ade1b-577a-4608-b542-282d6ecb9c08",
+                "nodeTo": "db445767-2641-40d5-939e-de92914d4424",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "db445767-2641-40d5-939e-de92914d4424",
+                "nodeTo": "74704ab7-63ad-49d7-830d-398d20b657e2",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "74704ab7-63ad-49d7-830d-398d20b657e2",
+                "nodeTo": "e8aa1ad0-de01-4ba3-86da-1349c9cd5358",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "74704ab7-63ad-49d7-830d-398d20b657e2",
+                "nodeTo": "709c7eb8-be44-437e-9d87-7ee7d2b3ce46",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "121c313b-4419-4530-a2cc-4c903287d0ed",
+                "nodeTo": "709c7eb8-be44-437e-9d87-7ee7d2b3ce46",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "121c313b-4419-4530-a2cc-4c903287d0ed",
+                "nodeTo": "e8aa1ad0-de01-4ba3-86da-1349c9cd5358",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "46d91e2b-9947-412e-a35a-a0350ad79d7b",
+                "nodeTo": "729b083c-b501-4324-97be-d6787a82e969",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ec744e85-bd7c-45c6-870c-de08c2dbc277",
+                "nodeTo": "729b083c-b501-4324-97be-d6787a82e969",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "db445767-2641-40d5-939e-de92914d4424",
+                "nodeTo": "729b083c-b501-4324-97be-d6787a82e969",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "729b083c-b501-4324-97be-d6787a82e969",
+                "nodeTo": "621c5ec9-14bd-489b-8d8c-adbbccb5144b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "621c5ec9-14bd-489b-8d8c-adbbccb5144b",
+                "nodeTo": "09d8586d-7e7b-42e9-9383-b2a5c2068703",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "09d8586d-7e7b-42e9-9383-b2a5c2068703",
+                "nodeTo": "48ab31ca-6449-4352-b898-ecea7bb734ea",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "09d8586d-7e7b-42e9-9383-b2a5c2068703",
+                "nodeTo": "3d7c05ab-e841-4657-9a22-1482e9594533",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "01d1975a-d230-4591-8b5d-ace3a92bd64c",
+                "nodeTo": "5572d105-aeb9-4d6b-b04d-2da0843a15a3",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b40ecab0-a7dd-4773-90c2-d4918883dad3",
+                "nodeTo": "48926cc7-3972-4b01-99c6-a5b7cc5d1ded",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "48926cc7-3972-4b01-99c6-a5b7cc5d1ded",
+                "nodeTo": "d3081d86-8c37-459b-8c5a-431481e5ec27",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5572d105-aeb9-4d6b-b04d-2da0843a15a3",
+                "nodeTo": "b40ecab0-a7dd-4773-90c2-d4918883dad3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "09d8586d-7e7b-42e9-9383-b2a5c2068703",
+                "nodeTo": "01d1975a-d230-4591-8b5d-ace3a92bd64c",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-10-23 20:20:05"
+}

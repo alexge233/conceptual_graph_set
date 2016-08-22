@@ -1,0 +1,202 @@
+{
+    "uuid": 954,
+    "text": "after she retired from her job as medical transcriptionist Elaine Savage grew isolated",
+    "graph": {
+        "version": 1,
+        "guid": "6e8d441c-a353-40d5-b664-d412912567ec",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "after",
+                "id": "ee4035cd-70a8-4705-a31a-be34497ca0b5",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "retired",
+                "id": "b3421916-597c-4eed-93b5-0d77a5c384ae",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "from",
+                "id": "ea855d30-e07e-45a0-95e0-b8e7b25c9924",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "as",
+                "id": "2b202244-2331-48b3-accc-c0c34e394b11",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "grew",
+                "id": "23e13ae5-66b0-4801-8cb4-88a5b2451c93",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "she",
+                "id": "e187e536-0dbb-4e06-98e8-9aad94275023",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "her",
+                "id": "21677b16-6d96-461e-b209-3043135deb93",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "job",
+                "id": "8e47a9c8-1b7e-4d6b-bd1d-699880c96480",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "medical",
+                "id": "053d2ab9-e0ba-448b-9915-6daa23a78826",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "transcriptionist",
+                "id": "bb0c6153-0bc2-4938-9d97-a0868b41695e",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "Elaine",
+                "id": "be11c91e-1d7c-4481-81a6-4ace580ae536",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "Savage",
+                "id": "39317c0b-b738-4362-98e6-334a78990604",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "isolated",
+                "id": "7d21c9ba-26b2-49ce-8925-c7e294164e6a",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "ee4035cd-70a8-4705-a31a-be34497ca0b5",
+                "nodeTo": "e187e536-0dbb-4e06-98e8-9aad94275023",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e187e536-0dbb-4e06-98e8-9aad94275023",
+                "nodeTo": "b3421916-597c-4eed-93b5-0d77a5c384ae",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e187e536-0dbb-4e06-98e8-9aad94275023",
+                "nodeTo": "ea855d30-e07e-45a0-95e0-b8e7b25c9924",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b3421916-597c-4eed-93b5-0d77a5c384ae",
+                "nodeTo": "21677b16-6d96-461e-b209-3043135deb93",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ea855d30-e07e-45a0-95e0-b8e7b25c9924",
+                "nodeTo": "21677b16-6d96-461e-b209-3043135deb93",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b3421916-597c-4eed-93b5-0d77a5c384ae",
+                "nodeTo": "8e47a9c8-1b7e-4d6b-bd1d-699880c96480",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ea855d30-e07e-45a0-95e0-b8e7b25c9924",
+                "nodeTo": "8e47a9c8-1b7e-4d6b-bd1d-699880c96480",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "21677b16-6d96-461e-b209-3043135deb93",
+                "nodeTo": "2b202244-2331-48b3-accc-c0c34e394b11",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8e47a9c8-1b7e-4d6b-bd1d-699880c96480",
+                "nodeTo": "2b202244-2331-48b3-accc-c0c34e394b11",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2b202244-2331-48b3-accc-c0c34e394b11",
+                "nodeTo": "053d2ab9-e0ba-448b-9915-6daa23a78826",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2b202244-2331-48b3-accc-c0c34e394b11",
+                "nodeTo": "bb0c6153-0bc2-4938-9d97-a0868b41695e",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b3421916-597c-4eed-93b5-0d77a5c384ae",
+                "nodeTo": "be11c91e-1d7c-4481-81a6-4ace580ae536",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b3421916-597c-4eed-93b5-0d77a5c384ae",
+                "nodeTo": "39317c0b-b738-4362-98e6-334a78990604",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ea855d30-e07e-45a0-95e0-b8e7b25c9924",
+                "nodeTo": "be11c91e-1d7c-4481-81a6-4ace580ae536",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ea855d30-e07e-45a0-95e0-b8e7b25c9924",
+                "nodeTo": "39317c0b-b738-4362-98e6-334a78990604",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "be11c91e-1d7c-4481-81a6-4ace580ae536",
+                "nodeTo": "23e13ae5-66b0-4801-8cb4-88a5b2451c93",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "39317c0b-b738-4362-98e6-334a78990604",
+                "nodeTo": "23e13ae5-66b0-4801-8cb4-88a5b2451c93",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "23e13ae5-66b0-4801-8cb4-88a5b2451c93",
+                "nodeTo": "7d21c9ba-26b2-49ce-8925-c7e294164e6a",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-26 14:11:31"
+}

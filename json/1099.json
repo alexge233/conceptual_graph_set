@@ -1,0 +1,130 @@
+{
+    "uuid": 1099,
+    "text": "clinical trial results inconsistently reported among journals",
+    "graph": {
+        "version": 1,
+        "guid": "925a39c1-680b-41dc-9dd3-8e88c3a0849a",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "inconsistently",
+                "id": "b08b4adb-75a6-4d09-8471-d2533b577474",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "reported",
+                "id": "799eb077-950e-4d7e-b240-8b69b12405b3",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "among",
+                "id": "e508caed-14bd-42e2-a239-cea34a266579",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "clinical",
+                "id": "bdeaec1d-a241-47d8-b2ae-d7666b83193b",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "trial",
+                "id": "5bd52d47-9bd0-42bb-bd7d-72767d23238b",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "results",
+                "id": "6525abd1-472c-4b43-ab8c-7b39de545679",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "journals",
+                "id": "46834ad3-0603-4a8c-a843-60bb15d64b5d",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "bdeaec1d-a241-47d8-b2ae-d7666b83193b",
+                "nodeTo": "b08b4adb-75a6-4d09-8471-d2533b577474",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5bd52d47-9bd0-42bb-bd7d-72767d23238b",
+                "nodeTo": "b08b4adb-75a6-4d09-8471-d2533b577474",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6525abd1-472c-4b43-ab8c-7b39de545679",
+                "nodeTo": "b08b4adb-75a6-4d09-8471-d2533b577474",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bdeaec1d-a241-47d8-b2ae-d7666b83193b",
+                "nodeTo": "799eb077-950e-4d7e-b240-8b69b12405b3",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5bd52d47-9bd0-42bb-bd7d-72767d23238b",
+                "nodeTo": "799eb077-950e-4d7e-b240-8b69b12405b3",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6525abd1-472c-4b43-ab8c-7b39de545679",
+                "nodeTo": "799eb077-950e-4d7e-b240-8b69b12405b3",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bdeaec1d-a241-47d8-b2ae-d7666b83193b",
+                "nodeTo": "e508caed-14bd-42e2-a239-cea34a266579",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5bd52d47-9bd0-42bb-bd7d-72767d23238b",
+                "nodeTo": "e508caed-14bd-42e2-a239-cea34a266579",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6525abd1-472c-4b43-ab8c-7b39de545679",
+                "nodeTo": "e508caed-14bd-42e2-a239-cea34a266579",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b08b4adb-75a6-4d09-8471-d2533b577474",
+                "nodeTo": "46834ad3-0603-4a8c-a843-60bb15d64b5d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "799eb077-950e-4d7e-b240-8b69b12405b3",
+                "nodeTo": "46834ad3-0603-4a8c-a843-60bb15d64b5d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e508caed-14bd-42e2-a239-cea34a266579",
+                "nodeTo": "46834ad3-0603-4a8c-a843-60bb15d64b5d",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-11 23:57:01"
+}

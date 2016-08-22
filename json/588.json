@@ -1,0 +1,184 @@
+{
+    "uuid": 588,
+    "text": "Biomarker test for Peripartum Cardiomyopathy could help reduce death after giving birth",
+    "graph": {
+        "version": 1,
+        "guid": "60b6c101-263d-423a-93da-b11298b3eead",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "for",
+                "id": "462b1886-7140-424c-9edd-980e65cc4eee",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "could",
+                "id": "7e9300c0-bc6b-4da1-8d24-7c075ccd7a05",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "help",
+                "id": "acd7e60c-c048-4752-ae45-1583232bde8e",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "reduce",
+                "id": "893d0e44-c162-4915-9ed9-5d6b5c625d84",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "after",
+                "id": "ad5a277a-6cc7-4dc5-9cda-ba0c7db71eae",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Biomarker",
+                "id": "b160ac81-895b-4eb1-bb01-c24bad3a2e3b",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "test",
+                "id": "ab5dd6a7-49bb-4537-8eec-a99124358ae1",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "Peripartum",
+                "id": "b4be79b7-b3a0-4148-8c9e-89517a3ddade",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "Cardiomyopathy",
+                "id": "b8c31086-5022-4ab2-9566-5946287535e0",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "death",
+                "id": "d9ca4acb-4283-4d09-a0a5-226c67702043",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "giving",
+                "id": "330a2b8b-c344-460d-96e0-859e454d9e4a",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "birth",
+                "id": "8cee79c4-9ca1-4d41-ad8e-2e9c0ad1bc79",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "b160ac81-895b-4eb1-bb01-c24bad3a2e3b",
+                "nodeTo": "462b1886-7140-424c-9edd-980e65cc4eee",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ab5dd6a7-49bb-4537-8eec-a99124358ae1",
+                "nodeTo": "462b1886-7140-424c-9edd-980e65cc4eee",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "462b1886-7140-424c-9edd-980e65cc4eee",
+                "nodeTo": "b4be79b7-b3a0-4148-8c9e-89517a3ddade",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "462b1886-7140-424c-9edd-980e65cc4eee",
+                "nodeTo": "b8c31086-5022-4ab2-9566-5946287535e0",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b160ac81-895b-4eb1-bb01-c24bad3a2e3b",
+                "nodeTo": "7e9300c0-bc6b-4da1-8d24-7c075ccd7a05",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b160ac81-895b-4eb1-bb01-c24bad3a2e3b",
+                "nodeTo": "acd7e60c-c048-4752-ae45-1583232bde8e",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b160ac81-895b-4eb1-bb01-c24bad3a2e3b",
+                "nodeTo": "893d0e44-c162-4915-9ed9-5d6b5c625d84",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ab5dd6a7-49bb-4537-8eec-a99124358ae1",
+                "nodeTo": "7e9300c0-bc6b-4da1-8d24-7c075ccd7a05",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ab5dd6a7-49bb-4537-8eec-a99124358ae1",
+                "nodeTo": "acd7e60c-c048-4752-ae45-1583232bde8e",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ab5dd6a7-49bb-4537-8eec-a99124358ae1",
+                "nodeTo": "893d0e44-c162-4915-9ed9-5d6b5c625d84",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7e9300c0-bc6b-4da1-8d24-7c075ccd7a05",
+                "nodeTo": "d9ca4acb-4283-4d09-a0a5-226c67702043",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "acd7e60c-c048-4752-ae45-1583232bde8e",
+                "nodeTo": "d9ca4acb-4283-4d09-a0a5-226c67702043",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "893d0e44-c162-4915-9ed9-5d6b5c625d84",
+                "nodeTo": "d9ca4acb-4283-4d09-a0a5-226c67702043",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d9ca4acb-4283-4d09-a0a5-226c67702043",
+                "nodeTo": "ad5a277a-6cc7-4dc5-9cda-ba0c7db71eae",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ad5a277a-6cc7-4dc5-9cda-ba0c7db71eae",
+                "nodeTo": "330a2b8b-c344-460d-96e0-859e454d9e4a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ad5a277a-6cc7-4dc5-9cda-ba0c7db71eae",
+                "nodeTo": "8cee79c4-9ca1-4d41-ad8e-2e9c0ad1bc79",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-07 21:19:56"
+}

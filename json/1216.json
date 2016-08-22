@@ -1,0 +1,226 @@
+{
+    "uuid": 1216,
+    "text": "new prototypic compounds have potential to one day serve as broad spectrum antiviral drugs",
+    "graph": {
+        "version": 1,
+        "guid": "23ab4a0b-22ea-4ddc-9460-1913a8daedc0",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "have",
+                "id": "37ec8bcd-2769-464e-bb03-b6b60c303a9d",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "5b00b477-3547-4ad6-8433-db799893aeb3",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "serve",
+                "id": "41c417c2-d09e-4922-8932-dd9d835a202e",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "as",
+                "id": "6743d7b8-3daa-4e54-9e99-b94d58b09800",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "new",
+                "id": "98e89054-4a9d-401d-9bba-c9c3637c3a2a",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "prototypic",
+                "id": "a279654d-ba96-40d4-80bb-93d1917e1552",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "compounds",
+                "id": "0d1b8837-4025-4d33-9c1a-a85368a24b7a",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "potential",
+                "id": "412b2b35-376e-437c-8466-4d7dc86d3b33",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "one",
+                "id": "beeea271-818e-4933-918d-bd34a948449d",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "day",
+                "id": "ade3da9a-b67c-4d41-ae27-d075006eb52b",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "broad",
+                "id": "4b022c1a-c08b-4b87-9b9c-a0688261939a",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "spectrum",
+                "id": "903019d5-83e3-409b-9a8d-2048e89caba4",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "antiviral",
+                "id": "de75016a-e5ea-43c7-aa72-1ccc38c0dd39",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "drugs",
+                "id": "1c563485-1335-4428-acb4-50ec9a8a6055",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "98e89054-4a9d-401d-9bba-c9c3637c3a2a",
+                "nodeTo": "37ec8bcd-2769-464e-bb03-b6b60c303a9d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a279654d-ba96-40d4-80bb-93d1917e1552",
+                "nodeTo": "37ec8bcd-2769-464e-bb03-b6b60c303a9d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0d1b8837-4025-4d33-9c1a-a85368a24b7a",
+                "nodeTo": "37ec8bcd-2769-464e-bb03-b6b60c303a9d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "37ec8bcd-2769-464e-bb03-b6b60c303a9d",
+                "nodeTo": "412b2b35-376e-437c-8466-4d7dc86d3b33",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "412b2b35-376e-437c-8466-4d7dc86d3b33",
+                "nodeTo": "5b00b477-3547-4ad6-8433-db799893aeb3",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5b00b477-3547-4ad6-8433-db799893aeb3",
+                "nodeTo": "beeea271-818e-4933-918d-bd34a948449d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5b00b477-3547-4ad6-8433-db799893aeb3",
+                "nodeTo": "ade3da9a-b67c-4d41-ae27-d075006eb52b",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "412b2b35-376e-437c-8466-4d7dc86d3b33",
+                "nodeTo": "41c417c2-d09e-4922-8932-dd9d835a202e",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "412b2b35-376e-437c-8466-4d7dc86d3b33",
+                "nodeTo": "6743d7b8-3daa-4e54-9e99-b94d58b09800",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5b00b477-3547-4ad6-8433-db799893aeb3",
+                "nodeTo": "4b022c1a-c08b-4b87-9b9c-a0688261939a",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "41c417c2-d09e-4922-8932-dd9d835a202e",
+                "nodeTo": "4b022c1a-c08b-4b87-9b9c-a0688261939a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6743d7b8-3daa-4e54-9e99-b94d58b09800",
+                "nodeTo": "4b022c1a-c08b-4b87-9b9c-a0688261939a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5b00b477-3547-4ad6-8433-db799893aeb3",
+                "nodeTo": "903019d5-83e3-409b-9a8d-2048e89caba4",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "41c417c2-d09e-4922-8932-dd9d835a202e",
+                "nodeTo": "903019d5-83e3-409b-9a8d-2048e89caba4",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6743d7b8-3daa-4e54-9e99-b94d58b09800",
+                "nodeTo": "903019d5-83e3-409b-9a8d-2048e89caba4",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5b00b477-3547-4ad6-8433-db799893aeb3",
+                "nodeTo": "de75016a-e5ea-43c7-aa72-1ccc38c0dd39",
+                "index": 5,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "41c417c2-d09e-4922-8932-dd9d835a202e",
+                "nodeTo": "de75016a-e5ea-43c7-aa72-1ccc38c0dd39",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6743d7b8-3daa-4e54-9e99-b94d58b09800",
+                "nodeTo": "de75016a-e5ea-43c7-aa72-1ccc38c0dd39",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5b00b477-3547-4ad6-8433-db799893aeb3",
+                "nodeTo": "1c563485-1335-4428-acb4-50ec9a8a6055",
+                "index": 6,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "41c417c2-d09e-4922-8932-dd9d835a202e",
+                "nodeTo": "1c563485-1335-4428-acb4-50ec9a8a6055",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6743d7b8-3daa-4e54-9e99-b94d58b09800",
+                "nodeTo": "1c563485-1335-4428-acb4-50ec9a8a6055",
+                "index": 4,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-26 21:12:24"
+}

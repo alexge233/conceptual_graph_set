@@ -1,0 +1,172 @@
+{
+    "uuid": 841,
+    "text": "Genetic landscape of rare cancer acts as guide for future clinical trials",
+    "graph": {
+        "version": 1,
+        "guid": "5aa01676-3bd1-4dbc-ab92-548579c86655",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "of",
+                "id": "28aee43a-cd17-4bd5-bd8e-1546596062a0",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "acts",
+                "id": "c5baa7bb-c864-4d20-9c7b-da8294ca0162",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "as",
+                "id": "677876b8-3146-41b2-8e68-cde391683696",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "42218cc4-97e9-4e83-bcdc-66b2313ca3aa",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Genetic",
+                "id": "260e265c-0193-47dd-a655-c99ed43244e5",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "landscape",
+                "id": "79ba1082-18d1-4139-a452-9863d4b0575c",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "rare",
+                "id": "2dbc3a38-025b-486b-a3ce-58780b0aa97d",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "cancer",
+                "id": "0c89eba7-398d-4c3e-94b9-6180ca8c0cbe",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "guide",
+                "id": "9db31b0d-2a46-424a-8943-a8e07e06ec40",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "future",
+                "id": "70369b7e-dc9b-496a-90b8-64b6210aa639",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "clinical",
+                "id": "3814e894-3b6e-4d06-aa95-2b77ed766276",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "trials",
+                "id": "45660598-746b-45bd-8787-aac9d1383bd7",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "260e265c-0193-47dd-a655-c99ed43244e5",
+                "nodeTo": "28aee43a-cd17-4bd5-bd8e-1546596062a0",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "79ba1082-18d1-4139-a452-9863d4b0575c",
+                "nodeTo": "28aee43a-cd17-4bd5-bd8e-1546596062a0",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "28aee43a-cd17-4bd5-bd8e-1546596062a0",
+                "nodeTo": "2dbc3a38-025b-486b-a3ce-58780b0aa97d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "28aee43a-cd17-4bd5-bd8e-1546596062a0",
+                "nodeTo": "0c89eba7-398d-4c3e-94b9-6180ca8c0cbe",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "260e265c-0193-47dd-a655-c99ed43244e5",
+                "nodeTo": "c5baa7bb-c864-4d20-9c7b-da8294ca0162",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "79ba1082-18d1-4139-a452-9863d4b0575c",
+                "nodeTo": "c5baa7bb-c864-4d20-9c7b-da8294ca0162",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "260e265c-0193-47dd-a655-c99ed43244e5",
+                "nodeTo": "677876b8-3146-41b2-8e68-cde391683696",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "79ba1082-18d1-4139-a452-9863d4b0575c",
+                "nodeTo": "677876b8-3146-41b2-8e68-cde391683696",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c5baa7bb-c864-4d20-9c7b-da8294ca0162",
+                "nodeTo": "9db31b0d-2a46-424a-8943-a8e07e06ec40",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "677876b8-3146-41b2-8e68-cde391683696",
+                "nodeTo": "9db31b0d-2a46-424a-8943-a8e07e06ec40",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9db31b0d-2a46-424a-8943-a8e07e06ec40",
+                "nodeTo": "42218cc4-97e9-4e83-bcdc-66b2313ca3aa",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "42218cc4-97e9-4e83-bcdc-66b2313ca3aa",
+                "nodeTo": "70369b7e-dc9b-496a-90b8-64b6210aa639",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "42218cc4-97e9-4e83-bcdc-66b2313ca3aa",
+                "nodeTo": "3814e894-3b6e-4d06-aa95-2b77ed766276",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "42218cc4-97e9-4e83-bcdc-66b2313ca3aa",
+                "nodeTo": "45660598-746b-45bd-8787-aac9d1383bd7",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-16 20:56:54"
+}

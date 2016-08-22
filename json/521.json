@@ -1,0 +1,82 @@
+{
+    "uuid": 521,
+    "text": "Beard trend guided by evolution",
+    "graph": {
+        "version": 1,
+        "guid": "b7330702-6c8a-4613-9eb7-4a76aae93de7",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "guided",
+                "id": "3c79d092-ac93-4b91-9c13-ce3205a7177c",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "by",
+                "id": "99e4bd4e-2169-4b28-8a35-2a63a9534c70",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Beard",
+                "id": "8c7e9040-0dda-499c-ba76-d36c6dc8951d",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "trend",
+                "id": "1736a420-aca9-4cd7-8ee4-7bb29b68210d",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "evolution",
+                "id": "441c494a-a92d-407c-b04c-dd35398a7b65",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "8c7e9040-0dda-499c-ba76-d36c6dc8951d",
+                "nodeTo": "3c79d092-ac93-4b91-9c13-ce3205a7177c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1736a420-aca9-4cd7-8ee4-7bb29b68210d",
+                "nodeTo": "3c79d092-ac93-4b91-9c13-ce3205a7177c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8c7e9040-0dda-499c-ba76-d36c6dc8951d",
+                "nodeTo": "99e4bd4e-2169-4b28-8a35-2a63a9534c70",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1736a420-aca9-4cd7-8ee4-7bb29b68210d",
+                "nodeTo": "99e4bd4e-2169-4b28-8a35-2a63a9534c70",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3c79d092-ac93-4b91-9c13-ce3205a7177c",
+                "nodeTo": "441c494a-a92d-407c-b04c-dd35398a7b65",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "99e4bd4e-2169-4b28-8a35-2a63a9534c70",
+                "nodeTo": "441c494a-a92d-407c-b04c-dd35398a7b65",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-24 17:06:56"
+}

@@ -1,0 +1,196 @@
+{
+    "uuid": 352,
+    "text": "In order to investigate inflammation tumors or stem cells medical practitioners analyze living cells",
+    "graph": {
+        "version": 1,
+        "guid": "69a2ce9b-1662-4002-b461-9d1782e72317",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "In",
+                "id": "53cc45a4-93a0-4421-9b37-ba2c80978481",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "investigate",
+                "id": "a9caa2a6-3572-4bc2-9580-d8114c536453",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "or",
+                "id": "2b725968-2461-422b-823d-d6129a9e63aa",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "analyze",
+                "id": "0506e9c9-0e8e-4cab-b4d2-4ca24552678c",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "order",
+                "id": "14dd82a2-ed69-44d6-8926-3cdaa40bc63d",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "824148c6-445b-4bdb-82b4-3e4a70938047",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "inflammation",
+                "id": "c18dd0aa-4e93-41de-9bc0-85d766568d60",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "tumors",
+                "id": "e8542431-410e-4d4d-8725-79dcd6acb953",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "stem",
+                "id": "e6900c82-977d-447e-9228-ad18b78dab5d",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "cells",
+                "id": "6301b8c6-9681-4199-bd0a-cd852719a887",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "medical",
+                "id": "77edb8c1-1a79-496c-8a26-aee07da90d33",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "practitioners",
+                "id": "ac7447b6-1500-43ad-a1a7-33632deb3d0c",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "living",
+                "id": "a8ede999-b88e-4a7d-9298-681b23694d60",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "cells",
+                "id": "3542dc98-7b36-409b-891e-a5aaa5c84b00",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "53cc45a4-93a0-4421-9b37-ba2c80978481",
+                "nodeTo": "14dd82a2-ed69-44d6-8926-3cdaa40bc63d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "53cc45a4-93a0-4421-9b37-ba2c80978481",
+                "nodeTo": "824148c6-445b-4bdb-82b4-3e4a70938047",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "14dd82a2-ed69-44d6-8926-3cdaa40bc63d",
+                "nodeTo": "a9caa2a6-3572-4bc2-9580-d8114c536453",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "824148c6-445b-4bdb-82b4-3e4a70938047",
+                "nodeTo": "a9caa2a6-3572-4bc2-9580-d8114c536453",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a9caa2a6-3572-4bc2-9580-d8114c536453",
+                "nodeTo": "c18dd0aa-4e93-41de-9bc0-85d766568d60",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a9caa2a6-3572-4bc2-9580-d8114c536453",
+                "nodeTo": "e8542431-410e-4d4d-8725-79dcd6acb953",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c18dd0aa-4e93-41de-9bc0-85d766568d60",
+                "nodeTo": "2b725968-2461-422b-823d-d6129a9e63aa",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e8542431-410e-4d4d-8725-79dcd6acb953",
+                "nodeTo": "2b725968-2461-422b-823d-d6129a9e63aa",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2b725968-2461-422b-823d-d6129a9e63aa",
+                "nodeTo": "e6900c82-977d-447e-9228-ad18b78dab5d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2b725968-2461-422b-823d-d6129a9e63aa",
+                "nodeTo": "6301b8c6-9681-4199-bd0a-cd852719a887",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0506e9c9-0e8e-4cab-b4d2-4ca24552678c",
+                "nodeTo": "a8ede999-b88e-4a7d-9298-681b23694d60",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0506e9c9-0e8e-4cab-b4d2-4ca24552678c",
+                "nodeTo": "3542dc98-7b36-409b-891e-a5aaa5c84b00",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "77edb8c1-1a79-496c-8a26-aee07da90d33",
+                "nodeTo": "53cc45a4-93a0-4421-9b37-ba2c80978481",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ac7447b6-1500-43ad-a1a7-33632deb3d0c",
+                "nodeTo": "53cc45a4-93a0-4421-9b37-ba2c80978481",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "77edb8c1-1a79-496c-8a26-aee07da90d33",
+                "nodeTo": "0506e9c9-0e8e-4cab-b4d2-4ca24552678c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ac7447b6-1500-43ad-a1a7-33632deb3d0c",
+                "nodeTo": "0506e9c9-0e8e-4cab-b4d2-4ca24552678c",
+                "index": 2,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2014-12-16 15:53:04"
+}

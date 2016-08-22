@@ -1,0 +1,100 @@
+{
+    "uuid": 1038,
+    "text": "Chris Tarrant suffers mini stroke on plane",
+    "graph": {
+        "version": 1,
+        "guid": "6d905697-68c0-4d31-aea1-264347369c72",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "suffers",
+                "id": "ba400854-2097-454d-9d65-265693108c5c",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "on",
+                "id": "cb217c09-8248-4d38-b278-c731bcc613dd",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Chris",
+                "id": "b7474692-9b51-40b3-b5bc-1e63c7a1522a",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "Tarrant",
+                "id": "e1604191-6999-4c3e-8e57-d3c35201ac7d",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "mini",
+                "id": "be5362d5-7176-46b9-a2e0-d223a13c26a4",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "stroke",
+                "id": "d5537b08-3159-4918-951d-51a193483767",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "plane",
+                "id": "71cab78b-7599-45e7-9144-769e1d054adc",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "b7474692-9b51-40b3-b5bc-1e63c7a1522a",
+                "nodeTo": "ba400854-2097-454d-9d65-265693108c5c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e1604191-6999-4c3e-8e57-d3c35201ac7d",
+                "nodeTo": "ba400854-2097-454d-9d65-265693108c5c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ba400854-2097-454d-9d65-265693108c5c",
+                "nodeTo": "be5362d5-7176-46b9-a2e0-d223a13c26a4",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ba400854-2097-454d-9d65-265693108c5c",
+                "nodeTo": "d5537b08-3159-4918-951d-51a193483767",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "be5362d5-7176-46b9-a2e0-d223a13c26a4",
+                "nodeTo": "cb217c09-8248-4d38-b278-c731bcc613dd",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d5537b08-3159-4918-951d-51a193483767",
+                "nodeTo": "cb217c09-8248-4d38-b278-c731bcc613dd",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cb217c09-8248-4d38-b278-c731bcc613dd",
+                "nodeTo": "71cab78b-7599-45e7-9144-769e1d054adc",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-04 16:09:52"
+}

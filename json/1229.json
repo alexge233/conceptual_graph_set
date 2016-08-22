@@ -1,0 +1,322 @@
+{
+    "uuid": 1229,
+    "text": "Scientists have found that computer system spots real or faked expressions of pain more accurately than people can",
+    "graph": {
+        "version": 1,
+        "guid": "444417ac-80d6-42ee-b166-8034956a701a",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "have",
+                "id": "baee8bea-23c8-4ba3-bb96-62660db92a88",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "found",
+                "id": "ac87d052-398b-41d9-b40c-c05a5544ddab",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "that",
+                "id": "e4b0026b-55ca-4167-aaa9-1733d5848d7b",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "spots",
+                "id": "e65e7512-3053-45c9-b969-a27b961767bd",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "or",
+                "id": "21233427-44a2-407e-b95e-c30e1014a055",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "03db368c-1893-4730-8513-b581c6d9bb8d",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "more",
+                "id": "281a0ca7-8b67-47e9-8ac9-1ce468282a9e",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "accurately",
+                "id": "edb28d78-00ad-4308-a891-1d6bd8e82351",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "than",
+                "id": "13e36e47-4213-43b5-a69c-a42babc50bc9",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "can",
+                "id": "deeaa8a6-ceb2-49cd-ba39-4e570a399cc5",
+                "index": 17,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Scientists",
+                "id": "65b8ce48-1c60-4213-b731-22b09bdb0540",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "computer",
+                "id": "5aea7e4b-c568-4bbe-81c0-a4b54959dd92",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "system",
+                "id": "aeda5bc6-6a8c-4ab0-8d2a-b8a64619b333",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "real",
+                "id": "0e8a0d90-8aa4-4d64-9692-0d94c5126860",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "faked",
+                "id": "1ed3b4aa-d45b-4113-97e9-881a23d04888",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "expressions",
+                "id": "c9542d99-5460-4120-89e9-4e664eca00c7",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "pain",
+                "id": "26a730b9-3924-47dc-b1ab-241c703c276e",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "people",
+                "id": "aee468cb-5351-4e18-8bd8-1146e28b270b",
+                "index": 16,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "65b8ce48-1c60-4213-b731-22b09bdb0540",
+                "nodeTo": "baee8bea-23c8-4ba3-bb96-62660db92a88",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "65b8ce48-1c60-4213-b731-22b09bdb0540",
+                "nodeTo": "ac87d052-398b-41d9-b40c-c05a5544ddab",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "65b8ce48-1c60-4213-b731-22b09bdb0540",
+                "nodeTo": "e4b0026b-55ca-4167-aaa9-1733d5848d7b",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "baee8bea-23c8-4ba3-bb96-62660db92a88",
+                "nodeTo": "5aea7e4b-c568-4bbe-81c0-a4b54959dd92",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ac87d052-398b-41d9-b40c-c05a5544ddab",
+                "nodeTo": "5aea7e4b-c568-4bbe-81c0-a4b54959dd92",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e4b0026b-55ca-4167-aaa9-1733d5848d7b",
+                "nodeTo": "5aea7e4b-c568-4bbe-81c0-a4b54959dd92",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "baee8bea-23c8-4ba3-bb96-62660db92a88",
+                "nodeTo": "aeda5bc6-6a8c-4ab0-8d2a-b8a64619b333",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ac87d052-398b-41d9-b40c-c05a5544ddab",
+                "nodeTo": "aeda5bc6-6a8c-4ab0-8d2a-b8a64619b333",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e4b0026b-55ca-4167-aaa9-1733d5848d7b",
+                "nodeTo": "aeda5bc6-6a8c-4ab0-8d2a-b8a64619b333",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5aea7e4b-c568-4bbe-81c0-a4b54959dd92",
+                "nodeTo": "e65e7512-3053-45c9-b969-a27b961767bd",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "aeda5bc6-6a8c-4ab0-8d2a-b8a64619b333",
+                "nodeTo": "e65e7512-3053-45c9-b969-a27b961767bd",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e65e7512-3053-45c9-b969-a27b961767bd",
+                "nodeTo": "0e8a0d90-8aa4-4d64-9692-0d94c5126860",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0e8a0d90-8aa4-4d64-9692-0d94c5126860",
+                "nodeTo": "21233427-44a2-407e-b95e-c30e1014a055",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "21233427-44a2-407e-b95e-c30e1014a055",
+                "nodeTo": "1ed3b4aa-d45b-4113-97e9-881a23d04888",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e65e7512-3053-45c9-b969-a27b961767bd",
+                "nodeTo": "1ed3b4aa-d45b-4113-97e9-881a23d04888",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e65e7512-3053-45c9-b969-a27b961767bd",
+                "nodeTo": "c9542d99-5460-4120-89e9-4e664eca00c7",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0e8a0d90-8aa4-4d64-9692-0d94c5126860",
+                "nodeTo": "03db368c-1893-4730-8513-b581c6d9bb8d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1ed3b4aa-d45b-4113-97e9-881a23d04888",
+                "nodeTo": "03db368c-1893-4730-8513-b581c6d9bb8d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c9542d99-5460-4120-89e9-4e664eca00c7",
+                "nodeTo": "03db368c-1893-4730-8513-b581c6d9bb8d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "03db368c-1893-4730-8513-b581c6d9bb8d",
+                "nodeTo": "26a730b9-3924-47dc-b1ab-241c703c276e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0e8a0d90-8aa4-4d64-9692-0d94c5126860",
+                "nodeTo": "281a0ca7-8b67-47e9-8ac9-1ce468282a9e",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1ed3b4aa-d45b-4113-97e9-881a23d04888",
+                "nodeTo": "281a0ca7-8b67-47e9-8ac9-1ce468282a9e",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c9542d99-5460-4120-89e9-4e664eca00c7",
+                "nodeTo": "281a0ca7-8b67-47e9-8ac9-1ce468282a9e",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0e8a0d90-8aa4-4d64-9692-0d94c5126860",
+                "nodeTo": "edb28d78-00ad-4308-a891-1d6bd8e82351",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1ed3b4aa-d45b-4113-97e9-881a23d04888",
+                "nodeTo": "edb28d78-00ad-4308-a891-1d6bd8e82351",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c9542d99-5460-4120-89e9-4e664eca00c7",
+                "nodeTo": "edb28d78-00ad-4308-a891-1d6bd8e82351",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0e8a0d90-8aa4-4d64-9692-0d94c5126860",
+                "nodeTo": "13e36e47-4213-43b5-a69c-a42babc50bc9",
+                "index": 5,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1ed3b4aa-d45b-4113-97e9-881a23d04888",
+                "nodeTo": "13e36e47-4213-43b5-a69c-a42babc50bc9",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c9542d99-5460-4120-89e9-4e664eca00c7",
+                "nodeTo": "13e36e47-4213-43b5-a69c-a42babc50bc9",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "281a0ca7-8b67-47e9-8ac9-1ce468282a9e",
+                "nodeTo": "aee468cb-5351-4e18-8bd8-1146e28b270b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "edb28d78-00ad-4308-a891-1d6bd8e82351",
+                "nodeTo": "aee468cb-5351-4e18-8bd8-1146e28b270b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "13e36e47-4213-43b5-a69c-a42babc50bc9",
+                "nodeTo": "aee468cb-5351-4e18-8bd8-1146e28b270b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "aee468cb-5351-4e18-8bd8-1146e28b270b",
+                "nodeTo": "deeaa8a6-ceb2-49cd-ba39-4e570a399cc5",
+                "index": 1,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2015-03-02 18:17:37"
+}

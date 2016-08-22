@@ -1,0 +1,112 @@
+{
+    "uuid": 870,
+    "text": "Cardiopulmonary arrest in premature infant after cyclomydril eyedrops",
+    "graph": {
+        "version": 1,
+        "guid": "9a02160e-b6be-4103-a85a-0284cab9e8b6",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "in",
+                "id": "11114151-bc3e-480c-bc0a-370a9224e39d",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "after",
+                "id": "908cc02a-9860-4b1b-bd72-4ac9dc90069d",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Cardiopulmonary",
+                "id": "85e7e84e-bda1-4742-9871-b2e016c8aca6",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "arrest",
+                "id": "b338c243-7871-472e-9d6b-9b037c78748a",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "premature",
+                "id": "3e7dd769-b293-4abd-9c03-cd58c060c69b",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "infant",
+                "id": "8e207c03-b228-4e03-b635-27a4d6dae47b",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "cyclomydril",
+                "id": "8bd18d0b-1bb4-4674-9594-dd0d9374c1ee",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "eyedrops",
+                "id": "08ad6136-3816-44e2-9ed9-62740c08c123",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "85e7e84e-bda1-4742-9871-b2e016c8aca6",
+                "nodeTo": "11114151-bc3e-480c-bc0a-370a9224e39d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b338c243-7871-472e-9d6b-9b037c78748a",
+                "nodeTo": "11114151-bc3e-480c-bc0a-370a9224e39d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "11114151-bc3e-480c-bc0a-370a9224e39d",
+                "nodeTo": "3e7dd769-b293-4abd-9c03-cd58c060c69b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "11114151-bc3e-480c-bc0a-370a9224e39d",
+                "nodeTo": "8e207c03-b228-4e03-b635-27a4d6dae47b",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3e7dd769-b293-4abd-9c03-cd58c060c69b",
+                "nodeTo": "908cc02a-9860-4b1b-bd72-4ac9dc90069d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8e207c03-b228-4e03-b635-27a4d6dae47b",
+                "nodeTo": "908cc02a-9860-4b1b-bd72-4ac9dc90069d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "908cc02a-9860-4b1b-bd72-4ac9dc90069d",
+                "nodeTo": "8bd18d0b-1bb4-4674-9594-dd0d9374c1ee",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "908cc02a-9860-4b1b-bd72-4ac9dc90069d",
+                "nodeTo": "08ad6136-3816-44e2-9ed9-62740c08c123",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-19 21:42:15"
+}

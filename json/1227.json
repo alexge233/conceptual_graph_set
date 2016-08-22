@@ -1,0 +1,256 @@
+{
+    "uuid": 1227,
+    "text": "study also revealed that engagement levels were better predictor of students post-test performance than students pre-test scores",
+    "graph": {
+        "version": 1,
+        "guid": "4a031209-b4c9-451e-bd5d-2469425ebd33",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "also",
+                "id": "075c7285-87ae-48ab-8b3e-cd4080cce886",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "revealed",
+                "id": "3de2a760-75e0-4163-b229-e8cd9702e87e",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "that",
+                "id": "e79dab0d-0ad2-4616-ba31-bc4ebe311e88",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "were",
+                "id": "552dd3d5-01d1-41a3-a1e4-12d2b30ccd1a",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "b1328557-051c-47b8-882b-2ed376a4377c",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "than",
+                "id": "78bc4b6a-bd4d-47e8-b3a9-b707a13154b0",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "study",
+                "id": "67453782-2b93-423c-9a6c-25011cd6761e",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "engagement",
+                "id": "71e6bee7-0ad0-4e15-be93-66ce6b8b0b5d",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "levels",
+                "id": "9ec6a950-6a8a-4932-ae87-c9d3a68eedcb",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "better",
+                "id": "141e43ed-a628-4b17-aa99-33d9365c3ea4",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "predictor",
+                "id": "31dd921c-9dd4-4e93-b6bb-d404317791d1",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "students",
+                "id": "4c3837ad-54eb-4402-81e7-6ebe929b1b6b",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "post-test",
+                "id": "05dc0c49-81e4-4a92-8eb2-807313957048",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "performance",
+                "id": "16504221-1024-4203-8c44-0591cb52d31e",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "students",
+                "id": "2b65350a-b176-4040-a80b-0264ca43914c",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "pre-test",
+                "id": "334d8cd0-69dd-4e13-b494-15d3715d48c1",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "scores",
+                "id": "ccb381e4-beda-45c7-8375-3959d82a14d4",
+                "index": 16,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "67453782-2b93-423c-9a6c-25011cd6761e",
+                "nodeTo": "075c7285-87ae-48ab-8b3e-cd4080cce886",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "67453782-2b93-423c-9a6c-25011cd6761e",
+                "nodeTo": "3de2a760-75e0-4163-b229-e8cd9702e87e",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "67453782-2b93-423c-9a6c-25011cd6761e",
+                "nodeTo": "e79dab0d-0ad2-4616-ba31-bc4ebe311e88",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "075c7285-87ae-48ab-8b3e-cd4080cce886",
+                "nodeTo": "71e6bee7-0ad0-4e15-be93-66ce6b8b0b5d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3de2a760-75e0-4163-b229-e8cd9702e87e",
+                "nodeTo": "71e6bee7-0ad0-4e15-be93-66ce6b8b0b5d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e79dab0d-0ad2-4616-ba31-bc4ebe311e88",
+                "nodeTo": "71e6bee7-0ad0-4e15-be93-66ce6b8b0b5d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "075c7285-87ae-48ab-8b3e-cd4080cce886",
+                "nodeTo": "9ec6a950-6a8a-4932-ae87-c9d3a68eedcb",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3de2a760-75e0-4163-b229-e8cd9702e87e",
+                "nodeTo": "9ec6a950-6a8a-4932-ae87-c9d3a68eedcb",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e79dab0d-0ad2-4616-ba31-bc4ebe311e88",
+                "nodeTo": "9ec6a950-6a8a-4932-ae87-c9d3a68eedcb",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "71e6bee7-0ad0-4e15-be93-66ce6b8b0b5d",
+                "nodeTo": "552dd3d5-01d1-41a3-a1e4-12d2b30ccd1a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9ec6a950-6a8a-4932-ae87-c9d3a68eedcb",
+                "nodeTo": "552dd3d5-01d1-41a3-a1e4-12d2b30ccd1a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "552dd3d5-01d1-41a3-a1e4-12d2b30ccd1a",
+                "nodeTo": "141e43ed-a628-4b17-aa99-33d9365c3ea4",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "552dd3d5-01d1-41a3-a1e4-12d2b30ccd1a",
+                "nodeTo": "31dd921c-9dd4-4e93-b6bb-d404317791d1",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "141e43ed-a628-4b17-aa99-33d9365c3ea4",
+                "nodeTo": "b1328557-051c-47b8-882b-2ed376a4377c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "31dd921c-9dd4-4e93-b6bb-d404317791d1",
+                "nodeTo": "b1328557-051c-47b8-882b-2ed376a4377c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b1328557-051c-47b8-882b-2ed376a4377c",
+                "nodeTo": "4c3837ad-54eb-4402-81e7-6ebe929b1b6b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b1328557-051c-47b8-882b-2ed376a4377c",
+                "nodeTo": "05dc0c49-81e4-4a92-8eb2-807313957048",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b1328557-051c-47b8-882b-2ed376a4377c",
+                "nodeTo": "16504221-1024-4203-8c44-0591cb52d31e",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "141e43ed-a628-4b17-aa99-33d9365c3ea4",
+                "nodeTo": "78bc4b6a-bd4d-47e8-b3a9-b707a13154b0",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "31dd921c-9dd4-4e93-b6bb-d404317791d1",
+                "nodeTo": "78bc4b6a-bd4d-47e8-b3a9-b707a13154b0",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "78bc4b6a-bd4d-47e8-b3a9-b707a13154b0",
+                "nodeTo": "2b65350a-b176-4040-a80b-0264ca43914c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "78bc4b6a-bd4d-47e8-b3a9-b707a13154b0",
+                "nodeTo": "334d8cd0-69dd-4e13-b494-15d3715d48c1",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "78bc4b6a-bd4d-47e8-b3a9-b707a13154b0",
+                "nodeTo": "ccb381e4-beda-45c7-8375-3959d82a14d4",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-03-02 18:07:08"
+}

@@ -1,0 +1,166 @@
+{
+    "uuid": 719,
+    "text": "When doctor gives us medicine it is often in shape of pill",
+    "graph": {
+        "version": 1,
+        "guid": "5a654648-7ae5-4d8d-9c6a-daa81243a8d6",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "When",
+                "id": "7410dac7-eb61-44b5-9c03-9eec868a5edc",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "gives",
+                "id": "2a44eb13-6a68-4a91-bd52-0e41b9653637",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "is",
+                "id": "1cd33523-4026-4b66-8454-c80a52e7b364",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "4ba0e8ca-3713-4e84-a6e5-e446260b7d85",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "65340e0e-0e5a-436c-98c9-96ca05996c19",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "doctor",
+                "id": "b2133ce5-eddd-4c3b-8101-ae7ec1e7230b",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "us",
+                "id": "886811e4-841c-47b4-9cca-a59adadb6d6d",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "medicine",
+                "id": "1b557b7c-94b8-4195-99a5-5a42905d1d5c",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "it",
+                "id": "88d99499-18d2-465b-8d0d-67b7a2350189",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "often",
+                "id": "abb7a80b-4da7-434e-a96b-0be592a2d702",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "shape",
+                "id": "c1608c52-30e3-4abb-b7e4-dbe6a4cab588",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "pill",
+                "id": "cc15a1e9-7177-4ceb-82c7-37e2dc7261b9",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "7410dac7-eb61-44b5-9c03-9eec868a5edc",
+                "nodeTo": "b2133ce5-eddd-4c3b-8101-ae7ec1e7230b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b2133ce5-eddd-4c3b-8101-ae7ec1e7230b",
+                "nodeTo": "2a44eb13-6a68-4a91-bd52-0e41b9653637",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2a44eb13-6a68-4a91-bd52-0e41b9653637",
+                "nodeTo": "886811e4-841c-47b4-9cca-a59adadb6d6d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2a44eb13-6a68-4a91-bd52-0e41b9653637",
+                "nodeTo": "1b557b7c-94b8-4195-99a5-5a42905d1d5c",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "88d99499-18d2-465b-8d0d-67b7a2350189",
+                "nodeTo": "1cd33523-4026-4b66-8454-c80a52e7b364",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1b557b7c-94b8-4195-99a5-5a42905d1d5c",
+                "nodeTo": "1cd33523-4026-4b66-8454-c80a52e7b364",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1cd33523-4026-4b66-8454-c80a52e7b364",
+                "nodeTo": "abb7a80b-4da7-434e-a96b-0be592a2d702",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1b557b7c-94b8-4195-99a5-5a42905d1d5c",
+                "nodeTo": "4ba0e8ca-3713-4e84-a6e5-e446260b7d85",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "88d99499-18d2-465b-8d0d-67b7a2350189",
+                "nodeTo": "4ba0e8ca-3713-4e84-a6e5-e446260b7d85",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1cd33523-4026-4b66-8454-c80a52e7b364",
+                "nodeTo": "c1608c52-30e3-4abb-b7e4-dbe6a4cab588",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4ba0e8ca-3713-4e84-a6e5-e446260b7d85",
+                "nodeTo": "c1608c52-30e3-4abb-b7e4-dbe6a4cab588",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c1608c52-30e3-4abb-b7e4-dbe6a4cab588",
+                "nodeTo": "65340e0e-0e5a-436c-98c9-96ca05996c19",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "65340e0e-0e5a-436c-98c9-96ca05996c19",
+                "nodeTo": "cc15a1e9-7177-4ceb-82c7-37e2dc7261b9",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-12 18:50:43"
+}

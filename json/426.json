@@ -1,0 +1,148 @@
+{
+    "uuid": 426,
+    "text": "Could farm chemicals be linked to health problems",
+    "graph": {
+        "version": 1,
+        "guid": "463400e3-29e5-4349-8323-d0075a246256",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "Could",
+                "id": "dbec2540-dceb-43cc-a8b3-6ad82081e7d3",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "be",
+                "id": "054279e4-2534-46d6-965a-7e17da6744e7",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "linked",
+                "id": "2e2dc6ee-0d1b-49a9-b181-2e00c87742aa",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "2d9a82e0-401b-49ac-b2a4-d1ceed75a6bc",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "farm",
+                "id": "02ede854-a90d-440b-acc9-84786d193bed",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "chemicals",
+                "id": "4787e378-d363-4203-8ddc-087ea788daab",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "health",
+                "id": "5cdd0190-cde7-41c3-b308-22b3dce97698",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "problems",
+                "id": "141a4e0d-183b-400d-8cea-2e7c6d2132e4",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "dbec2540-dceb-43cc-a8b3-6ad82081e7d3",
+                "nodeTo": "02ede854-a90d-440b-acc9-84786d193bed",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "dbec2540-dceb-43cc-a8b3-6ad82081e7d3",
+                "nodeTo": "4787e378-d363-4203-8ddc-087ea788daab",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "02ede854-a90d-440b-acc9-84786d193bed",
+                "nodeTo": "054279e4-2534-46d6-965a-7e17da6744e7",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4787e378-d363-4203-8ddc-087ea788daab",
+                "nodeTo": "054279e4-2534-46d6-965a-7e17da6744e7",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "02ede854-a90d-440b-acc9-84786d193bed",
+                "nodeTo": "2e2dc6ee-0d1b-49a9-b181-2e00c87742aa",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "02ede854-a90d-440b-acc9-84786d193bed",
+                "nodeTo": "2d9a82e0-401b-49ac-b2a4-d1ceed75a6bc",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4787e378-d363-4203-8ddc-087ea788daab",
+                "nodeTo": "2e2dc6ee-0d1b-49a9-b181-2e00c87742aa",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4787e378-d363-4203-8ddc-087ea788daab",
+                "nodeTo": "2d9a82e0-401b-49ac-b2a4-d1ceed75a6bc",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "054279e4-2534-46d6-965a-7e17da6744e7",
+                "nodeTo": "5cdd0190-cde7-41c3-b308-22b3dce97698",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2e2dc6ee-0d1b-49a9-b181-2e00c87742aa",
+                "nodeTo": "5cdd0190-cde7-41c3-b308-22b3dce97698",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2d9a82e0-401b-49ac-b2a4-d1ceed75a6bc",
+                "nodeTo": "5cdd0190-cde7-41c3-b308-22b3dce97698",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "054279e4-2534-46d6-965a-7e17da6744e7",
+                "nodeTo": "141a4e0d-183b-400d-8cea-2e7c6d2132e4",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2e2dc6ee-0d1b-49a9-b181-2e00c87742aa",
+                "nodeTo": "141a4e0d-183b-400d-8cea-2e7c6d2132e4",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2d9a82e0-401b-49ac-b2a4-d1ceed75a6bc",
+                "nodeTo": "141a4e0d-183b-400d-8cea-2e7c6d2132e4",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-18 16:00:55"
+}

@@ -1,0 +1,94 @@
+{
+    "uuid": 557,
+    "text": "Beyonce joins stars in ban bossy campaign",
+    "graph": {
+        "version": 1,
+        "guid": "55a16a76-76a0-40a0-8ec3-b36e039558d0",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "joins",
+                "id": "007a69bc-801a-4b1b-91b4-e825db52eb07",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "68253187-91e9-4499-9730-52108cde8883",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "ban",
+                "id": "7462d7d5-30a2-4eb1-934b-37c955b8d0c2",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Beyonce",
+                "id": "029ee213-6a72-4cd9-a372-e456dad86257",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "stars",
+                "id": "b2ed08e8-5341-4e82-8acd-878c6a2c2ba3",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "bossy",
+                "id": "32500698-c582-444c-a245-28bd520da40d",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "campaign",
+                "id": "dc9b92c2-3246-42d8-814c-5cc4e359a67b",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "029ee213-6a72-4cd9-a372-e456dad86257",
+                "nodeTo": "007a69bc-801a-4b1b-91b4-e825db52eb07",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "007a69bc-801a-4b1b-91b4-e825db52eb07",
+                "nodeTo": "b2ed08e8-5341-4e82-8acd-878c6a2c2ba3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b2ed08e8-5341-4e82-8acd-878c6a2c2ba3",
+                "nodeTo": "68253187-91e9-4499-9730-52108cde8883",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7462d7d5-30a2-4eb1-934b-37c955b8d0c2",
+                "nodeTo": "32500698-c582-444c-a245-28bd520da40d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "68253187-91e9-4499-9730-52108cde8883",
+                "nodeTo": "dc9b92c2-3246-42d8-814c-5cc4e359a67b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "dc9b92c2-3246-42d8-814c-5cc4e359a67b",
+                "nodeTo": "7462d7d5-30a2-4eb1-934b-37c955b8d0c2",
+                "index": 1,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2015-01-05 21:44:43"
+}

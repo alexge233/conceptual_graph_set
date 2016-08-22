@@ -1,0 +1,166 @@
+{
+    "uuid": 585,
+    "text": "laws by which cells translate signals from their surroundings into internal signals",
+    "graph": {
+        "version": 1,
+        "guid": "336240a5-26ad-4cc7-ba7d-2d6c471a1932",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "by",
+                "id": "687c9e2e-d35d-491c-86a5-bce9957eb943",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "which",
+                "id": "5381ce95-d9a8-4c70-a116-aec29c2992cc",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "translate",
+                "id": "061591b6-9489-48d8-b818-496c7c13b285",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "from",
+                "id": "ca186a27-333a-4a52-940e-ca0c6295b959",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "into",
+                "id": "55501a87-484a-4577-a5a6-ae097b340c31",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "laws",
+                "id": "d9b5822b-49ad-4736-b998-85137c249a59",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "cells",
+                "id": "447841c5-96a1-4dda-a033-579660772de5",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "signals",
+                "id": "a667554a-40ae-4563-b302-73e368b8da0d",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "their",
+                "id": "d7ca4c88-022a-425a-b436-18ac49bba6cc",
+                "postag": "NA",
+                "index": 7
+            },
+            {
+                "label": "surroundings",
+                "id": "61e9e0b7-2edd-4592-9762-e2491a160e16",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "internal",
+                "id": "3969a8d6-68e5-4c28-b2cb-a657d2ab4821",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "signals",
+                "id": "80b5bab6-d2d6-4e42-8239-d986c71433d0",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "d9b5822b-49ad-4736-b998-85137c249a59",
+                "nodeTo": "687c9e2e-d35d-491c-86a5-bce9957eb943",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d9b5822b-49ad-4736-b998-85137c249a59",
+                "nodeTo": "5381ce95-d9a8-4c70-a116-aec29c2992cc",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "687c9e2e-d35d-491c-86a5-bce9957eb943",
+                "nodeTo": "447841c5-96a1-4dda-a033-579660772de5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5381ce95-d9a8-4c70-a116-aec29c2992cc",
+                "nodeTo": "447841c5-96a1-4dda-a033-579660772de5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "447841c5-96a1-4dda-a033-579660772de5",
+                "nodeTo": "061591b6-9489-48d8-b818-496c7c13b285",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "061591b6-9489-48d8-b818-496c7c13b285",
+                "nodeTo": "a667554a-40ae-4563-b302-73e368b8da0d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a667554a-40ae-4563-b302-73e368b8da0d",
+                "nodeTo": "ca186a27-333a-4a52-940e-ca0c6295b959",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ca186a27-333a-4a52-940e-ca0c6295b959",
+                "nodeTo": "d7ca4c88-022a-425a-b436-18ac49bba6cc",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ca186a27-333a-4a52-940e-ca0c6295b959",
+                "nodeTo": "61e9e0b7-2edd-4592-9762-e2491a160e16",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d7ca4c88-022a-425a-b436-18ac49bba6cc",
+                "nodeTo": "55501a87-484a-4577-a5a6-ae097b340c31",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "61e9e0b7-2edd-4592-9762-e2491a160e16",
+                "nodeTo": "55501a87-484a-4577-a5a6-ae097b340c31",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "55501a87-484a-4577-a5a6-ae097b340c31",
+                "nodeTo": "3969a8d6-68e5-4c28-b2cb-a657d2ab4821",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "55501a87-484a-4577-a5a6-ae097b340c31",
+                "nodeTo": "80b5bab6-d2d6-4e42-8239-d986c71433d0",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-07 20:43:47"
+}

@@ -1,0 +1,160 @@
+{
+    "uuid": 96,
+    "text": "Top barriers identified in study included time motivation and childcare issues",
+    "graph": {
+        "version": 1,
+        "guid": "bd12790a-aee0-429a-ba4b-36820bde2240",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "identified",
+                "id": "46641d75-6bb1-47dd-ad5a-9e1b7ab56880",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "4a721d9b-7507-4e27-a92e-c76c02e23b97",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "included",
+                "id": "9bbc89e0-e199-406d-9c73-31b01b6d0999",
+                "postag": "NA",
+                "index": 5
+            },
+            {
+                "label": "and",
+                "id": "a5a16358-914d-48d3-8d59-a89b5e2554b6",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Top",
+                "id": "49bb8461-d740-4032-848d-c7ec7a8e120c",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "barriers",
+                "id": "b0e420d7-8b4e-4675-8bd0-728654794a31",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "study",
+                "id": "238e6ec4-a4d3-4c56-9317-741279ba6566",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "time",
+                "id": "c83337a7-a6a3-4953-8634-cb90ddcbded6",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "motivation",
+                "id": "e8dd3d41-c1d4-4ab6-a9cb-31ed74463ea0",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "childcare",
+                "id": "4e4bb7aa-cbce-4951-b4d8-6559eb6946b3",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "issues",
+                "id": "a056761c-8637-4a64-b1a2-828460125764",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "49bb8461-d740-4032-848d-c7ec7a8e120c",
+                "nodeTo": "46641d75-6bb1-47dd-ad5a-9e1b7ab56880",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b0e420d7-8b4e-4675-8bd0-728654794a31",
+                "nodeTo": "46641d75-6bb1-47dd-ad5a-9e1b7ab56880",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "49bb8461-d740-4032-848d-c7ec7a8e120c",
+                "nodeTo": "4a721d9b-7507-4e27-a92e-c76c02e23b97",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b0e420d7-8b4e-4675-8bd0-728654794a31",
+                "nodeTo": "4a721d9b-7507-4e27-a92e-c76c02e23b97",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4a721d9b-7507-4e27-a92e-c76c02e23b97",
+                "nodeTo": "238e6ec4-a4d3-4c56-9317-741279ba6566",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "49bb8461-d740-4032-848d-c7ec7a8e120c",
+                "nodeTo": "9bbc89e0-e199-406d-9c73-31b01b6d0999",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b0e420d7-8b4e-4675-8bd0-728654794a31",
+                "nodeTo": "9bbc89e0-e199-406d-9c73-31b01b6d0999",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9bbc89e0-e199-406d-9c73-31b01b6d0999",
+                "nodeTo": "c83337a7-a6a3-4953-8634-cb90ddcbded6",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9bbc89e0-e199-406d-9c73-31b01b6d0999",
+                "nodeTo": "e8dd3d41-c1d4-4ab6-a9cb-31ed74463ea0",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c83337a7-a6a3-4953-8634-cb90ddcbded6",
+                "nodeTo": "a5a16358-914d-48d3-8d59-a89b5e2554b6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e8dd3d41-c1d4-4ab6-a9cb-31ed74463ea0",
+                "nodeTo": "a5a16358-914d-48d3-8d59-a89b5e2554b6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a5a16358-914d-48d3-8d59-a89b5e2554b6",
+                "nodeTo": "4e4bb7aa-cbce-4951-b4d8-6559eb6946b3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a5a16358-914d-48d3-8d59-a89b5e2554b6",
+                "nodeTo": "a056761c-8637-4a64-b1a2-828460125764",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-10-27 20:01:29"
+}

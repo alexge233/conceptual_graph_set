@@ -1,0 +1,70 @@
+{
+    "uuid": 272,
+    "text": "Scientists discover brains anti-distraction system",
+    "graph": {
+        "version": 1,
+        "guid": "75405171-87a3-42c3-b902-086615481be7",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "discover",
+                "id": "823e041d-917e-490e-9443-d94347d19631",
+                "index": 1,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Scientists",
+                "id": "ecb7b8a6-214c-4b71-bd14-48cc226ceda9",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "brains",
+                "id": "3ac31164-a0b5-44d8-8cd2-2eb9b60a5858",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "anti-distraction",
+                "id": "ee974768-45d8-4772-9806-34d167803c77",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "system",
+                "id": "63ba1986-ebac-48cd-b451-73c2e7002506",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "ecb7b8a6-214c-4b71-bd14-48cc226ceda9",
+                "nodeTo": "823e041d-917e-490e-9443-d94347d19631",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "823e041d-917e-490e-9443-d94347d19631",
+                "nodeTo": "3ac31164-a0b5-44d8-8cd2-2eb9b60a5858",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "823e041d-917e-490e-9443-d94347d19631",
+                "nodeTo": "ee974768-45d8-4772-9806-34d167803c77",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "823e041d-917e-490e-9443-d94347d19631",
+                "nodeTo": "63ba1986-ebac-48cd-b451-73c2e7002506",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-03 14:15:46"
+}

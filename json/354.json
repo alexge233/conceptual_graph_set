@@ -1,0 +1,190 @@
+{
+    "uuid": 354,
+    "text": "Scientists are working at present on rapid test for cancer diagnosis among other endeavors",
+    "graph": {
+        "version": 1,
+        "guid": "a993eb90-ddb0-4c91-8a1a-24231e70c8c9",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "are",
+                "id": "a13723dc-7910-4860-8add-30a786284c31",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "at",
+                "id": "881eb0e0-2cbc-4d7c-8046-30ea043ead51",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "on",
+                "id": "6a0379e0-6a73-461a-8063-0c6196a54835",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "29446619-0c71-4d07-aab2-b9ab8c2a6537",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "among",
+                "id": "d852dd86-dae5-49d0-a224-27373d180a5d",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Scientists",
+                "id": "ad780644-ad74-4926-a4e9-44c5510a1076",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "working",
+                "id": "eceaa8e0-3888-4694-b422-29282ed5cb39",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "present",
+                "id": "b2531db9-9e8d-4e04-9142-e1046780d62b",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "rapid",
+                "id": "c3bb13dc-9976-4e0a-9204-678d39ec6813",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "test",
+                "id": "53b9abcc-53e9-4734-9dce-90b468283b50",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "cancer",
+                "id": "550e250d-0c28-4bd6-b08d-e3558eaa62b2",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "diagnosis",
+                "id": "a51227ca-1a65-4946-baa3-7c7b7205e636",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "other",
+                "id": "32447c19-54db-4cbc-891d-32e598bc9259",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "endeavors",
+                "id": "6e44469c-9342-43aa-b909-46b6a8e22d8d",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "ad780644-ad74-4926-a4e9-44c5510a1076",
+                "nodeTo": "a13723dc-7910-4860-8add-30a786284c31",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a13723dc-7910-4860-8add-30a786284c31",
+                "nodeTo": "eceaa8e0-3888-4694-b422-29282ed5cb39",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "eceaa8e0-3888-4694-b422-29282ed5cb39",
+                "nodeTo": "881eb0e0-2cbc-4d7c-8046-30ea043ead51",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "881eb0e0-2cbc-4d7c-8046-30ea043ead51",
+                "nodeTo": "b2531db9-9e8d-4e04-9142-e1046780d62b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "eceaa8e0-3888-4694-b422-29282ed5cb39",
+                "nodeTo": "6a0379e0-6a73-461a-8063-0c6196a54835",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6a0379e0-6a73-461a-8063-0c6196a54835",
+                "nodeTo": "c3bb13dc-9976-4e0a-9204-678d39ec6813",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6a0379e0-6a73-461a-8063-0c6196a54835",
+                "nodeTo": "53b9abcc-53e9-4734-9dce-90b468283b50",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c3bb13dc-9976-4e0a-9204-678d39ec6813",
+                "nodeTo": "29446619-0c71-4d07-aab2-b9ab8c2a6537",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "53b9abcc-53e9-4734-9dce-90b468283b50",
+                "nodeTo": "29446619-0c71-4d07-aab2-b9ab8c2a6537",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "29446619-0c71-4d07-aab2-b9ab8c2a6537",
+                "nodeTo": "550e250d-0c28-4bd6-b08d-e3558eaa62b2",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "29446619-0c71-4d07-aab2-b9ab8c2a6537",
+                "nodeTo": "a51227ca-1a65-4946-baa3-7c7b7205e636",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d852dd86-dae5-49d0-a224-27373d180a5d",
+                "nodeTo": "32447c19-54db-4cbc-891d-32e598bc9259",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d852dd86-dae5-49d0-a224-27373d180a5d",
+                "nodeTo": "6e44469c-9342-43aa-b909-46b6a8e22d8d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c3bb13dc-9976-4e0a-9204-678d39ec6813",
+                "nodeTo": "d852dd86-dae5-49d0-a224-27373d180a5d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "53b9abcc-53e9-4734-9dce-90b468283b50",
+                "nodeTo": "d852dd86-dae5-49d0-a224-27373d180a5d",
+                "index": 2,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2014-12-16 15:59:16"
+}

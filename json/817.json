@@ -1,0 +1,70 @@
+{
+    "uuid": 817,
+    "text": "Cancer existed 3000 years ago",
+    "graph": {
+        "version": 1,
+        "guid": "6bae9a03-1e04-4eb5-bcb7-ee404b9d1538",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "existed",
+                "id": "44277123-c447-4a2a-be2e-a3276457b48d",
+                "index": 1,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Cancer",
+                "id": "6d6309c5-c561-4326-8a43-5815706405c0",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": 3000,
+                "id": "0eaa1dc9-3eae-4682-8c22-88765a31ea86",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "years",
+                "id": "6201d34d-9911-4caa-a54d-057c206ab250",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "ago",
+                "id": "a4d56742-739c-4728-8130-24d0243607bb",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "6d6309c5-c561-4326-8a43-5815706405c0",
+                "nodeTo": "44277123-c447-4a2a-be2e-a3276457b48d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "44277123-c447-4a2a-be2e-a3276457b48d",
+                "nodeTo": "0eaa1dc9-3eae-4682-8c22-88765a31ea86",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "44277123-c447-4a2a-be2e-a3276457b48d",
+                "nodeTo": "6201d34d-9911-4caa-a54d-057c206ab250",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "44277123-c447-4a2a-be2e-a3276457b48d",
+                "nodeTo": "a4d56742-739c-4728-8130-24d0243607bb",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-16 19:10:11"
+}

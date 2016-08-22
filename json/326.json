@@ -1,0 +1,100 @@
+{
+    "uuid": 326,
+    "text": "Alec Baldwin arrested over bicycle fracas",
+    "graph": {
+        "version": 1,
+        "guid": "2b4c7ea9-8231-457d-9b32-ee19e7a3de87",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "arrested",
+                "id": "4809525a-2607-4a91-a138-858683c4abe3",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "over",
+                "id": "d5ade765-1aaa-4c14-8d87-5ca377ab05cd",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Alec",
+                "id": "d7245d46-110a-442d-80a2-5a105487bc7d",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "Baldwin",
+                "id": "bbd5cabe-d61b-4170-9347-5b26ea400411",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "bicycle",
+                "id": "30b2b0e9-334a-4d5a-8dcb-a97955ee5734",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "fracas",
+                "id": "9806a4c9-88c0-48ec-a200-9d2b6e514a76",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "d7245d46-110a-442d-80a2-5a105487bc7d",
+                "nodeTo": "4809525a-2607-4a91-a138-858683c4abe3",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bbd5cabe-d61b-4170-9347-5b26ea400411",
+                "nodeTo": "4809525a-2607-4a91-a138-858683c4abe3",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d7245d46-110a-442d-80a2-5a105487bc7d",
+                "nodeTo": "d5ade765-1aaa-4c14-8d87-5ca377ab05cd",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bbd5cabe-d61b-4170-9347-5b26ea400411",
+                "nodeTo": "d5ade765-1aaa-4c14-8d87-5ca377ab05cd",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4809525a-2607-4a91-a138-858683c4abe3",
+                "nodeTo": "30b2b0e9-334a-4d5a-8dcb-a97955ee5734",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d5ade765-1aaa-4c14-8d87-5ca377ab05cd",
+                "nodeTo": "30b2b0e9-334a-4d5a-8dcb-a97955ee5734",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4809525a-2607-4a91-a138-858683c4abe3",
+                "nodeTo": "9806a4c9-88c0-48ec-a200-9d2b6e514a76",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d5ade765-1aaa-4c14-8d87-5ca377ab05cd",
+                "nodeTo": "9806a4c9-88c0-48ec-a200-9d2b6e514a76",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-15 14:22:45"
+}

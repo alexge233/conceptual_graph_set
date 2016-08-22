@@ -1,0 +1,106 @@
+{
+    "uuid": 448,
+    "text": "Asthma inhalers may go into schools",
+    "graph": {
+        "version": 1,
+        "guid": "9167cabb-33cb-4806-be46-dc662a8190cd",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "may",
+                "id": "7ae2a4cb-c1a5-4d53-aea8-062a7dbdd356",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "go",
+                "id": "4a2d3307-0976-447a-b45d-9ce0186490e5",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "into",
+                "id": "034d9d0d-391e-4391-835e-96aa036b4d10",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Asthma",
+                "id": "e5745177-0320-4db1-9b34-cc006b8bbae6",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "inhalers",
+                "id": "45176bba-0d5d-4b18-b02e-90d17d51683c",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "schools",
+                "id": "e6541e54-0c7c-4a2a-a1a6-e9c7290488c8",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "e5745177-0320-4db1-9b34-cc006b8bbae6",
+                "nodeTo": "7ae2a4cb-c1a5-4d53-aea8-062a7dbdd356",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e5745177-0320-4db1-9b34-cc006b8bbae6",
+                "nodeTo": "4a2d3307-0976-447a-b45d-9ce0186490e5",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e5745177-0320-4db1-9b34-cc006b8bbae6",
+                "nodeTo": "034d9d0d-391e-4391-835e-96aa036b4d10",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "45176bba-0d5d-4b18-b02e-90d17d51683c",
+                "nodeTo": "7ae2a4cb-c1a5-4d53-aea8-062a7dbdd356",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "45176bba-0d5d-4b18-b02e-90d17d51683c",
+                "nodeTo": "4a2d3307-0976-447a-b45d-9ce0186490e5",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "45176bba-0d5d-4b18-b02e-90d17d51683c",
+                "nodeTo": "034d9d0d-391e-4391-835e-96aa036b4d10",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7ae2a4cb-c1a5-4d53-aea8-062a7dbdd356",
+                "nodeTo": "e6541e54-0c7c-4a2a-a1a6-e9c7290488c8",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4a2d3307-0976-447a-b45d-9ce0186490e5",
+                "nodeTo": "e6541e54-0c7c-4a2a-a1a6-e9c7290488c8",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "034d9d0d-391e-4391-835e-96aa036b4d10",
+                "nodeTo": "e6541e54-0c7c-4a2a-a1a6-e9c7290488c8",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-18 17:52:31"
+}

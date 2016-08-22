@@ -1,0 +1,70 @@
+{
+    "uuid": 297,
+    "text": "Africa collaborates to tackle Ebola",
+    "graph": {
+        "version": 1,
+        "guid": "98e9e617-65d1-4e1a-8642-38c481533c4b",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "collaborates",
+                "id": "3e376348-8b0b-4b6a-9552-673d582bc44d",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "tackle",
+                "id": "c78c7ba0-548b-42a6-a730-5266370d61cb",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Africa",
+                "id": "d41db031-9ba3-40d9-a98c-74b203731998",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "451290d0-db42-47bd-8cb8-1d790565c7a3",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "Ebola",
+                "id": "30642505-3a61-4b01-9d9b-edb04c319349",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "d41db031-9ba3-40d9-a98c-74b203731998",
+                "nodeTo": "3e376348-8b0b-4b6a-9552-673d582bc44d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3e376348-8b0b-4b6a-9552-673d582bc44d",
+                "nodeTo": "451290d0-db42-47bd-8cb8-1d790565c7a3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "451290d0-db42-47bd-8cb8-1d790565c7a3",
+                "nodeTo": "c78c7ba0-548b-42a6-a730-5266370d61cb",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c78c7ba0-548b-42a6-a730-5266370d61cb",
+                "nodeTo": "30642505-3a61-4b01-9d9b-edb04c319349",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-04 12:07:59"
+}

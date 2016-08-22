@@ -1,0 +1,130 @@
+{
+    "uuid": 1033,
+    "text": "Chris Brown ordered to spend month In jail",
+    "graph": {
+        "version": 1,
+        "guid": "e7cdd940-7260-41b0-928b-5ce9ba92ee84",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "ordered",
+                "id": "15b36039-b5b6-446b-a830-9ce6c3632be7",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "41394a9e-cbd1-4d94-9929-08898235236d",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "spend",
+                "id": "573dc671-184e-4973-924b-e30d73b5e282",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "In",
+                "id": "57573244-343b-4640-9866-4b7b82dcc261",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Chris",
+                "id": "6092838a-8b89-4a71-9549-e97b8eed649a",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "Brown",
+                "id": "95cb8017-73de-4c99-947e-b08a735bc279",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "month",
+                "id": "aacb521a-2698-4821-bcdc-38ade3ca741c",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "jail",
+                "id": "a5854475-115c-4172-a136-66da2bb3798a",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "6092838a-8b89-4a71-9549-e97b8eed649a",
+                "nodeTo": "15b36039-b5b6-446b-a830-9ce6c3632be7",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6092838a-8b89-4a71-9549-e97b8eed649a",
+                "nodeTo": "41394a9e-cbd1-4d94-9929-08898235236d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6092838a-8b89-4a71-9549-e97b8eed649a",
+                "nodeTo": "573dc671-184e-4973-924b-e30d73b5e282",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "95cb8017-73de-4c99-947e-b08a735bc279",
+                "nodeTo": "15b36039-b5b6-446b-a830-9ce6c3632be7",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "95cb8017-73de-4c99-947e-b08a735bc279",
+                "nodeTo": "41394a9e-cbd1-4d94-9929-08898235236d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "95cb8017-73de-4c99-947e-b08a735bc279",
+                "nodeTo": "573dc671-184e-4973-924b-e30d73b5e282",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "573dc671-184e-4973-924b-e30d73b5e282",
+                "nodeTo": "aacb521a-2698-4821-bcdc-38ade3ca741c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "41394a9e-cbd1-4d94-9929-08898235236d",
+                "nodeTo": "aacb521a-2698-4821-bcdc-38ade3ca741c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "15b36039-b5b6-446b-a830-9ce6c3632be7",
+                "nodeTo": "aacb521a-2698-4821-bcdc-38ade3ca741c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "aacb521a-2698-4821-bcdc-38ade3ca741c",
+                "nodeTo": "57573244-343b-4640-9866-4b7b82dcc261",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "57573244-343b-4640-9866-4b7b82dcc261",
+                "nodeTo": "a5854475-115c-4172-a136-66da2bb3798a",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-04 15:16:18"
+}

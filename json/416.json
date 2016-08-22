@@ -1,0 +1,172 @@
+{
+    "uuid": 416,
+    "text": "Apple to buy Dr Dre Beats firm for $3.2 billion",
+    "graph": {
+        "version": 1,
+        "guid": "bcadb8c2-6d3d-42ee-8925-39a4a2141a87",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "to",
+                "id": "9ad08676-655d-4117-9e26-1d8e4bb28093",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "buy",
+                "id": "a21a90a3-1981-44ce-ac6a-366529535687",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "6bbb490b-ddc0-4762-aad8-a757cb673700",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Apple",
+                "id": "b8cd0c94-66d6-471a-9b22-79430dac8c8c",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "Dr",
+                "id": "6bed9be2-e55c-4779-9ad5-5c85b5b62a94",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "Dre",
+                "id": "95b47678-83d2-4012-9311-c5c1e1ac5252",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "Beats",
+                "id": "d3462d15-3273-448e-a2e7-b8041a676604",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "firm",
+                "id": "58e1add8-13d7-4586-bde6-192c5806b0ae",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "$3.2",
+                "id": "98704e89-7a14-40d6-b45a-a2c4b36d83c1",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "billion",
+                "id": "54cb465a-39d0-4a90-bb9d-d5deae22c9d4",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "b8cd0c94-66d6-471a-9b22-79430dac8c8c",
+                "nodeTo": "9ad08676-655d-4117-9e26-1d8e4bb28093",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b8cd0c94-66d6-471a-9b22-79430dac8c8c",
+                "nodeTo": "a21a90a3-1981-44ce-ac6a-366529535687",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9ad08676-655d-4117-9e26-1d8e4bb28093",
+                "nodeTo": "6bed9be2-e55c-4779-9ad5-5c85b5b62a94",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a21a90a3-1981-44ce-ac6a-366529535687",
+                "nodeTo": "6bed9be2-e55c-4779-9ad5-5c85b5b62a94",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9ad08676-655d-4117-9e26-1d8e4bb28093",
+                "nodeTo": "95b47678-83d2-4012-9311-c5c1e1ac5252",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a21a90a3-1981-44ce-ac6a-366529535687",
+                "nodeTo": "95b47678-83d2-4012-9311-c5c1e1ac5252",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9ad08676-655d-4117-9e26-1d8e4bb28093",
+                "nodeTo": "d3462d15-3273-448e-a2e7-b8041a676604",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a21a90a3-1981-44ce-ac6a-366529535687",
+                "nodeTo": "d3462d15-3273-448e-a2e7-b8041a676604",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9ad08676-655d-4117-9e26-1d8e4bb28093",
+                "nodeTo": "58e1add8-13d7-4586-bde6-192c5806b0ae",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a21a90a3-1981-44ce-ac6a-366529535687",
+                "nodeTo": "58e1add8-13d7-4586-bde6-192c5806b0ae",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6bed9be2-e55c-4779-9ad5-5c85b5b62a94",
+                "nodeTo": "6bbb490b-ddc0-4762-aad8-a757cb673700",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "95b47678-83d2-4012-9311-c5c1e1ac5252",
+                "nodeTo": "6bbb490b-ddc0-4762-aad8-a757cb673700",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d3462d15-3273-448e-a2e7-b8041a676604",
+                "nodeTo": "6bbb490b-ddc0-4762-aad8-a757cb673700",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "58e1add8-13d7-4586-bde6-192c5806b0ae",
+                "nodeTo": "6bbb490b-ddc0-4762-aad8-a757cb673700",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6bbb490b-ddc0-4762-aad8-a757cb673700",
+                "nodeTo": "98704e89-7a14-40d6-b45a-a2c4b36d83c1",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6bbb490b-ddc0-4762-aad8-a757cb673700",
+                "nodeTo": "54cb465a-39d0-4a90-bb9d-d5deae22c9d4",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-18 15:44:35"
+}

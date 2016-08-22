@@ -1,0 +1,274 @@
+{
+    "uuid": 840,
+    "text": "terminally ill teenager is readmitted to hospital days after raising more than 32 million for charity",
+    "graph": {
+        "version": 1,
+        "guid": "11e4cdb0-4447-45d3-b952-6d8a9339c44b",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "is",
+                "id": "cc201048-db91-49b3-b3e1-a096e590553b",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "readmitted",
+                "id": "b231c69e-2912-4901-b77a-cb2766a080c6",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "db368aa4-6d0b-49d0-a302-1d5a055d7e21",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "after",
+                "id": "9bbd0b4c-088c-4293-a173-938e888751a7",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "raising",
+                "id": "c66c6115-bcc3-4e24-beac-4c05624b2553",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "than",
+                "id": "45c741c6-c443-45d4-8e4d-800243adc0db",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "a097d865-9de6-43cb-868d-215ea686a37a",
+                "index": 14,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "terminally",
+                "id": "bc68da79-73d0-4add-826e-24a6b82ec918",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "ill",
+                "id": "e5638a00-5cb0-4122-a791-bd526999e031",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "teenager",
+                "id": "28ad4eb2-d9d5-4ab9-a7c0-dd97bad6b1ea",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "hospital",
+                "id": "dd554cb7-d196-447e-a860-7473adc90c6c",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "days",
+                "id": "24387ed3-33ac-4834-b79a-3ea77181bc19",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "more",
+                "id": "eb8b51e4-d862-46c7-ba25-486e8d8a1d11",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": 32,
+                "id": "1c24055e-35a2-41ca-a4d2-b30061be4490",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "million",
+                "id": "caeda4c9-d0c8-42c9-b4b2-9d802e0598b3",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "charity",
+                "id": "1c5b168e-13ee-4e79-aeb0-42b7a8272a3e",
+                "index": 15,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "bc68da79-73d0-4add-826e-24a6b82ec918",
+                "nodeTo": "cc201048-db91-49b3-b3e1-a096e590553b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e5638a00-5cb0-4122-a791-bd526999e031",
+                "nodeTo": "cc201048-db91-49b3-b3e1-a096e590553b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "28ad4eb2-d9d5-4ab9-a7c0-dd97bad6b1ea",
+                "nodeTo": "cc201048-db91-49b3-b3e1-a096e590553b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bc68da79-73d0-4add-826e-24a6b82ec918",
+                "nodeTo": "b231c69e-2912-4901-b77a-cb2766a080c6",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e5638a00-5cb0-4122-a791-bd526999e031",
+                "nodeTo": "b231c69e-2912-4901-b77a-cb2766a080c6",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "28ad4eb2-d9d5-4ab9-a7c0-dd97bad6b1ea",
+                "nodeTo": "b231c69e-2912-4901-b77a-cb2766a080c6",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bc68da79-73d0-4add-826e-24a6b82ec918",
+                "nodeTo": "db368aa4-6d0b-49d0-a302-1d5a055d7e21",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e5638a00-5cb0-4122-a791-bd526999e031",
+                "nodeTo": "db368aa4-6d0b-49d0-a302-1d5a055d7e21",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "28ad4eb2-d9d5-4ab9-a7c0-dd97bad6b1ea",
+                "nodeTo": "db368aa4-6d0b-49d0-a302-1d5a055d7e21",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cc201048-db91-49b3-b3e1-a096e590553b",
+                "nodeTo": "dd554cb7-d196-447e-a860-7473adc90c6c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b231c69e-2912-4901-b77a-cb2766a080c6",
+                "nodeTo": "dd554cb7-d196-447e-a860-7473adc90c6c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "db368aa4-6d0b-49d0-a302-1d5a055d7e21",
+                "nodeTo": "dd554cb7-d196-447e-a860-7473adc90c6c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "dd554cb7-d196-447e-a860-7473adc90c6c",
+                "nodeTo": "9bbd0b4c-088c-4293-a173-938e888751a7",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "24387ed3-33ac-4834-b79a-3ea77181bc19",
+                "nodeTo": "9bbd0b4c-088c-4293-a173-938e888751a7",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "24387ed3-33ac-4834-b79a-3ea77181bc19",
+                "nodeTo": "c66c6115-bcc3-4e24-beac-4c05624b2553",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "dd554cb7-d196-447e-a860-7473adc90c6c",
+                "nodeTo": "c66c6115-bcc3-4e24-beac-4c05624b2553",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cc201048-db91-49b3-b3e1-a096e590553b",
+                "nodeTo": "24387ed3-33ac-4834-b79a-3ea77181bc19",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b231c69e-2912-4901-b77a-cb2766a080c6",
+                "nodeTo": "24387ed3-33ac-4834-b79a-3ea77181bc19",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "db368aa4-6d0b-49d0-a302-1d5a055d7e21",
+                "nodeTo": "24387ed3-33ac-4834-b79a-3ea77181bc19",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9bbd0b4c-088c-4293-a173-938e888751a7",
+                "nodeTo": "eb8b51e4-d862-46c7-ba25-486e8d8a1d11",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c66c6115-bcc3-4e24-beac-4c05624b2553",
+                "nodeTo": "eb8b51e4-d862-46c7-ba25-486e8d8a1d11",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "eb8b51e4-d862-46c7-ba25-486e8d8a1d11",
+                "nodeTo": "45c741c6-c443-45d4-8e4d-800243adc0db",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "45c741c6-c443-45d4-8e4d-800243adc0db",
+                "nodeTo": "1c24055e-35a2-41ca-a4d2-b30061be4490",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "45c741c6-c443-45d4-8e4d-800243adc0db",
+                "nodeTo": "caeda4c9-d0c8-42c9-b4b2-9d802e0598b3",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1c24055e-35a2-41ca-a4d2-b30061be4490",
+                "nodeTo": "a097d865-9de6-43cb-868d-215ea686a37a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "caeda4c9-d0c8-42c9-b4b2-9d802e0598b3",
+                "nodeTo": "a097d865-9de6-43cb-868d-215ea686a37a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a097d865-9de6-43cb-868d-215ea686a37a",
+                "nodeTo": "1c5b168e-13ee-4e79-aeb0-42b7a8272a3e",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-16 20:55:19"
+}

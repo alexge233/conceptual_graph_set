@@ -1,0 +1,178 @@
+{
+    "uuid": 436,
+    "text": "Around two thirds of Viagra consumed in Netherlands may be illegal",
+    "graph": {
+        "version": 1,
+        "guid": "435620e0-65e7-424c-9bab-7363b0a24440",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "of",
+                "id": "50c80a2b-302b-4c18-93d4-0d200d9ec573",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "consumed",
+                "id": "770a57c7-7198-40d2-99e3-9a723aebab69",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "56dc3e09-2c88-4a6d-80ae-2d49b66deb60",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "may",
+                "id": "62c9e68e-0a7e-4851-94d8-17370a50aaa4",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "be",
+                "id": "87b9a878-b5de-462c-bdc0-5b831c156a82",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Around",
+                "id": "bbecde52-2ae0-4359-8b5e-c4edea80b950",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "two",
+                "id": "751104b9-32a0-4562-91a0-3e48748779cb",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "thirds",
+                "id": "e3d104eb-7a2e-4503-8d5a-d24b5a91a97b",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "Viagra",
+                "id": "24d58a6b-5e18-4eee-abd4-87ec8332b4b5",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "Netherlands",
+                "id": "4c7a185d-23dc-4930-a143-8d1e4c1b35eb",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "illegal",
+                "id": "6e339552-065d-4068-ad65-02e0761c6de4",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "bbecde52-2ae0-4359-8b5e-c4edea80b950",
+                "nodeTo": "50c80a2b-302b-4c18-93d4-0d200d9ec573",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "751104b9-32a0-4562-91a0-3e48748779cb",
+                "nodeTo": "50c80a2b-302b-4c18-93d4-0d200d9ec573",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e3d104eb-7a2e-4503-8d5a-d24b5a91a97b",
+                "nodeTo": "50c80a2b-302b-4c18-93d4-0d200d9ec573",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "50c80a2b-302b-4c18-93d4-0d200d9ec573",
+                "nodeTo": "24d58a6b-5e18-4eee-abd4-87ec8332b4b5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "24d58a6b-5e18-4eee-abd4-87ec8332b4b5",
+                "nodeTo": "770a57c7-7198-40d2-99e3-9a723aebab69",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "24d58a6b-5e18-4eee-abd4-87ec8332b4b5",
+                "nodeTo": "56dc3e09-2c88-4a6d-80ae-2d49b66deb60",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "770a57c7-7198-40d2-99e3-9a723aebab69",
+                "nodeTo": "4c7a185d-23dc-4930-a143-8d1e4c1b35eb",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "56dc3e09-2c88-4a6d-80ae-2d49b66deb60",
+                "nodeTo": "4c7a185d-23dc-4930-a143-8d1e4c1b35eb",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "bbecde52-2ae0-4359-8b5e-c4edea80b950",
+                "nodeTo": "62c9e68e-0a7e-4851-94d8-17370a50aaa4",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "751104b9-32a0-4562-91a0-3e48748779cb",
+                "nodeTo": "62c9e68e-0a7e-4851-94d8-17370a50aaa4",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e3d104eb-7a2e-4503-8d5a-d24b5a91a97b",
+                "nodeTo": "62c9e68e-0a7e-4851-94d8-17370a50aaa4",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bbecde52-2ae0-4359-8b5e-c4edea80b950",
+                "nodeTo": "87b9a878-b5de-462c-bdc0-5b831c156a82",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "751104b9-32a0-4562-91a0-3e48748779cb",
+                "nodeTo": "87b9a878-b5de-462c-bdc0-5b831c156a82",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e3d104eb-7a2e-4503-8d5a-d24b5a91a97b",
+                "nodeTo": "87b9a878-b5de-462c-bdc0-5b831c156a82",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "62c9e68e-0a7e-4851-94d8-17370a50aaa4",
+                "nodeTo": "6e339552-065d-4068-ad65-02e0761c6de4",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "87b9a878-b5de-462c-bdc0-5b831c156a82",
+                "nodeTo": "6e339552-065d-4068-ad65-02e0761c6de4",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-18 17:10:51"
+}

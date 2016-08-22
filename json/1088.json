@@ -1,0 +1,298 @@
+{
+    "uuid": 1088,
+    "text": "appropriate toothbrush storage and care are important to achieving personal oral hygiene and optimally effective plaque removal",
+    "graph": {
+        "version": 1,
+        "guid": "d49bee54-015a-4a59-aebe-7d1c9ba84090",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "and",
+                "id": "55614519-2738-4128-b48d-0501070d8504",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "are",
+                "id": "5e823513-88c7-4576-976a-90b8de19b68a",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "b175d027-6284-45ea-8c53-d8d012a01b43",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "achieving",
+                "id": "86b31313-c309-4bed-bbcd-ae9644a87960",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "b20e7537-c2e1-4c51-87b2-d435c0923458",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "appropriate",
+                "id": "053749c6-b832-4072-8209-8e2226e0c888",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "toothbrush",
+                "id": "53a87a43-143b-42e3-a63e-bb8db1bda7bb",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "storage",
+                "id": "a6ad7a6a-1561-46c8-85cc-b367c4a948bb",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "care",
+                "id": "123cca79-6d06-468e-9db1-edd370408a17",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "important",
+                "id": "15051b34-4603-44a1-8984-53a3d75438a7",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "personal",
+                "id": "5c8c41b8-ec70-4422-b5d3-253a62075e4c",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "oral",
+                "id": "d8290367-5dd4-4b83-9336-5a4b364be720",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "hygiene",
+                "id": "19ed4c72-970c-4125-a24e-02699e1edc07",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "optimally",
+                "id": "6123e909-9672-417d-8ae2-714a15da72e5",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "effective",
+                "id": "7386e010-6897-465e-9341-8b1e0be97060",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "plaque",
+                "id": "727b4c73-5b8e-40d4-9398-644d9b282210",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "removal",
+                "id": "2ce022d6-0ebe-41c7-86ad-bc7b555956eb",
+                "index": 16,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "a6ad7a6a-1561-46c8-85cc-b367c4a948bb",
+                "nodeTo": "55614519-2738-4128-b48d-0501070d8504",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "55614519-2738-4128-b48d-0501070d8504",
+                "nodeTo": "123cca79-6d06-468e-9db1-edd370408a17",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "053749c6-b832-4072-8209-8e2226e0c888",
+                "nodeTo": "5e823513-88c7-4576-976a-90b8de19b68a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "53a87a43-143b-42e3-a63e-bb8db1bda7bb",
+                "nodeTo": "5e823513-88c7-4576-976a-90b8de19b68a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a6ad7a6a-1561-46c8-85cc-b367c4a948bb",
+                "nodeTo": "5e823513-88c7-4576-976a-90b8de19b68a",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "123cca79-6d06-468e-9db1-edd370408a17",
+                "nodeTo": "5e823513-88c7-4576-976a-90b8de19b68a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5e823513-88c7-4576-976a-90b8de19b68a",
+                "nodeTo": "15051b34-4603-44a1-8984-53a3d75438a7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "15051b34-4603-44a1-8984-53a3d75438a7",
+                "nodeTo": "b175d027-6284-45ea-8c53-d8d012a01b43",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "15051b34-4603-44a1-8984-53a3d75438a7",
+                "nodeTo": "86b31313-c309-4bed-bbcd-ae9644a87960",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b175d027-6284-45ea-8c53-d8d012a01b43",
+                "nodeTo": "5c8c41b8-ec70-4422-b5d3-253a62075e4c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b175d027-6284-45ea-8c53-d8d012a01b43",
+                "nodeTo": "d8290367-5dd4-4b83-9336-5a4b364be720",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b175d027-6284-45ea-8c53-d8d012a01b43",
+                "nodeTo": "19ed4c72-970c-4125-a24e-02699e1edc07",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "86b31313-c309-4bed-bbcd-ae9644a87960",
+                "nodeTo": "5c8c41b8-ec70-4422-b5d3-253a62075e4c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "86b31313-c309-4bed-bbcd-ae9644a87960",
+                "nodeTo": "d8290367-5dd4-4b83-9336-5a4b364be720",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "86b31313-c309-4bed-bbcd-ae9644a87960",
+                "nodeTo": "19ed4c72-970c-4125-a24e-02699e1edc07",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5c8c41b8-ec70-4422-b5d3-253a62075e4c",
+                "nodeTo": "b20e7537-c2e1-4c51-87b2-d435c0923458",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d8290367-5dd4-4b83-9336-5a4b364be720",
+                "nodeTo": "b20e7537-c2e1-4c51-87b2-d435c0923458",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "19ed4c72-970c-4125-a24e-02699e1edc07",
+                "nodeTo": "b20e7537-c2e1-4c51-87b2-d435c0923458",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b20e7537-c2e1-4c51-87b2-d435c0923458",
+                "nodeTo": "6123e909-9672-417d-8ae2-714a15da72e5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b20e7537-c2e1-4c51-87b2-d435c0923458",
+                "nodeTo": "7386e010-6897-465e-9341-8b1e0be97060",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b20e7537-c2e1-4c51-87b2-d435c0923458",
+                "nodeTo": "727b4c73-5b8e-40d4-9398-644d9b282210",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b20e7537-c2e1-4c51-87b2-d435c0923458",
+                "nodeTo": "2ce022d6-0ebe-41c7-86ad-bc7b555956eb",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b175d027-6284-45ea-8c53-d8d012a01b43",
+                "nodeTo": "6123e909-9672-417d-8ae2-714a15da72e5",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b175d027-6284-45ea-8c53-d8d012a01b43",
+                "nodeTo": "7386e010-6897-465e-9341-8b1e0be97060",
+                "index": 5,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b175d027-6284-45ea-8c53-d8d012a01b43",
+                "nodeTo": "727b4c73-5b8e-40d4-9398-644d9b282210",
+                "index": 6,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b175d027-6284-45ea-8c53-d8d012a01b43",
+                "nodeTo": "2ce022d6-0ebe-41c7-86ad-bc7b555956eb",
+                "index": 7,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "86b31313-c309-4bed-bbcd-ae9644a87960",
+                "nodeTo": "6123e909-9672-417d-8ae2-714a15da72e5",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "86b31313-c309-4bed-bbcd-ae9644a87960",
+                "nodeTo": "7386e010-6897-465e-9341-8b1e0be97060",
+                "index": 5,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "86b31313-c309-4bed-bbcd-ae9644a87960",
+                "nodeTo": "727b4c73-5b8e-40d4-9398-644d9b282210",
+                "index": 6,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "86b31313-c309-4bed-bbcd-ae9644a87960",
+                "nodeTo": "2ce022d6-0ebe-41c7-86ad-bc7b555956eb",
+                "index": 7,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-09 19:17:23"
+}

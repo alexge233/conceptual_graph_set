@@ -1,0 +1,82 @@
+{
+    "uuid": 361,
+    "text": "Anatomy of cost of new drug",
+    "graph": {
+        "version": 1,
+        "guid": "77d54a6b-10d7-47a3-984d-83c463925387",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "of",
+                "id": "23aeb807-281c-4a80-a04d-145d367c1092",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "2a7e2ed9-b226-441e-859e-93452e7929a8",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Anatomy",
+                "id": "e100e2e6-b26d-4723-94c6-81c6cdb5b1aa",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "cost",
+                "id": "c8dd2400-2037-40ae-98e2-c9ac6ecd3021",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "new",
+                "id": "37c6616c-3916-4c13-aa92-949433627160",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "drug",
+                "id": "200647b7-17aa-495a-8ad7-0e88459d675b",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "e100e2e6-b26d-4723-94c6-81c6cdb5b1aa",
+                "nodeTo": "23aeb807-281c-4a80-a04d-145d367c1092",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "23aeb807-281c-4a80-a04d-145d367c1092",
+                "nodeTo": "c8dd2400-2037-40ae-98e2-c9ac6ecd3021",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c8dd2400-2037-40ae-98e2-c9ac6ecd3021",
+                "nodeTo": "2a7e2ed9-b226-441e-859e-93452e7929a8",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2a7e2ed9-b226-441e-859e-93452e7929a8",
+                "nodeTo": "37c6616c-3916-4c13-aa92-949433627160",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2a7e2ed9-b226-441e-859e-93452e7929a8",
+                "nodeTo": "200647b7-17aa-495a-8ad7-0e88459d675b",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-16 16:26:34"
+}

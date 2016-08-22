@@ -1,0 +1,148 @@
+{
+    "uuid": 322,
+    "text": "findings could shed light on development of alcohol and drug addiction",
+    "graph": {
+        "version": 1,
+        "guid": "5506a6eb-679c-4531-9e06-ca721c4a9a19",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "could",
+                "id": "37a9646b-1292-4075-a035-2b0eab27d204",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "shed",
+                "id": "eaebaa87-2e28-4de0-a188-20567e0d4bd9",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "on",
+                "id": "310a8653-9300-4c66-8b2b-d2b286bb6d90",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "a5c866b8-0763-4774-bd3c-122b836e867d",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "4a492d92-cc69-4a29-9a6e-39b767919714",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "findings",
+                "id": "1e8b56ab-5c7a-4299-9960-0a7517a2b954",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "light",
+                "id": "70ae0cb0-8b1c-4c13-a9e3-64b0a83aaa0c",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "development",
+                "id": "62a74886-ebb1-4d78-a5d3-c5d733849eb1",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "alcohol",
+                "id": "a57200c9-6123-4ddd-9262-e8518a1b8401",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "drug",
+                "id": "b7bb5883-07a4-480b-8a13-38009de557b4",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "addiction",
+                "id": "19b0c43a-029a-4aab-b38d-19e69b376999",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "1e8b56ab-5c7a-4299-9960-0a7517a2b954",
+                "nodeTo": "37a9646b-1292-4075-a035-2b0eab27d204",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1e8b56ab-5c7a-4299-9960-0a7517a2b954",
+                "nodeTo": "eaebaa87-2e28-4de0-a188-20567e0d4bd9",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "37a9646b-1292-4075-a035-2b0eab27d204",
+                "nodeTo": "70ae0cb0-8b1c-4c13-a9e3-64b0a83aaa0c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "eaebaa87-2e28-4de0-a188-20567e0d4bd9",
+                "nodeTo": "70ae0cb0-8b1c-4c13-a9e3-64b0a83aaa0c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "70ae0cb0-8b1c-4c13-a9e3-64b0a83aaa0c",
+                "nodeTo": "310a8653-9300-4c66-8b2b-d2b286bb6d90",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "310a8653-9300-4c66-8b2b-d2b286bb6d90",
+                "nodeTo": "62a74886-ebb1-4d78-a5d3-c5d733849eb1",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "62a74886-ebb1-4d78-a5d3-c5d733849eb1",
+                "nodeTo": "a5c866b8-0763-4774-bd3c-122b836e867d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a5c866b8-0763-4774-bd3c-122b836e867d",
+                "nodeTo": "a57200c9-6123-4ddd-9262-e8518a1b8401",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a57200c9-6123-4ddd-9262-e8518a1b8401",
+                "nodeTo": "4a492d92-cc69-4a29-9a6e-39b767919714",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4a492d92-cc69-4a29-9a6e-39b767919714",
+                "nodeTo": "b7bb5883-07a4-480b-8a13-38009de557b4",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4a492d92-cc69-4a29-9a6e-39b767919714",
+                "nodeTo": "19b0c43a-029a-4aab-b38d-19e69b376999",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-04 21:06:30"
+}

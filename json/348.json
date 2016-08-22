@@ -1,0 +1,148 @@
+{
+    "uuid": 348,
+    "text": "Analysis of 50 years of hit songs yields tips for advertisers",
+    "graph": {
+        "version": 1,
+        "guid": "47e10b39-78ab-4c55-b613-3871d0d4950c",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "of",
+                "id": "a267a9e6-c8d3-45e4-9c93-7abe930064a7",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "5b0b3ccc-d880-4324-ab04-1e0752db724e",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "yields",
+                "id": "0bda5b18-4c56-40e3-9478-64618d26e343",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "4a29ad9d-14a5-4344-ac82-c45e6cdd84d6",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Analysis",
+                "id": "26175414-16ee-4281-ac3d-bc462eaa2ab0",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": 50,
+                "id": "760d52d2-7073-446e-8da2-2c1d2b6a5262",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "years",
+                "id": "ba45eda1-ed13-4185-8120-a2313b9b1c1a",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "hit",
+                "id": "7733880d-9307-4eab-a80e-616b481428b4",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "songs",
+                "id": "d92285d9-b2b0-4933-bce2-3ec5ea532547",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "tips",
+                "id": "bb4679b9-94e5-47ba-b750-448420ab8632",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "advertisers",
+                "id": "ed49d08d-eda7-4b46-b312-b6e01b03546e",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "26175414-16ee-4281-ac3d-bc462eaa2ab0",
+                "nodeTo": "a267a9e6-c8d3-45e4-9c93-7abe930064a7",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a267a9e6-c8d3-45e4-9c93-7abe930064a7",
+                "nodeTo": "760d52d2-7073-446e-8da2-2c1d2b6a5262",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a267a9e6-c8d3-45e4-9c93-7abe930064a7",
+                "nodeTo": "ba45eda1-ed13-4185-8120-a2313b9b1c1a",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "760d52d2-7073-446e-8da2-2c1d2b6a5262",
+                "nodeTo": "5b0b3ccc-d880-4324-ab04-1e0752db724e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ba45eda1-ed13-4185-8120-a2313b9b1c1a",
+                "nodeTo": "5b0b3ccc-d880-4324-ab04-1e0752db724e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5b0b3ccc-d880-4324-ab04-1e0752db724e",
+                "nodeTo": "7733880d-9307-4eab-a80e-616b481428b4",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5b0b3ccc-d880-4324-ab04-1e0752db724e",
+                "nodeTo": "d92285d9-b2b0-4933-bce2-3ec5ea532547",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "26175414-16ee-4281-ac3d-bc462eaa2ab0",
+                "nodeTo": "0bda5b18-4c56-40e3-9478-64618d26e343",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0bda5b18-4c56-40e3-9478-64618d26e343",
+                "nodeTo": "bb4679b9-94e5-47ba-b750-448420ab8632",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "bb4679b9-94e5-47ba-b750-448420ab8632",
+                "nodeTo": "4a29ad9d-14a5-4344-ac82-c45e6cdd84d6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4a29ad9d-14a5-4344-ac82-c45e6cdd84d6",
+                "nodeTo": "ed49d08d-eda7-4b46-b312-b6e01b03546e",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-15 20:22:26"
+}

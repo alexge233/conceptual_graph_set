@@ -1,0 +1,304 @@
+{
+    "uuid": 925,
+    "text": "pancreatic cancer rates in US have been rising over past decade and disease takes very heavy toll",
+    "graph": {
+        "version": 1,
+        "guid": "3d0c2c64-629e-475c-8ee9-39d5365d5c9d",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "in",
+                "id": "68abb2a3-46ce-4d7c-bd92-48b92829078a",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "have",
+                "id": "6161936c-2251-4340-b723-380d7491b84e",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "been",
+                "id": "31489bd7-4078-4d6d-82e9-d30ad2a682de",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "rising",
+                "id": "a3eab01b-2aa6-46e3-a8bd-4628c148e4de",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "over",
+                "id": "887bd673-67ae-4b7d-ad4d-332a075cc89a",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "be31a1a1-cb13-42a9-8134-84219628cd8e",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "takes",
+                "id": "a2b0e712-d32c-44e7-8896-09341b17b8a5",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "pancreatic",
+                "id": "327b241d-21d0-409e-baa3-6c3c9c05da6e",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "cancer",
+                "id": "81eccd61-9a4d-4be3-bae7-2965bb35765a",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "rates",
+                "id": "22909290-ea12-40b3-8936-c13331d3bbd8",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "US",
+                "id": "d58d4e1d-992c-41ce-983c-0aae88d42c31",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "past",
+                "id": "5da11855-5277-4e77-a4cc-5769d086e92e",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "decade",
+                "id": "3a317c8e-9456-4105-b068-1a54960b3892",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "disease",
+                "id": "d588a023-0d1c-4ebe-a101-58768376478a",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "very",
+                "id": "e7ee0c46-d77c-4964-900d-6470cec824a8",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "heavy",
+                "id": "49a68833-8a4b-43d3-930b-a08e2b784de0",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "toll",
+                "id": "560153b5-d662-44da-a6c6-59d25965885d",
+                "index": 16,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "327b241d-21d0-409e-baa3-6c3c9c05da6e",
+                "nodeTo": "68abb2a3-46ce-4d7c-bd92-48b92829078a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "81eccd61-9a4d-4be3-bae7-2965bb35765a",
+                "nodeTo": "68abb2a3-46ce-4d7c-bd92-48b92829078a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "22909290-ea12-40b3-8936-c13331d3bbd8",
+                "nodeTo": "68abb2a3-46ce-4d7c-bd92-48b92829078a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "68abb2a3-46ce-4d7c-bd92-48b92829078a",
+                "nodeTo": "d58d4e1d-992c-41ce-983c-0aae88d42c31",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "327b241d-21d0-409e-baa3-6c3c9c05da6e",
+                "nodeTo": "6161936c-2251-4340-b723-380d7491b84e",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "81eccd61-9a4d-4be3-bae7-2965bb35765a",
+                "nodeTo": "6161936c-2251-4340-b723-380d7491b84e",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "22909290-ea12-40b3-8936-c13331d3bbd8",
+                "nodeTo": "6161936c-2251-4340-b723-380d7491b84e",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "327b241d-21d0-409e-baa3-6c3c9c05da6e",
+                "nodeTo": "31489bd7-4078-4d6d-82e9-d30ad2a682de",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "81eccd61-9a4d-4be3-bae7-2965bb35765a",
+                "nodeTo": "31489bd7-4078-4d6d-82e9-d30ad2a682de",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "22909290-ea12-40b3-8936-c13331d3bbd8",
+                "nodeTo": "31489bd7-4078-4d6d-82e9-d30ad2a682de",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "327b241d-21d0-409e-baa3-6c3c9c05da6e",
+                "nodeTo": "a3eab01b-2aa6-46e3-a8bd-4628c148e4de",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "81eccd61-9a4d-4be3-bae7-2965bb35765a",
+                "nodeTo": "a3eab01b-2aa6-46e3-a8bd-4628c148e4de",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "22909290-ea12-40b3-8936-c13331d3bbd8",
+                "nodeTo": "a3eab01b-2aa6-46e3-a8bd-4628c148e4de",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "327b241d-21d0-409e-baa3-6c3c9c05da6e",
+                "nodeTo": "887bd673-67ae-4b7d-ad4d-332a075cc89a",
+                "index": 5,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "81eccd61-9a4d-4be3-bae7-2965bb35765a",
+                "nodeTo": "887bd673-67ae-4b7d-ad4d-332a075cc89a",
+                "index": 5,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "22909290-ea12-40b3-8936-c13331d3bbd8",
+                "nodeTo": "887bd673-67ae-4b7d-ad4d-332a075cc89a",
+                "index": 5,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6161936c-2251-4340-b723-380d7491b84e",
+                "nodeTo": "5da11855-5277-4e77-a4cc-5769d086e92e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "31489bd7-4078-4d6d-82e9-d30ad2a682de",
+                "nodeTo": "5da11855-5277-4e77-a4cc-5769d086e92e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a3eab01b-2aa6-46e3-a8bd-4628c148e4de",
+                "nodeTo": "5da11855-5277-4e77-a4cc-5769d086e92e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "887bd673-67ae-4b7d-ad4d-332a075cc89a",
+                "nodeTo": "5da11855-5277-4e77-a4cc-5769d086e92e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6161936c-2251-4340-b723-380d7491b84e",
+                "nodeTo": "3a317c8e-9456-4105-b068-1a54960b3892",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "31489bd7-4078-4d6d-82e9-d30ad2a682de",
+                "nodeTo": "3a317c8e-9456-4105-b068-1a54960b3892",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a3eab01b-2aa6-46e3-a8bd-4628c148e4de",
+                "nodeTo": "3a317c8e-9456-4105-b068-1a54960b3892",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "887bd673-67ae-4b7d-ad4d-332a075cc89a",
+                "nodeTo": "3a317c8e-9456-4105-b068-1a54960b3892",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5da11855-5277-4e77-a4cc-5769d086e92e",
+                "nodeTo": "be31a1a1-cb13-42a9-8134-84219628cd8e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3a317c8e-9456-4105-b068-1a54960b3892",
+                "nodeTo": "be31a1a1-cb13-42a9-8134-84219628cd8e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "be31a1a1-cb13-42a9-8134-84219628cd8e",
+                "nodeTo": "d588a023-0d1c-4ebe-a101-58768376478a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d588a023-0d1c-4ebe-a101-58768376478a",
+                "nodeTo": "a2b0e712-d32c-44e7-8896-09341b17b8a5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a2b0e712-d32c-44e7-8896-09341b17b8a5",
+                "nodeTo": "e7ee0c46-d77c-4964-900d-6470cec824a8",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a2b0e712-d32c-44e7-8896-09341b17b8a5",
+                "nodeTo": "49a68833-8a4b-43d3-930b-a08e2b784de0",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a2b0e712-d32c-44e7-8896-09341b17b8a5",
+                "nodeTo": "560153b5-d662-44da-a6c6-59d25965885d",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-21 21:49:56"
+}

@@ -1,0 +1,208 @@
+{
+    "uuid": 138,
+    "text": "new organ has been invented to help return blood flow from veins lacking functional valves",
+    "graph": {
+        "version": 1,
+        "guid": "c382e587-50c1-4b6e-8891-553d128668a6",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "has",
+                "id": "1019e39e-7016-4997-b99c-ab2de5664acb",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "been",
+                "id": "97547659-6c63-4d3e-a6b6-72821e2a235d",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "return",
+                "id": "933eca14-5670-4dbe-a191-a8c25516abbb",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "from",
+                "id": "8a74a94e-8b18-498b-a294-862e316709bd",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "lacking",
+                "id": "9542530d-9737-468b-9015-d45a333c0614",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "help",
+                "id": "d59928a2-80e9-4047-a041-1a4962713c50",
+                "postag": "NA",
+                "index": 6
+            },
+            {
+                "label": "invented",
+                "id": "d0be51cd-5d94-4753-b824-9be45c83317b",
+                "postag": "NA",
+                "index": 4
+            }
+        ],
+        "concepts": [
+            {
+                "label": "new",
+                "id": "b15db799-0cde-453c-8c25-66d22a98d566",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "organ",
+                "id": "9ac4219d-b182-44c3-9e32-b09aa3836682",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "blood",
+                "id": "42be0553-8e06-471a-9d3a-a31354409995",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "flow",
+                "id": "a3e09e0c-d19c-44bb-a923-03050905d18a",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "veins",
+                "id": "db080a06-5ac2-4697-ad37-7d1dc5b735b5",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "functional",
+                "id": "dceb1a65-cabd-443d-876d-7c639db32752",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "valves",
+                "id": "9048c362-c36c-4b21-8b5d-15ee87d89d49",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "12c308ce-072b-4504-9229-452880a9e255",
+                "postag": "NA",
+                "index": 5
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "b15db799-0cde-453c-8c25-66d22a98d566",
+                "nodeTo": "1019e39e-7016-4997-b99c-ab2de5664acb",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b15db799-0cde-453c-8c25-66d22a98d566",
+                "nodeTo": "97547659-6c63-4d3e-a6b6-72821e2a235d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9ac4219d-b182-44c3-9e32-b09aa3836682",
+                "nodeTo": "1019e39e-7016-4997-b99c-ab2de5664acb",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9ac4219d-b182-44c3-9e32-b09aa3836682",
+                "nodeTo": "97547659-6c63-4d3e-a6b6-72821e2a235d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "933eca14-5670-4dbe-a191-a8c25516abbb",
+                "nodeTo": "42be0553-8e06-471a-9d3a-a31354409995",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "933eca14-5670-4dbe-a191-a8c25516abbb",
+                "nodeTo": "a3e09e0c-d19c-44bb-a923-03050905d18a",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "42be0553-8e06-471a-9d3a-a31354409995",
+                "nodeTo": "8a74a94e-8b18-498b-a294-862e316709bd",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a3e09e0c-d19c-44bb-a923-03050905d18a",
+                "nodeTo": "8a74a94e-8b18-498b-a294-862e316709bd",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8a74a94e-8b18-498b-a294-862e316709bd",
+                "nodeTo": "db080a06-5ac2-4697-ad37-7d1dc5b735b5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "db080a06-5ac2-4697-ad37-7d1dc5b735b5",
+                "nodeTo": "9542530d-9737-468b-9015-d45a333c0614",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9542530d-9737-468b-9015-d45a333c0614",
+                "nodeTo": "dceb1a65-cabd-443d-876d-7c639db32752",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9542530d-9737-468b-9015-d45a333c0614",
+                "nodeTo": "9048c362-c36c-4b21-8b5d-15ee87d89d49",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b15db799-0cde-453c-8c25-66d22a98d566",
+                "nodeTo": "d0be51cd-5d94-4753-b824-9be45c83317b",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9ac4219d-b182-44c3-9e32-b09aa3836682",
+                "nodeTo": "d0be51cd-5d94-4753-b824-9be45c83317b",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d0be51cd-5d94-4753-b824-9be45c83317b",
+                "nodeTo": "12c308ce-072b-4504-9229-452880a9e255",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "12c308ce-072b-4504-9229-452880a9e255",
+                "nodeTo": "d59928a2-80e9-4047-a041-1a4962713c50",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "12c308ce-072b-4504-9229-452880a9e255",
+                "nodeTo": "933eca14-5670-4dbe-a191-a8c25516abbb",
+                "index": 2,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2014-11-06 09:50:19"
+}

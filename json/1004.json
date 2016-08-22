@@ -1,0 +1,184 @@
+{
+    "uuid": 1004,
+    "text": "Children showing signs of social withdrawal are more susceptible to parental influences than others",
+    "graph": {
+        "version": 1,
+        "guid": "7ee21d8b-cea6-4be3-88a6-0a6b75a1b490",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "showing",
+                "id": "7896d4c0-1b11-484c-9c5b-279ebdee9a59",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "797b0ab9-8426-481d-8764-3e4bc21ae076",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "are",
+                "id": "b7924ccc-26c0-4535-a793-d185875dc238",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "more",
+                "id": "5961be5c-983b-43c8-b402-8427b41b337e",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "e3b713c7-3253-4ab8-ab5c-1b2896d985be",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "than",
+                "id": "199872c7-344d-436d-87da-4d880a094bdd",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Children",
+                "id": "ead4b76d-24e7-4894-9dbc-4d7892554a87",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "signs",
+                "id": "00387269-83c0-4d0e-9659-70b49ebe92c8",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "social",
+                "id": "d2a199b3-b6a8-486d-be97-a7287c9bd8b7",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "withdrawal",
+                "id": "da68b291-9753-4326-a21a-4c8832604401",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "susceptible",
+                "id": "88294e15-0b56-46b3-84e6-bb7c3b006c6c",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "parental",
+                "id": "cee170a3-b288-402b-b395-ab5426d206ae",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "influences",
+                "id": "e83538a1-0c73-4d25-ad1a-3c52aa66b3e9",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "others",
+                "id": "c562149a-5e7e-4db6-a839-243286b28e37",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "ead4b76d-24e7-4894-9dbc-4d7892554a87",
+                "nodeTo": "7896d4c0-1b11-484c-9c5b-279ebdee9a59",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7896d4c0-1b11-484c-9c5b-279ebdee9a59",
+                "nodeTo": "00387269-83c0-4d0e-9659-70b49ebe92c8",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "00387269-83c0-4d0e-9659-70b49ebe92c8",
+                "nodeTo": "797b0ab9-8426-481d-8764-3e4bc21ae076",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "797b0ab9-8426-481d-8764-3e4bc21ae076",
+                "nodeTo": "d2a199b3-b6a8-486d-be97-a7287c9bd8b7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "797b0ab9-8426-481d-8764-3e4bc21ae076",
+                "nodeTo": "da68b291-9753-4326-a21a-4c8832604401",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ead4b76d-24e7-4894-9dbc-4d7892554a87",
+                "nodeTo": "b7924ccc-26c0-4535-a793-d185875dc238",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ead4b76d-24e7-4894-9dbc-4d7892554a87",
+                "nodeTo": "5961be5c-983b-43c8-b402-8427b41b337e",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b7924ccc-26c0-4535-a793-d185875dc238",
+                "nodeTo": "88294e15-0b56-46b3-84e6-bb7c3b006c6c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5961be5c-983b-43c8-b402-8427b41b337e",
+                "nodeTo": "88294e15-0b56-46b3-84e6-bb7c3b006c6c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "88294e15-0b56-46b3-84e6-bb7c3b006c6c",
+                "nodeTo": "e3b713c7-3253-4ab8-ab5c-1b2896d985be",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e3b713c7-3253-4ab8-ab5c-1b2896d985be",
+                "nodeTo": "cee170a3-b288-402b-b395-ab5426d206ae",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e3b713c7-3253-4ab8-ab5c-1b2896d985be",
+                "nodeTo": "e83538a1-0c73-4d25-ad1a-3c52aa66b3e9",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "88294e15-0b56-46b3-84e6-bb7c3b006c6c",
+                "nodeTo": "199872c7-344d-436d-87da-4d880a094bdd",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "199872c7-344d-436d-87da-4d880a094bdd",
+                "nodeTo": "c562149a-5e7e-4db6-a839-243286b28e37",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-02 18:28:26"
+}

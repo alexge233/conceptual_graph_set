@@ -1,0 +1,220 @@
+{
+    "uuid": 983,
+    "text": "hormone impairment raises risk of developing obesity diabetes or other metabolic disorders in adulthood",
+    "graph": {
+        "version": 1,
+        "guid": "c2ceba5c-9e93-4c51-b245-e3a89cd4ab50",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "raises",
+                "id": "5d09ee93-17cc-4b7d-9c8c-5a6d2b353012",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "d313e519-608c-4358-ad28-7bb38bbc24a6",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "developing",
+                "id": "5d7ec7d7-1932-4ba7-a4e1-86cdb257521a",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "or",
+                "id": "5b9299ec-dcb7-4ed4-885e-aae50b16e203",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "7371ec7d-58b8-448e-8526-8d37da4ba91e",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "hormone",
+                "id": "28291a62-e2d5-460c-b17b-1644b065c6b6",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "impairment",
+                "id": "8dbb56ea-5d18-4834-b5ba-7e815dc2a770",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "risk",
+                "id": "ae7d03ad-dc90-465c-8283-2ce5eb6a1243",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "obesity",
+                "id": "553aa80b-9a48-4a30-a4b1-e4cab6c3838b",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "diabetes",
+                "id": "3dd2896e-e7a6-4541-8aac-d46ecd8e272a",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "other",
+                "id": "47db77dc-17e0-475c-83e8-25993e75537e",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "metabolic",
+                "id": "5b7e3828-cd06-4b7c-a4e4-379e06790882",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "disorders",
+                "id": "bece21ca-5c64-4a96-b1e3-a35992b00cde",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "adulthood",
+                "id": "0984360c-9356-49c0-be11-d2bcad8c775b",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "28291a62-e2d5-460c-b17b-1644b065c6b6",
+                "nodeTo": "5d09ee93-17cc-4b7d-9c8c-5a6d2b353012",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8dbb56ea-5d18-4834-b5ba-7e815dc2a770",
+                "nodeTo": "5d09ee93-17cc-4b7d-9c8c-5a6d2b353012",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5d09ee93-17cc-4b7d-9c8c-5a6d2b353012",
+                "nodeTo": "ae7d03ad-dc90-465c-8283-2ce5eb6a1243",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ae7d03ad-dc90-465c-8283-2ce5eb6a1243",
+                "nodeTo": "d313e519-608c-4358-ad28-7bb38bbc24a6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ae7d03ad-dc90-465c-8283-2ce5eb6a1243",
+                "nodeTo": "5d7ec7d7-1932-4ba7-a4e1-86cdb257521a",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d313e519-608c-4358-ad28-7bb38bbc24a6",
+                "nodeTo": "553aa80b-9a48-4a30-a4b1-e4cab6c3838b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d313e519-608c-4358-ad28-7bb38bbc24a6",
+                "nodeTo": "3dd2896e-e7a6-4541-8aac-d46ecd8e272a",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5d7ec7d7-1932-4ba7-a4e1-86cdb257521a",
+                "nodeTo": "553aa80b-9a48-4a30-a4b1-e4cab6c3838b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5d7ec7d7-1932-4ba7-a4e1-86cdb257521a",
+                "nodeTo": "3dd2896e-e7a6-4541-8aac-d46ecd8e272a",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "553aa80b-9a48-4a30-a4b1-e4cab6c3838b",
+                "nodeTo": "5b9299ec-dcb7-4ed4-885e-aae50b16e203",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3dd2896e-e7a6-4541-8aac-d46ecd8e272a",
+                "nodeTo": "5b9299ec-dcb7-4ed4-885e-aae50b16e203",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5b9299ec-dcb7-4ed4-885e-aae50b16e203",
+                "nodeTo": "47db77dc-17e0-475c-83e8-25993e75537e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5b9299ec-dcb7-4ed4-885e-aae50b16e203",
+                "nodeTo": "5b7e3828-cd06-4b7c-a4e4-379e06790882",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5b9299ec-dcb7-4ed4-885e-aae50b16e203",
+                "nodeTo": "bece21ca-5c64-4a96-b1e3-a35992b00cde",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "553aa80b-9a48-4a30-a4b1-e4cab6c3838b",
+                "nodeTo": "7371ec7d-58b8-448e-8526-8d37da4ba91e",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3dd2896e-e7a6-4541-8aac-d46ecd8e272a",
+                "nodeTo": "7371ec7d-58b8-448e-8526-8d37da4ba91e",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "47db77dc-17e0-475c-83e8-25993e75537e",
+                "nodeTo": "7371ec7d-58b8-448e-8526-8d37da4ba91e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5b7e3828-cd06-4b7c-a4e4-379e06790882",
+                "nodeTo": "7371ec7d-58b8-448e-8526-8d37da4ba91e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bece21ca-5c64-4a96-b1e3-a35992b00cde",
+                "nodeTo": "7371ec7d-58b8-448e-8526-8d37da4ba91e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7371ec7d-58b8-448e-8526-8d37da4ba91e",
+                "nodeTo": "0984360c-9356-49c0-be11-d2bcad8c775b",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-28 12:59:28"
+}

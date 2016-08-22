@@ -1,0 +1,160 @@
+{
+    "uuid": 1164,
+    "text": "pattern of brain alterations may be similar in several different neurodegenerative diseases",
+    "graph": {
+        "version": 1,
+        "guid": "06ebc942-63ec-4bca-8213-63c9197ec870",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "of",
+                "id": "7cb59e84-3ee9-4cee-a54d-334416343c50",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "may",
+                "id": "0a108b99-8e6e-47bc-b869-7c22e29da223",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "be",
+                "id": "82461341-7dee-4dc0-9a58-617a579984dd",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "9cc8abc8-5eda-476b-abaa-d23e24e933d3",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "pattern",
+                "id": "72371e94-ce04-4bdd-9018-68c079c98da0",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "brain",
+                "id": "7c77c18c-c484-42d2-bc70-a49a6286a31b",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "alterations",
+                "id": "914dda90-7b8c-464b-a3bd-398183994c00",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "similar",
+                "id": "915ac170-2dc8-4668-bb02-9b6bb519c1e9",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "several",
+                "id": "6b416b1d-0bc9-43ae-a972-00428e9ba995",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "different",
+                "id": "893a8486-23ee-4e5b-b052-d7e4c76cc2bc",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "neurodegenerative",
+                "id": "5a323edb-e07a-48c0-8842-609899ca1eac",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "diseases",
+                "id": "cb2be0bb-e543-4397-8deb-76dbb327453c",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "72371e94-ce04-4bdd-9018-68c079c98da0",
+                "nodeTo": "7cb59e84-3ee9-4cee-a54d-334416343c50",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7cb59e84-3ee9-4cee-a54d-334416343c50",
+                "nodeTo": "7c77c18c-c484-42d2-bc70-a49a6286a31b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7cb59e84-3ee9-4cee-a54d-334416343c50",
+                "nodeTo": "914dda90-7b8c-464b-a3bd-398183994c00",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "72371e94-ce04-4bdd-9018-68c079c98da0",
+                "nodeTo": "0a108b99-8e6e-47bc-b869-7c22e29da223",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "72371e94-ce04-4bdd-9018-68c079c98da0",
+                "nodeTo": "82461341-7dee-4dc0-9a58-617a579984dd",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0a108b99-8e6e-47bc-b869-7c22e29da223",
+                "nodeTo": "915ac170-2dc8-4668-bb02-9b6bb519c1e9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "82461341-7dee-4dc0-9a58-617a579984dd",
+                "nodeTo": "915ac170-2dc8-4668-bb02-9b6bb519c1e9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "915ac170-2dc8-4668-bb02-9b6bb519c1e9",
+                "nodeTo": "9cc8abc8-5eda-476b-abaa-d23e24e933d3",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9cc8abc8-5eda-476b-abaa-d23e24e933d3",
+                "nodeTo": "6b416b1d-0bc9-43ae-a972-00428e9ba995",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9cc8abc8-5eda-476b-abaa-d23e24e933d3",
+                "nodeTo": "893a8486-23ee-4e5b-b052-d7e4c76cc2bc",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9cc8abc8-5eda-476b-abaa-d23e24e933d3",
+                "nodeTo": "5a323edb-e07a-48c0-8842-609899ca1eac",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9cc8abc8-5eda-476b-abaa-d23e24e933d3",
+                "nodeTo": "cb2be0bb-e543-4397-8deb-76dbb327453c",
+                "index": 4,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-24 17:35:31"
+}

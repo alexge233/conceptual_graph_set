@@ -1,0 +1,106 @@
+{
+    "uuid": 471,
+    "text": "Autism begins in pregnancy according to study",
+    "graph": {
+        "version": 1,
+        "guid": "a94a19c5-e9bd-4da0-8bc0-251a6554272c",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "begins",
+                "id": "08e475a8-3362-4289-91d6-8750db6ce1db",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "093ae516-e4a0-4cda-8531-ac96782db281",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "according",
+                "id": "49c03c08-8b66-4c97-a34d-350ec591eeba",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "dde89510-5370-4e17-bad0-6a8d9a636ab3",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Autism",
+                "id": "5da2cbba-c5dd-47ac-adb5-705ad59348a6",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "pregnancy",
+                "id": "9b8db644-e9c7-4e29-9026-1755cedd85e8",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "study",
+                "id": "0aa06c04-3970-472a-a92c-40dac700897c",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "5da2cbba-c5dd-47ac-adb5-705ad59348a6",
+                "nodeTo": "08e475a8-3362-4289-91d6-8750db6ce1db",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5da2cbba-c5dd-47ac-adb5-705ad59348a6",
+                "nodeTo": "093ae516-e4a0-4cda-8531-ac96782db281",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "08e475a8-3362-4289-91d6-8750db6ce1db",
+                "nodeTo": "9b8db644-e9c7-4e29-9026-1755cedd85e8",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "093ae516-e4a0-4cda-8531-ac96782db281",
+                "nodeTo": "9b8db644-e9c7-4e29-9026-1755cedd85e8",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5da2cbba-c5dd-47ac-adb5-705ad59348a6",
+                "nodeTo": "49c03c08-8b66-4c97-a34d-350ec591eeba",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "49c03c08-8b66-4c97-a34d-350ec591eeba",
+                "nodeTo": "0aa06c04-3970-472a-a92c-40dac700897c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "dde89510-5370-4e17-bad0-6a8d9a636ab3",
+                "nodeTo": "0aa06c04-3970-472a-a92c-40dac700897c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5da2cbba-c5dd-47ac-adb5-705ad59348a6",
+                "nodeTo": "dde89510-5370-4e17-bad0-6a8d9a636ab3",
+                "index": 4,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2014-12-18 20:58:32"
+}

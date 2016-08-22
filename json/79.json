@@ -1,0 +1,70 @@
+{
+    "uuid": 79,
+    "text": "Gut brew gives chocolate edge",
+    "graph": {
+        "version": 1,
+        "guid": "0b121ea8-0584-48d9-9871-ce30836eaea6",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "gives",
+                "id": "b0e8be67-5142-410e-a122-3d4e389112be",
+                "index": 2,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Gut",
+                "id": "351608e1-42e8-49ee-a8d8-3cc3c357dc97",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "brew",
+                "id": "1469b9cd-a32b-4361-8d11-8926d07dc54b",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "chocolate",
+                "id": "96a73404-406d-4293-a995-14223ab59e87",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "edge",
+                "id": "03bbc1e5-e670-44bd-851c-2cec466eb97e",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "351608e1-42e8-49ee-a8d8-3cc3c357dc97",
+                "nodeTo": "b0e8be67-5142-410e-a122-3d4e389112be",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1469b9cd-a32b-4361-8d11-8926d07dc54b",
+                "nodeTo": "b0e8be67-5142-410e-a122-3d4e389112be",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b0e8be67-5142-410e-a122-3d4e389112be",
+                "nodeTo": "96a73404-406d-4293-a995-14223ab59e87",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b0e8be67-5142-410e-a122-3d4e389112be",
+                "nodeTo": "03bbc1e5-e670-44bd-851c-2cec466eb97e",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-10-24 20:08:20"
+}

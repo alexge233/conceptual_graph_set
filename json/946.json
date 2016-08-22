@@ -1,0 +1,82 @@
+{
+    "uuid": 946,
+    "text": "Centre to improve asthma treatment",
+    "graph": {
+        "version": 1,
+        "guid": "6cb95143-c747-4713-8a38-51d2959c9381",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "to",
+                "id": "5a301023-1161-4ea6-a57e-52c4ceb92399",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "improve",
+                "id": "6ada200a-e62e-43ed-8820-c880ae1a3a25",
+                "index": 2,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Centre",
+                "id": "cab6cc35-11db-4924-a518-d20659c6a217",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "asthma",
+                "id": "3b147dc5-89b5-482b-a48a-17387aac162a",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "treatment",
+                "id": "1b8dc790-1d06-482a-a8dc-ab4a6a0033eb",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "cab6cc35-11db-4924-a518-d20659c6a217",
+                "nodeTo": "5a301023-1161-4ea6-a57e-52c4ceb92399",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cab6cc35-11db-4924-a518-d20659c6a217",
+                "nodeTo": "6ada200a-e62e-43ed-8820-c880ae1a3a25",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5a301023-1161-4ea6-a57e-52c4ceb92399",
+                "nodeTo": "3b147dc5-89b5-482b-a48a-17387aac162a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5a301023-1161-4ea6-a57e-52c4ceb92399",
+                "nodeTo": "1b8dc790-1d06-482a-a8dc-ab4a6a0033eb",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6ada200a-e62e-43ed-8820-c880ae1a3a25",
+                "nodeTo": "3b147dc5-89b5-482b-a48a-17387aac162a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6ada200a-e62e-43ed-8820-c880ae1a3a25",
+                "nodeTo": "1b8dc790-1d06-482a-a8dc-ab4a6a0033eb",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-22 18:30:04"
+}

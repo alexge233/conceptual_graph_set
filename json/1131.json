@@ -1,0 +1,202 @@
+{
+    "uuid": 1131,
+    "text": "cold snare polypectomy is effective for removal of small colorectal polyps in patients on anticoagulants",
+    "graph": {
+        "version": 1,
+        "guid": "544218e1-d8a4-4703-92bc-e8dbddbc3dc6",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "is",
+                "id": "34b24eb6-819a-409e-a6ae-60a74b518719",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "a307d242-c78b-4330-a83a-d82cd46a6bba",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "db9d8ee6-c17e-41c5-987b-03957b9131d5",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "409a4b39-1b9a-4890-b105-791064c2c157",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "on",
+                "id": "537be544-52a7-46cd-b408-8b9467be2573",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "cold",
+                "id": "99deb145-4b87-4e39-9d1a-7d888003716e",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "snare",
+                "id": "997552a6-23e7-4bee-8b88-8a8d3eca0744",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "polypectomy",
+                "id": "6a633cb5-4822-4353-9b87-a6e326ac7628",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "effective",
+                "id": "9558aab1-d636-4055-a650-ec7dc7a5824e",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "removal",
+                "id": "c03d9cc1-d206-4a45-9c13-ecda28084843",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "small",
+                "id": "ad639407-199a-4347-9710-e0e4e4829300",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "colorectal",
+                "id": "c60499c1-1db3-4b6d-8734-295791570a1e",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "polyps",
+                "id": "06d2ddbe-73d2-4e35-a511-ad6e065ba338",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "patients",
+                "id": "3c8a056b-012b-462a-b360-b62d74b1d017",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "anticoagulants",
+                "id": "561d1e92-aced-4bb9-aa29-2ecc14327cc7",
+                "index": 14,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "99deb145-4b87-4e39-9d1a-7d888003716e",
+                "nodeTo": "34b24eb6-819a-409e-a6ae-60a74b518719",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "997552a6-23e7-4bee-8b88-8a8d3eca0744",
+                "nodeTo": "34b24eb6-819a-409e-a6ae-60a74b518719",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6a633cb5-4822-4353-9b87-a6e326ac7628",
+                "nodeTo": "34b24eb6-819a-409e-a6ae-60a74b518719",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "34b24eb6-819a-409e-a6ae-60a74b518719",
+                "nodeTo": "9558aab1-d636-4055-a650-ec7dc7a5824e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9558aab1-d636-4055-a650-ec7dc7a5824e",
+                "nodeTo": "a307d242-c78b-4330-a83a-d82cd46a6bba",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a307d242-c78b-4330-a83a-d82cd46a6bba",
+                "nodeTo": "c03d9cc1-d206-4a45-9c13-ecda28084843",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c03d9cc1-d206-4a45-9c13-ecda28084843",
+                "nodeTo": "db9d8ee6-c17e-41c5-987b-03957b9131d5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "db9d8ee6-c17e-41c5-987b-03957b9131d5",
+                "nodeTo": "ad639407-199a-4347-9710-e0e4e4829300",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "db9d8ee6-c17e-41c5-987b-03957b9131d5",
+                "nodeTo": "c60499c1-1db3-4b6d-8734-295791570a1e",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "db9d8ee6-c17e-41c5-987b-03957b9131d5",
+                "nodeTo": "06d2ddbe-73d2-4e35-a511-ad6e065ba338",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ad639407-199a-4347-9710-e0e4e4829300",
+                "nodeTo": "409a4b39-1b9a-4890-b105-791064c2c157",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c60499c1-1db3-4b6d-8734-295791570a1e",
+                "nodeTo": "409a4b39-1b9a-4890-b105-791064c2c157",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "06d2ddbe-73d2-4e35-a511-ad6e065ba338",
+                "nodeTo": "409a4b39-1b9a-4890-b105-791064c2c157",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "409a4b39-1b9a-4890-b105-791064c2c157",
+                "nodeTo": "3c8a056b-012b-462a-b360-b62d74b1d017",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3c8a056b-012b-462a-b360-b62d74b1d017",
+                "nodeTo": "537be544-52a7-46cd-b408-8b9467be2573",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "537be544-52a7-46cd-b408-8b9467be2573",
+                "nodeTo": "561d1e92-aced-4bb9-aa29-2ecc14327cc7",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-23 18:57:40"
+}

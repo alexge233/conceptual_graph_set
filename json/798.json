@@ -1,0 +1,82 @@
+{
+    "uuid": 798,
+    "text": "Can we become addicted to technology",
+    "graph": {
+        "version": 1,
+        "guid": "6a503291-7143-47ab-969d-c5d063c3aca9",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "Can",
+                "id": "95e291eb-4124-4538-a045-c6351dbad673",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "become",
+                "id": "abae8d3e-9625-4b58-9776-c891ba9be5da",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "c29321c5-255c-4e57-96ce-3b9026c24c05",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "we",
+                "id": "6c1b1391-2aaa-46d0-849d-59a97ae3e293",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "addicted",
+                "id": "561acd60-e4a0-44d9-830a-d1374bc5504a",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "technology",
+                "id": "12101975-7d11-48ce-850c-c434de7e0427",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "95e291eb-4124-4538-a045-c6351dbad673",
+                "nodeTo": "6c1b1391-2aaa-46d0-849d-59a97ae3e293",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6c1b1391-2aaa-46d0-849d-59a97ae3e293",
+                "nodeTo": "abae8d3e-9625-4b58-9776-c891ba9be5da",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "abae8d3e-9625-4b58-9776-c891ba9be5da",
+                "nodeTo": "561acd60-e4a0-44d9-830a-d1374bc5504a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "561acd60-e4a0-44d9-830a-d1374bc5504a",
+                "nodeTo": "c29321c5-255c-4e57-96ce-3b9026c24c05",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c29321c5-255c-4e57-96ce-3b9026c24c05",
+                "nodeTo": "12101975-7d11-48ce-850c-c434de7e0427",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-15 22:11:49"
+}

@@ -1,0 +1,106 @@
+{
+    "uuid": 515,
+    "text": "Basic instinct helps to spot liars",
+    "graph": {
+        "version": 1,
+        "guid": "3ba0d56a-b202-4e3d-8980-71bada61767b",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "helps",
+                "id": "1e6756b5-ceec-465c-84c6-628039ac2928",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "3b890c62-854e-42b6-9622-297ea9eb0c2d",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "spot",
+                "id": "230ae8d0-7792-408e-a76b-53d62979a9cc",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Basic",
+                "id": "dea56b6c-a61e-45de-a04e-4eca2a2d8aac",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "instinct",
+                "id": "42e13847-1a6d-4844-be62-06990b3bea4d",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "liars",
+                "id": "eed42780-9a37-4048-a21b-5de62e683b7d",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "dea56b6c-a61e-45de-a04e-4eca2a2d8aac",
+                "nodeTo": "1e6756b5-ceec-465c-84c6-628039ac2928",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "42e13847-1a6d-4844-be62-06990b3bea4d",
+                "nodeTo": "1e6756b5-ceec-465c-84c6-628039ac2928",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "dea56b6c-a61e-45de-a04e-4eca2a2d8aac",
+                "nodeTo": "3b890c62-854e-42b6-9622-297ea9eb0c2d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "42e13847-1a6d-4844-be62-06990b3bea4d",
+                "nodeTo": "3b890c62-854e-42b6-9622-297ea9eb0c2d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "dea56b6c-a61e-45de-a04e-4eca2a2d8aac",
+                "nodeTo": "230ae8d0-7792-408e-a76b-53d62979a9cc",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "42e13847-1a6d-4844-be62-06990b3bea4d",
+                "nodeTo": "230ae8d0-7792-408e-a76b-53d62979a9cc",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3b890c62-854e-42b6-9622-297ea9eb0c2d",
+                "nodeTo": "eed42780-9a37-4048-a21b-5de62e683b7d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "230ae8d0-7792-408e-a76b-53d62979a9cc",
+                "nodeTo": "eed42780-9a37-4048-a21b-5de62e683b7d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1e6756b5-ceec-465c-84c6-628039ac2928",
+                "nodeTo": "eed42780-9a37-4048-a21b-5de62e683b7d",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-23 19:36:20"
+}

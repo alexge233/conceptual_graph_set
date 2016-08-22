@@ -1,0 +1,94 @@
+{
+    "uuid": 236,
+    "text": "How psychologists harness sociability to cut waste",
+    "graph": {
+        "version": 1,
+        "guid": "2e78e10e-1717-46dc-9062-27a039c6945c",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "How",
+                "id": "06128d32-2d8a-4d06-a8b6-e95901ccece1",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "harness",
+                "id": "8a28ad3b-b158-4e9d-8751-ae5d2d7a6577",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "cut",
+                "id": "bc4a3984-2b4a-41e9-9107-22c530a28d29",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "psychologists",
+                "id": "d9579471-815d-425d-ae9e-8beece848c28",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "sociability",
+                "id": "49a16636-37d2-4ce3-a542-9163e1c1e504",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "d7a1ad61-5c83-47d4-b761-2346b45ec539",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "waste",
+                "id": "cab3ac1b-39cb-4224-b3ea-5000113b3452",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "06128d32-2d8a-4d06-a8b6-e95901ccece1",
+                "nodeTo": "d9579471-815d-425d-ae9e-8beece848c28",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d9579471-815d-425d-ae9e-8beece848c28",
+                "nodeTo": "8a28ad3b-b158-4e9d-8751-ae5d2d7a6577",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8a28ad3b-b158-4e9d-8751-ae5d2d7a6577",
+                "nodeTo": "49a16636-37d2-4ce3-a542-9163e1c1e504",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8a28ad3b-b158-4e9d-8751-ae5d2d7a6577",
+                "nodeTo": "d7a1ad61-5c83-47d4-b761-2346b45ec539",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d7a1ad61-5c83-47d4-b761-2346b45ec539",
+                "nodeTo": "bc4a3984-2b4a-41e9-9107-22c530a28d29",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bc4a3984-2b4a-41e9-9107-22c530a28d29",
+                "nodeTo": "cab3ac1b-39cb-4224-b3ea-5000113b3452",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-01 15:59:01"
+}

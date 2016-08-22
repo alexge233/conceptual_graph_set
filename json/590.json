@@ -1,0 +1,106 @@
+{
+    "uuid": 590,
+    "text": "Biomarkers predict effectiveness of radiation treatments for cancer",
+    "graph": {
+        "version": 1,
+        "guid": "84c80807-94e6-4db5-ae3d-3d9cd3531289",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "predict",
+                "id": "7458a765-1a45-4ae8-9e52-3edd54e80223",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "8781a20d-8cbe-4ba3-a103-6800d1858860",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "7e021be0-99dd-42ec-a87d-129ce8845ded",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Biomarkers",
+                "id": "37d404a5-4ca9-4460-b36c-059b3a858608",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "effectiveness",
+                "id": "b2b46406-c00c-4663-8261-b79e7b9eccc6",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "radiation",
+                "id": "11144da8-b671-4a67-9087-2b4b0094bab0",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "treatments",
+                "id": "2ad4ce5e-8103-4221-8bd4-4ce163a32341",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "cancer",
+                "id": "246d5de3-e76d-4e89-a775-762aa6c2530e",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "37d404a5-4ca9-4460-b36c-059b3a858608",
+                "nodeTo": "7458a765-1a45-4ae8-9e52-3edd54e80223",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7458a765-1a45-4ae8-9e52-3edd54e80223",
+                "nodeTo": "b2b46406-c00c-4663-8261-b79e7b9eccc6",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b2b46406-c00c-4663-8261-b79e7b9eccc6",
+                "nodeTo": "8781a20d-8cbe-4ba3-a103-6800d1858860",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8781a20d-8cbe-4ba3-a103-6800d1858860",
+                "nodeTo": "11144da8-b671-4a67-9087-2b4b0094bab0",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8781a20d-8cbe-4ba3-a103-6800d1858860",
+                "nodeTo": "2ad4ce5e-8103-4221-8bd4-4ce163a32341",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b2b46406-c00c-4663-8261-b79e7b9eccc6",
+                "nodeTo": "7e021be0-99dd-42ec-a87d-129ce8845ded",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7e021be0-99dd-42ec-a87d-129ce8845ded",
+                "nodeTo": "246d5de3-e76d-4e89-a775-762aa6c2530e",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-07 21:24:34"
+}

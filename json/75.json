@@ -1,0 +1,88 @@
+{
+    "uuid": 75,
+    "text": "Why some women have repeat terminations",
+    "graph": {
+        "version": 1,
+        "guid": "daae724b-a61d-4953-8269-c1e8812695c8",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "Why",
+                "id": "e9082e38-37c3-4038-b64b-13dd9c80b02c",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "have",
+                "id": "5873aa0d-b39b-4e69-8792-02763e359b71",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "some",
+                "id": "387938e0-7431-4540-9493-ca4680722b52",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "women",
+                "id": "5178e7a2-eb72-4d2b-8612-559565969a9d",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "repeat",
+                "id": "d76db0c5-77da-49d3-b871-a16c6bbdc6b4",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "terminations",
+                "id": "8788daa1-b9d4-4e6b-b4a1-875cbd67101e",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "e9082e38-37c3-4038-b64b-13dd9c80b02c",
+                "nodeTo": "387938e0-7431-4540-9493-ca4680722b52",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e9082e38-37c3-4038-b64b-13dd9c80b02c",
+                "nodeTo": "5178e7a2-eb72-4d2b-8612-559565969a9d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5178e7a2-eb72-4d2b-8612-559565969a9d",
+                "nodeTo": "5873aa0d-b39b-4e69-8792-02763e359b71",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "387938e0-7431-4540-9493-ca4680722b52",
+                "nodeTo": "5873aa0d-b39b-4e69-8792-02763e359b71",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5873aa0d-b39b-4e69-8792-02763e359b71",
+                "nodeTo": "d76db0c5-77da-49d3-b871-a16c6bbdc6b4",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5873aa0d-b39b-4e69-8792-02763e359b71",
+                "nodeTo": "8788daa1-b9d4-4e6b-b4a1-875cbd67101e",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-10-23 22:21:06"
+}

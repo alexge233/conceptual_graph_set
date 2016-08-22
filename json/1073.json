@@ -1,0 +1,172 @@
+{
+    "uuid": 1073,
+    "text": "your regular DNA which provides day to day instructions for life",
+    "graph": {
+        "version": 1,
+        "guid": "867147d3-4831-431e-8cee-6c2cbd6a06ee",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "which",
+                "id": "513c5abc-5ade-4a36-92ec-7944d9846843",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "provides",
+                "id": "032652d4-8897-4224-8d99-6003a14c27d8",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "21d08929-6887-4ce3-b365-8ace0cdd335c",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "27817ebc-5783-4d49-93c9-c4e02ab373c3",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "your",
+                "id": "dd726bc2-4c79-4416-adb4-5ade683b1557",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "regular",
+                "id": "8a7193ad-5b0c-4be0-b37b-a51eb0ecd531",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "DNA",
+                "id": "eb88b276-1405-409a-be06-e80bb884084d",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "day",
+                "id": "660639cc-da5a-49b8-8d2b-00b4b8675b7a",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "day",
+                "id": "92a2bae2-844e-4eb3-ad3a-3d49b4ad04a1",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "instructions",
+                "id": "2ea5478e-2b20-46e1-8520-e528e1195ec6",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "life",
+                "id": "9014c29b-0be3-424a-a8a5-0b7c4d104a92",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "dd726bc2-4c79-4416-adb4-5ade683b1557",
+                "nodeTo": "513c5abc-5ade-4a36-92ec-7944d9846843",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8a7193ad-5b0c-4be0-b37b-a51eb0ecd531",
+                "nodeTo": "513c5abc-5ade-4a36-92ec-7944d9846843",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "eb88b276-1405-409a-be06-e80bb884084d",
+                "nodeTo": "513c5abc-5ade-4a36-92ec-7944d9846843",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "dd726bc2-4c79-4416-adb4-5ade683b1557",
+                "nodeTo": "032652d4-8897-4224-8d99-6003a14c27d8",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8a7193ad-5b0c-4be0-b37b-a51eb0ecd531",
+                "nodeTo": "032652d4-8897-4224-8d99-6003a14c27d8",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "eb88b276-1405-409a-be06-e80bb884084d",
+                "nodeTo": "032652d4-8897-4224-8d99-6003a14c27d8",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "513c5abc-5ade-4a36-92ec-7944d9846843",
+                "nodeTo": "660639cc-da5a-49b8-8d2b-00b4b8675b7a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "032652d4-8897-4224-8d99-6003a14c27d8",
+                "nodeTo": "660639cc-da5a-49b8-8d2b-00b4b8675b7a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "660639cc-da5a-49b8-8d2b-00b4b8675b7a",
+                "nodeTo": "21d08929-6887-4ce3-b365-8ace0cdd335c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "21d08929-6887-4ce3-b365-8ace0cdd335c",
+                "nodeTo": "92a2bae2-844e-4eb3-ad3a-3d49b4ad04a1",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "513c5abc-5ade-4a36-92ec-7944d9846843",
+                "nodeTo": "2ea5478e-2b20-46e1-8520-e528e1195ec6",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "032652d4-8897-4224-8d99-6003a14c27d8",
+                "nodeTo": "2ea5478e-2b20-46e1-8520-e528e1195ec6",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "660639cc-da5a-49b8-8d2b-00b4b8675b7a",
+                "nodeTo": "27817ebc-5783-4d49-93c9-c4e02ab373c3",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2ea5478e-2b20-46e1-8520-e528e1195ec6",
+                "nodeTo": "27817ebc-5783-4d49-93c9-c4e02ab373c3",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "27817ebc-5783-4d49-93c9-c4e02ab373c3",
+                "nodeTo": "9014c29b-0be3-424a-a8a5-0b7c4d104a92",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-05 19:50:44"
+}

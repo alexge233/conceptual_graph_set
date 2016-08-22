@@ -1,0 +1,160 @@
+{
+    "uuid": 567,
+    "text": "Biochemists reduce sickling progression of sickle cell disease in mice",
+    "graph": {
+        "version": 1,
+        "guid": "4ee88684-c056-41a2-8b7c-2828b61eb060",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "reduce",
+                "id": "0d863096-881d-43b6-bdc9-8c715a59c838",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "progression",
+                "id": "003086c8-0d2d-4400-aaae-7e4da6a834c4",
+                "postag": "NA",
+                "index": 3
+            },
+            {
+                "label": "of",
+                "id": "e6810e4b-2676-4906-9be4-d511543d8854",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "18ed0e83-98d9-44dc-abd6-9a3dc73137a9",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Biochemists",
+                "id": "05a90de7-3d2b-4a46-8bdb-37e29bca0059",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "sickling",
+                "id": "7d568ee6-dd45-4118-8da5-417934dc2382",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "sickle",
+                "id": "21bd88aa-0052-47b8-99e7-e40dc70eb649",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "cell",
+                "id": "d07e93a6-aed2-4c14-9358-9ee241791bb1",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "disease",
+                "id": "4d5b6e08-c50a-4686-9ed6-a121d2d570c2",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "mice",
+                "id": "d5a89032-4d2a-436e-895b-319ac48dc26e",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "05a90de7-3d2b-4a46-8bdb-37e29bca0059",
+                "nodeTo": "0d863096-881d-43b6-bdc9-8c715a59c838",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0d863096-881d-43b6-bdc9-8c715a59c838",
+                "nodeTo": "7d568ee6-dd45-4118-8da5-417934dc2382",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7d568ee6-dd45-4118-8da5-417934dc2382",
+                "nodeTo": "003086c8-0d2d-4400-aaae-7e4da6a834c4",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7d568ee6-dd45-4118-8da5-417934dc2382",
+                "nodeTo": "e6810e4b-2676-4906-9be4-d511543d8854",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "003086c8-0d2d-4400-aaae-7e4da6a834c4",
+                "nodeTo": "21bd88aa-0052-47b8-99e7-e40dc70eb649",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "003086c8-0d2d-4400-aaae-7e4da6a834c4",
+                "nodeTo": "d07e93a6-aed2-4c14-9358-9ee241791bb1",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "003086c8-0d2d-4400-aaae-7e4da6a834c4",
+                "nodeTo": "4d5b6e08-c50a-4686-9ed6-a121d2d570c2",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e6810e4b-2676-4906-9be4-d511543d8854",
+                "nodeTo": "21bd88aa-0052-47b8-99e7-e40dc70eb649",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e6810e4b-2676-4906-9be4-d511543d8854",
+                "nodeTo": "d07e93a6-aed2-4c14-9358-9ee241791bb1",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e6810e4b-2676-4906-9be4-d511543d8854",
+                "nodeTo": "4d5b6e08-c50a-4686-9ed6-a121d2d570c2",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "21bd88aa-0052-47b8-99e7-e40dc70eb649",
+                "nodeTo": "18ed0e83-98d9-44dc-abd6-9a3dc73137a9",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d07e93a6-aed2-4c14-9358-9ee241791bb1",
+                "nodeTo": "18ed0e83-98d9-44dc-abd6-9a3dc73137a9",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4d5b6e08-c50a-4686-9ed6-a121d2d570c2",
+                "nodeTo": "18ed0e83-98d9-44dc-abd6-9a3dc73137a9",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "18ed0e83-98d9-44dc-abd6-9a3dc73137a9",
+                "nodeTo": "d5a89032-4d2a-436e-895b-319ac48dc26e",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-07 17:46:19"
+}

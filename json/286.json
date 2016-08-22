@@ -1,0 +1,178 @@
+{
+    "uuid": 286,
+    "text": "Yet most research has been documented in pediatric populations",
+    "graph": {
+        "version": 1,
+        "guid": "c0434d0d-55d3-4e05-9e7c-58117986e99c",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "Yet",
+                "id": "405aea23-3639-482e-96c4-1caca287dd10",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "has",
+                "id": "4c92e90b-0770-4540-b3ea-5aea20562354",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "been",
+                "id": "824d25d5-1262-46b8-8684-13e040b4b477",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "documented",
+                "id": "d1bb7962-0418-4b8c-920e-16e2e3a66ebd",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "b01d7562-80c4-405c-b497-eeea34be550c",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "most",
+                "id": "ab692906-9c37-4248-8b03-a9a64d22a842",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "research",
+                "id": "64a24847-665a-4dab-ad98-290398190405",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "pediatric",
+                "id": "4e8ed15c-2bb1-47a9-8398-78c6d1915dba",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "populations",
+                "id": "6bd939b5-8530-4cbd-9a57-b938b14e5a6b",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "405aea23-3639-482e-96c4-1caca287dd10",
+                "nodeTo": "ab692906-9c37-4248-8b03-a9a64d22a842",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "405aea23-3639-482e-96c4-1caca287dd10",
+                "nodeTo": "64a24847-665a-4dab-ad98-290398190405",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ab692906-9c37-4248-8b03-a9a64d22a842",
+                "nodeTo": "4c92e90b-0770-4540-b3ea-5aea20562354",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ab692906-9c37-4248-8b03-a9a64d22a842",
+                "nodeTo": "824d25d5-1262-46b8-8684-13e040b4b477",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ab692906-9c37-4248-8b03-a9a64d22a842",
+                "nodeTo": "d1bb7962-0418-4b8c-920e-16e2e3a66ebd",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ab692906-9c37-4248-8b03-a9a64d22a842",
+                "nodeTo": "b01d7562-80c4-405c-b497-eeea34be550c",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "64a24847-665a-4dab-ad98-290398190405",
+                "nodeTo": "4c92e90b-0770-4540-b3ea-5aea20562354",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "64a24847-665a-4dab-ad98-290398190405",
+                "nodeTo": "824d25d5-1262-46b8-8684-13e040b4b477",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "64a24847-665a-4dab-ad98-290398190405",
+                "nodeTo": "d1bb7962-0418-4b8c-920e-16e2e3a66ebd",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "64a24847-665a-4dab-ad98-290398190405",
+                "nodeTo": "b01d7562-80c4-405c-b497-eeea34be550c",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d1bb7962-0418-4b8c-920e-16e2e3a66ebd",
+                "nodeTo": "4e8ed15c-2bb1-47a9-8398-78c6d1915dba",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d1bb7962-0418-4b8c-920e-16e2e3a66ebd",
+                "nodeTo": "6bd939b5-8530-4cbd-9a57-b938b14e5a6b",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b01d7562-80c4-405c-b497-eeea34be550c",
+                "nodeTo": "4e8ed15c-2bb1-47a9-8398-78c6d1915dba",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b01d7562-80c4-405c-b497-eeea34be550c",
+                "nodeTo": "6bd939b5-8530-4cbd-9a57-b938b14e5a6b",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4c92e90b-0770-4540-b3ea-5aea20562354",
+                "nodeTo": "4e8ed15c-2bb1-47a9-8398-78c6d1915dba",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4c92e90b-0770-4540-b3ea-5aea20562354",
+                "nodeTo": "6bd939b5-8530-4cbd-9a57-b938b14e5a6b",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "824d25d5-1262-46b8-8684-13e040b4b477",
+                "nodeTo": "4e8ed15c-2bb1-47a9-8398-78c6d1915dba",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "824d25d5-1262-46b8-8684-13e040b4b477",
+                "nodeTo": "6bd939b5-8530-4cbd-9a57-b938b14e5a6b",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-04-30 19:36:28"
+}

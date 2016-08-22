@@ -1,0 +1,310 @@
+{
+    "uuid": 1051,
+    "text": "more than 100 million Americans are believed to be affected by chronic pain",
+    "graph": {
+        "version": 1,
+        "guid": "c6b67926-2b11-4516-9e0a-cae1201c8335",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "more",
+                "id": "23d9d1ec-b9d1-4b53-aa64-87ed656081ba",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "than",
+                "id": "3228dcce-ea75-4525-a073-cd5059395a92",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "are",
+                "id": "2ade75c7-7d10-4ba0-97da-a458427eace0",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "believed",
+                "id": "ccc00a92-83cc-48a2-8726-421ea8aa286c",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "eab6bb75-0875-480a-b0ec-d442b3d07815",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "be",
+                "id": "82e92432-2959-47e4-acb9-7571be028b0c",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "affected",
+                "id": "da80e4b5-cd6e-4c97-8a70-454acd9093d2",
+                "postag": "NA",
+                "index": 9
+            },
+            {
+                "label": "by",
+                "id": "c108cc94-0dbe-442d-9452-04d2c10ea82c",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": 100,
+                "id": "a46360d8-de1b-4217-b071-6a186ce55950",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "million",
+                "id": "e0a92795-03aa-4beb-9ae5-cccea192018d",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "Americans",
+                "id": "a44d78e9-636a-4747-a24d-ab1b6226dd77",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "chronic",
+                "id": "7ddcb67b-191b-4662-a191-7b1eed4521d1",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "pain",
+                "id": "a6ebc407-1370-4b5d-bba1-34767016438c",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "23d9d1ec-b9d1-4b53-aa64-87ed656081ba",
+                "nodeTo": "a46360d8-de1b-4217-b071-6a186ce55950",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "23d9d1ec-b9d1-4b53-aa64-87ed656081ba",
+                "nodeTo": "e0a92795-03aa-4beb-9ae5-cccea192018d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "23d9d1ec-b9d1-4b53-aa64-87ed656081ba",
+                "nodeTo": "a44d78e9-636a-4747-a24d-ab1b6226dd77",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3228dcce-ea75-4525-a073-cd5059395a92",
+                "nodeTo": "a46360d8-de1b-4217-b071-6a186ce55950",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3228dcce-ea75-4525-a073-cd5059395a92",
+                "nodeTo": "e0a92795-03aa-4beb-9ae5-cccea192018d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3228dcce-ea75-4525-a073-cd5059395a92",
+                "nodeTo": "a44d78e9-636a-4747-a24d-ab1b6226dd77",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a46360d8-de1b-4217-b071-6a186ce55950",
+                "nodeTo": "2ade75c7-7d10-4ba0-97da-a458427eace0",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a46360d8-de1b-4217-b071-6a186ce55950",
+                "nodeTo": "ccc00a92-83cc-48a2-8726-421ea8aa286c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a46360d8-de1b-4217-b071-6a186ce55950",
+                "nodeTo": "eab6bb75-0875-480a-b0ec-d442b3d07815",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a46360d8-de1b-4217-b071-6a186ce55950",
+                "nodeTo": "82e92432-2959-47e4-acb9-7571be028b0c",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a46360d8-de1b-4217-b071-6a186ce55950",
+                "nodeTo": "da80e4b5-cd6e-4c97-8a70-454acd9093d2",
+                "index": 5,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a46360d8-de1b-4217-b071-6a186ce55950",
+                "nodeTo": "c108cc94-0dbe-442d-9452-04d2c10ea82c",
+                "index": 6,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e0a92795-03aa-4beb-9ae5-cccea192018d",
+                "nodeTo": "2ade75c7-7d10-4ba0-97da-a458427eace0",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e0a92795-03aa-4beb-9ae5-cccea192018d",
+                "nodeTo": "ccc00a92-83cc-48a2-8726-421ea8aa286c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e0a92795-03aa-4beb-9ae5-cccea192018d",
+                "nodeTo": "eab6bb75-0875-480a-b0ec-d442b3d07815",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e0a92795-03aa-4beb-9ae5-cccea192018d",
+                "nodeTo": "82e92432-2959-47e4-acb9-7571be028b0c",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e0a92795-03aa-4beb-9ae5-cccea192018d",
+                "nodeTo": "da80e4b5-cd6e-4c97-8a70-454acd9093d2",
+                "index": 5,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e0a92795-03aa-4beb-9ae5-cccea192018d",
+                "nodeTo": "c108cc94-0dbe-442d-9452-04d2c10ea82c",
+                "index": 6,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a44d78e9-636a-4747-a24d-ab1b6226dd77",
+                "nodeTo": "2ade75c7-7d10-4ba0-97da-a458427eace0",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a44d78e9-636a-4747-a24d-ab1b6226dd77",
+                "nodeTo": "ccc00a92-83cc-48a2-8726-421ea8aa286c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a44d78e9-636a-4747-a24d-ab1b6226dd77",
+                "nodeTo": "eab6bb75-0875-480a-b0ec-d442b3d07815",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a44d78e9-636a-4747-a24d-ab1b6226dd77",
+                "nodeTo": "82e92432-2959-47e4-acb9-7571be028b0c",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a44d78e9-636a-4747-a24d-ab1b6226dd77",
+                "nodeTo": "da80e4b5-cd6e-4c97-8a70-454acd9093d2",
+                "index": 5,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a44d78e9-636a-4747-a24d-ab1b6226dd77",
+                "nodeTo": "c108cc94-0dbe-442d-9452-04d2c10ea82c",
+                "index": 6,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c108cc94-0dbe-442d-9452-04d2c10ea82c",
+                "nodeTo": "7ddcb67b-191b-4662-a191-7b1eed4521d1",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c108cc94-0dbe-442d-9452-04d2c10ea82c",
+                "nodeTo": "a6ebc407-1370-4b5d-bba1-34767016438c",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "da80e4b5-cd6e-4c97-8a70-454acd9093d2",
+                "nodeTo": "7ddcb67b-191b-4662-a191-7b1eed4521d1",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "da80e4b5-cd6e-4c97-8a70-454acd9093d2",
+                "nodeTo": "a6ebc407-1370-4b5d-bba1-34767016438c",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "82e92432-2959-47e4-acb9-7571be028b0c",
+                "nodeTo": "7ddcb67b-191b-4662-a191-7b1eed4521d1",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "82e92432-2959-47e4-acb9-7571be028b0c",
+                "nodeTo": "a6ebc407-1370-4b5d-bba1-34767016438c",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "eab6bb75-0875-480a-b0ec-d442b3d07815",
+                "nodeTo": "7ddcb67b-191b-4662-a191-7b1eed4521d1",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "eab6bb75-0875-480a-b0ec-d442b3d07815",
+                "nodeTo": "a6ebc407-1370-4b5d-bba1-34767016438c",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ccc00a92-83cc-48a2-8726-421ea8aa286c",
+                "nodeTo": "7ddcb67b-191b-4662-a191-7b1eed4521d1",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ccc00a92-83cc-48a2-8726-421ea8aa286c",
+                "nodeTo": "a6ebc407-1370-4b5d-bba1-34767016438c",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2ade75c7-7d10-4ba0-97da-a458427eace0",
+                "nodeTo": "7ddcb67b-191b-4662-a191-7b1eed4521d1",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2ade75c7-7d10-4ba0-97da-a458427eace0",
+                "nodeTo": "a6ebc407-1370-4b5d-bba1-34767016438c",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-04 17:22:11"
+}

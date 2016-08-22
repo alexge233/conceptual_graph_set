@@ -1,0 +1,166 @@
+{
+    "uuid": 978,
+    "text": "Nanoparticles that stagger delivery of two drugs knock out aggressive tumors",
+    "graph": {
+        "version": 1,
+        "guid": "52ccc52b-ba1b-4e23-94d3-c2b050ae2718",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "stagger",
+                "id": "cb1c69b0-0223-4175-bbe3-6c802315b2a2",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "00097e0d-30b4-4113-ad18-c760a6ddb0dc",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "knock",
+                "id": "349a5470-48a9-487c-93e4-337460c7e842",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "out",
+                "id": "50e10c07-5ace-4443-98e9-d2b5b8024509",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Nanoparticles",
+                "id": "0d67e5de-8b65-40c2-9889-2407640e6277",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "that",
+                "id": "8d7a0d96-1a56-4535-9217-cd17c8ad5e87",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "delivery",
+                "id": "e222dee5-823a-44ac-9e85-52457976995a",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "two",
+                "id": "66b9ed01-8d8a-4cd4-ab3c-a8a79017334b",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "drugs",
+                "id": "c9b5aabe-c88a-4056-9634-3c48ce97dbe6",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "aggressive",
+                "id": "e562ab0b-0635-4c3e-a22b-a768bd88b041",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "tumors",
+                "id": "2a7ae759-6916-4aa0-85ea-33b65ce3b301",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "0d67e5de-8b65-40c2-9889-2407640e6277",
+                "nodeTo": "cb1c69b0-0223-4175-bbe3-6c802315b2a2",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8d7a0d96-1a56-4535-9217-cd17c8ad5e87",
+                "nodeTo": "cb1c69b0-0223-4175-bbe3-6c802315b2a2",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cb1c69b0-0223-4175-bbe3-6c802315b2a2",
+                "nodeTo": "e222dee5-823a-44ac-9e85-52457976995a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e222dee5-823a-44ac-9e85-52457976995a",
+                "nodeTo": "00097e0d-30b4-4113-ad18-c760a6ddb0dc",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "00097e0d-30b4-4113-ad18-c760a6ddb0dc",
+                "nodeTo": "66b9ed01-8d8a-4cd4-ab3c-a8a79017334b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "00097e0d-30b4-4113-ad18-c760a6ddb0dc",
+                "nodeTo": "c9b5aabe-c88a-4056-9634-3c48ce97dbe6",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0d67e5de-8b65-40c2-9889-2407640e6277",
+                "nodeTo": "349a5470-48a9-487c-93e4-337460c7e842",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8d7a0d96-1a56-4535-9217-cd17c8ad5e87",
+                "nodeTo": "349a5470-48a9-487c-93e4-337460c7e842",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0d67e5de-8b65-40c2-9889-2407640e6277",
+                "nodeTo": "50e10c07-5ace-4443-98e9-d2b5b8024509",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8d7a0d96-1a56-4535-9217-cd17c8ad5e87",
+                "nodeTo": "50e10c07-5ace-4443-98e9-d2b5b8024509",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "349a5470-48a9-487c-93e4-337460c7e842",
+                "nodeTo": "e562ab0b-0635-4c3e-a22b-a768bd88b041",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "50e10c07-5ace-4443-98e9-d2b5b8024509",
+                "nodeTo": "e562ab0b-0635-4c3e-a22b-a768bd88b041",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "349a5470-48a9-487c-93e4-337460c7e842",
+                "nodeTo": "2a7ae759-6916-4aa0-85ea-33b65ce3b301",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "50e10c07-5ace-4443-98e9-d2b5b8024509",
+                "nodeTo": "2a7ae759-6916-4aa0-85ea-33b65ce3b301",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-28 12:43:02"
+}

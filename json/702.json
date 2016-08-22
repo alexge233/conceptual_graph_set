@@ -1,0 +1,154 @@
+{
+    "uuid": 702,
+    "text": "receptor on human cells that specifically recognizes crystals has been identified",
+    "graph": {
+        "version": 1,
+        "guid": "6c81b367-72dc-4018-9255-a6b14238323c",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "on",
+                "id": "ee51d5bc-d0ca-4341-85d6-92b538d68615",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "that",
+                "id": "0cd30e35-a7d3-401a-8d38-06ee1e136db9",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "recognizes",
+                "id": "18a4b11c-d687-4a88-b701-97a322d258d7",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "specifically",
+                "id": "89ad13a3-e052-4bc6-86c1-4725dbd03837",
+                "postag": "NA",
+                "index": 5
+            },
+            {
+                "label": "has",
+                "id": "2c73d14d-d3dd-448b-88d0-9cd1a4d64a1c",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "been",
+                "id": "e96d494b-06dc-49c9-aeea-6b0327d3c223",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "receptor",
+                "id": "74ec2ad6-c52e-441b-861e-add4259d690b",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "human",
+                "id": "94509608-e86b-4b03-8722-a1c94db9d96c",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "cells",
+                "id": "d34515c5-9844-4a69-8410-9270eb902d94",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "crystals",
+                "id": "d254bd0c-451d-4b2c-ae46-c978b892c3be",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "identified",
+                "id": "8b65b409-a432-4ee4-8834-d90b25791633",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "74ec2ad6-c52e-441b-861e-add4259d690b",
+                "nodeTo": "ee51d5bc-d0ca-4341-85d6-92b538d68615",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ee51d5bc-d0ca-4341-85d6-92b538d68615",
+                "nodeTo": "94509608-e86b-4b03-8722-a1c94db9d96c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ee51d5bc-d0ca-4341-85d6-92b538d68615",
+                "nodeTo": "d34515c5-9844-4a69-8410-9270eb902d94",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "74ec2ad6-c52e-441b-861e-add4259d690b",
+                "nodeTo": "0cd30e35-a7d3-401a-8d38-06ee1e136db9",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "74ec2ad6-c52e-441b-861e-add4259d690b",
+                "nodeTo": "89ad13a3-e052-4bc6-86c1-4725dbd03837",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "74ec2ad6-c52e-441b-861e-add4259d690b",
+                "nodeTo": "18a4b11c-d687-4a88-b701-97a322d258d7",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "89ad13a3-e052-4bc6-86c1-4725dbd03837",
+                "nodeTo": "d254bd0c-451d-4b2c-ae46-c978b892c3be",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "18a4b11c-d687-4a88-b701-97a322d258d7",
+                "nodeTo": "d254bd0c-451d-4b2c-ae46-c978b892c3be",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "74ec2ad6-c52e-441b-861e-add4259d690b",
+                "nodeTo": "2c73d14d-d3dd-448b-88d0-9cd1a4d64a1c",
+                "index": 5,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "74ec2ad6-c52e-441b-861e-add4259d690b",
+                "nodeTo": "e96d494b-06dc-49c9-aeea-6b0327d3c223",
+                "index": 6,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2c73d14d-d3dd-448b-88d0-9cd1a4d64a1c",
+                "nodeTo": "8b65b409-a432-4ee4-8834-d90b25791633",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e96d494b-06dc-49c9-aeea-6b0327d3c223",
+                "nodeTo": "8b65b409-a432-4ee4-8834-d90b25791633",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-12 13:41:23"
+}

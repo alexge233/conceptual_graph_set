@@ -1,0 +1,262 @@
+{
+    "uuid": 856,
+    "text": "those on canola bread diet experienced both reduction in blood glucose levels and significant reduction in bad cholesterol",
+    "graph": {
+        "version": 1,
+        "guid": "0d2deab3-1c06-4476-ac98-4d11b674212c",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "on",
+                "id": "1cac98d9-b7a0-4845-bb0c-d8957e573952",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "experienced",
+                "id": "eb6a2a73-b34b-4965-9c89-b0887346e97b",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "both",
+                "id": "cc689757-0780-46da-a431-19ba5b713239",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "361a3c1e-a7a8-4569-b552-e3b7a5218311",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "1a313570-d0d8-4156-9418-721d9d2e23e9",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "2edc2283-1e37-4769-b449-34e181ab7a85",
+                "index": 15,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "those",
+                "id": "2d1ed352-17e6-4d96-bea1-5d682d82dc69",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "canola",
+                "id": "25729480-6566-4de5-9242-7dc8479d352a",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "bread",
+                "id": "de607ba0-7b26-408d-838b-993b87d98a48",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "diet",
+                "id": "4307e4c6-c55b-4842-8be9-e888babba01e",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "reduction",
+                "id": "32916eaa-5a34-407d-893c-52833a756894",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "blood",
+                "id": "7467b671-47ab-41b0-b787-6759ce044575",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "glucose",
+                "id": "67ee3839-4504-4c35-9021-abe87b2b4d73",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "levels",
+                "id": "03073d6d-7b5d-4dd5-aa0e-4a8e4adb9c65",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "significant",
+                "id": "317ea768-54b7-4d55-b889-0304747320d2",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "reduction",
+                "id": "55604785-e947-4493-8a7d-98228a6d9d9e",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "bad",
+                "id": "7a3aa599-0d1e-4da7-9789-5220bc504b41",
+                "index": 16,
+                "postag": "NA"
+            },
+            {
+                "label": "cholesterol",
+                "id": "24c2266d-a439-470a-bb84-845128c2a774",
+                "index": 17,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "2d1ed352-17e6-4d96-bea1-5d682d82dc69",
+                "nodeTo": "1cac98d9-b7a0-4845-bb0c-d8957e573952",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1cac98d9-b7a0-4845-bb0c-d8957e573952",
+                "nodeTo": "25729480-6566-4de5-9242-7dc8479d352a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1cac98d9-b7a0-4845-bb0c-d8957e573952",
+                "nodeTo": "de607ba0-7b26-408d-838b-993b87d98a48",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1cac98d9-b7a0-4845-bb0c-d8957e573952",
+                "nodeTo": "4307e4c6-c55b-4842-8be9-e888babba01e",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2d1ed352-17e6-4d96-bea1-5d682d82dc69",
+                "nodeTo": "eb6a2a73-b34b-4965-9c89-b0887346e97b",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2d1ed352-17e6-4d96-bea1-5d682d82dc69",
+                "nodeTo": "cc689757-0780-46da-a431-19ba5b713239",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "eb6a2a73-b34b-4965-9c89-b0887346e97b",
+                "nodeTo": "32916eaa-5a34-407d-893c-52833a756894",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "cc689757-0780-46da-a431-19ba5b713239",
+                "nodeTo": "32916eaa-5a34-407d-893c-52833a756894",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "32916eaa-5a34-407d-893c-52833a756894",
+                "nodeTo": "361a3c1e-a7a8-4569-b552-e3b7a5218311",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "361a3c1e-a7a8-4569-b552-e3b7a5218311",
+                "nodeTo": "7467b671-47ab-41b0-b787-6759ce044575",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "361a3c1e-a7a8-4569-b552-e3b7a5218311",
+                "nodeTo": "67ee3839-4504-4c35-9021-abe87b2b4d73",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "361a3c1e-a7a8-4569-b552-e3b7a5218311",
+                "nodeTo": "03073d6d-7b5d-4dd5-aa0e-4a8e4adb9c65",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "eb6a2a73-b34b-4965-9c89-b0887346e97b",
+                "nodeTo": "317ea768-54b7-4d55-b889-0304747320d2",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "cc689757-0780-46da-a431-19ba5b713239",
+                "nodeTo": "317ea768-54b7-4d55-b889-0304747320d2",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "eb6a2a73-b34b-4965-9c89-b0887346e97b",
+                "nodeTo": "55604785-e947-4493-8a7d-98228a6d9d9e",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "cc689757-0780-46da-a431-19ba5b713239",
+                "nodeTo": "55604785-e947-4493-8a7d-98228a6d9d9e",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "32916eaa-5a34-407d-893c-52833a756894",
+                "nodeTo": "1a313570-d0d8-4156-9418-721d9d2e23e9",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1a313570-d0d8-4156-9418-721d9d2e23e9",
+                "nodeTo": "317ea768-54b7-4d55-b889-0304747320d2",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1a313570-d0d8-4156-9418-721d9d2e23e9",
+                "nodeTo": "55604785-e947-4493-8a7d-98228a6d9d9e",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "317ea768-54b7-4d55-b889-0304747320d2",
+                "nodeTo": "2edc2283-1e37-4769-b449-34e181ab7a85",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "55604785-e947-4493-8a7d-98228a6d9d9e",
+                "nodeTo": "2edc2283-1e37-4769-b449-34e181ab7a85",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2edc2283-1e37-4769-b449-34e181ab7a85",
+                "nodeTo": "7a3aa599-0d1e-4da7-9789-5220bc504b41",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2edc2283-1e37-4769-b449-34e181ab7a85",
+                "nodeTo": "24c2266d-a439-470a-bb84-845128c2a774",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-19 14:53:03"
+}

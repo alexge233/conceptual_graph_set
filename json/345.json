@@ -1,0 +1,106 @@
+{
+    "uuid": 345,
+    "text": "Is it safe to pee in pool",
+    "graph": {
+        "version": 1,
+        "guid": "98426069-42e7-4d4d-836e-733e296e4e97",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "Is",
+                "id": "3bd41aac-8acd-43bd-9d50-85983467dac8",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "d42de093-c2d6-48a6-bcd0-757c45b6a82e",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "e5361bae-2bb0-44b6-984a-26b039756323",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "pee",
+                "id": "80cea479-4d48-4bd9-9dab-abd82455798c",
+                "postag": "NA",
+                "index": 4
+            }
+        ],
+        "concepts": [
+            {
+                "label": "it",
+                "id": "65652550-2304-4946-87e1-e43592312474",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "safe",
+                "id": "326e49aa-0ead-4946-ae3e-3b9b7096d55d",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "pool",
+                "id": "4d475e3d-9795-4e90-beb2-aa802b37b4c5",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "3bd41aac-8acd-43bd-9d50-85983467dac8",
+                "nodeTo": "65652550-2304-4946-87e1-e43592312474",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3bd41aac-8acd-43bd-9d50-85983467dac8",
+                "nodeTo": "326e49aa-0ead-4946-ae3e-3b9b7096d55d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "326e49aa-0ead-4946-ae3e-3b9b7096d55d",
+                "nodeTo": "d42de093-c2d6-48a6-bcd0-757c45b6a82e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "326e49aa-0ead-4946-ae3e-3b9b7096d55d",
+                "nodeTo": "80cea479-4d48-4bd9-9dab-abd82455798c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "326e49aa-0ead-4946-ae3e-3b9b7096d55d",
+                "nodeTo": "e5361bae-2bb0-44b6-984a-26b039756323",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d42de093-c2d6-48a6-bcd0-757c45b6a82e",
+                "nodeTo": "4d475e3d-9795-4e90-beb2-aa802b37b4c5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "80cea479-4d48-4bd9-9dab-abd82455798c",
+                "nodeTo": "4d475e3d-9795-4e90-beb2-aa802b37b4c5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e5361bae-2bb0-44b6-984a-26b039756323",
+                "nodeTo": "4d475e3d-9795-4e90-beb2-aa802b37b4c5",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-15 20:16:18"
+}

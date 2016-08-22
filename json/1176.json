@@ -1,0 +1,136 @@
+{
+    "uuid": 1176,
+    "text": "combination of two drugs induces rapid and synergistic cell death",
+    "graph": {
+        "version": 1,
+        "guid": "07eb59c1-3749-473d-a577-a3a7c8d47282",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "of",
+                "id": "a2c241ab-225d-43b5-b75d-8c42c644a680",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "induces",
+                "id": "94ed580a-dd8a-4d93-bdb9-9ea6cd2d3519",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "90c2bbe4-1a18-4d8e-9b66-96e43b2aa4d9",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "combination",
+                "id": "64cc61bd-157a-41cd-99b8-ce079045c3ca",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "two",
+                "id": "e3c21351-adca-4605-8a93-e718903ea896",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "drugs",
+                "id": "547d531b-238b-44a0-823c-e713816d8e5d",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "rapid",
+                "id": "30b4bc48-1570-4dc6-8e8b-a0aa5c753d5b",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "synergistic",
+                "id": "ac6d0976-936d-4122-b9ac-276e187a9eda",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "cell",
+                "id": "c1cd50d0-dc37-4832-8a02-5dee599c0966",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "death",
+                "id": "a5c4ce78-d0ee-4856-a7a6-d15342a51ce3",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "64cc61bd-157a-41cd-99b8-ce079045c3ca",
+                "nodeTo": "a2c241ab-225d-43b5-b75d-8c42c644a680",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a2c241ab-225d-43b5-b75d-8c42c644a680",
+                "nodeTo": "e3c21351-adca-4605-8a93-e718903ea896",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a2c241ab-225d-43b5-b75d-8c42c644a680",
+                "nodeTo": "547d531b-238b-44a0-823c-e713816d8e5d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "64cc61bd-157a-41cd-99b8-ce079045c3ca",
+                "nodeTo": "94ed580a-dd8a-4d93-bdb9-9ea6cd2d3519",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "94ed580a-dd8a-4d93-bdb9-9ea6cd2d3519",
+                "nodeTo": "30b4bc48-1570-4dc6-8e8b-a0aa5c753d5b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "30b4bc48-1570-4dc6-8e8b-a0aa5c753d5b",
+                "nodeTo": "90c2bbe4-1a18-4d8e-9b66-96e43b2aa4d9",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "90c2bbe4-1a18-4d8e-9b66-96e43b2aa4d9",
+                "nodeTo": "ac6d0976-936d-4122-b9ac-276e187a9eda",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "94ed580a-dd8a-4d93-bdb9-9ea6cd2d3519",
+                "nodeTo": "ac6d0976-936d-4122-b9ac-276e187a9eda",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "94ed580a-dd8a-4d93-bdb9-9ea6cd2d3519",
+                "nodeTo": "c1cd50d0-dc37-4832-8a02-5dee599c0966",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "94ed580a-dd8a-4d93-bdb9-9ea6cd2d3519",
+                "nodeTo": "a5c4ce78-d0ee-4856-a7a6-d15342a51ce3",
+                "index": 4,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-25 00:18:55"
+}

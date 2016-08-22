@@ -1,0 +1,292 @@
+{
+    "uuid": 991,
+    "text": "Danish childminder Karsten Kaltoft denies he was unable to do his job as childminder because of his size",
+    "graph": {
+        "version": 1,
+        "guid": "9244d0cd-aa97-4d44-9c68-d3e5cd3e494a",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "denies",
+                "id": "845dc3ea-027d-446c-a614-133212a2e375",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "was",
+                "id": "c638a530-3c03-40cc-bd16-694b9525c262",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "unable",
+                "id": "5e5940b3-e576-4360-b11a-5449a60913c6",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "18b1e3b1-a624-4741-9a4a-17684996c8b5",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "do",
+                "id": "08ad194b-6592-48e6-b136-627d8159e74c",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "as",
+                "id": "3ad93c7c-3e90-4e99-9e49-dd4b18752276",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "because",
+                "id": "a444047c-2282-4e49-8bce-70323a46c4db",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "81b97853-22e7-417e-abdd-41ec15e91dd2",
+                "index": 15,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Danish",
+                "id": "529c5b60-c852-46e1-949a-34e71c5db90e",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "childminder",
+                "id": "7d2787ca-2182-4ca3-8934-4105e1223655",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "Karsten",
+                "id": "29705c93-e9a6-431e-8970-1aee55c0b324",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "Kaltoft",
+                "id": "5432a632-ad69-4922-b575-13dc55b8bd77",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "he",
+                "id": "58576b3a-aa31-4e8d-b6b8-0c741741b35d",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "his",
+                "id": "99ec8b01-7472-4cb6-993b-8585929632b1",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "job",
+                "id": "56ed32d3-2002-419b-abde-72c80686bea9",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "childminder",
+                "id": "289b203c-0326-405c-a446-37b14d7d6dd5",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "his",
+                "id": "07e85bdc-2a01-4004-aee7-29d99e34ebb6",
+                "index": 16,
+                "postag": "NA"
+            },
+            {
+                "label": "size",
+                "id": "c8bb74d9-0b5e-48c7-9399-c3b9e83888a0",
+                "index": 17,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "529c5b60-c852-46e1-949a-34e71c5db90e",
+                "nodeTo": "845dc3ea-027d-446c-a614-133212a2e375",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7d2787ca-2182-4ca3-8934-4105e1223655",
+                "nodeTo": "845dc3ea-027d-446c-a614-133212a2e375",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "29705c93-e9a6-431e-8970-1aee55c0b324",
+                "nodeTo": "845dc3ea-027d-446c-a614-133212a2e375",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5432a632-ad69-4922-b575-13dc55b8bd77",
+                "nodeTo": "845dc3ea-027d-446c-a614-133212a2e375",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "845dc3ea-027d-446c-a614-133212a2e375",
+                "nodeTo": "58576b3a-aa31-4e8d-b6b8-0c741741b35d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "58576b3a-aa31-4e8d-b6b8-0c741741b35d",
+                "nodeTo": "c638a530-3c03-40cc-bd16-694b9525c262",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "58576b3a-aa31-4e8d-b6b8-0c741741b35d",
+                "nodeTo": "5e5940b3-e576-4360-b11a-5449a60913c6",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "58576b3a-aa31-4e8d-b6b8-0c741741b35d",
+                "nodeTo": "18b1e3b1-a624-4741-9a4a-17684996c8b5",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "58576b3a-aa31-4e8d-b6b8-0c741741b35d",
+                "nodeTo": "08ad194b-6592-48e6-b136-627d8159e74c",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c638a530-3c03-40cc-bd16-694b9525c262",
+                "nodeTo": "99ec8b01-7472-4cb6-993b-8585929632b1",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5e5940b3-e576-4360-b11a-5449a60913c6",
+                "nodeTo": "99ec8b01-7472-4cb6-993b-8585929632b1",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "18b1e3b1-a624-4741-9a4a-17684996c8b5",
+                "nodeTo": "99ec8b01-7472-4cb6-993b-8585929632b1",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "08ad194b-6592-48e6-b136-627d8159e74c",
+                "nodeTo": "99ec8b01-7472-4cb6-993b-8585929632b1",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c638a530-3c03-40cc-bd16-694b9525c262",
+                "nodeTo": "56ed32d3-2002-419b-abde-72c80686bea9",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5e5940b3-e576-4360-b11a-5449a60913c6",
+                "nodeTo": "56ed32d3-2002-419b-abde-72c80686bea9",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "18b1e3b1-a624-4741-9a4a-17684996c8b5",
+                "nodeTo": "56ed32d3-2002-419b-abde-72c80686bea9",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "08ad194b-6592-48e6-b136-627d8159e74c",
+                "nodeTo": "56ed32d3-2002-419b-abde-72c80686bea9",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "99ec8b01-7472-4cb6-993b-8585929632b1",
+                "nodeTo": "3ad93c7c-3e90-4e99-9e49-dd4b18752276",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "56ed32d3-2002-419b-abde-72c80686bea9",
+                "nodeTo": "3ad93c7c-3e90-4e99-9e49-dd4b18752276",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3ad93c7c-3e90-4e99-9e49-dd4b18752276",
+                "nodeTo": "289b203c-0326-405c-a446-37b14d7d6dd5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "99ec8b01-7472-4cb6-993b-8585929632b1",
+                "nodeTo": "a444047c-2282-4e49-8bce-70323a46c4db",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "56ed32d3-2002-419b-abde-72c80686bea9",
+                "nodeTo": "a444047c-2282-4e49-8bce-70323a46c4db",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "99ec8b01-7472-4cb6-993b-8585929632b1",
+                "nodeTo": "81b97853-22e7-417e-abdd-41ec15e91dd2",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "56ed32d3-2002-419b-abde-72c80686bea9",
+                "nodeTo": "81b97853-22e7-417e-abdd-41ec15e91dd2",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a444047c-2282-4e49-8bce-70323a46c4db",
+                "nodeTo": "07e85bdc-2a01-4004-aee7-29d99e34ebb6",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "81b97853-22e7-417e-abdd-41ec15e91dd2",
+                "nodeTo": "07e85bdc-2a01-4004-aee7-29d99e34ebb6",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a444047c-2282-4e49-8bce-70323a46c4db",
+                "nodeTo": "c8bb74d9-0b5e-48c7-9399-c3b9e83888a0",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "81b97853-22e7-417e-abdd-41ec15e91dd2",
+                "nodeTo": "c8bb74d9-0b5e-48c7-9399-c3b9e83888a0",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-02 16:48:50"
+}

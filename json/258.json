@@ -1,0 +1,82 @@
+{
+    "uuid": 258,
+    "text": "People in motion had worst perception",
+    "graph": {
+        "version": 1,
+        "guid": "4976b810-6c06-47a6-9b82-8ead838daa45",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "in",
+                "id": "0c464ac6-4a3d-480e-9036-9d2c017bac4e",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "had",
+                "id": "1568778a-2746-4349-9909-3cc1b7107ea6",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "People",
+                "id": "44ce56db-0ea8-4628-a7ab-b4e0255336e7",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "motion",
+                "id": "a726a843-9e88-45b0-baac-8a053690b211",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "worst",
+                "id": "96010e15-81aa-4d52-9a82-5a0ced12598e",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "perception",
+                "id": "95936380-ab50-4996-b633-54d7037bc6e1",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "44ce56db-0ea8-4628-a7ab-b4e0255336e7",
+                "nodeTo": "0c464ac6-4a3d-480e-9036-9d2c017bac4e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0c464ac6-4a3d-480e-9036-9d2c017bac4e",
+                "nodeTo": "a726a843-9e88-45b0-baac-8a053690b211",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "44ce56db-0ea8-4628-a7ab-b4e0255336e7",
+                "nodeTo": "1568778a-2746-4349-9909-3cc1b7107ea6",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1568778a-2746-4349-9909-3cc1b7107ea6",
+                "nodeTo": "96010e15-81aa-4d52-9a82-5a0ced12598e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1568778a-2746-4349-9909-3cc1b7107ea6",
+                "nodeTo": "95936380-ab50-4996-b633-54d7037bc6e1",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-03 12:37:31"
+}

@@ -1,0 +1,118 @@
+{
+    "uuid": 876,
+    "text": "there could be role for CCTV in care homes",
+    "graph": {
+        "version": 1,
+        "guid": "1e1e0165-253d-4c08-b088-3a4c849dc293",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "there",
+                "id": "968d3872-cad7-4e5c-9c14-340b5e18e53d",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "could",
+                "id": "5a439b60-9de7-4e27-bd4c-6e59d5ea9618",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "be",
+                "id": "a7b509a8-5210-4ac6-a3eb-57a4ae92936e",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "a4b8d186-c170-4767-b03e-656397acddc9",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "728e6b47-32a0-43bd-b3c8-d933928956d7",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "role",
+                "id": "66a31c94-e03e-4aa4-b8dd-21eae06db473",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "CCTV",
+                "id": "9e0530ad-e196-4d94-a30b-18d0a999899e",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "care",
+                "id": "d520b0e9-38b8-40e8-b13e-62d9d9512c0b",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "homes",
+                "id": "8e865969-3620-44d9-a999-974378ab767c",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "968d3872-cad7-4e5c-9c14-340b5e18e53d",
+                "nodeTo": "66a31c94-e03e-4aa4-b8dd-21eae06db473",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5a439b60-9de7-4e27-bd4c-6e59d5ea9618",
+                "nodeTo": "66a31c94-e03e-4aa4-b8dd-21eae06db473",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a7b509a8-5210-4ac6-a3eb-57a4ae92936e",
+                "nodeTo": "66a31c94-e03e-4aa4-b8dd-21eae06db473",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "66a31c94-e03e-4aa4-b8dd-21eae06db473",
+                "nodeTo": "a4b8d186-c170-4767-b03e-656397acddc9",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a4b8d186-c170-4767-b03e-656397acddc9",
+                "nodeTo": "9e0530ad-e196-4d94-a30b-18d0a999899e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9e0530ad-e196-4d94-a30b-18d0a999899e",
+                "nodeTo": "728e6b47-32a0-43bd-b3c8-d933928956d7",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "728e6b47-32a0-43bd-b3c8-d933928956d7",
+                "nodeTo": "d520b0e9-38b8-40e8-b13e-62d9d9512c0b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "728e6b47-32a0-43bd-b3c8-d933928956d7",
+                "nodeTo": "8e865969-3620-44d9-a999-974378ab767c",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-19 22:00:57"
+}

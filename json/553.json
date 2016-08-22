@@ -1,0 +1,136 @@
+{
+    "uuid": 553,
+    "text": "better way to make unnatural amino acids devised",
+    "graph": {
+        "version": 1,
+        "guid": "3aece2dc-a99e-4076-8427-0ae4a6c81833",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "to",
+                "id": "98a4bd38-8305-47cd-a413-27a5654deedd",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "make",
+                "id": "607c6a5b-956d-4ce3-8e72-9534dc255eb2",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "devised",
+                "id": "638cd3db-2bb5-4de3-a2a7-eb5c30b50030",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "better",
+                "id": "91c8cbec-ea5c-492e-869e-68d4691b31a2",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "way",
+                "id": "c1456351-d7d2-471b-9791-b7d72a5ba4b0",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "unnatural",
+                "id": "5eadca09-30e4-4b4c-9700-395c3a367c60",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "amino",
+                "id": "c8aa5407-e726-4479-be43-1ceae8094ed2",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "acids",
+                "id": "e822d081-e364-4bbb-9560-6b14732e6939",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "91c8cbec-ea5c-492e-869e-68d4691b31a2",
+                "nodeTo": "98a4bd38-8305-47cd-a413-27a5654deedd",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "91c8cbec-ea5c-492e-869e-68d4691b31a2",
+                "nodeTo": "607c6a5b-956d-4ce3-8e72-9534dc255eb2",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c1456351-d7d2-471b-9791-b7d72a5ba4b0",
+                "nodeTo": "98a4bd38-8305-47cd-a413-27a5654deedd",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c1456351-d7d2-471b-9791-b7d72a5ba4b0",
+                "nodeTo": "607c6a5b-956d-4ce3-8e72-9534dc255eb2",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "98a4bd38-8305-47cd-a413-27a5654deedd",
+                "nodeTo": "5eadca09-30e4-4b4c-9700-395c3a367c60",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "607c6a5b-956d-4ce3-8e72-9534dc255eb2",
+                "nodeTo": "5eadca09-30e4-4b4c-9700-395c3a367c60",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "98a4bd38-8305-47cd-a413-27a5654deedd",
+                "nodeTo": "c8aa5407-e726-4479-be43-1ceae8094ed2",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "607c6a5b-956d-4ce3-8e72-9534dc255eb2",
+                "nodeTo": "c8aa5407-e726-4479-be43-1ceae8094ed2",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "98a4bd38-8305-47cd-a413-27a5654deedd",
+                "nodeTo": "e822d081-e364-4bbb-9560-6b14732e6939",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "607c6a5b-956d-4ce3-8e72-9534dc255eb2",
+                "nodeTo": "e822d081-e364-4bbb-9560-6b14732e6939",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "638cd3db-2bb5-4de3-a2a7-eb5c30b50030",
+                "nodeTo": "91c8cbec-ea5c-492e-869e-68d4691b31a2",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "638cd3db-2bb5-4de3-a2a7-eb5c30b50030",
+                "nodeTo": "c1456351-d7d2-471b-9791-b7d72a5ba4b0",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-05 19:59:26"
+}

@@ -1,0 +1,166 @@
+{
+    "uuid": 274,
+    "text": "Adjuvant chemotherapy for breast cancer is gerontogenic accelerating pace of physiologic aging",
+    "graph": {
+        "version": 1,
+        "guid": "bca5257a-5276-4a90-9448-e201d41012d8",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "for",
+                "id": "d01ba884-ad0a-4d6e-841d-18bac560196b",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "is",
+                "id": "9a5c6e51-2dd8-4975-8d09-4b68d3453912",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "accelerating",
+                "id": "77e95766-3dd0-45d0-a37b-7eb4576983a5",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "2b36d197-0c05-445e-ab0c-e1ee9962aca3",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Adjuvant",
+                "id": "a906446c-6712-4a02-a813-db1095da73c6",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "chemotherapy",
+                "id": "9828952d-53ec-4544-a1ca-0658b17cd61a",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "breast",
+                "id": "e47a5aee-0859-4c74-bd2a-d3541d6edb84",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "cancer",
+                "id": "69384492-5884-4356-b27e-3652ac437024",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "gerontogenic",
+                "id": "76e9a884-4561-41e6-9eb6-03e4bb5d313d",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "pace",
+                "id": "0a1c1d45-dcba-4c28-82b1-a9ba35dc9570",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "physiologic",
+                "id": "7bae4dac-7a6e-4867-a123-4738ec4121ec",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "aging",
+                "id": "8cd7a06a-1a45-4b3c-b71d-6e7c438c7be8",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "a906446c-6712-4a02-a813-db1095da73c6",
+                "nodeTo": "d01ba884-ad0a-4d6e-841d-18bac560196b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9828952d-53ec-4544-a1ca-0658b17cd61a",
+                "nodeTo": "d01ba884-ad0a-4d6e-841d-18bac560196b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d01ba884-ad0a-4d6e-841d-18bac560196b",
+                "nodeTo": "e47a5aee-0859-4c74-bd2a-d3541d6edb84",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d01ba884-ad0a-4d6e-841d-18bac560196b",
+                "nodeTo": "69384492-5884-4356-b27e-3652ac437024",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a906446c-6712-4a02-a813-db1095da73c6",
+                "nodeTo": "9a5c6e51-2dd8-4975-8d09-4b68d3453912",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9828952d-53ec-4544-a1ca-0658b17cd61a",
+                "nodeTo": "9a5c6e51-2dd8-4975-8d09-4b68d3453912",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9a5c6e51-2dd8-4975-8d09-4b68d3453912",
+                "nodeTo": "76e9a884-4561-41e6-9eb6-03e4bb5d313d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a906446c-6712-4a02-a813-db1095da73c6",
+                "nodeTo": "77e95766-3dd0-45d0-a37b-7eb4576983a5",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9828952d-53ec-4544-a1ca-0658b17cd61a",
+                "nodeTo": "77e95766-3dd0-45d0-a37b-7eb4576983a5",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "77e95766-3dd0-45d0-a37b-7eb4576983a5",
+                "nodeTo": "0a1c1d45-dcba-4c28-82b1-a9ba35dc9570",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0a1c1d45-dcba-4c28-82b1-a9ba35dc9570",
+                "nodeTo": "2b36d197-0c05-445e-ab0c-e1ee9962aca3",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2b36d197-0c05-445e-ab0c-e1ee9962aca3",
+                "nodeTo": "7bae4dac-7a6e-4867-a123-4738ec4121ec",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2b36d197-0c05-445e-ab0c-e1ee9962aca3",
+                "nodeTo": "8cd7a06a-1a45-4b3c-b71d-6e7c438c7be8",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-03 14:29:25"
+}

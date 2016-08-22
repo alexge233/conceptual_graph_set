@@ -1,0 +1,88 @@
+{
+    "uuid": 747,
+    "text": "Burnham and Poulter trade NHS statistics",
+    "graph": {
+        "version": 1,
+        "guid": "12dc98e0-b362-4db0-89cc-6a339527a066",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "and",
+                "id": "7cdc9102-a826-44a8-9874-bab35188d7c2",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "trade",
+                "id": "508a5603-e588-4cc8-813a-1473b2e79d30",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Burnham",
+                "id": "0e681891-8290-4603-9388-6740e92b2b34",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "Poulter",
+                "id": "67028368-a344-4bca-a734-b884eb696e1e",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "NHS",
+                "id": "a5ce5aab-d390-4ab4-be98-a9b5707034ba",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "statistics",
+                "id": "7a0a7701-6bb1-42a3-bc5d-ae39a5ae3838",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "0e681891-8290-4603-9388-6740e92b2b34",
+                "nodeTo": "7cdc9102-a826-44a8-9874-bab35188d7c2",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7cdc9102-a826-44a8-9874-bab35188d7c2",
+                "nodeTo": "67028368-a344-4bca-a734-b884eb696e1e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0e681891-8290-4603-9388-6740e92b2b34",
+                "nodeTo": "508a5603-e588-4cc8-813a-1473b2e79d30",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "67028368-a344-4bca-a734-b884eb696e1e",
+                "nodeTo": "508a5603-e588-4cc8-813a-1473b2e79d30",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "508a5603-e588-4cc8-813a-1473b2e79d30",
+                "nodeTo": "a5ce5aab-d390-4ab4-be98-a9b5707034ba",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "508a5603-e588-4cc8-813a-1473b2e79d30",
+                "nodeTo": "7a0a7701-6bb1-42a3-bc5d-ae39a5ae3838",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-12 21:57:05"
+}

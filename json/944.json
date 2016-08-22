@@ -1,0 +1,274 @@
+{
+    "uuid": 944,
+    "text": "different cellular patterns and mechanical functions in contractions of human heart has been identified",
+    "graph": {
+        "version": 1,
+        "guid": "d8ba9d28-1b27-4cc0-be58-bbbddcc2a537",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "and",
+                "id": "69773383-1336-4cb8-a2d8-87c413a23749",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "e623162e-7ab3-423b-95d7-ab10220bc520",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "17d74062-00c5-41ed-951a-580990ac4a78",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "has",
+                "id": "a42e3216-da96-460d-aaa3-41e7e28d9748",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "been",
+                "id": "39613c8a-edd9-4e40-9c36-e8645b02eabe",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "identified",
+                "id": "5a702996-d393-45be-ab80-bb52235dbd72",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "different",
+                "id": "c9c80363-1866-47b3-b380-59d749ab0363",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "cellular",
+                "id": "bca7b732-bde1-4e10-b2a7-c61363b46c01",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "patterns",
+                "id": "934073e4-b153-4ecb-a5a8-80a0021459ee",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "mechanical",
+                "id": "ce103eec-7bb1-4ebb-a9e3-1c88593a89d9",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "functions",
+                "id": "aa40e99d-c8b1-4956-ad4b-e3068636293d",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "contractions",
+                "id": "779e78ac-100b-4d60-bac0-8371492239c9",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "human",
+                "id": "046e82cb-d1c8-4356-8cea-933c0c733bac",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "heart",
+                "id": "3a2b8ca7-59c0-40d9-a05b-3a19d6465cc8",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "c9c80363-1866-47b3-b380-59d749ab0363",
+                "nodeTo": "69773383-1336-4cb8-a2d8-87c413a23749",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bca7b732-bde1-4e10-b2a7-c61363b46c01",
+                "nodeTo": "69773383-1336-4cb8-a2d8-87c413a23749",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "934073e4-b153-4ecb-a5a8-80a0021459ee",
+                "nodeTo": "69773383-1336-4cb8-a2d8-87c413a23749",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "69773383-1336-4cb8-a2d8-87c413a23749",
+                "nodeTo": "ce103eec-7bb1-4ebb-a9e3-1c88593a89d9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "69773383-1336-4cb8-a2d8-87c413a23749",
+                "nodeTo": "aa40e99d-c8b1-4956-ad4b-e3068636293d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c9c80363-1866-47b3-b380-59d749ab0363",
+                "nodeTo": "e623162e-7ab3-423b-95d7-ab10220bc520",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bca7b732-bde1-4e10-b2a7-c61363b46c01",
+                "nodeTo": "e623162e-7ab3-423b-95d7-ab10220bc520",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "934073e4-b153-4ecb-a5a8-80a0021459ee",
+                "nodeTo": "e623162e-7ab3-423b-95d7-ab10220bc520",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "aa40e99d-c8b1-4956-ad4b-e3068636293d",
+                "nodeTo": "e623162e-7ab3-423b-95d7-ab10220bc520",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ce103eec-7bb1-4ebb-a9e3-1c88593a89d9",
+                "nodeTo": "e623162e-7ab3-423b-95d7-ab10220bc520",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e623162e-7ab3-423b-95d7-ab10220bc520",
+                "nodeTo": "779e78ac-100b-4d60-bac0-8371492239c9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "779e78ac-100b-4d60-bac0-8371492239c9",
+                "nodeTo": "17d74062-00c5-41ed-951a-580990ac4a78",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "17d74062-00c5-41ed-951a-580990ac4a78",
+                "nodeTo": "046e82cb-d1c8-4356-8cea-933c0c733bac",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "17d74062-00c5-41ed-951a-580990ac4a78",
+                "nodeTo": "3a2b8ca7-59c0-40d9-a05b-3a19d6465cc8",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c9c80363-1866-47b3-b380-59d749ab0363",
+                "nodeTo": "a42e3216-da96-460d-aaa3-41e7e28d9748",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c9c80363-1866-47b3-b380-59d749ab0363",
+                "nodeTo": "39613c8a-edd9-4e40-9c36-e8645b02eabe",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c9c80363-1866-47b3-b380-59d749ab0363",
+                "nodeTo": "5a702996-d393-45be-ab80-bb52235dbd72",
+                "index": 5,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bca7b732-bde1-4e10-b2a7-c61363b46c01",
+                "nodeTo": "a42e3216-da96-460d-aaa3-41e7e28d9748",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bca7b732-bde1-4e10-b2a7-c61363b46c01",
+                "nodeTo": "39613c8a-edd9-4e40-9c36-e8645b02eabe",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bca7b732-bde1-4e10-b2a7-c61363b46c01",
+                "nodeTo": "5a702996-d393-45be-ab80-bb52235dbd72",
+                "index": 5,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "934073e4-b153-4ecb-a5a8-80a0021459ee",
+                "nodeTo": "a42e3216-da96-460d-aaa3-41e7e28d9748",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "934073e4-b153-4ecb-a5a8-80a0021459ee",
+                "nodeTo": "39613c8a-edd9-4e40-9c36-e8645b02eabe",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "934073e4-b153-4ecb-a5a8-80a0021459ee",
+                "nodeTo": "5a702996-d393-45be-ab80-bb52235dbd72",
+                "index": 5,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "aa40e99d-c8b1-4956-ad4b-e3068636293d",
+                "nodeTo": "a42e3216-da96-460d-aaa3-41e7e28d9748",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "aa40e99d-c8b1-4956-ad4b-e3068636293d",
+                "nodeTo": "39613c8a-edd9-4e40-9c36-e8645b02eabe",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "aa40e99d-c8b1-4956-ad4b-e3068636293d",
+                "nodeTo": "5a702996-d393-45be-ab80-bb52235dbd72",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ce103eec-7bb1-4ebb-a9e3-1c88593a89d9",
+                "nodeTo": "a42e3216-da96-460d-aaa3-41e7e28d9748",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ce103eec-7bb1-4ebb-a9e3-1c88593a89d9",
+                "nodeTo": "39613c8a-edd9-4e40-9c36-e8645b02eabe",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ce103eec-7bb1-4ebb-a9e3-1c88593a89d9",
+                "nodeTo": "5a702996-d393-45be-ab80-bb52235dbd72",
+                "index": 4,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2015-01-22 18:27:54"
+}

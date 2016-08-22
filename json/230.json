@@ -1,0 +1,208 @@
+{
+    "uuid": 230,
+    "text": "Labs-on-chip hold huge promise for reducing cost of medical diagnostics while expanding access to health care",
+    "graph": {
+        "version": 1,
+        "guid": "dbdd6528-8008-4d4e-beec-54579b1877c2",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "hold",
+                "id": "29363916-0488-4276-8a16-0964760a9c7b",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "3eba08a1-ed7b-4c5a-8388-203e60383a1e",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "reducing",
+                "id": "4348d964-aaeb-4d0d-be30-e8d5d075135e",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "cd833157-e199-45dc-a3ad-945257e91ea2",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "while",
+                "id": "6093d5e8-8175-4928-a015-863472a55612",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "expanding",
+                "id": "7292b77a-d38c-4d99-b79b-b25c566c48d8",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "0c733c47-9aa7-4950-9d4d-3ac63068c070",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Labs-on-chip",
+                "id": "61e6d309-d077-4c6b-b3a4-8ee89e50629d",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "huge",
+                "id": "b79e1ce2-a2d7-4389-a6ad-abe0653ec830",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "promise",
+                "id": "050695ee-36e6-4db3-882c-a9a759a3edbb",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "cost",
+                "id": "93b1655c-4925-4c38-8b82-8bcd3151660a",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "medical",
+                "id": "9a17e071-3447-41ce-bc5c-abab87a9b5c1",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "diagnostics",
+                "id": "3d1d2e43-d914-4e9d-8498-542c608139dd",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "access",
+                "id": "be0661d8-65b8-4be8-aaa6-224751cb5119",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "health",
+                "id": "ad693233-a474-4567-9870-aaa90b41ad55",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "care",
+                "id": "31b577d0-c01c-4eb1-9771-a2b1e4456d29",
+                "index": 15,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "61e6d309-d077-4c6b-b3a4-8ee89e50629d",
+                "nodeTo": "29363916-0488-4276-8a16-0964760a9c7b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "29363916-0488-4276-8a16-0964760a9c7b",
+                "nodeTo": "b79e1ce2-a2d7-4389-a6ad-abe0653ec830",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "29363916-0488-4276-8a16-0964760a9c7b",
+                "nodeTo": "050695ee-36e6-4db3-882c-a9a759a3edbb",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "050695ee-36e6-4db3-882c-a9a759a3edbb",
+                "nodeTo": "3eba08a1-ed7b-4c5a-8388-203e60383a1e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "050695ee-36e6-4db3-882c-a9a759a3edbb",
+                "nodeTo": "4348d964-aaeb-4d0d-be30-e8d5d075135e",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4348d964-aaeb-4d0d-be30-e8d5d075135e",
+                "nodeTo": "93b1655c-4925-4c38-8b82-8bcd3151660a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "93b1655c-4925-4c38-8b82-8bcd3151660a",
+                "nodeTo": "cd833157-e199-45dc-a3ad-945257e91ea2",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cd833157-e199-45dc-a3ad-945257e91ea2",
+                "nodeTo": "9a17e071-3447-41ce-bc5c-abab87a9b5c1",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "cd833157-e199-45dc-a3ad-945257e91ea2",
+                "nodeTo": "3d1d2e43-d914-4e9d-8498-542c608139dd",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3eba08a1-ed7b-4c5a-8388-203e60383a1e",
+                "nodeTo": "93b1655c-4925-4c38-8b82-8bcd3151660a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7292b77a-d38c-4d99-b79b-b25c566c48d8",
+                "nodeTo": "be0661d8-65b8-4be8-aaa6-224751cb5119",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "050695ee-36e6-4db3-882c-a9a759a3edbb",
+                "nodeTo": "6093d5e8-8175-4928-a015-863472a55612",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "050695ee-36e6-4db3-882c-a9a759a3edbb",
+                "nodeTo": "7292b77a-d38c-4d99-b79b-b25c566c48d8",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "be0661d8-65b8-4be8-aaa6-224751cb5119",
+                "nodeTo": "0c733c47-9aa7-4950-9d4d-3ac63068c070",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0c733c47-9aa7-4950-9d4d-3ac63068c070",
+                "nodeTo": "ad693233-a474-4567-9870-aaa90b41ad55",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0c733c47-9aa7-4950-9d4d-3ac63068c070",
+                "nodeTo": "31b577d0-c01c-4eb1-9771-a2b1e4456d29",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-01 15:45:45"
+}

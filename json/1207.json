@@ -1,0 +1,220 @@
+{
+    "uuid": 1207,
+    "text": "complex interactions among diet mitochondrial DNA and nuclear DNA appear to influence lifespan",
+    "graph": {
+        "version": 1,
+        "guid": "62ab92b6-6cb3-4d3e-81a1-00d1d96bdb32",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "among",
+                "id": "2349de06-5720-4687-b44a-d6c5c45147ad",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "11953807-4e13-4e79-8c17-26da05720b15",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "appear",
+                "id": "3a706353-ab05-48d9-9863-87bd3051dc3c",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "882280ec-82e0-4299-a7c0-33442929151d",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "influence",
+                "id": "a28b47ce-03a6-487c-a10b-d9d056587ec0",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "complex",
+                "id": "b42511d5-bd6e-421c-ab75-9167a70732d4",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "interactions",
+                "id": "1219a8e5-7d54-4606-962e-b92d86a92b48",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "diet",
+                "id": "b93eca13-b368-4c2d-be1c-eebadb8ba611",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "mitochondrial",
+                "id": "d30a865c-1625-4606-9998-3909dba15c60",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "DNA",
+                "id": "c31549c5-4182-4443-a0eb-5b4e3405e166",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "nuclear",
+                "id": "5ec053a1-ce2c-4ac2-ab88-5123911dab8c",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "DNA",
+                "id": "95aa4665-154b-410d-997a-a8b161d85aed",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "lifespan",
+                "id": "200b9d07-c5e6-4bcc-8928-9a1979c473a7",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "b42511d5-bd6e-421c-ab75-9167a70732d4",
+                "nodeTo": "2349de06-5720-4687-b44a-d6c5c45147ad",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1219a8e5-7d54-4606-962e-b92d86a92b48",
+                "nodeTo": "2349de06-5720-4687-b44a-d6c5c45147ad",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2349de06-5720-4687-b44a-d6c5c45147ad",
+                "nodeTo": "b93eca13-b368-4c2d-be1c-eebadb8ba611",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2349de06-5720-4687-b44a-d6c5c45147ad",
+                "nodeTo": "d30a865c-1625-4606-9998-3909dba15c60",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2349de06-5720-4687-b44a-d6c5c45147ad",
+                "nodeTo": "c31549c5-4182-4443-a0eb-5b4e3405e166",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b93eca13-b368-4c2d-be1c-eebadb8ba611",
+                "nodeTo": "11953807-4e13-4e79-8c17-26da05720b15",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d30a865c-1625-4606-9998-3909dba15c60",
+                "nodeTo": "11953807-4e13-4e79-8c17-26da05720b15",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c31549c5-4182-4443-a0eb-5b4e3405e166",
+                "nodeTo": "11953807-4e13-4e79-8c17-26da05720b15",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "11953807-4e13-4e79-8c17-26da05720b15",
+                "nodeTo": "5ec053a1-ce2c-4ac2-ab88-5123911dab8c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "11953807-4e13-4e79-8c17-26da05720b15",
+                "nodeTo": "95aa4665-154b-410d-997a-a8b161d85aed",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2349de06-5720-4687-b44a-d6c5c45147ad",
+                "nodeTo": "5ec053a1-ce2c-4ac2-ab88-5123911dab8c",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2349de06-5720-4687-b44a-d6c5c45147ad",
+                "nodeTo": "95aa4665-154b-410d-997a-a8b161d85aed",
+                "index": 5,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b42511d5-bd6e-421c-ab75-9167a70732d4",
+                "nodeTo": "3a706353-ab05-48d9-9863-87bd3051dc3c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1219a8e5-7d54-4606-962e-b92d86a92b48",
+                "nodeTo": "3a706353-ab05-48d9-9863-87bd3051dc3c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b42511d5-bd6e-421c-ab75-9167a70732d4",
+                "nodeTo": "882280ec-82e0-4299-a7c0-33442929151d",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1219a8e5-7d54-4606-962e-b92d86a92b48",
+                "nodeTo": "882280ec-82e0-4299-a7c0-33442929151d",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b42511d5-bd6e-421c-ab75-9167a70732d4",
+                "nodeTo": "a28b47ce-03a6-487c-a10b-d9d056587ec0",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1219a8e5-7d54-4606-962e-b92d86a92b48",
+                "nodeTo": "a28b47ce-03a6-487c-a10b-d9d056587ec0",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3a706353-ab05-48d9-9863-87bd3051dc3c",
+                "nodeTo": "200b9d07-c5e6-4bcc-8928-9a1979c473a7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "882280ec-82e0-4299-a7c0-33442929151d",
+                "nodeTo": "200b9d07-c5e6-4bcc-8928-9a1979c473a7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a28b47ce-03a6-487c-a10b-d9d056587ec0",
+                "nodeTo": "200b9d07-c5e6-4bcc-8928-9a1979c473a7",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-26 16:54:02"
+}

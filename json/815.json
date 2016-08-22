@@ -1,0 +1,160 @@
+{
+    "uuid": 815,
+    "text": "Canadian drinking age laws have significant effect on deaths among young males",
+    "graph": {
+        "version": 1,
+        "guid": "35e19d96-195a-4528-8b5b-1c6dc08a85c3",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "have",
+                "id": "bdd7b876-83d4-4319-b52d-9e51ce87a8ba",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "on",
+                "id": "cd357eba-c7e4-416e-b880-169dcacd5d71",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "among",
+                "id": "53da6921-2e87-420d-8178-62cc25371d51",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Canadian",
+                "id": "a36bdee5-d952-4313-b6ba-c45e6141dca2",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "drinking",
+                "id": "72369c43-6696-484e-825b-b596b306da42",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "age",
+                "id": "b1b3e2a2-108d-46dc-8105-4c9c73780443",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "laws",
+                "id": "092e826b-3541-4bec-b1a8-bc4617c1822b",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "significant",
+                "id": "5d314698-350c-47e1-9d09-03bbd8ad6382",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "effect",
+                "id": "d4371934-6b36-4d97-8a62-06bcea919d1c",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "deaths",
+                "id": "c3541361-7d74-4bb3-9142-5be0d9d19ac6",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "young",
+                "id": "0b6bbab3-ac27-4d48-bb0a-4bdb2ae904d0",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "males",
+                "id": "cbc135bc-3674-4928-ac0b-e3b180b48ec5",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "a36bdee5-d952-4313-b6ba-c45e6141dca2",
+                "nodeTo": "bdd7b876-83d4-4319-b52d-9e51ce87a8ba",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "72369c43-6696-484e-825b-b596b306da42",
+                "nodeTo": "bdd7b876-83d4-4319-b52d-9e51ce87a8ba",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b1b3e2a2-108d-46dc-8105-4c9c73780443",
+                "nodeTo": "bdd7b876-83d4-4319-b52d-9e51ce87a8ba",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "092e826b-3541-4bec-b1a8-bc4617c1822b",
+                "nodeTo": "bdd7b876-83d4-4319-b52d-9e51ce87a8ba",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bdd7b876-83d4-4319-b52d-9e51ce87a8ba",
+                "nodeTo": "5d314698-350c-47e1-9d09-03bbd8ad6382",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "bdd7b876-83d4-4319-b52d-9e51ce87a8ba",
+                "nodeTo": "d4371934-6b36-4d97-8a62-06bcea919d1c",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5d314698-350c-47e1-9d09-03bbd8ad6382",
+                "nodeTo": "cd357eba-c7e4-416e-b880-169dcacd5d71",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d4371934-6b36-4d97-8a62-06bcea919d1c",
+                "nodeTo": "cd357eba-c7e4-416e-b880-169dcacd5d71",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cd357eba-c7e4-416e-b880-169dcacd5d71",
+                "nodeTo": "c3541361-7d74-4bb3-9142-5be0d9d19ac6",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c3541361-7d74-4bb3-9142-5be0d9d19ac6",
+                "nodeTo": "53da6921-2e87-420d-8178-62cc25371d51",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "53da6921-2e87-420d-8178-62cc25371d51",
+                "nodeTo": "0b6bbab3-ac27-4d48-bb0a-4bdb2ae904d0",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "53da6921-2e87-420d-8178-62cc25371d51",
+                "nodeTo": "cbc135bc-3674-4928-ac0b-e3b180b48ec5",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-16 19:00:15"
+}

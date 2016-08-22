@@ -1,0 +1,94 @@
+{
+    "uuid": 296,
+    "text": "Advantages potential of computer guided spinal surgery",
+    "graph": {
+        "version": 1,
+        "guid": "548703e8-c189-4be5-98cc-ce7eed2ba2ba",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "of",
+                "id": "75cc27a5-8867-486d-b44a-38d63e0585a0",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "guided",
+                "id": "b780d19d-2530-4809-b559-b0169cd1173b",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Advantages",
+                "id": "12231647-8d40-4699-a552-217349b86ac4",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "potential",
+                "id": "dab5daa8-dc52-4661-a604-a1038465e33c",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "computer",
+                "id": "54c79ad4-26a2-420a-8e25-0c0332d1405b",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "spinal",
+                "id": "02bb9706-0475-4262-a7cd-ec4765387ae8",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "surgery",
+                "id": "a7967411-b392-4e43-8c33-79362add2c12",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "12231647-8d40-4699-a552-217349b86ac4",
+                "nodeTo": "75cc27a5-8867-486d-b44a-38d63e0585a0",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "dab5daa8-dc52-4661-a604-a1038465e33c",
+                "nodeTo": "75cc27a5-8867-486d-b44a-38d63e0585a0",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "75cc27a5-8867-486d-b44a-38d63e0585a0",
+                "nodeTo": "54c79ad4-26a2-420a-8e25-0c0332d1405b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "54c79ad4-26a2-420a-8e25-0c0332d1405b",
+                "nodeTo": "b780d19d-2530-4809-b559-b0169cd1173b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "75cc27a5-8867-486d-b44a-38d63e0585a0",
+                "nodeTo": "02bb9706-0475-4262-a7cd-ec4765387ae8",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "75cc27a5-8867-486d-b44a-38d63e0585a0",
+                "nodeTo": "a7967411-b392-4e43-8c33-79362add2c12",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-04 12:07:10"
+}

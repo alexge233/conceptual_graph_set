@@ -1,0 +1,100 @@
+{
+    "uuid": 212,
+    "text": "28000 may have faulty heart genes",
+    "graph": {
+        "version": 1,
+        "guid": "2a5625e3-77c6-4e79-8b4b-abc99b448237",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "have",
+                "id": "c9b0b8c8-bc7d-4d0d-a340-2bd80d8d8100",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "may",
+                "id": "d269ce30-76b8-4a65-b974-ae54506d1018",
+                "postag": "NA",
+                "index": 1
+            }
+        ],
+        "concepts": [
+            {
+                "label": 28000,
+                "id": "e08a4cc3-446a-413b-b013-dea7b58c5926",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "faulty",
+                "id": "390555e4-c68d-456e-8686-ed0a5023e0a6",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "heart",
+                "id": "074ae047-3de7-4c03-a720-d6353a634ea8",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "genes",
+                "id": "907d49aa-14ad-4992-85c4-abea2a58cd81",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "e08a4cc3-446a-413b-b013-dea7b58c5926",
+                "nodeTo": "d269ce30-76b8-4a65-b974-ae54506d1018",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e08a4cc3-446a-413b-b013-dea7b58c5926",
+                "nodeTo": "c9b0b8c8-bc7d-4d0d-a340-2bd80d8d8100",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d269ce30-76b8-4a65-b974-ae54506d1018",
+                "nodeTo": "390555e4-c68d-456e-8686-ed0a5023e0a6",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c9b0b8c8-bc7d-4d0d-a340-2bd80d8d8100",
+                "nodeTo": "390555e4-c68d-456e-8686-ed0a5023e0a6",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d269ce30-76b8-4a65-b974-ae54506d1018",
+                "nodeTo": "074ae047-3de7-4c03-a720-d6353a634ea8",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c9b0b8c8-bc7d-4d0d-a340-2bd80d8d8100",
+                "nodeTo": "074ae047-3de7-4c03-a720-d6353a634ea8",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d269ce30-76b8-4a65-b974-ae54506d1018",
+                "nodeTo": "907d49aa-14ad-4992-85c4-abea2a58cd81",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c9b0b8c8-bc7d-4d0d-a340-2bd80d8d8100",
+                "nodeTo": "907d49aa-14ad-4992-85c4-abea2a58cd81",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-11-18 01:45:39"
+}

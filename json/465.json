@@ -1,0 +1,136 @@
+{
+    "uuid": 465,
+    "text": "subtype of Alzheimers disease has been identified by neuroscientists",
+    "graph": {
+        "version": 1,
+        "guid": "b244d30e-ee5a-495e-a699-340d26157340",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "of",
+                "id": "15ca1376-06ca-4c00-ae6d-16617d180a83",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "has",
+                "id": "ec0c194b-d845-4be0-82d2-2bc7c588515e",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "been",
+                "id": "515bcb51-0d0b-4064-bd89-a3ce452c039d",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "by",
+                "id": "532b034a-abcc-4359-b024-3bae6e435da0",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "identified",
+                "id": "ab2c8aa8-3950-4c25-8642-099cb2ad0da5",
+                "postag": "NA",
+                "index": 6
+            }
+        ],
+        "concepts": [
+            {
+                "label": "subtype",
+                "id": "6b7cc58d-91c4-448b-865a-8e56e6007e0a",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "Alzheimers",
+                "id": "90083995-9d2b-487d-a008-de9cd6a8ce7b",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "disease",
+                "id": "a15b64a0-d159-4a40-8235-258a009b0e25",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "neuroscientists",
+                "id": "e244a67c-c34d-4500-8a09-2ab036669a5d",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "6b7cc58d-91c4-448b-865a-8e56e6007e0a",
+                "nodeTo": "15ca1376-06ca-4c00-ae6d-16617d180a83",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "15ca1376-06ca-4c00-ae6d-16617d180a83",
+                "nodeTo": "90083995-9d2b-487d-a008-de9cd6a8ce7b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "15ca1376-06ca-4c00-ae6d-16617d180a83",
+                "nodeTo": "a15b64a0-d159-4a40-8235-258a009b0e25",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6b7cc58d-91c4-448b-865a-8e56e6007e0a",
+                "nodeTo": "ec0c194b-d845-4be0-82d2-2bc7c588515e",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6b7cc58d-91c4-448b-865a-8e56e6007e0a",
+                "nodeTo": "515bcb51-0d0b-4064-bd89-a3ce452c039d",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6b7cc58d-91c4-448b-865a-8e56e6007e0a",
+                "nodeTo": "ab2c8aa8-3950-4c25-8642-099cb2ad0da5",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6b7cc58d-91c4-448b-865a-8e56e6007e0a",
+                "nodeTo": "532b034a-abcc-4359-b024-3bae6e435da0",
+                "index": 5,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ec0c194b-d845-4be0-82d2-2bc7c588515e",
+                "nodeTo": "e244a67c-c34d-4500-8a09-2ab036669a5d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "515bcb51-0d0b-4064-bd89-a3ce452c039d",
+                "nodeTo": "e244a67c-c34d-4500-8a09-2ab036669a5d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ab2c8aa8-3950-4c25-8642-099cb2ad0da5",
+                "nodeTo": "e244a67c-c34d-4500-8a09-2ab036669a5d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "532b034a-abcc-4359-b024-3bae6e435da0",
+                "nodeTo": "e244a67c-c34d-4500-8a09-2ab036669a5d",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-18 20:47:27"
+}

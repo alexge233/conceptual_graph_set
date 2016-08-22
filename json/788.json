@@ -1,0 +1,178 @@
+{
+    "uuid": 788,
+    "text": "research provides further evidence that bacteria in gut may be linked to autism",
+    "graph": {
+        "version": 1,
+        "guid": "6dad4bb3-3355-4c08-abe4-13dc29461712",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "provides",
+                "id": "020c58a9-cede-4d0b-9715-33a13a9eb891",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "that",
+                "id": "e4b0975c-7b26-450c-8c09-d813c5b2e267",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "30cdca83-c3e8-4a25-9c8b-3121d124d5e5",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "may",
+                "id": "2412a235-6b9e-4632-9139-062ec0c4d670",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "be",
+                "id": "60aad00d-47d2-4041-bd1d-9e60b61577a4",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "6b6c1202-3ade-4a58-969d-5ae7114ab22d",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "research",
+                "id": "ae8965b6-e890-41c2-93e9-8882d48979e6",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "further",
+                "id": "2e471b11-ec59-4219-ad6b-1411a9741256",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "evidence",
+                "id": "2eeaa937-2aa1-4019-9293-55ad93a72e2b",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "bacteria",
+                "id": "b84585b5-4279-42c2-92d6-3cbb532915ea",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "gut",
+                "id": "25e60b2b-4bc9-4e28-b17d-9c2a3492897d",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "linked",
+                "id": "60d9a1e3-b4b5-4118-a686-7359394d0022",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "autism",
+                "id": "6892bab8-3ea0-45c8-a39e-21d6bd82c4c2",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "ae8965b6-e890-41c2-93e9-8882d48979e6",
+                "nodeTo": "020c58a9-cede-4d0b-9715-33a13a9eb891",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "020c58a9-cede-4d0b-9715-33a13a9eb891",
+                "nodeTo": "2e471b11-ec59-4219-ad6b-1411a9741256",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "020c58a9-cede-4d0b-9715-33a13a9eb891",
+                "nodeTo": "2eeaa937-2aa1-4019-9293-55ad93a72e2b",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2e471b11-ec59-4219-ad6b-1411a9741256",
+                "nodeTo": "e4b0975c-7b26-450c-8c09-d813c5b2e267",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2eeaa937-2aa1-4019-9293-55ad93a72e2b",
+                "nodeTo": "e4b0975c-7b26-450c-8c09-d813c5b2e267",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e4b0975c-7b26-450c-8c09-d813c5b2e267",
+                "nodeTo": "b84585b5-4279-42c2-92d6-3cbb532915ea",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b84585b5-4279-42c2-92d6-3cbb532915ea",
+                "nodeTo": "30cdca83-c3e8-4a25-9c8b-3121d124d5e5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "30cdca83-c3e8-4a25-9c8b-3121d124d5e5",
+                "nodeTo": "25e60b2b-4bc9-4e28-b17d-9c2a3492897d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b84585b5-4279-42c2-92d6-3cbb532915ea",
+                "nodeTo": "2412a235-6b9e-4632-9139-062ec0c4d670",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b84585b5-4279-42c2-92d6-3cbb532915ea",
+                "nodeTo": "60aad00d-47d2-4041-bd1d-9e60b61577a4",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2412a235-6b9e-4632-9139-062ec0c4d670",
+                "nodeTo": "60d9a1e3-b4b5-4118-a686-7359394d0022",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "60aad00d-47d2-4041-bd1d-9e60b61577a4",
+                "nodeTo": "60d9a1e3-b4b5-4118-a686-7359394d0022",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "60d9a1e3-b4b5-4118-a686-7359394d0022",
+                "nodeTo": "6b6c1202-3ade-4a58-969d-5ae7114ab22d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6b6c1202-3ade-4a58-969d-5ae7114ab22d",
+                "nodeTo": "6892bab8-3ea0-45c8-a39e-21d6bd82c4c2",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-15 20:56:01"
+}

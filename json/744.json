@@ -1,0 +1,82 @@
+{
+    "uuid": 744,
+    "text": "building new drugs just got easier",
+    "graph": {
+        "version": 1,
+        "guid": "367a22b3-4e9e-4ac4-93b9-d4e31849a971",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "building",
+                "id": "a3832558-659d-4e4d-ae85-685b7d70aa53",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "got",
+                "id": "2a887acd-03e5-42c2-b956-545d9edebe53",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "new",
+                "id": "a430aa07-2a32-4b77-a9b0-3c57993023d4",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "drugs",
+                "id": "dc80733d-a76a-4274-a7b5-2b49adb03779",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "just",
+                "id": "b217ce5a-2878-482c-a445-dd6a63ca0610",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "easier",
+                "id": "b355928c-7270-4eec-98d8-8457b096ecee",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "a3832558-659d-4e4d-ae85-685b7d70aa53",
+                "nodeTo": "a430aa07-2a32-4b77-a9b0-3c57993023d4",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a3832558-659d-4e4d-ae85-685b7d70aa53",
+                "nodeTo": "dc80733d-a76a-4274-a7b5-2b49adb03779",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a3832558-659d-4e4d-ae85-685b7d70aa53",
+                "nodeTo": "b217ce5a-2878-482c-a445-dd6a63ca0610",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b217ce5a-2878-482c-a445-dd6a63ca0610",
+                "nodeTo": "2a887acd-03e5-42c2-b956-545d9edebe53",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2a887acd-03e5-42c2-b956-545d9edebe53",
+                "nodeTo": "b355928c-7270-4eec-98d8-8457b096ecee",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-12 21:49:22"
+}

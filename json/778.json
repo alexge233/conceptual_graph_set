@@ -1,0 +1,82 @@
+{
+    "uuid": 778,
+    "text": "call to end vaccine nightmare",
+    "graph": {
+        "version": 1,
+        "guid": "c432658b-73e9-454b-9105-04c367bd4381",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "to",
+                "id": "47b8b1a1-5b47-4b53-944e-a7cbbc899bb8",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "end",
+                "id": "73be334a-dde6-4642-8a87-e96c276457c8",
+                "index": 2,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "call",
+                "id": "407b57e1-678a-497a-810a-9ed72189dd34",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "vaccine",
+                "id": "40bc29a6-18ad-4976-b4b4-506587c92612",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "nightmare",
+                "id": "e908b7ec-1885-4611-9c27-3b8d78c7eac8",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "407b57e1-678a-497a-810a-9ed72189dd34",
+                "nodeTo": "47b8b1a1-5b47-4b53-944e-a7cbbc899bb8",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "407b57e1-678a-497a-810a-9ed72189dd34",
+                "nodeTo": "73be334a-dde6-4642-8a87-e96c276457c8",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "47b8b1a1-5b47-4b53-944e-a7cbbc899bb8",
+                "nodeTo": "40bc29a6-18ad-4976-b4b4-506587c92612",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "73be334a-dde6-4642-8a87-e96c276457c8",
+                "nodeTo": "40bc29a6-18ad-4976-b4b4-506587c92612",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "47b8b1a1-5b47-4b53-944e-a7cbbc899bb8",
+                "nodeTo": "e908b7ec-1885-4611-9c27-3b8d78c7eac8",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "73be334a-dde6-4642-8a87-e96c276457c8",
+                "nodeTo": "e908b7ec-1885-4611-9c27-3b8d78c7eac8",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-15 19:29:27"
+}

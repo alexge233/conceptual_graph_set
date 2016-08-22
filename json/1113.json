@@ -1,0 +1,262 @@
+{
+    "uuid": 1113,
+    "text": "parents may think teens aged 10 to 14 need less adult supervision when they are not in school",
+    "graph": {
+        "version": 1,
+        "guid": "2e884c75-a43e-49c7-b4d4-672c5b0c5aa2",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "may",
+                "id": "45ea1592-021c-4817-a2b7-e509dc53caa3",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "think",
+                "id": "112b2467-ea04-475b-9016-0448002290d5",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "aged",
+                "id": "2691bab3-7819-4ca5-9e52-2bc9837470a8",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "926bd437-3b4c-4809-9c16-d45c08ebb4e9",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "need",
+                "id": "b14ad8d8-59c9-4c47-8298-de39ddb46463",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "less",
+                "id": "7d674102-3422-4539-8a57-242c932714c1",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "when",
+                "id": "94da8974-b73b-499c-a030-c590440509db",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "are",
+                "id": "3e10b8bb-3722-495a-93ba-c5a6e551ca85",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "not",
+                "id": "1e8bc477-1008-48b7-8ec0-9a91ccdb1689",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "561d28aa-a9bc-45e8-8e49-59e81b0c5651",
+                "index": 16,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "parents",
+                "id": "6181e5d9-d3ba-4823-81e1-1980141174cc",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "teens",
+                "id": "503c887c-04a7-4434-8a83-09a82d412a1a",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": 10,
+                "id": "4a31c221-a285-48e7-aa25-426948a2806b",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": 14,
+                "id": "a5801db4-4da0-4674-9656-edcbad20007b",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "adult",
+                "id": "e101ea0e-6b0d-40a0-ae7d-853a06ac5966",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "supervision",
+                "id": "89dcdd30-8c3b-48b9-9c72-33c20be5b6de",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "they",
+                "id": "10d55d30-4e5b-44a3-b93b-cdb6e91ebce0",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "school",
+                "id": "8e3c9009-0ba2-41d5-9a28-97abd4cc5973",
+                "index": 17,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "6181e5d9-d3ba-4823-81e1-1980141174cc",
+                "nodeTo": "45ea1592-021c-4817-a2b7-e509dc53caa3",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6181e5d9-d3ba-4823-81e1-1980141174cc",
+                "nodeTo": "112b2467-ea04-475b-9016-0448002290d5",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "45ea1592-021c-4817-a2b7-e509dc53caa3",
+                "nodeTo": "503c887c-04a7-4434-8a83-09a82d412a1a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "112b2467-ea04-475b-9016-0448002290d5",
+                "nodeTo": "503c887c-04a7-4434-8a83-09a82d412a1a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "503c887c-04a7-4434-8a83-09a82d412a1a",
+                "nodeTo": "2691bab3-7819-4ca5-9e52-2bc9837470a8",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2691bab3-7819-4ca5-9e52-2bc9837470a8",
+                "nodeTo": "4a31c221-a285-48e7-aa25-426948a2806b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4a31c221-a285-48e7-aa25-426948a2806b",
+                "nodeTo": "926bd437-3b4c-4809-9c16-d45c08ebb4e9",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "926bd437-3b4c-4809-9c16-d45c08ebb4e9",
+                "nodeTo": "a5801db4-4da0-4674-9656-edcbad20007b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "503c887c-04a7-4434-8a83-09a82d412a1a",
+                "nodeTo": "b14ad8d8-59c9-4c47-8298-de39ddb46463",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "503c887c-04a7-4434-8a83-09a82d412a1a",
+                "nodeTo": "7d674102-3422-4539-8a57-242c932714c1",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b14ad8d8-59c9-4c47-8298-de39ddb46463",
+                "nodeTo": "e101ea0e-6b0d-40a0-ae7d-853a06ac5966",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7d674102-3422-4539-8a57-242c932714c1",
+                "nodeTo": "e101ea0e-6b0d-40a0-ae7d-853a06ac5966",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b14ad8d8-59c9-4c47-8298-de39ddb46463",
+                "nodeTo": "89dcdd30-8c3b-48b9-9c72-33c20be5b6de",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7d674102-3422-4539-8a57-242c932714c1",
+                "nodeTo": "89dcdd30-8c3b-48b9-9c72-33c20be5b6de",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e101ea0e-6b0d-40a0-ae7d-853a06ac5966",
+                "nodeTo": "94da8974-b73b-499c-a030-c590440509db",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "89dcdd30-8c3b-48b9-9c72-33c20be5b6de",
+                "nodeTo": "94da8974-b73b-499c-a030-c590440509db",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "94da8974-b73b-499c-a030-c590440509db",
+                "nodeTo": "10d55d30-4e5b-44a3-b93b-cdb6e91ebce0",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "10d55d30-4e5b-44a3-b93b-cdb6e91ebce0",
+                "nodeTo": "3e10b8bb-3722-495a-93ba-c5a6e551ca85",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "10d55d30-4e5b-44a3-b93b-cdb6e91ebce0",
+                "nodeTo": "1e8bc477-1008-48b7-8ec0-9a91ccdb1689",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "10d55d30-4e5b-44a3-b93b-cdb6e91ebce0",
+                "nodeTo": "561d28aa-a9bc-45e8-8e49-59e81b0c5651",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3e10b8bb-3722-495a-93ba-c5a6e551ca85",
+                "nodeTo": "8e3c9009-0ba2-41d5-9a28-97abd4cc5973",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1e8bc477-1008-48b7-8ec0-9a91ccdb1689",
+                "nodeTo": "8e3c9009-0ba2-41d5-9a28-97abd4cc5973",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "561d28aa-a9bc-45e8-8e49-59e81b0c5651",
+                "nodeTo": "8e3c9009-0ba2-41d5-9a28-97abd4cc5973",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-12 18:48:34"
+}

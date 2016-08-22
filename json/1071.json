@@ -1,0 +1,256 @@
+{
+    "uuid": 1071,
+    "text": "there is civil war going on inside every one of 37 trillion cells in your body",
+    "graph": {
+        "version": 1,
+        "guid": "44295102-3ac2-4708-a8a8-055e752db59d",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "is",
+                "id": "2b9cd982-e767-4ab4-800c-b59a26c52c05",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "going",
+                "id": "648b92ed-216e-433b-ae8d-44de34767011",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "on",
+                "id": "55458c05-eb57-4061-ac10-84556182a879",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "bdaee1ea-2239-4b5b-b707-bc9301c471a0",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "d8d13d48-7c5b-4332-9e14-de25e51c24c5",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "there",
+                "id": "b0a933bc-77a8-436a-8489-57377386a54e",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "civil",
+                "id": "d944453e-03b2-40c9-a2c4-67c001d089c9",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "war",
+                "id": "24edcc0d-0c71-4313-ad66-25c8879a0151",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "inside",
+                "id": "8641441b-8485-4bae-94e0-c75620d5417b",
+                "postag": "NA",
+                "index": 6
+            },
+            {
+                "label": "every",
+                "id": "84c78da1-c0dd-42b8-9658-5706acd75baa",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "one",
+                "id": "a7b6ddbd-03dc-4591-a174-84783ec352ec",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": 37,
+                "id": "7b932882-d939-4bc3-a686-e1bcc3828093",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "trillion",
+                "id": "7c317cd2-d705-4042-92ee-87b26b0b455a",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "cells",
+                "id": "02ad8e03-ce60-43c3-bb2c-28c93a9e4408",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "your",
+                "id": "8553dcb2-cc6b-4509-86e0-5d9a39423ba5",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "body",
+                "id": "8a713b87-a084-44da-8482-e6114043caa2",
+                "index": 15,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "b0a933bc-77a8-436a-8489-57377386a54e",
+                "nodeTo": "2b9cd982-e767-4ab4-800c-b59a26c52c05",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2b9cd982-e767-4ab4-800c-b59a26c52c05",
+                "nodeTo": "d944453e-03b2-40c9-a2c4-67c001d089c9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2b9cd982-e767-4ab4-800c-b59a26c52c05",
+                "nodeTo": "24edcc0d-0c71-4313-ad66-25c8879a0151",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d944453e-03b2-40c9-a2c4-67c001d089c9",
+                "nodeTo": "648b92ed-216e-433b-ae8d-44de34767011",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "24edcc0d-0c71-4313-ad66-25c8879a0151",
+                "nodeTo": "648b92ed-216e-433b-ae8d-44de34767011",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d944453e-03b2-40c9-a2c4-67c001d089c9",
+                "nodeTo": "55458c05-eb57-4061-ac10-84556182a879",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "24edcc0d-0c71-4313-ad66-25c8879a0151",
+                "nodeTo": "55458c05-eb57-4061-ac10-84556182a879",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "648b92ed-216e-433b-ae8d-44de34767011",
+                "nodeTo": "8641441b-8485-4bae-94e0-c75620d5417b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "55458c05-eb57-4061-ac10-84556182a879",
+                "nodeTo": "8641441b-8485-4bae-94e0-c75620d5417b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "648b92ed-216e-433b-ae8d-44de34767011",
+                "nodeTo": "84c78da1-c0dd-42b8-9658-5706acd75baa",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "55458c05-eb57-4061-ac10-84556182a879",
+                "nodeTo": "84c78da1-c0dd-42b8-9658-5706acd75baa",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "648b92ed-216e-433b-ae8d-44de34767011",
+                "nodeTo": "a7b6ddbd-03dc-4591-a174-84783ec352ec",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "55458c05-eb57-4061-ac10-84556182a879",
+                "nodeTo": "a7b6ddbd-03dc-4591-a174-84783ec352ec",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8641441b-8485-4bae-94e0-c75620d5417b",
+                "nodeTo": "bdaee1ea-2239-4b5b-b707-bc9301c471a0",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "84c78da1-c0dd-42b8-9658-5706acd75baa",
+                "nodeTo": "bdaee1ea-2239-4b5b-b707-bc9301c471a0",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a7b6ddbd-03dc-4591-a174-84783ec352ec",
+                "nodeTo": "bdaee1ea-2239-4b5b-b707-bc9301c471a0",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bdaee1ea-2239-4b5b-b707-bc9301c471a0",
+                "nodeTo": "7b932882-d939-4bc3-a686-e1bcc3828093",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "bdaee1ea-2239-4b5b-b707-bc9301c471a0",
+                "nodeTo": "7c317cd2-d705-4042-92ee-87b26b0b455a",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "bdaee1ea-2239-4b5b-b707-bc9301c471a0",
+                "nodeTo": "02ad8e03-ce60-43c3-bb2c-28c93a9e4408",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7b932882-d939-4bc3-a686-e1bcc3828093",
+                "nodeTo": "d8d13d48-7c5b-4332-9e14-de25e51c24c5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7c317cd2-d705-4042-92ee-87b26b0b455a",
+                "nodeTo": "d8d13d48-7c5b-4332-9e14-de25e51c24c5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "02ad8e03-ce60-43c3-bb2c-28c93a9e4408",
+                "nodeTo": "d8d13d48-7c5b-4332-9e14-de25e51c24c5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d8d13d48-7c5b-4332-9e14-de25e51c24c5",
+                "nodeTo": "8553dcb2-cc6b-4509-86e0-5d9a39423ba5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d8d13d48-7c5b-4332-9e14-de25e51c24c5",
+                "nodeTo": "8a713b87-a084-44da-8482-e6114043caa2",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-05 19:43:33"
+}

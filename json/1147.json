@@ -1,0 +1,208 @@
+{
+    "uuid": 1147,
+    "text": "motivation for first WHI trial was to see if we could prevent heart disease",
+    "graph": {
+        "version": 1,
+        "guid": "bdd71dd2-1a60-4dab-b5c6-a2e298dbd870",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "for",
+                "id": "edd5767e-43e9-4e02-ac32-75a52c8a0b67",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "was",
+                "id": "d6ea8548-78de-4983-bb66-07eb7749c3e1",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "4c03c6d8-3d1b-43c5-bd90-60a0d805896a",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "see",
+                "id": "ce1c83be-7071-444a-8425-e5a6264a7b65",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "if",
+                "id": "36ba5c9b-19a0-4aa0-a7ea-80c351e23493",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "could",
+                "id": "ed438c04-c49e-464c-a878-c8285c2ba6ec",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "prevent",
+                "id": "e16ee081-5c7d-4308-81c7-003d75c3200c",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "motivation",
+                "id": "0a5ebe5e-5198-4995-9b96-c93e6bcb451e",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "first",
+                "id": "a54377b5-814b-4ce5-9d6b-15dd9d4c0842",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "WHI",
+                "id": "a1b6a5e6-1454-43c7-a2ea-b0c41654c2dc",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "trial",
+                "id": "cb678597-de5c-497c-a99e-a52d7a267926",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "we",
+                "id": "ed176e5e-717b-4111-92e5-a2e499a245e7",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "heart",
+                "id": "7114a98b-9008-45db-a70a-e4dd0deb71b8",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "disease",
+                "id": "aa3e9ea3-8880-4222-a439-09aa1179ea0c",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "0a5ebe5e-5198-4995-9b96-c93e6bcb451e",
+                "nodeTo": "edd5767e-43e9-4e02-ac32-75a52c8a0b67",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "edd5767e-43e9-4e02-ac32-75a52c8a0b67",
+                "nodeTo": "a54377b5-814b-4ce5-9d6b-15dd9d4c0842",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "edd5767e-43e9-4e02-ac32-75a52c8a0b67",
+                "nodeTo": "a1b6a5e6-1454-43c7-a2ea-b0c41654c2dc",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "edd5767e-43e9-4e02-ac32-75a52c8a0b67",
+                "nodeTo": "cb678597-de5c-497c-a99e-a52d7a267926",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0a5ebe5e-5198-4995-9b96-c93e6bcb451e",
+                "nodeTo": "d6ea8548-78de-4983-bb66-07eb7749c3e1",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0a5ebe5e-5198-4995-9b96-c93e6bcb451e",
+                "nodeTo": "4c03c6d8-3d1b-43c5-bd90-60a0d805896a",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0a5ebe5e-5198-4995-9b96-c93e6bcb451e",
+                "nodeTo": "ce1c83be-7071-444a-8425-e5a6264a7b65",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0a5ebe5e-5198-4995-9b96-c93e6bcb451e",
+                "nodeTo": "36ba5c9b-19a0-4aa0-a7ea-80c351e23493",
+                "index": 5,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d6ea8548-78de-4983-bb66-07eb7749c3e1",
+                "nodeTo": "ed176e5e-717b-4111-92e5-a2e499a245e7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4c03c6d8-3d1b-43c5-bd90-60a0d805896a",
+                "nodeTo": "ed176e5e-717b-4111-92e5-a2e499a245e7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ce1c83be-7071-444a-8425-e5a6264a7b65",
+                "nodeTo": "ed176e5e-717b-4111-92e5-a2e499a245e7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "36ba5c9b-19a0-4aa0-a7ea-80c351e23493",
+                "nodeTo": "ed176e5e-717b-4111-92e5-a2e499a245e7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ed176e5e-717b-4111-92e5-a2e499a245e7",
+                "nodeTo": "ed438c04-c49e-464c-a878-c8285c2ba6ec",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ed176e5e-717b-4111-92e5-a2e499a245e7",
+                "nodeTo": "e16ee081-5c7d-4308-81c7-003d75c3200c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ed438c04-c49e-464c-a878-c8285c2ba6ec",
+                "nodeTo": "7114a98b-9008-45db-a70a-e4dd0deb71b8",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e16ee081-5c7d-4308-81c7-003d75c3200c",
+                "nodeTo": "7114a98b-9008-45db-a70a-e4dd0deb71b8",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ed438c04-c49e-464c-a878-c8285c2ba6ec",
+                "nodeTo": "aa3e9ea3-8880-4222-a439-09aa1179ea0c",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e16ee081-5c7d-4308-81c7-003d75c3200c",
+                "nodeTo": "aa3e9ea3-8880-4222-a439-09aa1179ea0c",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-23 23:00:10"
+}

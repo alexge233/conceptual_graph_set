@@ -1,0 +1,238 @@
+{
+    "uuid": 757,
+    "text": "Tau protein deposits disrupt communication of nerve cells in brain and contribute to degeneration",
+    "graph": {
+        "version": 1,
+        "guid": "ed5a27cc-0d21-46b8-a5e9-d0a9e54e6c91",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "disrupt",
+                "id": "aa208ab3-6c05-40d9-b90c-ae687b278718",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "ad27a87c-e33b-472e-9a05-c70d07b233b9",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "258a25c1-5dc8-4d3a-9b50-bc60d3d26a43",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "9e683ca6-a82a-4153-98b9-eb50d4b28950",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "contribute",
+                "id": "419b68a8-802d-47a7-bd17-9cbbd6517802",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "21573780-9a3d-4c8a-95bd-6198c3126168",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Tau",
+                "id": "dac4dce5-b833-4224-9922-7104a9038d39",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "protein",
+                "id": "226928a7-8993-4063-ba27-68c010663652",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "deposits",
+                "id": "30830ed2-343b-40e2-b17d-2778517e580c",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "communication",
+                "id": "1e2a2aa1-123e-4e51-a857-ac9c692a0de7",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "nerve",
+                "id": "24800789-13e5-4581-99a3-3948eb3579c7",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "cells",
+                "id": "4aec3411-eaa1-4665-86a3-90e6de9bb2e7",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "brain",
+                "id": "9894330a-7aa0-4a7b-8acd-103752205202",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "degeneration",
+                "id": "5b40534b-52de-413d-9ee3-8cb4029d3506",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "dac4dce5-b833-4224-9922-7104a9038d39",
+                "nodeTo": "aa208ab3-6c05-40d9-b90c-ae687b278718",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "226928a7-8993-4063-ba27-68c010663652",
+                "nodeTo": "aa208ab3-6c05-40d9-b90c-ae687b278718",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "30830ed2-343b-40e2-b17d-2778517e580c",
+                "nodeTo": "aa208ab3-6c05-40d9-b90c-ae687b278718",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "aa208ab3-6c05-40d9-b90c-ae687b278718",
+                "nodeTo": "1e2a2aa1-123e-4e51-a857-ac9c692a0de7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1e2a2aa1-123e-4e51-a857-ac9c692a0de7",
+                "nodeTo": "ad27a87c-e33b-472e-9a05-c70d07b233b9",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ad27a87c-e33b-472e-9a05-c70d07b233b9",
+                "nodeTo": "24800789-13e5-4581-99a3-3948eb3579c7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ad27a87c-e33b-472e-9a05-c70d07b233b9",
+                "nodeTo": "4aec3411-eaa1-4665-86a3-90e6de9bb2e7",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "24800789-13e5-4581-99a3-3948eb3579c7",
+                "nodeTo": "258a25c1-5dc8-4d3a-9b50-bc60d3d26a43",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4aec3411-eaa1-4665-86a3-90e6de9bb2e7",
+                "nodeTo": "258a25c1-5dc8-4d3a-9b50-bc60d3d26a43",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "258a25c1-5dc8-4d3a-9b50-bc60d3d26a43",
+                "nodeTo": "9894330a-7aa0-4a7b-8acd-103752205202",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "dac4dce5-b833-4224-9922-7104a9038d39",
+                "nodeTo": "9e683ca6-a82a-4153-98b9-eb50d4b28950",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "226928a7-8993-4063-ba27-68c010663652",
+                "nodeTo": "9e683ca6-a82a-4153-98b9-eb50d4b28950",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "30830ed2-343b-40e2-b17d-2778517e580c",
+                "nodeTo": "9e683ca6-a82a-4153-98b9-eb50d4b28950",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "dac4dce5-b833-4224-9922-7104a9038d39",
+                "nodeTo": "419b68a8-802d-47a7-bd17-9cbbd6517802",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "226928a7-8993-4063-ba27-68c010663652",
+                "nodeTo": "419b68a8-802d-47a7-bd17-9cbbd6517802",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "30830ed2-343b-40e2-b17d-2778517e580c",
+                "nodeTo": "419b68a8-802d-47a7-bd17-9cbbd6517802",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "dac4dce5-b833-4224-9922-7104a9038d39",
+                "nodeTo": "21573780-9a3d-4c8a-95bd-6198c3126168",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "226928a7-8993-4063-ba27-68c010663652",
+                "nodeTo": "21573780-9a3d-4c8a-95bd-6198c3126168",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "30830ed2-343b-40e2-b17d-2778517e580c",
+                "nodeTo": "21573780-9a3d-4c8a-95bd-6198c3126168",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "419b68a8-802d-47a7-bd17-9cbbd6517802",
+                "nodeTo": "5b40534b-52de-413d-9ee3-8cb4029d3506",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "21573780-9a3d-4c8a-95bd-6198c3126168",
+                "nodeTo": "5b40534b-52de-413d-9ee3-8cb4029d3506",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9e683ca6-a82a-4153-98b9-eb50d4b28950",
+                "nodeTo": "1e2a2aa1-123e-4e51-a857-ac9c692a0de7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9e683ca6-a82a-4153-98b9-eb50d4b28950",
+                "nodeTo": "5b40534b-52de-413d-9ee3-8cb4029d3506",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-20 17:23:09"
+}

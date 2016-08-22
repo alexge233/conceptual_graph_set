@@ -1,0 +1,232 @@
+{
+    "uuid": 197,
+    "text": "Doing at least two and half hours of vigorous exercise each week cuts chance of developing flu",
+    "graph": {
+        "version": 1,
+        "guid": "3a48015e-d485-4cd1-88ad-1030edac1866",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "Doing",
+                "id": "1ac5d68d-564c-46d1-929e-2e80dad09389",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "at",
+                "id": "a462e5ea-24db-4e3b-b885-60161575688d",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "0e017ba0-e66d-45a6-b921-da17eebc355a",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "97037c80-6273-4b10-8b40-2e6b7b58705a",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "cuts",
+                "id": "16b4ba5c-baad-4702-ad49-c5635cd333d4",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "27c9c9b6-7956-49a6-97a5-59538b78ba89",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "developing",
+                "id": "528b0097-153e-4649-9425-53dc96a3cd83",
+                "index": 15,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "least",
+                "id": "49b913ec-4cbb-4979-a77d-adbb300e37e1",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "two",
+                "id": "4927417e-bd0a-49b4-acad-0891c0894189",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "half",
+                "id": "45ae6ab4-4646-421d-9bae-1b75be114e19",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "hours",
+                "id": "ada197e8-75a4-4d0c-aad5-7d1d93605b76",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "vigorous",
+                "id": "c135d071-665d-42d3-8e7b-6cd54cae240d",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "exercise",
+                "id": "c44384d6-4213-42e4-b5e7-567c9c441452",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "each",
+                "id": "2bb198d1-9c3a-4092-a142-e57b2b920245",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "week",
+                "id": "91518e34-8074-48e6-91b4-c5866c0b4835",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "chance",
+                "id": "20e0bd8e-d771-4be1-a641-cba4a2e8612a",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "flu",
+                "id": "3888d9a1-0a98-43d4-bb50-83864860bb6e",
+                "index": 16,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "a462e5ea-24db-4e3b-b885-60161575688d",
+                "nodeTo": "49b913ec-4cbb-4979-a77d-adbb300e37e1",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4927417e-bd0a-49b4-acad-0891c0894189",
+                "nodeTo": "0e017ba0-e66d-45a6-b921-da17eebc355a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0e017ba0-e66d-45a6-b921-da17eebc355a",
+                "nodeTo": "45ae6ab4-4646-421d-9bae-1b75be114e19",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1ac5d68d-564c-46d1-929e-2e80dad09389",
+                "nodeTo": "49b913ec-4cbb-4979-a77d-adbb300e37e1",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1ac5d68d-564c-46d1-929e-2e80dad09389",
+                "nodeTo": "4927417e-bd0a-49b4-acad-0891c0894189",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ada197e8-75a4-4d0c-aad5-7d1d93605b76",
+                "nodeTo": "97037c80-6273-4b10-8b40-2e6b7b58705a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "97037c80-6273-4b10-8b40-2e6b7b58705a",
+                "nodeTo": "c135d071-665d-42d3-8e7b-6cd54cae240d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "97037c80-6273-4b10-8b40-2e6b7b58705a",
+                "nodeTo": "c44384d6-4213-42e4-b5e7-567c9c441452",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0e017ba0-e66d-45a6-b921-da17eebc355a",
+                "nodeTo": "ada197e8-75a4-4d0c-aad5-7d1d93605b76",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "49b913ec-4cbb-4979-a77d-adbb300e37e1",
+                "nodeTo": "0e017ba0-e66d-45a6-b921-da17eebc355a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c135d071-665d-42d3-8e7b-6cd54cae240d",
+                "nodeTo": "16b4ba5c-baad-4702-ad49-c5635cd333d4",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c44384d6-4213-42e4-b5e7-567c9c441452",
+                "nodeTo": "16b4ba5c-baad-4702-ad49-c5635cd333d4",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2bb198d1-9c3a-4092-a142-e57b2b920245",
+                "nodeTo": "16b4ba5c-baad-4702-ad49-c5635cd333d4",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "91518e34-8074-48e6-91b4-c5866c0b4835",
+                "nodeTo": "16b4ba5c-baad-4702-ad49-c5635cd333d4",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "16b4ba5c-baad-4702-ad49-c5635cd333d4",
+                "nodeTo": "20e0bd8e-d771-4be1-a641-cba4a2e8612a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "20e0bd8e-d771-4be1-a641-cba4a2e8612a",
+                "nodeTo": "27c9c9b6-7956-49a6-97a5-59538b78ba89",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "20e0bd8e-d771-4be1-a641-cba4a2e8612a",
+                "nodeTo": "528b0097-153e-4649-9425-53dc96a3cd83",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "528b0097-153e-4649-9425-53dc96a3cd83",
+                "nodeTo": "3888d9a1-0a98-43d4-bb50-83864860bb6e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "27c9c9b6-7956-49a6-97a5-59538b78ba89",
+                "nodeTo": "3888d9a1-0a98-43d4-bb50-83864860bb6e",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-11-12 21:27:42"
+}

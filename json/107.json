@@ -1,0 +1,322 @@
+{
+    "uuid": 107,
+    "text": "mother of girl who died of asthma attack says she wishes doctors had listened to her warnings about her daughter because now its too late",
+    "graph": {
+        "version": 1,
+        "guid": "0499ec5e-7399-454d-89e0-5b9c8e584edc",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "of",
+                "id": "842dc1ae-e792-40a9-b332-a8ba8d203a4d",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "who",
+                "id": "854b36c9-b929-4537-9695-3a1747d0e399",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "died",
+                "id": "0b5084ad-d2de-4637-bcab-d7c18c540c4e",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "4d853b17-9e56-4748-b421-5e0bed68e50c",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "says",
+                "id": "a6619e9b-18c6-4e5b-83c5-a8c9c18de778",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "wishes",
+                "id": "67e9a258-1b68-47a3-ac18-1c49d9179b87",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "had",
+                "id": "840eaecb-db2c-49c3-bdb1-01157be8bbdc",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "listened",
+                "id": "e25d7264-6542-45b2-84ed-b3871896d804",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "about",
+                "id": "7c8acd15-ca19-4bbd-bb28-44e3456370e7",
+                "index": 17,
+                "postag": "NA"
+            },
+            {
+                "label": "because",
+                "id": "157b0eee-5ed1-4e6e-8c89-caa3d63c8460",
+                "index": 20,
+                "postag": "NA"
+            },
+            {
+                "label": "its",
+                "id": "c4326b47-8cd5-4c18-8e2a-34c7ea13e4e6",
+                "index": 22,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "mother",
+                "id": "b112e203-21d6-46a1-9ab3-37d0b59a2312",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "girl",
+                "id": "9cceaaec-4ad3-48c8-8c9b-4312d501863c",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "asthma",
+                "id": "b832108e-5d43-4766-9446-83eec1eb10bd",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "attack",
+                "id": "b1c18e0e-d44a-4606-bd12-726b36a680da",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "she",
+                "id": "727c4d32-4364-46b3-b556-392dc9cc4439",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "doctors",
+                "id": "3e818517-39de-49e7-bd2c-8cd60b2be37a",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "her",
+                "id": "c6007964-b0b6-490e-a89b-176a67144611",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "warnings",
+                "id": "20a37dc0-bd19-4127-b198-5515d33925aa",
+                "index": 16,
+                "postag": "NA"
+            },
+            {
+                "label": "her",
+                "id": "c4c8b969-e51c-488a-8e12-cee6ab387cbd",
+                "postag": "NA",
+                "index": 18
+            },
+            {
+                "label": "daughter",
+                "id": "30341c98-e476-4211-988e-c07474d811ca",
+                "index": 19,
+                "postag": "NA"
+            },
+            {
+                "label": "now",
+                "id": "191e53c7-59dc-4634-9942-5aa54a288837",
+                "index": 21,
+                "postag": "NA"
+            },
+            {
+                "label": "too",
+                "id": "a3983dec-b9e3-4db4-9502-10997a673278",
+                "index": 23,
+                "postag": "NA"
+            },
+            {
+                "label": "late",
+                "id": "5121e920-0791-4e99-9d99-436819e71b78",
+                "index": 24,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "2b738816-2956-432d-945d-e311c4b6389e",
+                "postag": "NA",
+                "index": 14
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "b112e203-21d6-46a1-9ab3-37d0b59a2312",
+                "nodeTo": "842dc1ae-e792-40a9-b332-a8ba8d203a4d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "842dc1ae-e792-40a9-b332-a8ba8d203a4d",
+                "nodeTo": "9cceaaec-4ad3-48c8-8c9b-4312d501863c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9cceaaec-4ad3-48c8-8c9b-4312d501863c",
+                "nodeTo": "854b36c9-b929-4537-9695-3a1747d0e399",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9cceaaec-4ad3-48c8-8c9b-4312d501863c",
+                "nodeTo": "0b5084ad-d2de-4637-bcab-d7c18c540c4e",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9cceaaec-4ad3-48c8-8c9b-4312d501863c",
+                "nodeTo": "4d853b17-9e56-4748-b421-5e0bed68e50c",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0b5084ad-d2de-4637-bcab-d7c18c540c4e",
+                "nodeTo": "b832108e-5d43-4766-9446-83eec1eb10bd",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4d853b17-9e56-4748-b421-5e0bed68e50c",
+                "nodeTo": "b832108e-5d43-4766-9446-83eec1eb10bd",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0b5084ad-d2de-4637-bcab-d7c18c540c4e",
+                "nodeTo": "b1c18e0e-d44a-4606-bd12-726b36a680da",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4d853b17-9e56-4748-b421-5e0bed68e50c",
+                "nodeTo": "b1c18e0e-d44a-4606-bd12-726b36a680da",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b112e203-21d6-46a1-9ab3-37d0b59a2312",
+                "nodeTo": "a6619e9b-18c6-4e5b-83c5-a8c9c18de778",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a6619e9b-18c6-4e5b-83c5-a8c9c18de778",
+                "nodeTo": "727c4d32-4364-46b3-b556-392dc9cc4439",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "727c4d32-4364-46b3-b556-392dc9cc4439",
+                "nodeTo": "67e9a258-1b68-47a3-ac18-1c49d9179b87",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "67e9a258-1b68-47a3-ac18-1c49d9179b87",
+                "nodeTo": "3e818517-39de-49e7-bd2c-8cd60b2be37a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3e818517-39de-49e7-bd2c-8cd60b2be37a",
+                "nodeTo": "840eaecb-db2c-49c3-bdb1-01157be8bbdc",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3e818517-39de-49e7-bd2c-8cd60b2be37a",
+                "nodeTo": "e25d7264-6542-45b2-84ed-b3871896d804",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "20a37dc0-bd19-4127-b198-5515d33925aa",
+                "nodeTo": "7c8acd15-ca19-4bbd-bb28-44e3456370e7",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7c8acd15-ca19-4bbd-bb28-44e3456370e7",
+                "nodeTo": "c4c8b969-e51c-488a-8e12-cee6ab387cbd",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7c8acd15-ca19-4bbd-bb28-44e3456370e7",
+                "nodeTo": "30341c98-e476-4211-988e-c07474d811ca",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "157b0eee-5ed1-4e6e-8c89-caa3d63c8460",
+                "nodeTo": "191e53c7-59dc-4634-9942-5aa54a288837",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c4326b47-8cd5-4c18-8e2a-34c7ea13e4e6",
+                "nodeTo": "a3983dec-b9e3-4db4-9502-10997a673278",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c4326b47-8cd5-4c18-8e2a-34c7ea13e4e6",
+                "nodeTo": "5121e920-0791-4e99-9d99-436819e71b78",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "191e53c7-59dc-4634-9942-5aa54a288837",
+                "nodeTo": "c4326b47-8cd5-4c18-8e2a-34c7ea13e4e6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "20a37dc0-bd19-4127-b198-5515d33925aa",
+                "nodeTo": "157b0eee-5ed1-4e6e-8c89-caa3d63c8460",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e25d7264-6542-45b2-84ed-b3871896d804",
+                "nodeTo": "2b738816-2956-432d-945d-e311c4b6389e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e25d7264-6542-45b2-84ed-b3871896d804",
+                "nodeTo": "c6007964-b0b6-490e-a89b-176a67144611",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e25d7264-6542-45b2-84ed-b3871896d804",
+                "nodeTo": "20a37dc0-bd19-4127-b198-5515d33925aa",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-11-06 09:47:50"
+}

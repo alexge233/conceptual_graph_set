@@ -1,0 +1,148 @@
+{
+    "uuid": 1243,
+    "text": "rate increased from 23 to 51 concussions per 1000 athlete exposures",
+    "graph": {
+        "version": 1,
+        "guid": "0e13e863-3426-44c6-adc2-3a9ddb590466",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "increased",
+                "id": "d0e9b2c7-b75e-4d50-9537-185a6aa985d4",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "from",
+                "id": "a463be55-ca4d-4d03-9383-9c31e959a772",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "e8d5d03e-2690-415d-822d-c8c86c412c11",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "per",
+                "id": "cdc42087-b676-4d95-ba1d-39b196405650",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "rate",
+                "id": "3d308d04-6c17-4dc0-abc0-7c177c2d108e",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": 23,
+                "id": "c67297db-b655-48d7-99ec-6ae6909101a0",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": 51,
+                "id": "8016d60d-49a7-44c9-9ea1-43b682e65919",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "concussions",
+                "id": "a2b50a73-6995-477e-98a2-4d0594a15e54",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": 1000,
+                "id": "2d47737c-13c3-4239-b95e-a33cac745429",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "athlete",
+                "id": "6dc38533-1279-4245-a1ca-b929b7532dd4",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "exposures",
+                "id": "6b725d0a-d8c3-4d24-a7ae-13ba1b036e73",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "3d308d04-6c17-4dc0-abc0-7c177c2d108e",
+                "nodeTo": "d0e9b2c7-b75e-4d50-9537-185a6aa985d4",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3d308d04-6c17-4dc0-abc0-7c177c2d108e",
+                "nodeTo": "a463be55-ca4d-4d03-9383-9c31e959a772",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d0e9b2c7-b75e-4d50-9537-185a6aa985d4",
+                "nodeTo": "c67297db-b655-48d7-99ec-6ae6909101a0",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a463be55-ca4d-4d03-9383-9c31e959a772",
+                "nodeTo": "c67297db-b655-48d7-99ec-6ae6909101a0",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c67297db-b655-48d7-99ec-6ae6909101a0",
+                "nodeTo": "e8d5d03e-2690-415d-822d-c8c86c412c11",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e8d5d03e-2690-415d-822d-c8c86c412c11",
+                "nodeTo": "8016d60d-49a7-44c9-9ea1-43b682e65919",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e8d5d03e-2690-415d-822d-c8c86c412c11",
+                "nodeTo": "a2b50a73-6995-477e-98a2-4d0594a15e54",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3d308d04-6c17-4dc0-abc0-7c177c2d108e",
+                "nodeTo": "cdc42087-b676-4d95-ba1d-39b196405650",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cdc42087-b676-4d95-ba1d-39b196405650",
+                "nodeTo": "2d47737c-13c3-4239-b95e-a33cac745429",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "cdc42087-b676-4d95-ba1d-39b196405650",
+                "nodeTo": "6dc38533-1279-4245-a1ca-b929b7532dd4",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "cdc42087-b676-4d95-ba1d-39b196405650",
+                "nodeTo": "6b725d0a-d8c3-4d24-a7ae-13ba1b036e73",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-03-02 19:18:35"
+}

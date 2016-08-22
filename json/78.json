@@ -1,0 +1,124 @@
+{
+    "uuid": 78,
+    "text": "Glue holding together skin cells more active than realized",
+    "graph": {
+        "version": 1,
+        "guid": "9b345091-ae35-42d2-8517-9d0ba74ad318",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "holding",
+                "id": "49829754-1d9c-4653-988a-7807b23d4ceb",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "together",
+                "id": "a5deeed2-a3c4-411b-9112-be7ded26bd58",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "more",
+                "id": "0dc10784-e2b7-4026-b2e5-2c9bc8313001",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "than",
+                "id": "54e287ed-03ab-4a33-9e9e-3293b8e734d0",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Glue",
+                "id": "18b84a2b-0599-4c1a-859a-21078eb20e58",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "skin",
+                "id": "6961c49b-892e-4881-9a95-2312cba24572",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "cells",
+                "id": "94644090-9838-4481-9e3a-c5a259c6a3b6",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "active",
+                "id": "6792d6b5-2823-4e41-86e9-b51a80d8ebc3",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "realized",
+                "id": "836b2893-064c-4e3a-b7d0-5bed6da8c450",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "18b84a2b-0599-4c1a-859a-21078eb20e58",
+                "nodeTo": "49829754-1d9c-4653-988a-7807b23d4ceb",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "49829754-1d9c-4653-988a-7807b23d4ceb",
+                "nodeTo": "6961c49b-892e-4881-9a95-2312cba24572",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "49829754-1d9c-4653-988a-7807b23d4ceb",
+                "nodeTo": "94644090-9838-4481-9e3a-c5a259c6a3b6",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a5deeed2-a3c4-411b-9112-be7ded26bd58",
+                "nodeTo": "6961c49b-892e-4881-9a95-2312cba24572",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a5deeed2-a3c4-411b-9112-be7ded26bd58",
+                "nodeTo": "94644090-9838-4481-9e3a-c5a259c6a3b6",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "18b84a2b-0599-4c1a-859a-21078eb20e58",
+                "nodeTo": "0dc10784-e2b7-4026-b2e5-2c9bc8313001",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0dc10784-e2b7-4026-b2e5-2c9bc8313001",
+                "nodeTo": "6792d6b5-2823-4e41-86e9-b51a80d8ebc3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6792d6b5-2823-4e41-86e9-b51a80d8ebc3",
+                "nodeTo": "54e287ed-03ab-4a33-9e9e-3293b8e734d0",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "54e287ed-03ab-4a33-9e9e-3293b8e734d0",
+                "nodeTo": "836b2893-064c-4e3a-b7d0-5bed6da8c450",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-10-24 20:06:15"
+}

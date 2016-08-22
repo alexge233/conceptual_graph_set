@@ -1,0 +1,190 @@
+{
+    "uuid": 613,
+    "text": "Chronic pain is known to shorten lifespan and pain tends to increase with age",
+    "graph": {
+        "version": 1,
+        "guid": "4cee6582-2e31-4576-801a-696599b0b372",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "is",
+                "id": "6c3dedb3-41a8-4067-82b9-7036220208a8",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "61549d06-8066-4a84-93e3-9ce36a80021c",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "shorten",
+                "id": "5a45b923-0965-499e-a441-562901a64ebb",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "e77aab92-12c7-499b-8249-752c0a2e4a16",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "tends",
+                "id": "e511bd92-1653-4129-a1c4-20033238cc14",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "b1b70a04-92e5-40cb-be79-74417d7c5983",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "with",
+                "id": "236887ab-3672-4c64-a985-293a0c8235b5",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Chronic",
+                "id": "54826a2b-1e97-4e72-b21a-cb7ab4b6697d",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "pain",
+                "id": "3905b412-9e02-4dbc-b14b-ed99929b6910",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "known",
+                "id": "23e02739-d889-41d9-9ce8-98ed8c1da53b",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "lifespan",
+                "id": "9916686b-0e01-4c28-8a34-31c27121c267",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "pain",
+                "id": "9edbbe08-acc0-4b73-b026-517402e4a927",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "increase",
+                "id": "945447cd-9866-4423-b708-a90b86a229bc",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "age",
+                "id": "8b22d7b6-c121-4837-ae01-24210d0b5a9a",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "54826a2b-1e97-4e72-b21a-cb7ab4b6697d",
+                "nodeTo": "6c3dedb3-41a8-4067-82b9-7036220208a8",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3905b412-9e02-4dbc-b14b-ed99929b6910",
+                "nodeTo": "6c3dedb3-41a8-4067-82b9-7036220208a8",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6c3dedb3-41a8-4067-82b9-7036220208a8",
+                "nodeTo": "23e02739-d889-41d9-9ce8-98ed8c1da53b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "23e02739-d889-41d9-9ce8-98ed8c1da53b",
+                "nodeTo": "61549d06-8066-4a84-93e3-9ce36a80021c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "23e02739-d889-41d9-9ce8-98ed8c1da53b",
+                "nodeTo": "5a45b923-0965-499e-a441-562901a64ebb",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "61549d06-8066-4a84-93e3-9ce36a80021c",
+                "nodeTo": "9916686b-0e01-4c28-8a34-31c27121c267",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5a45b923-0965-499e-a441-562901a64ebb",
+                "nodeTo": "9916686b-0e01-4c28-8a34-31c27121c267",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9916686b-0e01-4c28-8a34-31c27121c267",
+                "nodeTo": "e77aab92-12c7-499b-8249-752c0a2e4a16",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e77aab92-12c7-499b-8249-752c0a2e4a16",
+                "nodeTo": "9edbbe08-acc0-4b73-b026-517402e4a927",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9edbbe08-acc0-4b73-b026-517402e4a927",
+                "nodeTo": "e511bd92-1653-4129-a1c4-20033238cc14",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9edbbe08-acc0-4b73-b026-517402e4a927",
+                "nodeTo": "b1b70a04-92e5-40cb-be79-74417d7c5983",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e511bd92-1653-4129-a1c4-20033238cc14",
+                "nodeTo": "945447cd-9866-4423-b708-a90b86a229bc",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b1b70a04-92e5-40cb-be79-74417d7c5983",
+                "nodeTo": "945447cd-9866-4423-b708-a90b86a229bc",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "945447cd-9866-4423-b708-a90b86a229bc",
+                "nodeTo": "236887ab-3672-4c64-a985-293a0c8235b5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "236887ab-3672-4c64-a985-293a0c8235b5",
+                "nodeTo": "8b22d7b6-c121-4837-ae01-24210d0b5a9a",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-08 19:11:03"
+}

@@ -1,0 +1,160 @@
+{
+    "uuid": 395,
+    "text": "antibiotics alone are successful treatment for uncomplicated acute appendicitis in children",
+    "graph": {
+        "version": 1,
+        "guid": "e3c0daba-031c-44a3-9b26-7c0e2bebcb5d",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "are",
+                "id": "5ea32454-a565-48d0-9e14-1787595d3eed",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "12e814ac-83d6-418d-9227-bd7db6299ea9",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "d0424ca4-96ed-4a75-8889-dc15395d1c47",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "antibiotics",
+                "id": "196ea8e4-016e-4973-8609-98123be59c71",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "alone",
+                "id": "369ae8a0-5333-458b-9d59-a561c6c86a7b",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "successful",
+                "id": "3dc03e98-2495-454e-a617-58a32e6565c0",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "treatment",
+                "id": "4a2b6ec9-a3b6-4761-be37-c1b2743e25e7",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "uncomplicated",
+                "id": "91426c39-7e11-4653-855d-1d1158a132bb",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "acute",
+                "id": "ac3bd88c-790e-492b-9b01-0246558615b8",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "appendicitis",
+                "id": "b6e59c10-6c0b-4d30-acba-cb9a1440a139",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "children",
+                "id": "086e2b6d-7209-4877-a984-475c04322a42",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "196ea8e4-016e-4973-8609-98123be59c71",
+                "nodeTo": "5ea32454-a565-48d0-9e14-1787595d3eed",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "369ae8a0-5333-458b-9d59-a561c6c86a7b",
+                "nodeTo": "5ea32454-a565-48d0-9e14-1787595d3eed",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5ea32454-a565-48d0-9e14-1787595d3eed",
+                "nodeTo": "3dc03e98-2495-454e-a617-58a32e6565c0",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5ea32454-a565-48d0-9e14-1787595d3eed",
+                "nodeTo": "4a2b6ec9-a3b6-4761-be37-c1b2743e25e7",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3dc03e98-2495-454e-a617-58a32e6565c0",
+                "nodeTo": "12e814ac-83d6-418d-9227-bd7db6299ea9",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4a2b6ec9-a3b6-4761-be37-c1b2743e25e7",
+                "nodeTo": "12e814ac-83d6-418d-9227-bd7db6299ea9",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "12e814ac-83d6-418d-9227-bd7db6299ea9",
+                "nodeTo": "91426c39-7e11-4653-855d-1d1158a132bb",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "12e814ac-83d6-418d-9227-bd7db6299ea9",
+                "nodeTo": "ac3bd88c-790e-492b-9b01-0246558615b8",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "12e814ac-83d6-418d-9227-bd7db6299ea9",
+                "nodeTo": "b6e59c10-6c0b-4d30-acba-cb9a1440a139",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "91426c39-7e11-4653-855d-1d1158a132bb",
+                "nodeTo": "d0424ca4-96ed-4a75-8889-dc15395d1c47",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ac3bd88c-790e-492b-9b01-0246558615b8",
+                "nodeTo": "d0424ca4-96ed-4a75-8889-dc15395d1c47",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b6e59c10-6c0b-4d30-acba-cb9a1440a139",
+                "nodeTo": "d0424ca4-96ed-4a75-8889-dc15395d1c47",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d0424ca4-96ed-4a75-8889-dc15395d1c47",
+                "nodeTo": "086e2b6d-7209-4877-a984-475c04322a42",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-17 15:38:42"
+}

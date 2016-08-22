@@ -1,0 +1,142 @@
+{
+    "uuid": 755,
+    "text": "Caffeine has positive effect on tau deposits in Alzheimers disease",
+    "graph": {
+        "version": 1,
+        "guid": "c74d9308-4d89-45be-8678-4b334a30a763",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "has",
+                "id": "93a12d29-148d-4a52-8ad8-6e7b22d62a49",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "on",
+                "id": "62a29468-3d0d-4678-a93b-c008737aebc4",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "c010d497-e56c-4cdd-b094-449da4a86802",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Caffeine",
+                "id": "b4e25cc7-4516-4e72-958d-e84b412119b4",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "positive",
+                "id": "556c45a1-4bc8-4edd-8634-04497d7eb346",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "effect",
+                "id": "054d433e-6111-46d1-8a3e-23bec005e409",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "tau",
+                "id": "c9516339-127e-4ba5-ae27-88bc06be0e5e",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "deposits",
+                "id": "85e5b339-d7d7-45c8-97de-e1e1a7776c6b",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "Alzheimers",
+                "id": "d0209500-880d-461d-ad48-bc1be28d0bbe",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "disease",
+                "id": "c3d421b7-444c-4361-be1c-893150938e1a",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "b4e25cc7-4516-4e72-958d-e84b412119b4",
+                "nodeTo": "93a12d29-148d-4a52-8ad8-6e7b22d62a49",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "93a12d29-148d-4a52-8ad8-6e7b22d62a49",
+                "nodeTo": "556c45a1-4bc8-4edd-8634-04497d7eb346",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "93a12d29-148d-4a52-8ad8-6e7b22d62a49",
+                "nodeTo": "054d433e-6111-46d1-8a3e-23bec005e409",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "556c45a1-4bc8-4edd-8634-04497d7eb346",
+                "nodeTo": "62a29468-3d0d-4678-a93b-c008737aebc4",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "054d433e-6111-46d1-8a3e-23bec005e409",
+                "nodeTo": "62a29468-3d0d-4678-a93b-c008737aebc4",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "62a29468-3d0d-4678-a93b-c008737aebc4",
+                "nodeTo": "c9516339-127e-4ba5-ae27-88bc06be0e5e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "62a29468-3d0d-4678-a93b-c008737aebc4",
+                "nodeTo": "85e5b339-d7d7-45c8-97de-e1e1a7776c6b",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "556c45a1-4bc8-4edd-8634-04497d7eb346",
+                "nodeTo": "c010d497-e56c-4cdd-b094-449da4a86802",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "054d433e-6111-46d1-8a3e-23bec005e409",
+                "nodeTo": "c010d497-e56c-4cdd-b094-449da4a86802",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c010d497-e56c-4cdd-b094-449da4a86802",
+                "nodeTo": "d0209500-880d-461d-ad48-bc1be28d0bbe",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c010d497-e56c-4cdd-b094-449da4a86802",
+                "nodeTo": "c3d421b7-444c-4361-be1c-893150938e1a",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-13 17:05:30"
+}

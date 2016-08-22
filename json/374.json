@@ -1,0 +1,154 @@
+{
+    "uuid": 374,
+    "text": "Although there are many reasons why individuals help empathy is prominent",
+    "graph": {
+        "version": 1,
+        "guid": "628d4e79-aa39-482d-804d-689b58ec6880",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "Although",
+                "id": "2c81ed8b-2724-49a9-9467-6b3eee17e0a9",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "are",
+                "id": "7c1504e7-d4db-43d3-9302-454bbc06e39d",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "why",
+                "id": "1789a857-d224-498b-8eeb-9dbdb35d571e",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "help",
+                "id": "6e8d88de-99a5-49e1-bd56-338db6ac0207",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "is",
+                "id": "4dc7a0eb-91cb-47d6-82a4-9e33b12b9e1c",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "there",
+                "id": "d3345ab6-7cbc-4cbb-bc4c-e099b58c6285",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "many",
+                "id": "a059b569-6c63-4399-ae00-652b5e90d827",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "reasons",
+                "id": "5c8d29c5-ea7a-40ac-a3c6-83c12e468bb4",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "individuals",
+                "id": "6a55987c-050c-4453-8db9-4a8639426c44",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "empathy",
+                "id": "48be05aa-a3c9-4821-aeb2-a1332222d39e",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "prominent",
+                "id": "988b02c4-9c42-4710-85a2-cd9c83d5ee96",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "2c81ed8b-2724-49a9-9467-6b3eee17e0a9",
+                "nodeTo": "d3345ab6-7cbc-4cbb-bc4c-e099b58c6285",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d3345ab6-7cbc-4cbb-bc4c-e099b58c6285",
+                "nodeTo": "7c1504e7-d4db-43d3-9302-454bbc06e39d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7c1504e7-d4db-43d3-9302-454bbc06e39d",
+                "nodeTo": "a059b569-6c63-4399-ae00-652b5e90d827",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7c1504e7-d4db-43d3-9302-454bbc06e39d",
+                "nodeTo": "5c8d29c5-ea7a-40ac-a3c6-83c12e468bb4",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a059b569-6c63-4399-ae00-652b5e90d827",
+                "nodeTo": "1789a857-d224-498b-8eeb-9dbdb35d571e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5c8d29c5-ea7a-40ac-a3c6-83c12e468bb4",
+                "nodeTo": "1789a857-d224-498b-8eeb-9dbdb35d571e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1789a857-d224-498b-8eeb-9dbdb35d571e",
+                "nodeTo": "6a55987c-050c-4453-8db9-4a8639426c44",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6a55987c-050c-4453-8db9-4a8639426c44",
+                "nodeTo": "6e8d88de-99a5-49e1-bd56-338db6ac0207",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "48be05aa-a3c9-4821-aeb2-a1332222d39e",
+                "nodeTo": "4dc7a0eb-91cb-47d6-82a4-9e33b12b9e1c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4dc7a0eb-91cb-47d6-82a4-9e33b12b9e1c",
+                "nodeTo": "988b02c4-9c42-4710-85a2-cd9c83d5ee96",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5c8d29c5-ea7a-40ac-a3c6-83c12e468bb4",
+                "nodeTo": "4dc7a0eb-91cb-47d6-82a4-9e33b12b9e1c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a059b569-6c63-4399-ae00-652b5e90d827",
+                "nodeTo": "4dc7a0eb-91cb-47d6-82a4-9e33b12b9e1c",
+                "index": 2,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2014-12-16 17:14:58"
+}

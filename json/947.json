@@ -1,0 +1,460 @@
+{
+    "uuid": 947,
+    "text": "new multi million pound centre which aims to develop better treatments for people with asthma is to be based in Edinburgh",
+    "graph": {
+        "version": 1,
+        "guid": "65ae04d0-aa51-4104-9c20-9753a8d4d955",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "which",
+                "id": "794ca3b7-470c-4a31-a772-1bc1a2b37087",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "aims",
+                "id": "d65602e1-bcc9-48dd-855d-490b37d79e63",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "c8ec804c-05d6-434c-b636-443e569aaac0",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "develop",
+                "id": "ec8322b0-1376-4853-a386-830018996581",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "00853563-be27-4aa9-a604-eb1ec9638477",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "with",
+                "id": "cd840abe-e7ca-441b-a5c1-615367d691be",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "is",
+                "id": "dec59548-e2dd-4144-b791-81de9572d224",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "905e5086-a070-46b4-9490-20b9b955dea9",
+                "index": 16,
+                "postag": "NA"
+            },
+            {
+                "label": "be",
+                "id": "9ed08d14-634a-4b86-a01a-178b13371276",
+                "index": 17,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "7b1ba835-2242-4e8a-8ec4-b590511d773c",
+                "index": 19,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "new",
+                "id": "9680b425-2e76-4e40-a300-d8b856980e36",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "multi",
+                "id": "b3227695-d9b7-4086-b9ab-2944d1bd1677",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "million",
+                "id": "42da6bc4-68ee-417c-a662-a3a0eccb6453",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "pound",
+                "id": "92e64b87-912d-4e41-89c9-897be5a1e2cb",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "centre",
+                "id": "d1163cbe-e084-47b3-bd36-8750057d7e75",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "better",
+                "id": "20d39d45-0786-4a9b-9761-c2a8190ab280",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "treatments",
+                "id": "364dd1e2-7e26-4230-ade6-1b5589986946",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "people",
+                "id": "93e9328b-305c-47b9-b3c8-7c2d7c2b19b9",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "asthma",
+                "id": "c0816433-35a3-4c47-a4c0-3b5ae4abc317",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "based",
+                "id": "be7c399b-5cc5-48ca-bb24-763c39628e4c",
+                "index": 18,
+                "postag": "NA"
+            },
+            {
+                "label": "Edinburgh",
+                "id": "04d63c67-71c7-4376-a879-b56814b2c32a",
+                "index": 20,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "9680b425-2e76-4e40-a300-d8b856980e36",
+                "nodeTo": "794ca3b7-470c-4a31-a772-1bc1a2b37087",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9680b425-2e76-4e40-a300-d8b856980e36",
+                "nodeTo": "d65602e1-bcc9-48dd-855d-490b37d79e63",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9680b425-2e76-4e40-a300-d8b856980e36",
+                "nodeTo": "c8ec804c-05d6-434c-b636-443e569aaac0",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9680b425-2e76-4e40-a300-d8b856980e36",
+                "nodeTo": "ec8322b0-1376-4853-a386-830018996581",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b3227695-d9b7-4086-b9ab-2944d1bd1677",
+                "nodeTo": "794ca3b7-470c-4a31-a772-1bc1a2b37087",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b3227695-d9b7-4086-b9ab-2944d1bd1677",
+                "nodeTo": "d65602e1-bcc9-48dd-855d-490b37d79e63",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b3227695-d9b7-4086-b9ab-2944d1bd1677",
+                "nodeTo": "c8ec804c-05d6-434c-b636-443e569aaac0",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b3227695-d9b7-4086-b9ab-2944d1bd1677",
+                "nodeTo": "ec8322b0-1376-4853-a386-830018996581",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "42da6bc4-68ee-417c-a662-a3a0eccb6453",
+                "nodeTo": "794ca3b7-470c-4a31-a772-1bc1a2b37087",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "42da6bc4-68ee-417c-a662-a3a0eccb6453",
+                "nodeTo": "d65602e1-bcc9-48dd-855d-490b37d79e63",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "42da6bc4-68ee-417c-a662-a3a0eccb6453",
+                "nodeTo": "c8ec804c-05d6-434c-b636-443e569aaac0",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "42da6bc4-68ee-417c-a662-a3a0eccb6453",
+                "nodeTo": "ec8322b0-1376-4853-a386-830018996581",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "92e64b87-912d-4e41-89c9-897be5a1e2cb",
+                "nodeTo": "794ca3b7-470c-4a31-a772-1bc1a2b37087",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "92e64b87-912d-4e41-89c9-897be5a1e2cb",
+                "nodeTo": "d65602e1-bcc9-48dd-855d-490b37d79e63",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "92e64b87-912d-4e41-89c9-897be5a1e2cb",
+                "nodeTo": "c8ec804c-05d6-434c-b636-443e569aaac0",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "92e64b87-912d-4e41-89c9-897be5a1e2cb",
+                "nodeTo": "ec8322b0-1376-4853-a386-830018996581",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d1163cbe-e084-47b3-bd36-8750057d7e75",
+                "nodeTo": "794ca3b7-470c-4a31-a772-1bc1a2b37087",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d1163cbe-e084-47b3-bd36-8750057d7e75",
+                "nodeTo": "d65602e1-bcc9-48dd-855d-490b37d79e63",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d1163cbe-e084-47b3-bd36-8750057d7e75",
+                "nodeTo": "c8ec804c-05d6-434c-b636-443e569aaac0",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d1163cbe-e084-47b3-bd36-8750057d7e75",
+                "nodeTo": "ec8322b0-1376-4853-a386-830018996581",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "794ca3b7-470c-4a31-a772-1bc1a2b37087",
+                "nodeTo": "20d39d45-0786-4a9b-9761-c2a8190ab280",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d65602e1-bcc9-48dd-855d-490b37d79e63",
+                "nodeTo": "20d39d45-0786-4a9b-9761-c2a8190ab280",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c8ec804c-05d6-434c-b636-443e569aaac0",
+                "nodeTo": "20d39d45-0786-4a9b-9761-c2a8190ab280",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ec8322b0-1376-4853-a386-830018996581",
+                "nodeTo": "20d39d45-0786-4a9b-9761-c2a8190ab280",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "794ca3b7-470c-4a31-a772-1bc1a2b37087",
+                "nodeTo": "364dd1e2-7e26-4230-ade6-1b5589986946",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d65602e1-bcc9-48dd-855d-490b37d79e63",
+                "nodeTo": "364dd1e2-7e26-4230-ade6-1b5589986946",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c8ec804c-05d6-434c-b636-443e569aaac0",
+                "nodeTo": "364dd1e2-7e26-4230-ade6-1b5589986946",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ec8322b0-1376-4853-a386-830018996581",
+                "nodeTo": "364dd1e2-7e26-4230-ade6-1b5589986946",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "20d39d45-0786-4a9b-9761-c2a8190ab280",
+                "nodeTo": "00853563-be27-4aa9-a604-eb1ec9638477",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "364dd1e2-7e26-4230-ade6-1b5589986946",
+                "nodeTo": "00853563-be27-4aa9-a604-eb1ec9638477",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "00853563-be27-4aa9-a604-eb1ec9638477",
+                "nodeTo": "93e9328b-305c-47b9-b3c8-7c2d7c2b19b9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "93e9328b-305c-47b9-b3c8-7c2d7c2b19b9",
+                "nodeTo": "cd840abe-e7ca-441b-a5c1-615367d691be",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cd840abe-e7ca-441b-a5c1-615367d691be",
+                "nodeTo": "c0816433-35a3-4c47-a4c0-3b5ae4abc317",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9680b425-2e76-4e40-a300-d8b856980e36",
+                "nodeTo": "dec59548-e2dd-4144-b791-81de9572d224",
+                "index": 5,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b3227695-d9b7-4086-b9ab-2944d1bd1677",
+                "nodeTo": "dec59548-e2dd-4144-b791-81de9572d224",
+                "index": 5,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "42da6bc4-68ee-417c-a662-a3a0eccb6453",
+                "nodeTo": "dec59548-e2dd-4144-b791-81de9572d224",
+                "index": 5,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "92e64b87-912d-4e41-89c9-897be5a1e2cb",
+                "nodeTo": "dec59548-e2dd-4144-b791-81de9572d224",
+                "index": 5,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d1163cbe-e084-47b3-bd36-8750057d7e75",
+                "nodeTo": "dec59548-e2dd-4144-b791-81de9572d224",
+                "index": 5,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9680b425-2e76-4e40-a300-d8b856980e36",
+                "nodeTo": "905e5086-a070-46b4-9490-20b9b955dea9",
+                "index": 6,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b3227695-d9b7-4086-b9ab-2944d1bd1677",
+                "nodeTo": "905e5086-a070-46b4-9490-20b9b955dea9",
+                "index": 6,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "42da6bc4-68ee-417c-a662-a3a0eccb6453",
+                "nodeTo": "905e5086-a070-46b4-9490-20b9b955dea9",
+                "index": 6,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "92e64b87-912d-4e41-89c9-897be5a1e2cb",
+                "nodeTo": "905e5086-a070-46b4-9490-20b9b955dea9",
+                "index": 6,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d1163cbe-e084-47b3-bd36-8750057d7e75",
+                "nodeTo": "905e5086-a070-46b4-9490-20b9b955dea9",
+                "index": 6,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9680b425-2e76-4e40-a300-d8b856980e36",
+                "nodeTo": "9ed08d14-634a-4b86-a01a-178b13371276",
+                "index": 7,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b3227695-d9b7-4086-b9ab-2944d1bd1677",
+                "nodeTo": "9ed08d14-634a-4b86-a01a-178b13371276",
+                "index": 7,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "42da6bc4-68ee-417c-a662-a3a0eccb6453",
+                "nodeTo": "9ed08d14-634a-4b86-a01a-178b13371276",
+                "index": 7,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "92e64b87-912d-4e41-89c9-897be5a1e2cb",
+                "nodeTo": "9ed08d14-634a-4b86-a01a-178b13371276",
+                "index": 7,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d1163cbe-e084-47b3-bd36-8750057d7e75",
+                "nodeTo": "9ed08d14-634a-4b86-a01a-178b13371276",
+                "index": 7,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "dec59548-e2dd-4144-b791-81de9572d224",
+                "nodeTo": "be7c399b-5cc5-48ca-bb24-763c39628e4c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "905e5086-a070-46b4-9490-20b9b955dea9",
+                "nodeTo": "be7c399b-5cc5-48ca-bb24-763c39628e4c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9ed08d14-634a-4b86-a01a-178b13371276",
+                "nodeTo": "be7c399b-5cc5-48ca-bb24-763c39628e4c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "be7c399b-5cc5-48ca-bb24-763c39628e4c",
+                "nodeTo": "7b1ba835-2242-4e8a-8ec4-b590511d773c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7b1ba835-2242-4e8a-8ec4-b590511d773c",
+                "nodeTo": "04d63c67-71c7-4376-a879-b56814b2c32a",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-22 18:33:19"
+}

@@ -1,0 +1,226 @@
+{
+    "uuid": 500,
+    "text": "our increasing appreciation of role of microbiome in health and disease is transforming entire medical field",
+    "graph": {
+        "version": 1,
+        "guid": "670dc085-cdea-4d4d-8a4c-caa46e937a31",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "increasing",
+                "id": "2410c138-540a-4140-961c-6a4db1064298",
+                "postag": "NA",
+                "index": 1
+            },
+            {
+                "label": "of",
+                "id": "dd1c0a55-69e5-480e-b622-2e0095b802a2",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "11829060-260d-46a8-8e35-34829800740d",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "d402b766-9480-4911-97de-48aec8b53c36",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "ad8be078-43e0-4cd6-a96c-0a0d912ba7b5",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "is",
+                "id": "a9627ee2-92a2-4159-9948-ca63e3c2a8db",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "transforming",
+                "id": "8c75d8e7-05d2-46b1-98ad-7d64becd1ab4",
+                "postag": "NA",
+                "index": 12
+            }
+        ],
+        "concepts": [
+            {
+                "label": "our",
+                "id": "0a73a30e-4d0a-41db-944c-7813004db93e",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "appreciation",
+                "id": "a57ba675-48cc-4147-bd7c-37408c0695d1",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "role",
+                "id": "16125dd7-c5dd-48db-b843-38963a53b28d",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "microbiome",
+                "id": "419acd3e-3bb1-4532-846d-a796ddc410de",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "health",
+                "id": "d0694cad-d7a9-4b74-9305-387378147cd8",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "disease",
+                "id": "cc3c77cb-736c-436a-a849-0ad5976990a4",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "entire",
+                "id": "da83851b-d3aa-431c-81a3-8e781b85b356",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "medical",
+                "id": "bb382941-7cea-416c-87ec-554815c26458",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "field",
+                "id": "b757a631-7127-4d33-a50b-3896d37eaa12",
+                "index": 15,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "2410c138-540a-4140-961c-6a4db1064298",
+                "nodeTo": "a57ba675-48cc-4147-bd7c-37408c0695d1",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0a73a30e-4d0a-41db-944c-7813004db93e",
+                "nodeTo": "dd1c0a55-69e5-480e-b622-2e0095b802a2",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a57ba675-48cc-4147-bd7c-37408c0695d1",
+                "nodeTo": "dd1c0a55-69e5-480e-b622-2e0095b802a2",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "dd1c0a55-69e5-480e-b622-2e0095b802a2",
+                "nodeTo": "16125dd7-c5dd-48db-b843-38963a53b28d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "16125dd7-c5dd-48db-b843-38963a53b28d",
+                "nodeTo": "11829060-260d-46a8-8e35-34829800740d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "11829060-260d-46a8-8e35-34829800740d",
+                "nodeTo": "419acd3e-3bb1-4532-846d-a796ddc410de",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "16125dd7-c5dd-48db-b843-38963a53b28d",
+                "nodeTo": "d402b766-9480-4911-97de-48aec8b53c36",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d402b766-9480-4911-97de-48aec8b53c36",
+                "nodeTo": "d0694cad-d7a9-4b74-9305-387378147cd8",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d0694cad-d7a9-4b74-9305-387378147cd8",
+                "nodeTo": "ad8be078-43e0-4cd6-a96c-0a0d912ba7b5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ad8be078-43e0-4cd6-a96c-0a0d912ba7b5",
+                "nodeTo": "cc3c77cb-736c-436a-a849-0ad5976990a4",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d402b766-9480-4911-97de-48aec8b53c36",
+                "nodeTo": "cc3c77cb-736c-436a-a849-0ad5976990a4",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "16125dd7-c5dd-48db-b843-38963a53b28d",
+                "nodeTo": "a9627ee2-92a2-4159-9948-ca63e3c2a8db",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "16125dd7-c5dd-48db-b843-38963a53b28d",
+                "nodeTo": "8c75d8e7-05d2-46b1-98ad-7d64becd1ab4",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a9627ee2-92a2-4159-9948-ca63e3c2a8db",
+                "nodeTo": "da83851b-d3aa-431c-81a3-8e781b85b356",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8c75d8e7-05d2-46b1-98ad-7d64becd1ab4",
+                "nodeTo": "da83851b-d3aa-431c-81a3-8e781b85b356",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8c75d8e7-05d2-46b1-98ad-7d64becd1ab4",
+                "nodeTo": "bb382941-7cea-416c-87ec-554815c26458",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a9627ee2-92a2-4159-9948-ca63e3c2a8db",
+                "nodeTo": "bb382941-7cea-416c-87ec-554815c26458",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8c75d8e7-05d2-46b1-98ad-7d64becd1ab4",
+                "nodeTo": "b757a631-7127-4d33-a50b-3896d37eaa12",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a9627ee2-92a2-4159-9948-ca63e3c2a8db",
+                "nodeTo": "b757a631-7127-4d33-a50b-3896d37eaa12",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-23 17:01:09"
+}

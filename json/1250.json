@@ -1,0 +1,172 @@
+{
+    "uuid": 1250,
+    "text": "conservative management of vascular abnormality in brain associated with better outcomes",
+    "graph": {
+        "version": 1,
+        "guid": "82339000-5691-449a-8c80-ca1b85c551c7",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "of",
+                "id": "269b3919-c32e-4123-aade-6cc2e131487d",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "ee51aa49-b40e-42a8-a7b7-8bc243a42cc8",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "associated",
+                "id": "8752a040-b76c-457e-a4a0-2d431e4037c8",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "with",
+                "id": "913a7025-9b4a-40ca-82a6-0bbda2585c94",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "conservative",
+                "id": "49e44645-9044-4a1d-9e01-5c5475c8169c",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "management",
+                "id": "a9c0633e-9001-4543-8e17-262ae76c7a00",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "vascular",
+                "id": "3c7c5983-2925-4c77-97d7-539921a914d7",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "abnormality",
+                "id": "78eea087-1e94-41e3-a0ae-71a04c9ca0b8",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "brain",
+                "id": "3728e703-95ca-43da-a296-38ce4b0541dc",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "better",
+                "id": "159338a3-84ac-4035-9e0a-b29bce6e0428",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "outcomes",
+                "id": "9445ee03-6c00-43e9-ab8a-a109bd6864de",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "49e44645-9044-4a1d-9e01-5c5475c8169c",
+                "nodeTo": "269b3919-c32e-4123-aade-6cc2e131487d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a9c0633e-9001-4543-8e17-262ae76c7a00",
+                "nodeTo": "269b3919-c32e-4123-aade-6cc2e131487d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "269b3919-c32e-4123-aade-6cc2e131487d",
+                "nodeTo": "3c7c5983-2925-4c77-97d7-539921a914d7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "269b3919-c32e-4123-aade-6cc2e131487d",
+                "nodeTo": "78eea087-1e94-41e3-a0ae-71a04c9ca0b8",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3c7c5983-2925-4c77-97d7-539921a914d7",
+                "nodeTo": "ee51aa49-b40e-42a8-a7b7-8bc243a42cc8",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "78eea087-1e94-41e3-a0ae-71a04c9ca0b8",
+                "nodeTo": "ee51aa49-b40e-42a8-a7b7-8bc243a42cc8",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ee51aa49-b40e-42a8-a7b7-8bc243a42cc8",
+                "nodeTo": "3728e703-95ca-43da-a296-38ce4b0541dc",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "49e44645-9044-4a1d-9e01-5c5475c8169c",
+                "nodeTo": "8752a040-b76c-457e-a4a0-2d431e4037c8",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a9c0633e-9001-4543-8e17-262ae76c7a00",
+                "nodeTo": "8752a040-b76c-457e-a4a0-2d431e4037c8",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "49e44645-9044-4a1d-9e01-5c5475c8169c",
+                "nodeTo": "913a7025-9b4a-40ca-82a6-0bbda2585c94",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a9c0633e-9001-4543-8e17-262ae76c7a00",
+                "nodeTo": "913a7025-9b4a-40ca-82a6-0bbda2585c94",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8752a040-b76c-457e-a4a0-2d431e4037c8",
+                "nodeTo": "159338a3-84ac-4035-9e0a-b29bce6e0428",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "913a7025-9b4a-40ca-82a6-0bbda2585c94",
+                "nodeTo": "159338a3-84ac-4035-9e0a-b29bce6e0428",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8752a040-b76c-457e-a4a0-2d431e4037c8",
+                "nodeTo": "9445ee03-6c00-43e9-ab8a-a109bd6864de",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "913a7025-9b4a-40ca-82a6-0bbda2585c94",
+                "nodeTo": "9445ee03-6c00-43e9-ab8a-a109bd6864de",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-03-02 19:42:43"
+}

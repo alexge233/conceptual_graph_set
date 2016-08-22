@@ -1,0 +1,82 @@
+{
+    "uuid": 1050,
+    "text": "Chronic pain is common throughout world",
+    "graph": {
+        "version": 1,
+        "guid": "129a95b0-be10-41a1-8c87-4337858a2359",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "is",
+                "id": "6624aad8-3b48-46e9-84c5-d14035ec3a3e",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "throughout",
+                "id": "450a86a8-8847-4c69-8a5e-eac542727709",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Chronic",
+                "id": "63ee5216-057e-421a-a161-80c910e76465",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "pain",
+                "id": "86b7cd0b-4bb9-464e-980a-a545c94d5325",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "common",
+                "id": "d27b3383-0a18-4e6e-9d41-d970a7812c6e",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "world",
+                "id": "a591b8d3-1142-498a-87c4-698c54aa2399",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "63ee5216-057e-421a-a161-80c910e76465",
+                "nodeTo": "6624aad8-3b48-46e9-84c5-d14035ec3a3e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "86b7cd0b-4bb9-464e-980a-a545c94d5325",
+                "nodeTo": "6624aad8-3b48-46e9-84c5-d14035ec3a3e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6624aad8-3b48-46e9-84c5-d14035ec3a3e",
+                "nodeTo": "d27b3383-0a18-4e6e-9d41-d970a7812c6e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d27b3383-0a18-4e6e-9d41-d970a7812c6e",
+                "nodeTo": "450a86a8-8847-4c69-8a5e-eac542727709",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "450a86a8-8847-4c69-8a5e-eac542727709",
+                "nodeTo": "a591b8d3-1142-498a-87c4-698c54aa2399",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-04 17:19:27"
+}

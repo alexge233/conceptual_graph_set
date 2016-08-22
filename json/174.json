@@ -1,0 +1,124 @@
+{
+    "uuid": 174,
+    "text": "Significant untapped potential for newborn organ donation in UK",
+    "graph": {
+        "version": 1,
+        "guid": "cbc4181c-eb78-4410-b48c-ce6bc1bdc5c6",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "for",
+                "id": "de7e4643-71ab-435c-a688-5e3d4e48a84b",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "5c77479d-e708-4234-b2c6-9c653bd2b9a8",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Significant",
+                "id": "74a4edce-76e8-4122-abe9-980b980cae1c",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "untapped",
+                "id": "a33b76e4-e880-433c-8118-17abd64b4a98",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "potential",
+                "id": "53567548-2b98-4004-a040-a2c6a0c323db",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "newborn",
+                "id": "a6468a88-c261-4b13-9255-730ea037c53a",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "organ",
+                "id": "27693cd0-024a-4751-b471-55a2e502c2c7",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "donation",
+                "id": "d72de762-584d-4c84-bd42-aabaae08ee0d",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "UK",
+                "id": "b89bc378-0c81-433a-a670-5e08b2105544",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "74a4edce-76e8-4122-abe9-980b980cae1c",
+                "nodeTo": "de7e4643-71ab-435c-a688-5e3d4e48a84b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a33b76e4-e880-433c-8118-17abd64b4a98",
+                "nodeTo": "de7e4643-71ab-435c-a688-5e3d4e48a84b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "53567548-2b98-4004-a040-a2c6a0c323db",
+                "nodeTo": "de7e4643-71ab-435c-a688-5e3d4e48a84b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "de7e4643-71ab-435c-a688-5e3d4e48a84b",
+                "nodeTo": "a6468a88-c261-4b13-9255-730ea037c53a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "de7e4643-71ab-435c-a688-5e3d4e48a84b",
+                "nodeTo": "27693cd0-024a-4751-b471-55a2e502c2c7",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "de7e4643-71ab-435c-a688-5e3d4e48a84b",
+                "nodeTo": "d72de762-584d-4c84-bd42-aabaae08ee0d",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "27693cd0-024a-4751-b471-55a2e502c2c7",
+                "nodeTo": "5c77479d-e708-4234-b2c6-9c653bd2b9a8",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d72de762-584d-4c84-bd42-aabaae08ee0d",
+                "nodeTo": "5c77479d-e708-4234-b2c6-9c653bd2b9a8",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5c77479d-e708-4234-b2c6-9c653bd2b9a8",
+                "nodeTo": "b89bc378-0c81-433a-a670-5e08b2105544",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-11-06 08:46:34"
+}

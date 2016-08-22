@@ -1,0 +1,70 @@
+{
+    "uuid": 143,
+    "text": "New oral cancer risks identified",
+    "graph": {
+        "version": 1,
+        "guid": "4178d951-d17b-4299-96b8-1ad856e6296d",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "identified",
+                "id": "ae51a405-acc6-48d8-ae6a-b0e736246033",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "New",
+                "id": "a44323e4-d901-475c-8e05-6607aa0abd11",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "oral",
+                "id": "72ed6762-6490-483d-ac19-4cc61d6ba650",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "cancer",
+                "id": "be6d2261-9ca4-4816-9dc7-251ed7813dd4",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "risks",
+                "id": "19ce1a81-c9cd-4bee-a160-e4cc1735cb45",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "a44323e4-d901-475c-8e05-6607aa0abd11",
+                "nodeTo": "ae51a405-acc6-48d8-ae6a-b0e736246033",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "72ed6762-6490-483d-ac19-4cc61d6ba650",
+                "nodeTo": "ae51a405-acc6-48d8-ae6a-b0e736246033",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "be6d2261-9ca4-4816-9dc7-251ed7813dd4",
+                "nodeTo": "ae51a405-acc6-48d8-ae6a-b0e736246033",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "19ce1a81-c9cd-4bee-a160-e4cc1735cb45",
+                "nodeTo": "ae51a405-acc6-48d8-ae6a-b0e736246033",
+                "index": 1,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2014-10-30 00:22:11"
+}

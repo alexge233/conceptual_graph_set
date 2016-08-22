@@ -1,0 +1,118 @@
+{
+    "uuid": 229,
+    "text": "Using CAD to load dozens of tests on lab-on-chip",
+    "graph": {
+        "version": 1,
+        "guid": "6244ac47-cab5-4cbe-b16a-a8e97ecdb390",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "Using",
+                "id": "db43d679-9d90-45a1-85ac-b09c0de29987",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "load",
+                "id": "405a4ea5-ee13-4402-b5c4-c69510874ab0",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "a33c82b7-95ab-4ab9-8903-50ca115add02",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "on",
+                "id": "4681536b-e41b-4e63-a52b-1563dd0add93",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "CAD",
+                "id": "59abb74a-390d-4e8c-9d62-d5c0c9d80155",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "c38e1197-1865-45e8-a91d-907322ccddd4",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "dozens",
+                "id": "e60e9024-d37b-41d5-aedd-ede5abe54776",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "tests",
+                "id": "ce04d4b0-6738-448a-8999-57e4481567e0",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "lab-on-chip",
+                "id": "1239d452-e585-4b6c-ae27-b524bb3c08e6",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "db43d679-9d90-45a1-85ac-b09c0de29987",
+                "nodeTo": "59abb74a-390d-4e8c-9d62-d5c0c9d80155",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c38e1197-1865-45e8-a91d-907322ccddd4",
+                "nodeTo": "405a4ea5-ee13-4402-b5c4-c69510874ab0",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "59abb74a-390d-4e8c-9d62-d5c0c9d80155",
+                "nodeTo": "405a4ea5-ee13-4402-b5c4-c69510874ab0",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "405a4ea5-ee13-4402-b5c4-c69510874ab0",
+                "nodeTo": "e60e9024-d37b-41d5-aedd-ede5abe54776",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e60e9024-d37b-41d5-aedd-ede5abe54776",
+                "nodeTo": "a33c82b7-95ab-4ab9-8903-50ca115add02",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a33c82b7-95ab-4ab9-8903-50ca115add02",
+                "nodeTo": "ce04d4b0-6738-448a-8999-57e4481567e0",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ce04d4b0-6738-448a-8999-57e4481567e0",
+                "nodeTo": "4681536b-e41b-4e63-a52b-1563dd0add93",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4681536b-e41b-4e63-a52b-1563dd0add93",
+                "nodeTo": "1239d452-e585-4b6c-ae27-b524bb3c08e6",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-01 15:39:07"
+}

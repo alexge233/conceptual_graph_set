@@ -1,0 +1,274 @@
+{
+    "uuid": 524,
+    "text": "Researchers have developed new computer tool to ensure faster care and treatment for stroke patients",
+    "graph": {
+        "version": 1,
+        "guid": "c88c860b-c94a-48c6-9bdd-7b977491aeb8",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "have",
+                "id": "60ddeede-8dec-4e2e-9a0a-e4551c7ab085",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "developed",
+                "id": "01a89de7-ba82-4cc1-b986-d0e781e2680d",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "3364ed3c-3176-475b-8751-59dd8e457dc1",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "ensure",
+                "id": "cad57566-55e8-442c-8b40-b7454b40c094",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "d767c945-6cab-4882-a5b9-2e728333e8d8",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "4c748d38-c267-4e53-a79e-194604300b05",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Researchers",
+                "id": "24ab2110-8b2a-4a0b-8291-d5e9be449bc7",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "new",
+                "id": "a564c0b6-37eb-4055-b93b-d8db545e49d7",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "computer",
+                "id": "a998c2db-9390-4e74-a6a1-665724582421",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "tool",
+                "id": "ca9b7585-45dc-4896-b331-396d191872c5",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "faster",
+                "id": "34431937-239b-4093-9b40-420b49ed6ded",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "care",
+                "id": "d387cd88-1e5a-4d26-bb73-e8c533e15553",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "treatment",
+                "id": "31ea6099-a29e-45c6-b141-9a94609e7e0b",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "stroke",
+                "id": "729cc87d-bd50-4058-92be-1c3a77d70dc7",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "patients",
+                "id": "e1679ea7-5a1b-4e46-ac5e-a08ee97c2c48",
+                "index": 14,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "24ab2110-8b2a-4a0b-8291-d5e9be449bc7",
+                "nodeTo": "60ddeede-8dec-4e2e-9a0a-e4551c7ab085",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "24ab2110-8b2a-4a0b-8291-d5e9be449bc7",
+                "nodeTo": "01a89de7-ba82-4cc1-b986-d0e781e2680d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "60ddeede-8dec-4e2e-9a0a-e4551c7ab085",
+                "nodeTo": "a564c0b6-37eb-4055-b93b-d8db545e49d7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "60ddeede-8dec-4e2e-9a0a-e4551c7ab085",
+                "nodeTo": "a998c2db-9390-4e74-a6a1-665724582421",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "60ddeede-8dec-4e2e-9a0a-e4551c7ab085",
+                "nodeTo": "ca9b7585-45dc-4896-b331-396d191872c5",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "01a89de7-ba82-4cc1-b986-d0e781e2680d",
+                "nodeTo": "a564c0b6-37eb-4055-b93b-d8db545e49d7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "01a89de7-ba82-4cc1-b986-d0e781e2680d",
+                "nodeTo": "a998c2db-9390-4e74-a6a1-665724582421",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "01a89de7-ba82-4cc1-b986-d0e781e2680d",
+                "nodeTo": "ca9b7585-45dc-4896-b331-396d191872c5",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a564c0b6-37eb-4055-b93b-d8db545e49d7",
+                "nodeTo": "3364ed3c-3176-475b-8751-59dd8e457dc1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a564c0b6-37eb-4055-b93b-d8db545e49d7",
+                "nodeTo": "cad57566-55e8-442c-8b40-b7454b40c094",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a998c2db-9390-4e74-a6a1-665724582421",
+                "nodeTo": "3364ed3c-3176-475b-8751-59dd8e457dc1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a998c2db-9390-4e74-a6a1-665724582421",
+                "nodeTo": "cad57566-55e8-442c-8b40-b7454b40c094",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ca9b7585-45dc-4896-b331-396d191872c5",
+                "nodeTo": "3364ed3c-3176-475b-8751-59dd8e457dc1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ca9b7585-45dc-4896-b331-396d191872c5",
+                "nodeTo": "cad57566-55e8-442c-8b40-b7454b40c094",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3364ed3c-3176-475b-8751-59dd8e457dc1",
+                "nodeTo": "34431937-239b-4093-9b40-420b49ed6ded",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "cad57566-55e8-442c-8b40-b7454b40c094",
+                "nodeTo": "34431937-239b-4093-9b40-420b49ed6ded",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3364ed3c-3176-475b-8751-59dd8e457dc1",
+                "nodeTo": "d387cd88-1e5a-4d26-bb73-e8c533e15553",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "cad57566-55e8-442c-8b40-b7454b40c094",
+                "nodeTo": "d387cd88-1e5a-4d26-bb73-e8c533e15553",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "34431937-239b-4093-9b40-420b49ed6ded",
+                "nodeTo": "d767c945-6cab-4882-a5b9-2e728333e8d8",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d387cd88-1e5a-4d26-bb73-e8c533e15553",
+                "nodeTo": "d767c945-6cab-4882-a5b9-2e728333e8d8",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d767c945-6cab-4882-a5b9-2e728333e8d8",
+                "nodeTo": "31ea6099-a29e-45c6-b141-9a94609e7e0b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3364ed3c-3176-475b-8751-59dd8e457dc1",
+                "nodeTo": "31ea6099-a29e-45c6-b141-9a94609e7e0b",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "cad57566-55e8-442c-8b40-b7454b40c094",
+                "nodeTo": "31ea6099-a29e-45c6-b141-9a94609e7e0b",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "34431937-239b-4093-9b40-420b49ed6ded",
+                "nodeTo": "4c748d38-c267-4e53-a79e-194604300b05",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d387cd88-1e5a-4d26-bb73-e8c533e15553",
+                "nodeTo": "4c748d38-c267-4e53-a79e-194604300b05",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "31ea6099-a29e-45c6-b141-9a94609e7e0b",
+                "nodeTo": "4c748d38-c267-4e53-a79e-194604300b05",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4c748d38-c267-4e53-a79e-194604300b05",
+                "nodeTo": "729cc87d-bd50-4058-92be-1c3a77d70dc7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4c748d38-c267-4e53-a79e-194604300b05",
+                "nodeTo": "e1679ea7-5a1b-4e46-ac5e-a08ee97c2c48",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-24 17:16:09"
+}

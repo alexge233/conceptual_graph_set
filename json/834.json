@@ -1,0 +1,82 @@
+{
+    "uuid": 834,
+    "text": "Cancer researchers find key protein link",
+    "graph": {
+        "version": 1,
+        "guid": "960d9081-859b-46ec-beed-b8b760022953",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "find",
+                "id": "837a71dc-7d4a-4c68-aba5-e4354a67956a",
+                "index": 2,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Cancer",
+                "id": "2bb58c1d-a093-456e-97e3-5d0aa0c8e37b",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "researchers",
+                "id": "11d88c6a-2a12-47d0-a7c5-62ebbdb9cc01",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "key",
+                "id": "7b672bde-090a-4c56-8399-93a66c3bb2d6",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "protein",
+                "id": "9d36a5a3-de10-4a47-900d-9a9c14e0b413",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "link",
+                "id": "7d931a15-6188-4820-9d09-a8a5315719a5",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "2bb58c1d-a093-456e-97e3-5d0aa0c8e37b",
+                "nodeTo": "837a71dc-7d4a-4c68-aba5-e4354a67956a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "11d88c6a-2a12-47d0-a7c5-62ebbdb9cc01",
+                "nodeTo": "837a71dc-7d4a-4c68-aba5-e4354a67956a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "837a71dc-7d4a-4c68-aba5-e4354a67956a",
+                "nodeTo": "7b672bde-090a-4c56-8399-93a66c3bb2d6",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "837a71dc-7d4a-4c68-aba5-e4354a67956a",
+                "nodeTo": "9d36a5a3-de10-4a47-900d-9a9c14e0b413",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "837a71dc-7d4a-4c68-aba5-e4354a67956a",
+                "nodeTo": "7d931a15-6188-4820-9d09-a8a5315719a5",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-16 20:27:11"
+}

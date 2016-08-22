@@ -1,0 +1,304 @@
+{
+    "uuid": 65,
+    "text": "Eating seven or more portions of fruit and vegetables per day is healthier than five now recommended and would prolong lives researchers say",
+    "graph": {
+        "version": 1,
+        "guid": "76be414b-b25c-4ad4-9e84-b89473b0b0a9",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "Eating",
+                "id": "920b8d6c-cd09-4767-a45e-020aada0a587",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "or",
+                "id": "146ccb25-5de2-4d14-bea9-bbc533981a9e",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "30cb47c5-e4b5-4bc6-a621-4a36d7722612",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "34e611e6-ea93-49c8-9417-7875b720da59",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "per",
+                "id": "d5a40602-54e5-4364-a94a-3d43e82a8a7b",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "is",
+                "id": "50496289-39dc-4179-8480-bbb083b69c27",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "than",
+                "id": "739cdde3-1b91-43a4-8a1d-edba72b55604",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "recommended",
+                "id": "7ca2abad-5994-4d0a-9318-ce8bc1097118",
+                "index": 16,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "a407ec2c-b825-45de-8da6-96be11750eac",
+                "index": 17,
+                "postag": "NA"
+            },
+            {
+                "label": "prolong",
+                "id": "ea71e3cb-0540-4401-8b29-51d84d547602",
+                "postag": "NA",
+                "index": 19
+            },
+            {
+                "label": "say",
+                "id": "a4761c87-bc0b-4590-829e-13030431b15e",
+                "index": 22,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "seven",
+                "id": "9ca0ed1d-40ab-4ab6-abe3-60b56b51e1b1",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "more",
+                "id": "1b80c27e-e799-45e1-b449-7eed76497c50",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "portions",
+                "id": "0157a964-254c-4d58-80b8-e9d92a8316e0",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "fruit",
+                "id": "d3b71940-9530-44ab-8689-6a1de1bda253",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "vegetables",
+                "id": "8bc8d926-46c9-4d81-8a79-ed4cc0b9b90c",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "day",
+                "id": "733a0394-55ed-4515-8dc5-db996191b023",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "healthier",
+                "id": "b697ae6b-7a11-49e6-9053-d132edb3e3d3",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "five",
+                "id": "3b6a26b3-d7d3-4905-bd38-77d6daaa32dd",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "now",
+                "id": "5eb04209-9dd0-4429-95d0-d8d3b7e2cc6c",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "lives",
+                "id": "47603e08-2497-4078-ba54-927117566d99",
+                "index": 20,
+                "postag": "NA"
+            },
+            {
+                "label": "would",
+                "id": "c5dbd534-3dcb-43ae-8091-abccbba19404",
+                "postag": "NA",
+                "index": 18
+            },
+            {
+                "label": "researchers",
+                "id": "65610746-01d3-43b8-b0e7-1a1ebab95a24",
+                "index": 21,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "920b8d6c-cd09-4767-a45e-020aada0a587",
+                "nodeTo": "9ca0ed1d-40ab-4ab6-abe3-60b56b51e1b1",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "920b8d6c-cd09-4767-a45e-020aada0a587",
+                "nodeTo": "0157a964-254c-4d58-80b8-e9d92a8316e0",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9ca0ed1d-40ab-4ab6-abe3-60b56b51e1b1",
+                "nodeTo": "146ccb25-5de2-4d14-bea9-bbc533981a9e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "146ccb25-5de2-4d14-bea9-bbc533981a9e",
+                "nodeTo": "1b80c27e-e799-45e1-b449-7eed76497c50",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0157a964-254c-4d58-80b8-e9d92a8316e0",
+                "nodeTo": "30cb47c5-e4b5-4bc6-a621-4a36d7722612",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "30cb47c5-e4b5-4bc6-a621-4a36d7722612",
+                "nodeTo": "d3b71940-9530-44ab-8689-6a1de1bda253",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d3b71940-9530-44ab-8689-6a1de1bda253",
+                "nodeTo": "34e611e6-ea93-49c8-9417-7875b720da59",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "34e611e6-ea93-49c8-9417-7875b720da59",
+                "nodeTo": "8bc8d926-46c9-4d81-8a79-ed4cc0b9b90c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9ca0ed1d-40ab-4ab6-abe3-60b56b51e1b1",
+                "nodeTo": "d5a40602-54e5-4364-a94a-3d43e82a8a7b",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d5a40602-54e5-4364-a94a-3d43e82a8a7b",
+                "nodeTo": "733a0394-55ed-4515-8dc5-db996191b023",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0157a964-254c-4d58-80b8-e9d92a8316e0",
+                "nodeTo": "d5a40602-54e5-4364-a94a-3d43e82a8a7b",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9ca0ed1d-40ab-4ab6-abe3-60b56b51e1b1",
+                "nodeTo": "50496289-39dc-4179-8480-bbb083b69c27",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0157a964-254c-4d58-80b8-e9d92a8316e0",
+                "nodeTo": "50496289-39dc-4179-8480-bbb083b69c27",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "50496289-39dc-4179-8480-bbb083b69c27",
+                "nodeTo": "b697ae6b-7a11-49e6-9053-d132edb3e3d3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b697ae6b-7a11-49e6-9053-d132edb3e3d3",
+                "nodeTo": "739cdde3-1b91-43a4-8a1d-edba72b55604",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "739cdde3-1b91-43a4-8a1d-edba72b55604",
+                "nodeTo": "3b6a26b3-d7d3-4905-bd38-77d6daaa32dd",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5eb04209-9dd0-4429-95d0-d8d3b7e2cc6c",
+                "nodeTo": "7ca2abad-5994-4d0a-9318-ce8bc1097118",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "50496289-39dc-4179-8480-bbb083b69c27",
+                "nodeTo": "5eb04209-9dd0-4429-95d0-d8d3b7e2cc6c",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b697ae6b-7a11-49e6-9053-d132edb3e3d3",
+                "nodeTo": "a407ec2c-b825-45de-8da6-96be11750eac",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a407ec2c-b825-45de-8da6-96be11750eac",
+                "nodeTo": "c5dbd534-3dcb-43ae-8091-abccbba19404",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c5dbd534-3dcb-43ae-8091-abccbba19404",
+                "nodeTo": "ea71e3cb-0540-4401-8b29-51d84d547602",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ea71e3cb-0540-4401-8b29-51d84d547602",
+                "nodeTo": "47603e08-2497-4078-ba54-927117566d99",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "65610746-01d3-43b8-b0e7-1a1ebab95a24",
+                "nodeTo": "a4761c87-bc0b-4590-829e-13030431b15e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a4761c87-bc0b-4590-829e-13030431b15e",
+                "nodeTo": "9ca0ed1d-40ab-4ab6-abe3-60b56b51e1b1",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a4761c87-bc0b-4590-829e-13030431b15e",
+                "nodeTo": "0157a964-254c-4d58-80b8-e9d92a8316e0",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-03-27 18:29:56"
+}

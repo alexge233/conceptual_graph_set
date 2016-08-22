@@ -1,0 +1,328 @@
+{
+    "uuid": 1166,
+    "text": "Researchers studying tiny antennae like structures called cilia have found potential way to ease some of physical damage of numerous genetic disorders",
+    "graph": {
+        "version": 1,
+        "guid": "9b7d650b-d31b-43ed-a107-06ec87c39ca8",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "studying",
+                "id": "0a360472-1423-4a0c-b826-871620cd92a6",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "like",
+                "id": "868e3638-29c3-4647-a44d-b21680549360",
+                "postag": "NA",
+                "index": 4
+            },
+            {
+                "label": "called",
+                "id": "e84068b7-0455-431b-94b8-76ec0897ad49",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "have",
+                "id": "003c0ca9-5904-473a-8620-b539d76dc128",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "found",
+                "id": "87d3ec3c-0e48-47ab-a318-b7d11ac1a590",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "3bb97403-593b-4345-8563-641de9ee6736",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "ease",
+                "id": "4e8b0805-c989-46c1-b8c6-68b2aac3a95c",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "020ce128-6918-48a4-b946-d155d2822bb5",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "6924b365-9c85-4992-b993-6b24da0e94a1",
+                "index": 18,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Researchers",
+                "id": "976ae733-4d60-4430-9ac6-e09a238e4617",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "tiny",
+                "id": "5b6c8069-27a8-4c9d-87ae-4e51e2a2004a",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "antennae",
+                "id": "59260235-acc1-4390-b422-8ec6ed4ed7ac",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "structures",
+                "id": "19083309-5db3-4ae3-ab5e-218bd86eaee7",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "cilia",
+                "id": "ceb759a0-4c2c-4ea6-a384-c6503bd73e9a",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "potential",
+                "id": "24b55173-12c6-43b7-a216-e2965cdd9224",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "way",
+                "id": "7cb998cc-92a6-4534-9828-8e7d867a8150",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "some",
+                "id": "68ccbc49-2d11-451b-a78e-130a7d3937d9",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "physical",
+                "id": "b628c004-34e6-4153-91ae-696e573c5479",
+                "index": 16,
+                "postag": "NA"
+            },
+            {
+                "label": "damage",
+                "id": "95b79d04-8e6c-43ed-b149-617de6a6642a",
+                "index": 17,
+                "postag": "NA"
+            },
+            {
+                "label": "numerous",
+                "id": "21bdac15-876d-4910-b3dd-d097b64d81c8",
+                "index": 19,
+                "postag": "NA"
+            },
+            {
+                "label": "genetic",
+                "id": "a17cab49-0d27-4bc1-807a-99034e56cc16",
+                "index": 20,
+                "postag": "NA"
+            },
+            {
+                "label": "disorders",
+                "id": "c0892ad9-879e-4546-9192-67a75ce50ba8",
+                "index": 21,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "976ae733-4d60-4430-9ac6-e09a238e4617",
+                "nodeTo": "0a360472-1423-4a0c-b826-871620cd92a6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0a360472-1423-4a0c-b826-871620cd92a6",
+                "nodeTo": "5b6c8069-27a8-4c9d-87ae-4e51e2a2004a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0a360472-1423-4a0c-b826-871620cd92a6",
+                "nodeTo": "59260235-acc1-4390-b422-8ec6ed4ed7ac",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0a360472-1423-4a0c-b826-871620cd92a6",
+                "nodeTo": "19083309-5db3-4ae3-ab5e-218bd86eaee7",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "19083309-5db3-4ae3-ab5e-218bd86eaee7",
+                "nodeTo": "868e3638-29c3-4647-a44d-b21680549360",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "868e3638-29c3-4647-a44d-b21680549360",
+                "nodeTo": "59260235-acc1-4390-b422-8ec6ed4ed7ac",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5b6c8069-27a8-4c9d-87ae-4e51e2a2004a",
+                "nodeTo": "e84068b7-0455-431b-94b8-76ec0897ad49",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "59260235-acc1-4390-b422-8ec6ed4ed7ac",
+                "nodeTo": "e84068b7-0455-431b-94b8-76ec0897ad49",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "19083309-5db3-4ae3-ab5e-218bd86eaee7",
+                "nodeTo": "e84068b7-0455-431b-94b8-76ec0897ad49",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e84068b7-0455-431b-94b8-76ec0897ad49",
+                "nodeTo": "ceb759a0-4c2c-4ea6-a384-c6503bd73e9a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "976ae733-4d60-4430-9ac6-e09a238e4617",
+                "nodeTo": "003c0ca9-5904-473a-8620-b539d76dc128",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "976ae733-4d60-4430-9ac6-e09a238e4617",
+                "nodeTo": "87d3ec3c-0e48-47ab-a318-b7d11ac1a590",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "003c0ca9-5904-473a-8620-b539d76dc128",
+                "nodeTo": "24b55173-12c6-43b7-a216-e2965cdd9224",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "87d3ec3c-0e48-47ab-a318-b7d11ac1a590",
+                "nodeTo": "24b55173-12c6-43b7-a216-e2965cdd9224",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "003c0ca9-5904-473a-8620-b539d76dc128",
+                "nodeTo": "7cb998cc-92a6-4534-9828-8e7d867a8150",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "87d3ec3c-0e48-47ab-a318-b7d11ac1a590",
+                "nodeTo": "7cb998cc-92a6-4534-9828-8e7d867a8150",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "24b55173-12c6-43b7-a216-e2965cdd9224",
+                "nodeTo": "3bb97403-593b-4345-8563-641de9ee6736",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7cb998cc-92a6-4534-9828-8e7d867a8150",
+                "nodeTo": "3bb97403-593b-4345-8563-641de9ee6736",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "24b55173-12c6-43b7-a216-e2965cdd9224",
+                "nodeTo": "4e8b0805-c989-46c1-b8c6-68b2aac3a95c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7cb998cc-92a6-4534-9828-8e7d867a8150",
+                "nodeTo": "4e8b0805-c989-46c1-b8c6-68b2aac3a95c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3bb97403-593b-4345-8563-641de9ee6736",
+                "nodeTo": "68ccbc49-2d11-451b-a78e-130a7d3937d9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4e8b0805-c989-46c1-b8c6-68b2aac3a95c",
+                "nodeTo": "68ccbc49-2d11-451b-a78e-130a7d3937d9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "68ccbc49-2d11-451b-a78e-130a7d3937d9",
+                "nodeTo": "020ce128-6918-48a4-b946-d155d2822bb5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "020ce128-6918-48a4-b946-d155d2822bb5",
+                "nodeTo": "b628c004-34e6-4153-91ae-696e573c5479",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "020ce128-6918-48a4-b946-d155d2822bb5",
+                "nodeTo": "95b79d04-8e6c-43ed-b149-617de6a6642a",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b628c004-34e6-4153-91ae-696e573c5479",
+                "nodeTo": "6924b365-9c85-4992-b993-6b24da0e94a1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "95b79d04-8e6c-43ed-b149-617de6a6642a",
+                "nodeTo": "6924b365-9c85-4992-b993-6b24da0e94a1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6924b365-9c85-4992-b993-6b24da0e94a1",
+                "nodeTo": "21bdac15-876d-4910-b3dd-d097b64d81c8",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6924b365-9c85-4992-b993-6b24da0e94a1",
+                "nodeTo": "a17cab49-0d27-4bc1-807a-99034e56cc16",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6924b365-9c85-4992-b993-6b24da0e94a1",
+                "nodeTo": "c0892ad9-879e-4546-9192-67a75ce50ba8",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-24 17:43:03"
+}

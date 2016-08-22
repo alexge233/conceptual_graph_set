@@ -1,0 +1,232 @@
+{
+    "uuid": 763,
+    "text": "Hospitals in England have fraction of number of doctors on site at weekends as they do during week",
+    "graph": {
+        "version": 1,
+        "guid": "24a0e257-ab87-4d98-9ad2-64a510de0393",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "in",
+                "id": "10eea773-064d-441b-a7c6-67376d9ec507",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "have",
+                "id": "11687cdb-72e4-47e9-884b-7466ea77a88d",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "2d7d5156-4346-4193-9190-a1263d82c52c",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "25a5da9a-64b1-4801-9da4-7ecc6d31d524",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "on",
+                "id": "8b87dd13-d464-4b2b-b1bd-aeb4b0328c34",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "at",
+                "id": "9e7d3c77-8c5d-4db9-8419-773a7b05130b",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "as",
+                "id": "a9764cea-37c5-4441-8da2-dc7712cd5a33",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "do",
+                "id": "b084b90c-9573-4d69-be62-dbe426ab2de8",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "during",
+                "id": "55e84263-3eb9-45d0-9266-b31bdc510402",
+                "index": 16,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Hospitals",
+                "id": "4686891e-7653-4846-9644-9d2426a529a3",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "England",
+                "id": "1bc39608-830d-4d3e-8c68-ed64a40e7767",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "fraction",
+                "id": "6261e375-3a1b-4223-95c5-92a97094572a",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "number",
+                "id": "c34b911a-8309-4e31-9c96-37ae3c58bbd9",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "doctors",
+                "id": "57804716-3ac0-4891-83b1-903719987936",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "site",
+                "id": "e000e255-a3cb-4a9a-953b-7a4967d91345",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "weekends",
+                "id": "2425d976-e178-4624-be62-3b9766dd2170",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "they",
+                "id": "5aa5dbc1-99ab-4cc5-a964-e14544110661",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "week",
+                "id": "cce1c39b-db97-40d9-8163-d097ae75456e",
+                "index": 17,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "4686891e-7653-4846-9644-9d2426a529a3",
+                "nodeTo": "10eea773-064d-441b-a7c6-67376d9ec507",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "10eea773-064d-441b-a7c6-67376d9ec507",
+                "nodeTo": "1bc39608-830d-4d3e-8c68-ed64a40e7767",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4686891e-7653-4846-9644-9d2426a529a3",
+                "nodeTo": "11687cdb-72e4-47e9-884b-7466ea77a88d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "11687cdb-72e4-47e9-884b-7466ea77a88d",
+                "nodeTo": "6261e375-3a1b-4223-95c5-92a97094572a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6261e375-3a1b-4223-95c5-92a97094572a",
+                "nodeTo": "2d7d5156-4346-4193-9190-a1263d82c52c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2d7d5156-4346-4193-9190-a1263d82c52c",
+                "nodeTo": "c34b911a-8309-4e31-9c96-37ae3c58bbd9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c34b911a-8309-4e31-9c96-37ae3c58bbd9",
+                "nodeTo": "25a5da9a-64b1-4801-9da4-7ecc6d31d524",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "25a5da9a-64b1-4801-9da4-7ecc6d31d524",
+                "nodeTo": "57804716-3ac0-4891-83b1-903719987936",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "57804716-3ac0-4891-83b1-903719987936",
+                "nodeTo": "8b87dd13-d464-4b2b-b1bd-aeb4b0328c34",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8b87dd13-d464-4b2b-b1bd-aeb4b0328c34",
+                "nodeTo": "e000e255-a3cb-4a9a-953b-7a4967d91345",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6261e375-3a1b-4223-95c5-92a97094572a",
+                "nodeTo": "9e7d3c77-8c5d-4db9-8419-773a7b05130b",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9e7d3c77-8c5d-4db9-8419-773a7b05130b",
+                "nodeTo": "2425d976-e178-4624-be62-3b9766dd2170",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2425d976-e178-4624-be62-3b9766dd2170",
+                "nodeTo": "a9764cea-37c5-4441-8da2-dc7712cd5a33",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a9764cea-37c5-4441-8da2-dc7712cd5a33",
+                "nodeTo": "5aa5dbc1-99ab-4cc5-a964-e14544110661",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5aa5dbc1-99ab-4cc5-a964-e14544110661",
+                "nodeTo": "b084b90c-9573-4d69-be62-dbe426ab2de8",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5aa5dbc1-99ab-4cc5-a964-e14544110661",
+                "nodeTo": "55e84263-3eb9-45d0-9266-b31bdc510402",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b084b90c-9573-4d69-be62-dbe426ab2de8",
+                "nodeTo": "cce1c39b-db97-40d9-8163-d097ae75456e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "55e84263-3eb9-45d0-9266-b31bdc510402",
+                "nodeTo": "cce1c39b-db97-40d9-8163-d097ae75456e",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-13 21:14:14"
+}

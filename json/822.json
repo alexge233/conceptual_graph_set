@@ -1,0 +1,250 @@
+{
+    "uuid": 822,
+    "text": "that is true in flat petri dish but not in three dimensional space of actual body",
+    "graph": {
+        "version": 1,
+        "guid": "4092c950-44ed-496c-9d6b-654ec77d0ca9",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "is",
+                "id": "e6e1ae88-94a2-4410-9cbc-8a5e1778e054",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "a27612d2-5982-4d85-94ed-dab3b1013908",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "but",
+                "id": "37004b3e-c2b9-4e18-85c3-c23413294260",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "not",
+                "id": "5a362be3-823a-4c06-a71d-058613eae26a",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "b3773347-765b-4647-a522-49d8ce62157d",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "a8096ebb-cd1a-4d68-8976-8c2388086901",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "that",
+                "id": "900a4e85-a3c6-484a-88c5-4698bb1dedc9",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "true",
+                "id": "b3b26c60-8d82-4d67-81d9-ce3ad1b9d814",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "flat",
+                "id": "b8507ce6-7739-4c6a-93b5-e852cab4d2e7",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "petri",
+                "id": "bd3405da-445b-461b-9003-e1118718059a",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "dish",
+                "id": "36a90e7d-393a-411c-a2c0-ae8a7d8e16b9",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "three",
+                "id": "69cec548-94cc-4b1b-b683-8ca06272cac5",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "dimensional",
+                "id": "267c4da5-b686-45be-8d81-0c63a0150a31",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "space",
+                "id": "d3261a53-e68e-4442-be1d-46c3ae4dc5c4",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "actual",
+                "id": "c45b2b17-1342-4c2a-9dc2-cb56b33cc21a",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "body",
+                "id": "09764b22-89d7-4d78-be5a-ccd2e016dbe1",
+                "index": 15,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "900a4e85-a3c6-484a-88c5-4698bb1dedc9",
+                "nodeTo": "e6e1ae88-94a2-4410-9cbc-8a5e1778e054",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e6e1ae88-94a2-4410-9cbc-8a5e1778e054",
+                "nodeTo": "b3b26c60-8d82-4d67-81d9-ce3ad1b9d814",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b3b26c60-8d82-4d67-81d9-ce3ad1b9d814",
+                "nodeTo": "a27612d2-5982-4d85-94ed-dab3b1013908",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a27612d2-5982-4d85-94ed-dab3b1013908",
+                "nodeTo": "b8507ce6-7739-4c6a-93b5-e852cab4d2e7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a27612d2-5982-4d85-94ed-dab3b1013908",
+                "nodeTo": "bd3405da-445b-461b-9003-e1118718059a",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a27612d2-5982-4d85-94ed-dab3b1013908",
+                "nodeTo": "36a90e7d-393a-411c-a2c0-ae8a7d8e16b9",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b3b26c60-8d82-4d67-81d9-ce3ad1b9d814",
+                "nodeTo": "37004b3e-c2b9-4e18-85c3-c23413294260",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b3b26c60-8d82-4d67-81d9-ce3ad1b9d814",
+                "nodeTo": "5a362be3-823a-4c06-a71d-058613eae26a",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b3b26c60-8d82-4d67-81d9-ce3ad1b9d814",
+                "nodeTo": "b3773347-765b-4647-a522-49d8ce62157d",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "37004b3e-c2b9-4e18-85c3-c23413294260",
+                "nodeTo": "69cec548-94cc-4b1b-b683-8ca06272cac5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5a362be3-823a-4c06-a71d-058613eae26a",
+                "nodeTo": "69cec548-94cc-4b1b-b683-8ca06272cac5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b3773347-765b-4647-a522-49d8ce62157d",
+                "nodeTo": "69cec548-94cc-4b1b-b683-8ca06272cac5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "37004b3e-c2b9-4e18-85c3-c23413294260",
+                "nodeTo": "267c4da5-b686-45be-8d81-0c63a0150a31",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5a362be3-823a-4c06-a71d-058613eae26a",
+                "nodeTo": "267c4da5-b686-45be-8d81-0c63a0150a31",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b3773347-765b-4647-a522-49d8ce62157d",
+                "nodeTo": "267c4da5-b686-45be-8d81-0c63a0150a31",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "37004b3e-c2b9-4e18-85c3-c23413294260",
+                "nodeTo": "d3261a53-e68e-4442-be1d-46c3ae4dc5c4",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5a362be3-823a-4c06-a71d-058613eae26a",
+                "nodeTo": "d3261a53-e68e-4442-be1d-46c3ae4dc5c4",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b3773347-765b-4647-a522-49d8ce62157d",
+                "nodeTo": "d3261a53-e68e-4442-be1d-46c3ae4dc5c4",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "69cec548-94cc-4b1b-b683-8ca06272cac5",
+                "nodeTo": "a8096ebb-cd1a-4d68-8976-8c2388086901",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "267c4da5-b686-45be-8d81-0c63a0150a31",
+                "nodeTo": "a8096ebb-cd1a-4d68-8976-8c2388086901",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d3261a53-e68e-4442-be1d-46c3ae4dc5c4",
+                "nodeTo": "a8096ebb-cd1a-4d68-8976-8c2388086901",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a8096ebb-cd1a-4d68-8976-8c2388086901",
+                "nodeTo": "c45b2b17-1342-4c2a-9dc2-cb56b33cc21a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a8096ebb-cd1a-4d68-8976-8c2388086901",
+                "nodeTo": "09764b22-89d7-4d78-be5a-ccd2e016dbe1",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-16 19:23:34"
+}

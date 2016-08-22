@@ -1,0 +1,178 @@
+{
+    "uuid": 816,
+    "text": "Canadas drinking age laws have significant effect on youth mortality study demonstrates",
+    "graph": {
+        "version": 1,
+        "guid": "23148287-3e31-40ce-9eb1-a6e44bac9c40",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "have",
+                "id": "79637a87-7bed-454a-8546-ac39e15220d8",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "on",
+                "id": "1e806e50-0bd7-46a6-81ad-93a52ee8cee4",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "demonstrates",
+                "id": "1213be87-5c45-4817-83e0-7e5cb2cbd4dd",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Canadas",
+                "id": "47143b06-7eba-45ee-ae7d-e86da635199d",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "drinking",
+                "id": "1a988175-48b7-49db-8029-b083a972928b",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "age",
+                "id": "c140a7ca-1edb-453c-b14a-96dc03298379",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "laws",
+                "id": "69637712-5292-4b95-a068-1180716e79b8",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "significant",
+                "id": "09ee2623-5ea5-4c60-bea3-c0376929c420",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "effect",
+                "id": "42a9c585-dc2d-4be3-8715-c05754d93592",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "youth",
+                "id": "2bae3952-e9c2-4e90-9acd-0b195dca3ca2",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "mortality",
+                "id": "057e4bb8-8864-4285-b85e-b55c099492a9",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "study",
+                "id": "2889b020-b191-427d-a40d-b31a4d194ba9",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "47143b06-7eba-45ee-ae7d-e86da635199d",
+                "nodeTo": "79637a87-7bed-454a-8546-ac39e15220d8",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1a988175-48b7-49db-8029-b083a972928b",
+                "nodeTo": "79637a87-7bed-454a-8546-ac39e15220d8",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c140a7ca-1edb-453c-b14a-96dc03298379",
+                "nodeTo": "79637a87-7bed-454a-8546-ac39e15220d8",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "69637712-5292-4b95-a068-1180716e79b8",
+                "nodeTo": "79637a87-7bed-454a-8546-ac39e15220d8",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "79637a87-7bed-454a-8546-ac39e15220d8",
+                "nodeTo": "09ee2623-5ea5-4c60-bea3-c0376929c420",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "79637a87-7bed-454a-8546-ac39e15220d8",
+                "nodeTo": "42a9c585-dc2d-4be3-8715-c05754d93592",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "09ee2623-5ea5-4c60-bea3-c0376929c420",
+                "nodeTo": "1e806e50-0bd7-46a6-81ad-93a52ee8cee4",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "42a9c585-dc2d-4be3-8715-c05754d93592",
+                "nodeTo": "1e806e50-0bd7-46a6-81ad-93a52ee8cee4",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1e806e50-0bd7-46a6-81ad-93a52ee8cee4",
+                "nodeTo": "2bae3952-e9c2-4e90-9acd-0b195dca3ca2",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1e806e50-0bd7-46a6-81ad-93a52ee8cee4",
+                "nodeTo": "057e4bb8-8864-4285-b85e-b55c099492a9",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2889b020-b191-427d-a40d-b31a4d194ba9",
+                "nodeTo": "1213be87-5c45-4817-83e0-7e5cb2cbd4dd",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1213be87-5c45-4817-83e0-7e5cb2cbd4dd",
+                "nodeTo": "47143b06-7eba-45ee-ae7d-e86da635199d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1213be87-5c45-4817-83e0-7e5cb2cbd4dd",
+                "nodeTo": "1a988175-48b7-49db-8029-b083a972928b",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1213be87-5c45-4817-83e0-7e5cb2cbd4dd",
+                "nodeTo": "c140a7ca-1edb-453c-b14a-96dc03298379",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1213be87-5c45-4817-83e0-7e5cb2cbd4dd",
+                "nodeTo": "69637712-5292-4b95-a068-1180716e79b8",
+                "index": 4,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-16 19:04:26"
+}

@@ -1,0 +1,238 @@
+{
+    "uuid": 853,
+    "text": "When cells rapidly grow during cancer progression they become stuck in their current stage of development",
+    "graph": {
+        "version": 1,
+        "guid": "902ce799-39b8-40d5-b779-44b9068ad2d0",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "When",
+                "id": "3242eea5-7150-4a08-be48-e76cdc36908c",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "grow",
+                "id": "273c1bc6-d106-4501-9334-6770a73d815d",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "during",
+                "id": "4dc57be8-e9a2-44c8-89ea-75774bbb8b4e",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "rapidly",
+                "id": "01539ddc-19e5-464b-91a0-12952377aac3",
+                "postag": "NA",
+                "index": 2
+            },
+            {
+                "label": "become",
+                "id": "de664d9b-3dce-4ec5-a9d9-ac53833d5975",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "b200d888-ad0a-4a34-a81c-5626c541c83d",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "1c5addbd-7d11-4968-9dd1-0b53875427dc",
+                "index": 14,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "cells",
+                "id": "0752ab3e-a5e6-46bd-b491-85dd81aa0e6c",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "cancer",
+                "id": "ae1d114e-677a-4ddd-a96c-80646a470209",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "progression",
+                "id": "15643554-930b-4ad5-8a7e-24d61499442a",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "they",
+                "id": "9d484887-a440-4c71-8be6-59a72b9e16b1",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "stuck",
+                "id": "68a46909-2579-43b0-878a-7b34a2a392e5",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "their",
+                "id": "2755e5a5-2dd7-4764-a7a3-de34d666b396",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "current",
+                "id": "358ec016-6b74-400c-b933-22e40bd219b2",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "stage",
+                "id": "6bdd5d20-c07d-448b-89e8-b0419bc4d9bb",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "development",
+                "id": "13871ec0-e1d3-4468-9e9b-300a83c0d6aa",
+                "index": 15,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "3242eea5-7150-4a08-be48-e76cdc36908c",
+                "nodeTo": "0752ab3e-a5e6-46bd-b491-85dd81aa0e6c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0752ab3e-a5e6-46bd-b491-85dd81aa0e6c",
+                "nodeTo": "01539ddc-19e5-464b-91a0-12952377aac3",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0752ab3e-a5e6-46bd-b491-85dd81aa0e6c",
+                "nodeTo": "273c1bc6-d106-4501-9334-6770a73d815d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0752ab3e-a5e6-46bd-b491-85dd81aa0e6c",
+                "nodeTo": "4dc57be8-e9a2-44c8-89ea-75774bbb8b4e",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "01539ddc-19e5-464b-91a0-12952377aac3",
+                "nodeTo": "ae1d114e-677a-4ddd-a96c-80646a470209",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "273c1bc6-d106-4501-9334-6770a73d815d",
+                "nodeTo": "ae1d114e-677a-4ddd-a96c-80646a470209",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4dc57be8-e9a2-44c8-89ea-75774bbb8b4e",
+                "nodeTo": "ae1d114e-677a-4ddd-a96c-80646a470209",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "01539ddc-19e5-464b-91a0-12952377aac3",
+                "nodeTo": "15643554-930b-4ad5-8a7e-24d61499442a",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "273c1bc6-d106-4501-9334-6770a73d815d",
+                "nodeTo": "15643554-930b-4ad5-8a7e-24d61499442a",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4dc57be8-e9a2-44c8-89ea-75774bbb8b4e",
+                "nodeTo": "15643554-930b-4ad5-8a7e-24d61499442a",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3242eea5-7150-4a08-be48-e76cdc36908c",
+                "nodeTo": "9d484887-a440-4c71-8be6-59a72b9e16b1",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9d484887-a440-4c71-8be6-59a72b9e16b1",
+                "nodeTo": "de664d9b-3dce-4ec5-a9d9-ac53833d5975",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "de664d9b-3dce-4ec5-a9d9-ac53833d5975",
+                "nodeTo": "68a46909-2579-43b0-878a-7b34a2a392e5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "68a46909-2579-43b0-878a-7b34a2a392e5",
+                "nodeTo": "b200d888-ad0a-4a34-a81c-5626c541c83d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b200d888-ad0a-4a34-a81c-5626c541c83d",
+                "nodeTo": "2755e5a5-2dd7-4764-a7a3-de34d666b396",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b200d888-ad0a-4a34-a81c-5626c541c83d",
+                "nodeTo": "358ec016-6b74-400c-b933-22e40bd219b2",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b200d888-ad0a-4a34-a81c-5626c541c83d",
+                "nodeTo": "6bdd5d20-c07d-448b-89e8-b0419bc4d9bb",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2755e5a5-2dd7-4764-a7a3-de34d666b396",
+                "nodeTo": "1c5addbd-7d11-4968-9dd1-0b53875427dc",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "358ec016-6b74-400c-b933-22e40bd219b2",
+                "nodeTo": "1c5addbd-7d11-4968-9dd1-0b53875427dc",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6bdd5d20-c07d-448b-89e8-b0419bc4d9bb",
+                "nodeTo": "1c5addbd-7d11-4968-9dd1-0b53875427dc",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1c5addbd-7d11-4968-9dd1-0b53875427dc",
+                "nodeTo": "13871ec0-e1d3-4468-9e9b-300a83c0d6aa",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-19 14:12:54"
+}

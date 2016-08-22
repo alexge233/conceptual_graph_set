@@ -1,0 +1,118 @@
+{
+    "uuid": 666,
+    "text": "Boring cells could hold key to heart disease",
+    "graph": {
+        "version": 1,
+        "guid": "c9028d94-b4a3-4a09-867c-1a16b514ac1e",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "could",
+                "id": "31ed385b-84bb-433b-a7cb-57e02d52e27b",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "hold",
+                "id": "6a6c932d-3124-4e87-bd9e-e5aa27dace5b",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "31267300-02d1-4212-9d1e-e66de40800c4",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Boring",
+                "id": "89e29c49-4b48-4b16-9c62-2e87205c45e7",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "cells",
+                "id": "75ec5379-6265-4a02-bdb1-60811891842b",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "key",
+                "id": "75047d99-8e51-4253-a23c-be5be2324e2c",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "heart",
+                "id": "7885b81d-c363-47b6-a900-d24873669217",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "disease",
+                "id": "611bc4a7-e620-401c-a542-d86b3b1a825c",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "89e29c49-4b48-4b16-9c62-2e87205c45e7",
+                "nodeTo": "31ed385b-84bb-433b-a7cb-57e02d52e27b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "89e29c49-4b48-4b16-9c62-2e87205c45e7",
+                "nodeTo": "6a6c932d-3124-4e87-bd9e-e5aa27dace5b",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "75ec5379-6265-4a02-bdb1-60811891842b",
+                "nodeTo": "31ed385b-84bb-433b-a7cb-57e02d52e27b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "75ec5379-6265-4a02-bdb1-60811891842b",
+                "nodeTo": "6a6c932d-3124-4e87-bd9e-e5aa27dace5b",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "31ed385b-84bb-433b-a7cb-57e02d52e27b",
+                "nodeTo": "75047d99-8e51-4253-a23c-be5be2324e2c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6a6c932d-3124-4e87-bd9e-e5aa27dace5b",
+                "nodeTo": "75047d99-8e51-4253-a23c-be5be2324e2c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "75047d99-8e51-4253-a23c-be5be2324e2c",
+                "nodeTo": "31267300-02d1-4212-9d1e-e66de40800c4",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "31267300-02d1-4212-9d1e-e66de40800c4",
+                "nodeTo": "7885b81d-c363-47b6-a900-d24873669217",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "31267300-02d1-4212-9d1e-e66de40800c4",
+                "nodeTo": "611bc4a7-e620-401c-a542-d86b3b1a825c",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-09 19:21:44"
+}

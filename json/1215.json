@@ -1,0 +1,220 @@
+{
+    "uuid": 1215,
+    "text": "as many as 90 percent of people who contract Ebola for instance die of disease",
+    "graph": {
+        "version": 1,
+        "guid": "6548b50a-4d35-4e28-824d-22a8d038c0e8",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "as",
+                "id": "a5b1667d-37d5-4773-95b4-4ab6a18ebe69",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "as",
+                "id": "167c85dd-c56e-41cb-a391-3a7dec9729ce",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "c3721213-5954-4cbd-b826-58d81a3ae575",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "who",
+                "id": "a4a19992-303a-45d3-879d-00688657b541",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "contract",
+                "id": "92b7c682-d303-4ae5-9298-1c88d24d4423",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "1a043ab1-b543-4345-81c8-e159cce137d2",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "die",
+                "id": "aa7a6eb7-d330-42a0-a1e7-c4e87ac66d5b",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "566d22d0-a69e-4497-a265-d84a505acdc3",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "many",
+                "id": "2b4572d3-05e0-4618-ae15-820258d2770e",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": 90,
+                "id": "557a6ee1-3e95-443e-9e99-c26052998d5b",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "percent",
+                "id": "84a3ae1b-260e-4b09-b681-d64be03acebe",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "people",
+                "id": "8dd2a458-3206-47dd-b1cd-83d0332b0ecc",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "Ebola",
+                "id": "58770a07-4c30-489d-aa85-82339b0159c6",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "instance",
+                "id": "b83b365e-e6e5-49ed-9205-8136a06054e5",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "disease",
+                "id": "1c2eeb57-7be3-4208-aaed-004b525de4a1",
+                "index": 14,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "a5b1667d-37d5-4773-95b4-4ab6a18ebe69",
+                "nodeTo": "2b4572d3-05e0-4618-ae15-820258d2770e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2b4572d3-05e0-4618-ae15-820258d2770e",
+                "nodeTo": "167c85dd-c56e-41cb-a391-3a7dec9729ce",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "167c85dd-c56e-41cb-a391-3a7dec9729ce",
+                "nodeTo": "557a6ee1-3e95-443e-9e99-c26052998d5b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "167c85dd-c56e-41cb-a391-3a7dec9729ce",
+                "nodeTo": "84a3ae1b-260e-4b09-b681-d64be03acebe",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "557a6ee1-3e95-443e-9e99-c26052998d5b",
+                "nodeTo": "c3721213-5954-4cbd-b826-58d81a3ae575",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "84a3ae1b-260e-4b09-b681-d64be03acebe",
+                "nodeTo": "c3721213-5954-4cbd-b826-58d81a3ae575",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c3721213-5954-4cbd-b826-58d81a3ae575",
+                "nodeTo": "8dd2a458-3206-47dd-b1cd-83d0332b0ecc",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8dd2a458-3206-47dd-b1cd-83d0332b0ecc",
+                "nodeTo": "a4a19992-303a-45d3-879d-00688657b541",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8dd2a458-3206-47dd-b1cd-83d0332b0ecc",
+                "nodeTo": "92b7c682-d303-4ae5-9298-1c88d24d4423",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a4a19992-303a-45d3-879d-00688657b541",
+                "nodeTo": "58770a07-4c30-489d-aa85-82339b0159c6",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "92b7c682-d303-4ae5-9298-1c88d24d4423",
+                "nodeTo": "58770a07-4c30-489d-aa85-82339b0159c6",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8dd2a458-3206-47dd-b1cd-83d0332b0ecc",
+                "nodeTo": "1a043ab1-b543-4345-81c8-e159cce137d2",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1a043ab1-b543-4345-81c8-e159cce137d2",
+                "nodeTo": "b83b365e-e6e5-49ed-9205-8136a06054e5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "557a6ee1-3e95-443e-9e99-c26052998d5b",
+                "nodeTo": "aa7a6eb7-d330-42a0-a1e7-c4e87ac66d5b",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "84a3ae1b-260e-4b09-b681-d64be03acebe",
+                "nodeTo": "aa7a6eb7-d330-42a0-a1e7-c4e87ac66d5b",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "557a6ee1-3e95-443e-9e99-c26052998d5b",
+                "nodeTo": "566d22d0-a69e-4497-a265-d84a505acdc3",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "84a3ae1b-260e-4b09-b681-d64be03acebe",
+                "nodeTo": "566d22d0-a69e-4497-a265-d84a505acdc3",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "aa7a6eb7-d330-42a0-a1e7-c4e87ac66d5b",
+                "nodeTo": "1c2eeb57-7be3-4208-aaed-004b525de4a1",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "566d22d0-a69e-4497-a265-d84a505acdc3",
+                "nodeTo": "1c2eeb57-7be3-4208-aaed-004b525de4a1",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-26 21:08:17"
+}

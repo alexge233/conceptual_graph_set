@@ -1,0 +1,232 @@
+{
+    "uuid": 932,
+    "text": "Introducing three proteins in nucleus turned specific group of cells in gut lining into beta like cells",
+    "graph": {
+        "version": 1,
+        "guid": "880915a1-ac6a-407a-b768-a3ec4be895d5",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "Introducing",
+                "id": "1a6c8671-4ca2-4472-9490-2e918d6b40ba",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "cd5eceb8-9749-4503-8b1d-4c165c8630a5",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "turned",
+                "id": "1c7ce09d-4a95-46c2-b4e9-9935b80913c0",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "9eb43a89-4b57-4538-aa46-231b177de601",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "960d459d-35ca-4ec7-90cb-5a45a227723a",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "into",
+                "id": "c77e2b09-0e89-4b02-bb4d-c9140445d110",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "three",
+                "id": "06b53adb-1509-4c89-ae20-44a8115c8961",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "proteins",
+                "id": "bbd5dbe3-0dab-4689-9854-39ba753deac8",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "nucleus",
+                "id": "d43d4d80-bc2d-4a9d-800a-98de876cb4b0",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "specific",
+                "id": "a28db135-d968-4784-b6ee-5722310179cb",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "group",
+                "id": "4e68533c-06de-40cb-8087-a68bcc0bba98",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "cells",
+                "id": "b2cabe43-383c-4d4b-b8e4-9bd3b952bc33",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "gut",
+                "id": "84da8883-7d88-4d2d-957e-53d8881139ab",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "lining",
+                "id": "5c1ecc5d-e526-43b9-a628-875cd4a23650",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "beta",
+                "id": "29ab8c9a-d9ba-4180-957e-1b49767ace19",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "like",
+                "id": "263659da-19a5-4327-b6a0-24161546663b",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "cells",
+                "id": "89164a99-eed7-4dee-b015-00ebe108cb9c",
+                "index": 16,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "1a6c8671-4ca2-4472-9490-2e918d6b40ba",
+                "nodeTo": "06b53adb-1509-4c89-ae20-44a8115c8961",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1a6c8671-4ca2-4472-9490-2e918d6b40ba",
+                "nodeTo": "bbd5dbe3-0dab-4689-9854-39ba753deac8",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "06b53adb-1509-4c89-ae20-44a8115c8961",
+                "nodeTo": "cd5eceb8-9749-4503-8b1d-4c165c8630a5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bbd5dbe3-0dab-4689-9854-39ba753deac8",
+                "nodeTo": "cd5eceb8-9749-4503-8b1d-4c165c8630a5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cd5eceb8-9749-4503-8b1d-4c165c8630a5",
+                "nodeTo": "d43d4d80-bc2d-4a9d-800a-98de876cb4b0",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "06b53adb-1509-4c89-ae20-44a8115c8961",
+                "nodeTo": "1c7ce09d-4a95-46c2-b4e9-9935b80913c0",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bbd5dbe3-0dab-4689-9854-39ba753deac8",
+                "nodeTo": "1c7ce09d-4a95-46c2-b4e9-9935b80913c0",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1c7ce09d-4a95-46c2-b4e9-9935b80913c0",
+                "nodeTo": "a28db135-d968-4784-b6ee-5722310179cb",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1c7ce09d-4a95-46c2-b4e9-9935b80913c0",
+                "nodeTo": "4e68533c-06de-40cb-8087-a68bcc0bba98",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a28db135-d968-4784-b6ee-5722310179cb",
+                "nodeTo": "9eb43a89-4b57-4538-aa46-231b177de601",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4e68533c-06de-40cb-8087-a68bcc0bba98",
+                "nodeTo": "9eb43a89-4b57-4538-aa46-231b177de601",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9eb43a89-4b57-4538-aa46-231b177de601",
+                "nodeTo": "b2cabe43-383c-4d4b-b8e4-9bd3b952bc33",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b2cabe43-383c-4d4b-b8e4-9bd3b952bc33",
+                "nodeTo": "960d459d-35ca-4ec7-90cb-5a45a227723a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "960d459d-35ca-4ec7-90cb-5a45a227723a",
+                "nodeTo": "84da8883-7d88-4d2d-957e-53d8881139ab",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "960d459d-35ca-4ec7-90cb-5a45a227723a",
+                "nodeTo": "5c1ecc5d-e526-43b9-a628-875cd4a23650",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b2cabe43-383c-4d4b-b8e4-9bd3b952bc33",
+                "nodeTo": "c77e2b09-0e89-4b02-bb4d-c9140445d110",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c77e2b09-0e89-4b02-bb4d-c9140445d110",
+                "nodeTo": "29ab8c9a-d9ba-4180-957e-1b49767ace19",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c77e2b09-0e89-4b02-bb4d-c9140445d110",
+                "nodeTo": "263659da-19a5-4327-b6a0-24161546663b",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c77e2b09-0e89-4b02-bb4d-c9140445d110",
+                "nodeTo": "89164a99-eed7-4dee-b015-00ebe108cb9c",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-22 17:34:58"
+}

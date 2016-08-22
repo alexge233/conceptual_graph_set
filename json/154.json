@@ -1,0 +1,256 @@
+{
+    "uuid": 154,
+    "text": "woman says she wants to raise awareness about her condition which causes her to smell of rotten garbage and sewage",
+    "graph": {
+        "version": 1,
+        "guid": "5864e673-adbc-48c8-b057-a72c3bc1a278",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "says",
+                "id": "d5d69083-1de4-4729-b77e-32da7969d142",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "wants",
+                "id": "35bcc936-1b8e-4601-9976-becb267d776a",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "raise",
+                "id": "149b470d-0c43-429c-8269-31dded5aea47",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "about",
+                "id": "bd203291-d0b9-40c9-8760-0e567a611165",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "which",
+                "id": "c9bc1330-d701-46b9-bda0-9491083ece44",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "causes",
+                "id": "2a32a73e-e24c-4b1a-9ae1-268a8097e8cc",
+                "postag": "NA",
+                "index": 11
+            },
+            {
+                "label": "to",
+                "id": "026ba766-bb88-441b-a8d7-c2ec4867305e",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "883b68cb-b210-4c17-9961-e6a643a836c2",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "e6d69987-982c-4069-ba4b-67cb150d2405",
+                "index": 18,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "woman",
+                "id": "1071d713-7cbb-4e15-867d-c2a5161ceaab",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "she",
+                "id": "81c90a71-7b07-40a6-b5d1-e1e8621bd547",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "awareness",
+                "id": "72c8e8ad-7cee-4091-815a-de5239e7216e",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "her",
+                "id": "cd5a8c50-9e3a-4a4b-828a-e4e7a4aba818",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "condition",
+                "id": "ca4a45e0-ca56-43b7-9a77-13d430dc7973",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "her",
+                "id": "147b416e-a358-4bde-8a06-ed3976a35be4",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "smell",
+                "id": "77625b78-5087-4ed2-9977-c71d03d13310",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "rotten",
+                "id": "5e2c882e-9608-4815-82e6-53eaa77dd470",
+                "index": 16,
+                "postag": "NA"
+            },
+            {
+                "label": "garbage",
+                "id": "74005bdd-e054-495c-ba31-ae4e2c9a0c75",
+                "index": 17,
+                "postag": "NA"
+            },
+            {
+                "label": "sewage",
+                "id": "1c4c9796-a3e3-4aa5-9dbb-ddc24cb81e8c",
+                "index": 19,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "a693c08d-25c3-474d-9bbb-5e04361a048d",
+                "postag": "NA",
+                "index": 4
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "1071d713-7cbb-4e15-867d-c2a5161ceaab",
+                "nodeTo": "d5d69083-1de4-4729-b77e-32da7969d142",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d5d69083-1de4-4729-b77e-32da7969d142",
+                "nodeTo": "81c90a71-7b07-40a6-b5d1-e1e8621bd547",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "81c90a71-7b07-40a6-b5d1-e1e8621bd547",
+                "nodeTo": "35bcc936-1b8e-4601-9976-becb267d776a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "149b470d-0c43-429c-8269-31dded5aea47",
+                "nodeTo": "72c8e8ad-7cee-4091-815a-de5239e7216e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "72c8e8ad-7cee-4091-815a-de5239e7216e",
+                "nodeTo": "bd203291-d0b9-40c9-8760-0e567a611165",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bd203291-d0b9-40c9-8760-0e567a611165",
+                "nodeTo": "cd5a8c50-9e3a-4a4b-828a-e4e7a4aba818",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "bd203291-d0b9-40c9-8760-0e567a611165",
+                "nodeTo": "ca4a45e0-ca56-43b7-9a77-13d430dc7973",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ca4a45e0-ca56-43b7-9a77-13d430dc7973",
+                "nodeTo": "c9bc1330-d701-46b9-bda0-9491083ece44",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ca4a45e0-ca56-43b7-9a77-13d430dc7973",
+                "nodeTo": "2a32a73e-e24c-4b1a-9ae1-268a8097e8cc",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2a32a73e-e24c-4b1a-9ae1-268a8097e8cc",
+                "nodeTo": "147b416e-a358-4bde-8a06-ed3976a35be4",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "147b416e-a358-4bde-8a06-ed3976a35be4",
+                "nodeTo": "026ba766-bb88-441b-a8d7-c2ec4867305e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "026ba766-bb88-441b-a8d7-c2ec4867305e",
+                "nodeTo": "77625b78-5087-4ed2-9977-c71d03d13310",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "77625b78-5087-4ed2-9977-c71d03d13310",
+                "nodeTo": "883b68cb-b210-4c17-9961-e6a643a836c2",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "883b68cb-b210-4c17-9961-e6a643a836c2",
+                "nodeTo": "5e2c882e-9608-4815-82e6-53eaa77dd470",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "883b68cb-b210-4c17-9961-e6a643a836c2",
+                "nodeTo": "74005bdd-e054-495c-ba31-ae4e2c9a0c75",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5e2c882e-9608-4815-82e6-53eaa77dd470",
+                "nodeTo": "e6d69987-982c-4069-ba4b-67cb150d2405",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "74005bdd-e054-495c-ba31-ae4e2c9a0c75",
+                "nodeTo": "e6d69987-982c-4069-ba4b-67cb150d2405",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e6d69987-982c-4069-ba4b-67cb150d2405",
+                "nodeTo": "1c4c9796-a3e3-4aa5-9dbb-ddc24cb81e8c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "35bcc936-1b8e-4601-9976-becb267d776a",
+                "nodeTo": "a693c08d-25c3-474d-9bbb-5e04361a048d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a693c08d-25c3-474d-9bbb-5e04361a048d",
+                "nodeTo": "149b470d-0c43-429c-8269-31dded5aea47",
+                "index": 1,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2014-11-06 10:48:17"
+}

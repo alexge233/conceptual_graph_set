@@ -1,0 +1,250 @@
+{
+    "uuid": 422,
+    "text": "skeleton of young adult male was found in tomb in modern Sudan in 2013 and dates back to 1200BC",
+    "graph": {
+        "version": 1,
+        "guid": "951c9cdb-1e49-46d4-b00a-4ace139e97ac",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "of",
+                "id": "551a5363-1583-4ddb-a546-b91135e9d840",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "was",
+                "id": "7dd63b32-3781-4b51-b76c-ae738904ea6e",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "11754802-57db-49a4-933e-b3cdcc81e432",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "3228929d-41cc-45ec-ac93-dcb4a4935aad",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "1655533b-7cdd-458d-8e68-b2a44a9a075a",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "3c92ab61-e77d-4d1d-88e3-ed7708988993",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "dates",
+                "id": "c90a3671-68ad-4ade-9bee-6c13015ee8e4",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "011dba35-7928-4588-b004-50ebe0a67bd9",
+                "index": 17,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "skeleton",
+                "id": "7061318b-433d-4e9b-9b19-26ea11ccd313",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "young",
+                "id": "5992c407-429a-4a73-b306-c7bda97c3e46",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "adult",
+                "id": "d062cd74-a5be-4a06-8023-b80c506ad821",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "male",
+                "id": "548e6256-a8e8-4ccc-847e-22e5cd4b5ed6",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "found",
+                "id": "daaac090-9e00-416b-b4a3-41045ac0ee28",
+                "postag": "NA",
+                "index": 6
+            },
+            {
+                "label": "tomb",
+                "id": "d7547d02-55a8-40cc-bba6-e729e8da2501",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "modern",
+                "id": "a4a31497-0025-4cdd-9772-79d98b7bdb2b",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "Sudan",
+                "id": "6b123b93-4d6c-4a66-8a70-24b1aa51c512",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": 2013,
+                "id": "7c6d90e2-db99-4b43-bde5-927826820a34",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "back",
+                "id": "1230dd09-9d1b-482d-86d3-571a869ed55b",
+                "index": 16,
+                "postag": "NA"
+            },
+            {
+                "label": "1200BC",
+                "id": "a4c17d96-0a42-4d22-9c03-32433e68a41e",
+                "index": 18,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "7061318b-433d-4e9b-9b19-26ea11ccd313",
+                "nodeTo": "551a5363-1583-4ddb-a546-b91135e9d840",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "551a5363-1583-4ddb-a546-b91135e9d840",
+                "nodeTo": "5992c407-429a-4a73-b306-c7bda97c3e46",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "551a5363-1583-4ddb-a546-b91135e9d840",
+                "nodeTo": "d062cd74-a5be-4a06-8023-b80c506ad821",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "551a5363-1583-4ddb-a546-b91135e9d840",
+                "nodeTo": "548e6256-a8e8-4ccc-847e-22e5cd4b5ed6",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7061318b-433d-4e9b-9b19-26ea11ccd313",
+                "nodeTo": "7dd63b32-3781-4b51-b76c-ae738904ea6e",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7dd63b32-3781-4b51-b76c-ae738904ea6e",
+                "nodeTo": "daaac090-9e00-416b-b4a3-41045ac0ee28",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "daaac090-9e00-416b-b4a3-41045ac0ee28",
+                "nodeTo": "11754802-57db-49a4-933e-b3cdcc81e432",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "11754802-57db-49a4-933e-b3cdcc81e432",
+                "nodeTo": "d7547d02-55a8-40cc-bba6-e729e8da2501",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d7547d02-55a8-40cc-bba6-e729e8da2501",
+                "nodeTo": "3228929d-41cc-45ec-ac93-dcb4a4935aad",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3228929d-41cc-45ec-ac93-dcb4a4935aad",
+                "nodeTo": "a4a31497-0025-4cdd-9772-79d98b7bdb2b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3228929d-41cc-45ec-ac93-dcb4a4935aad",
+                "nodeTo": "6b123b93-4d6c-4a66-8a70-24b1aa51c512",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "daaac090-9e00-416b-b4a3-41045ac0ee28",
+                "nodeTo": "1655533b-7cdd-458d-8e68-b2a44a9a075a",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1655533b-7cdd-458d-8e68-b2a44a9a075a",
+                "nodeTo": "7c6d90e2-db99-4b43-bde5-927826820a34",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c90a3671-68ad-4ade-9bee-6c13015ee8e4",
+                "nodeTo": "1230dd09-9d1b-482d-86d3-571a869ed55b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1230dd09-9d1b-482d-86d3-571a869ed55b",
+                "nodeTo": "011dba35-7928-4588-b004-50ebe0a67bd9",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "011dba35-7928-4588-b004-50ebe0a67bd9",
+                "nodeTo": "a4c17d96-0a42-4d22-9c03-32433e68a41e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7061318b-433d-4e9b-9b19-26ea11ccd313",
+                "nodeTo": "3c92ab61-e77d-4d1d-88e3-ed7708988993",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3c92ab61-e77d-4d1d-88e3-ed7708988993",
+                "nodeTo": "daaac090-9e00-416b-b4a3-41045ac0ee28",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7061318b-433d-4e9b-9b19-26ea11ccd313",
+                "nodeTo": "c90a3671-68ad-4ade-9bee-6c13015ee8e4",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3c92ab61-e77d-4d1d-88e3-ed7708988993",
+                "nodeTo": "1230dd09-9d1b-482d-86d3-571a869ed55b",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-20 17:16:46"
+}

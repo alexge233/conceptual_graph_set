@@ -1,0 +1,160 @@
+{
+    "uuid": 658,
+    "text": "By 2015 all baby boomers will be 50 or older",
+    "graph": {
+        "version": 1,
+        "guid": "e9491639-b322-4139-ab44-8a697ae8966b",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "By",
+                "id": "81012cd9-1ac2-4a97-8bca-6b78a7206c5b",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "will",
+                "id": "a9e33e89-0841-4b4c-b7dc-71e472d702c7",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "be",
+                "id": "81d4cb5d-717d-401d-bc46-b60b4ca0007a",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "or",
+                "id": "5d31c1b6-78a7-456b-a4ba-0b9c85b17844",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": 2015,
+                "id": "7adab169-9681-4d83-9752-b5740510872a",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "all",
+                "id": "c6a7d7c5-cb7e-4bea-9e57-23a73b9b003a",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "baby",
+                "id": "927052ea-a92a-4de1-893a-366d37b2885a",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "boomers",
+                "id": "053638e4-4661-4711-951e-13de652106ae",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": 50,
+                "id": "dc754555-a06e-4622-90ca-1ea6b97b386a",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "older",
+                "id": "5a3ab152-6470-4299-94b2-c47b0a6a83ad",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "81012cd9-1ac2-4a97-8bca-6b78a7206c5b",
+                "nodeTo": "7adab169-9681-4d83-9752-b5740510872a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "81012cd9-1ac2-4a97-8bca-6b78a7206c5b",
+                "nodeTo": "c6a7d7c5-cb7e-4bea-9e57-23a73b9b003a",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "81012cd9-1ac2-4a97-8bca-6b78a7206c5b",
+                "nodeTo": "927052ea-a92a-4de1-893a-366d37b2885a",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "81012cd9-1ac2-4a97-8bca-6b78a7206c5b",
+                "nodeTo": "053638e4-4661-4711-951e-13de652106ae",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c6a7d7c5-cb7e-4bea-9e57-23a73b9b003a",
+                "nodeTo": "a9e33e89-0841-4b4c-b7dc-71e472d702c7",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "927052ea-a92a-4de1-893a-366d37b2885a",
+                "nodeTo": "a9e33e89-0841-4b4c-b7dc-71e472d702c7",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "053638e4-4661-4711-951e-13de652106ae",
+                "nodeTo": "a9e33e89-0841-4b4c-b7dc-71e472d702c7",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c6a7d7c5-cb7e-4bea-9e57-23a73b9b003a",
+                "nodeTo": "81d4cb5d-717d-401d-bc46-b60b4ca0007a",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "927052ea-a92a-4de1-893a-366d37b2885a",
+                "nodeTo": "81d4cb5d-717d-401d-bc46-b60b4ca0007a",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "053638e4-4661-4711-951e-13de652106ae",
+                "nodeTo": "81d4cb5d-717d-401d-bc46-b60b4ca0007a",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a9e33e89-0841-4b4c-b7dc-71e472d702c7",
+                "nodeTo": "dc754555-a06e-4622-90ca-1ea6b97b386a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "81d4cb5d-717d-401d-bc46-b60b4ca0007a",
+                "nodeTo": "dc754555-a06e-4622-90ca-1ea6b97b386a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "dc754555-a06e-4622-90ca-1ea6b97b386a",
+                "nodeTo": "5d31c1b6-78a7-456b-a4ba-0b9c85b17844",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5d31c1b6-78a7-456b-a4ba-0b9c85b17844",
+                "nodeTo": "5a3ab152-6470-4299-94b2-c47b0a6a83ad",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-09 18:56:04"
+}

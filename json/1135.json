@@ -1,0 +1,322 @@
+{
+    "uuid": 1135,
+    "text": "95 percent of college students fail to eat recommended amount of fruit and vegetables five or more servings per day",
+    "graph": {
+        "version": 1,
+        "guid": "15487cea-de20-4ed1-953b-1d1ba4cc169b",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "of",
+                "id": "28bc2804-442d-4684-a355-54e46e6eaabc",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "fail",
+                "id": "0246937a-1981-4c35-864d-56bad0bac685",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "ce0a17b5-10e4-4dc9-890c-00e0dadb0223",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "eat",
+                "id": "db8e9d86-ec93-4119-bae3-65395e90e1d9",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "7b31d387-4e00-4e8c-bc5c-a80a2ab85d12",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "1d982b66-bdc9-4dcc-8106-2660ad5978d7",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "or",
+                "id": "c3aa0817-0911-4e79-9416-2087b2d1a015",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "more",
+                "id": "190c4ad0-5812-4909-b491-611edb012001",
+                "index": 16,
+                "postag": "NA"
+            },
+            {
+                "label": "per",
+                "id": "d8b8381b-debc-4b94-bae4-aa32154d5d17",
+                "index": 18,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": 95,
+                "id": "e6d4212a-d3ad-45db-b2ae-a49b878693de",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "percent",
+                "id": "a9472765-9ee1-43d9-acb9-2c452bc2b17c",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "college",
+                "id": "23bcd558-b34d-40c2-b77d-a3d110aa2dec",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "students",
+                "id": "80700274-0760-4bea-b947-17b40c62e485",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "recommended",
+                "id": "64658bca-4e7e-4c43-882a-6d91c6cea437",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "amount",
+                "id": "d8ca5835-1ad4-4b70-a8aa-e389dbc30e3d",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "fruit",
+                "id": "b3dd69ae-30c1-4160-b54e-645611d9454d",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "vegetables",
+                "id": "90195d86-b124-4d16-8988-7d03e0b3d5b0",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "five",
+                "id": "60146b7a-6b0e-4bdc-b44a-7bb1de63e8e6",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "servings",
+                "id": "195626b1-7c2a-49be-95bb-cdc978ce2245",
+                "index": 17,
+                "postag": "NA"
+            },
+            {
+                "label": "day",
+                "id": "6d73e86c-bdc7-4b66-9713-83e75b228bde",
+                "index": 19,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "e6d4212a-d3ad-45db-b2ae-a49b878693de",
+                "nodeTo": "28bc2804-442d-4684-a355-54e46e6eaabc",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a9472765-9ee1-43d9-acb9-2c452bc2b17c",
+                "nodeTo": "28bc2804-442d-4684-a355-54e46e6eaabc",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "28bc2804-442d-4684-a355-54e46e6eaabc",
+                "nodeTo": "23bcd558-b34d-40c2-b77d-a3d110aa2dec",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "28bc2804-442d-4684-a355-54e46e6eaabc",
+                "nodeTo": "80700274-0760-4bea-b947-17b40c62e485",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e6d4212a-d3ad-45db-b2ae-a49b878693de",
+                "nodeTo": "0246937a-1981-4c35-864d-56bad0bac685",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e6d4212a-d3ad-45db-b2ae-a49b878693de",
+                "nodeTo": "ce0a17b5-10e4-4dc9-890c-00e0dadb0223",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e6d4212a-d3ad-45db-b2ae-a49b878693de",
+                "nodeTo": "db8e9d86-ec93-4119-bae3-65395e90e1d9",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a9472765-9ee1-43d9-acb9-2c452bc2b17c",
+                "nodeTo": "0246937a-1981-4c35-864d-56bad0bac685",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a9472765-9ee1-43d9-acb9-2c452bc2b17c",
+                "nodeTo": "ce0a17b5-10e4-4dc9-890c-00e0dadb0223",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a9472765-9ee1-43d9-acb9-2c452bc2b17c",
+                "nodeTo": "db8e9d86-ec93-4119-bae3-65395e90e1d9",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0246937a-1981-4c35-864d-56bad0bac685",
+                "nodeTo": "64658bca-4e7e-4c43-882a-6d91c6cea437",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ce0a17b5-10e4-4dc9-890c-00e0dadb0223",
+                "nodeTo": "64658bca-4e7e-4c43-882a-6d91c6cea437",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "db8e9d86-ec93-4119-bae3-65395e90e1d9",
+                "nodeTo": "64658bca-4e7e-4c43-882a-6d91c6cea437",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0246937a-1981-4c35-864d-56bad0bac685",
+                "nodeTo": "d8ca5835-1ad4-4b70-a8aa-e389dbc30e3d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ce0a17b5-10e4-4dc9-890c-00e0dadb0223",
+                "nodeTo": "d8ca5835-1ad4-4b70-a8aa-e389dbc30e3d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "db8e9d86-ec93-4119-bae3-65395e90e1d9",
+                "nodeTo": "d8ca5835-1ad4-4b70-a8aa-e389dbc30e3d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "64658bca-4e7e-4c43-882a-6d91c6cea437",
+                "nodeTo": "7b31d387-4e00-4e8c-bc5c-a80a2ab85d12",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d8ca5835-1ad4-4b70-a8aa-e389dbc30e3d",
+                "nodeTo": "7b31d387-4e00-4e8c-bc5c-a80a2ab85d12",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7b31d387-4e00-4e8c-bc5c-a80a2ab85d12",
+                "nodeTo": "b3dd69ae-30c1-4160-b54e-645611d9454d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b3dd69ae-30c1-4160-b54e-645611d9454d",
+                "nodeTo": "1d982b66-bdc9-4dcc-8106-2660ad5978d7",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1d982b66-bdc9-4dcc-8106-2660ad5978d7",
+                "nodeTo": "90195d86-b124-4d16-8988-7d03e0b3d5b0",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7b31d387-4e00-4e8c-bc5c-a80a2ab85d12",
+                "nodeTo": "90195d86-b124-4d16-8988-7d03e0b3d5b0",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "60146b7a-6b0e-4bdc-b44a-7bb1de63e8e6",
+                "nodeTo": "c3aa0817-0911-4e79-9416-2087b2d1a015",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "60146b7a-6b0e-4bdc-b44a-7bb1de63e8e6",
+                "nodeTo": "190c4ad0-5812-4909-b491-611edb012001",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c3aa0817-0911-4e79-9416-2087b2d1a015",
+                "nodeTo": "195626b1-7c2a-49be-95bb-cdc978ce2245",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "190c4ad0-5812-4909-b491-611edb012001",
+                "nodeTo": "195626b1-7c2a-49be-95bb-cdc978ce2245",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "195626b1-7c2a-49be-95bb-cdc978ce2245",
+                "nodeTo": "d8b8381b-debc-4b94-bae4-aa32154d5d17",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d8b8381b-debc-4b94-bae4-aa32154d5d17",
+                "nodeTo": "6d73e86c-bdc7-4b66-9713-83e75b228bde",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0246937a-1981-4c35-864d-56bad0bac685",
+                "nodeTo": "60146b7a-6b0e-4bdc-b44a-7bb1de63e8e6",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ce0a17b5-10e4-4dc9-890c-00e0dadb0223",
+                "nodeTo": "60146b7a-6b0e-4bdc-b44a-7bb1de63e8e6",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "db8e9d86-ec93-4119-bae3-65395e90e1d9",
+                "nodeTo": "60146b7a-6b0e-4bdc-b44a-7bb1de63e8e6",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-23 19:12:12"
+}

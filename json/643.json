@@ -1,0 +1,82 @@
+{
+    "uuid": 643,
+    "text": "Body odor changes following vaccination",
+    "graph": {
+        "version": 1,
+        "guid": "b067da2b-27a3-45aa-a7cc-c3e7a5cade9a",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "changes",
+                "id": "054701c9-52ec-4b44-a542-cc9206a6a7ce",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "following",
+                "id": "be3ae23c-bdbc-4bc5-a471-d5248c145541",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Body",
+                "id": "6681688b-16a8-4cd0-b026-4a2a0ce44305",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "odor",
+                "id": "63cd039d-bd9c-43a2-a135-8ae708c97632",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "vaccination",
+                "id": "4aad9386-c3a4-4892-ba4a-9b32455d73c6",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "6681688b-16a8-4cd0-b026-4a2a0ce44305",
+                "nodeTo": "054701c9-52ec-4b44-a542-cc9206a6a7ce",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "63cd039d-bd9c-43a2-a135-8ae708c97632",
+                "nodeTo": "054701c9-52ec-4b44-a542-cc9206a6a7ce",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6681688b-16a8-4cd0-b026-4a2a0ce44305",
+                "nodeTo": "be3ae23c-bdbc-4bc5-a471-d5248c145541",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "63cd039d-bd9c-43a2-a135-8ae708c97632",
+                "nodeTo": "be3ae23c-bdbc-4bc5-a471-d5248c145541",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "054701c9-52ec-4b44-a542-cc9206a6a7ce",
+                "nodeTo": "4aad9386-c3a4-4892-ba4a-9b32455d73c6",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "be3ae23c-bdbc-4bc5-a471-d5248c145541",
+                "nodeTo": "4aad9386-c3a4-4892-ba4a-9b32455d73c6",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-08 20:59:46"
+}

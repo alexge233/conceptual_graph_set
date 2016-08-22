@@ -1,0 +1,202 @@
+{
+    "uuid": 443,
+    "text": "as carbon dioxide levels rise some crop nutrients will fall researchers find",
+    "graph": {
+        "version": 1,
+        "guid": "c071be2d-a9e4-400b-9a58-63d5dde8a273",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "as",
+                "id": "a7132368-1257-4373-b426-6bc07ce07917",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "rise",
+                "id": "c2ab1b1d-576c-4bc4-9e0e-d330eb70ecd3",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "will",
+                "id": "874ad551-05a8-42bb-bc39-49042e1caaa9",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "fall",
+                "id": "3c5cc00c-eb29-426b-8c80-a8e75531e71c",
+                "postag": "NA",
+                "index": 9
+            },
+            {
+                "label": "find",
+                "id": "c98835a2-9712-45bb-b182-144d21d32a98",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "carbon",
+                "id": "7365db18-7b29-4927-9045-1c3c35aa1037",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "dioxide",
+                "id": "220717a8-b475-4ee9-b633-30b315d9b118",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "levels",
+                "id": "2c4252e2-95a6-4cd4-a6e1-e28d577d67ab",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "some",
+                "id": "84aa3ab7-2630-4e71-94d0-b772776b7030",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "crop",
+                "id": "7a431068-2432-4cab-8768-c17c4bad1126",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "nutrients",
+                "id": "58a41db9-63c5-4600-8b5b-336b5b8d922b",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "researchers",
+                "id": "9e1c9948-bbb9-4739-949d-2d7b20084bd4",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "a7132368-1257-4373-b426-6bc07ce07917",
+                "nodeTo": "7365db18-7b29-4927-9045-1c3c35aa1037",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a7132368-1257-4373-b426-6bc07ce07917",
+                "nodeTo": "220717a8-b475-4ee9-b633-30b315d9b118",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a7132368-1257-4373-b426-6bc07ce07917",
+                "nodeTo": "2c4252e2-95a6-4cd4-a6e1-e28d577d67ab",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7365db18-7b29-4927-9045-1c3c35aa1037",
+                "nodeTo": "c2ab1b1d-576c-4bc4-9e0e-d330eb70ecd3",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "220717a8-b475-4ee9-b633-30b315d9b118",
+                "nodeTo": "c2ab1b1d-576c-4bc4-9e0e-d330eb70ecd3",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2c4252e2-95a6-4cd4-a6e1-e28d577d67ab",
+                "nodeTo": "c2ab1b1d-576c-4bc4-9e0e-d330eb70ecd3",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "84aa3ab7-2630-4e71-94d0-b772776b7030",
+                "nodeTo": "874ad551-05a8-42bb-bc39-49042e1caaa9",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7a431068-2432-4cab-8768-c17c4bad1126",
+                "nodeTo": "874ad551-05a8-42bb-bc39-49042e1caaa9",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "58a41db9-63c5-4600-8b5b-336b5b8d922b",
+                "nodeTo": "874ad551-05a8-42bb-bc39-49042e1caaa9",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "84aa3ab7-2630-4e71-94d0-b772776b7030",
+                "nodeTo": "3c5cc00c-eb29-426b-8c80-a8e75531e71c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7a431068-2432-4cab-8768-c17c4bad1126",
+                "nodeTo": "3c5cc00c-eb29-426b-8c80-a8e75531e71c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "58a41db9-63c5-4600-8b5b-336b5b8d922b",
+                "nodeTo": "3c5cc00c-eb29-426b-8c80-a8e75531e71c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9e1c9948-bbb9-4739-949d-2d7b20084bd4",
+                "nodeTo": "c98835a2-9712-45bb-b182-144d21d32a98",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c98835a2-9712-45bb-b182-144d21d32a98",
+                "nodeTo": "84aa3ab7-2630-4e71-94d0-b772776b7030",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c98835a2-9712-45bb-b182-144d21d32a98",
+                "nodeTo": "7a431068-2432-4cab-8768-c17c4bad1126",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c98835a2-9712-45bb-b182-144d21d32a98",
+                "nodeTo": "58a41db9-63c5-4600-8b5b-336b5b8d922b",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "84aa3ab7-2630-4e71-94d0-b772776b7030",
+                "nodeTo": "a7132368-1257-4373-b426-6bc07ce07917",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7a431068-2432-4cab-8768-c17c4bad1126",
+                "nodeTo": "a7132368-1257-4373-b426-6bc07ce07917",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "58a41db9-63c5-4600-8b5b-336b5b8d922b",
+                "nodeTo": "a7132368-1257-4373-b426-6bc07ce07917",
+                "index": 3,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2014-12-18 17:30:16"
+}

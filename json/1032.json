@@ -1,0 +1,178 @@
+{
+    "uuid": 1032,
+    "text": "pressure on aorta and on heart decreased after consuming watermelon extract",
+    "graph": {
+        "version": 1,
+        "guid": "c55c7e10-1641-47ed-9846-3659aa97a5b1",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "on",
+                "id": "5007c892-b419-4a12-8a75-e91ab109078c",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "37502d00-6b9c-4608-b1ca-3d7603b6d57a",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "on",
+                "id": "90b9abe0-74cd-4d77-aa77-04e85623aaea",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "decreased",
+                "id": "53d0b606-9642-46dd-9914-a278320988c8",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "after",
+                "id": "9617c597-b987-433a-9e8a-0a6941de66c1",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "consuming",
+                "id": "871c8999-65ed-4483-9d77-67c956989e93",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "pressure",
+                "id": "9530a205-5bb3-4195-8b41-8591c7ed3cd9",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "aorta",
+                "id": "2363c43b-6323-4895-962e-adeb999bb931",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "heart",
+                "id": "e55ed330-369a-416b-847b-954b88bbbb58",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "watermelon",
+                "id": "81dc2eb3-9c87-462a-9b1a-401271623b0c",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "extract",
+                "id": "55353636-6999-4492-aca3-e5d2ea9ba1a6",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "9530a205-5bb3-4195-8b41-8591c7ed3cd9",
+                "nodeTo": "5007c892-b419-4a12-8a75-e91ab109078c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5007c892-b419-4a12-8a75-e91ab109078c",
+                "nodeTo": "2363c43b-6323-4895-962e-adeb999bb931",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9530a205-5bb3-4195-8b41-8591c7ed3cd9",
+                "nodeTo": "37502d00-6b9c-4608-b1ca-3d7603b6d57a",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9530a205-5bb3-4195-8b41-8591c7ed3cd9",
+                "nodeTo": "90b9abe0-74cd-4d77-aa77-04e85623aaea",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "37502d00-6b9c-4608-b1ca-3d7603b6d57a",
+                "nodeTo": "2363c43b-6323-4895-962e-adeb999bb931",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "37502d00-6b9c-4608-b1ca-3d7603b6d57a",
+                "nodeTo": "e55ed330-369a-416b-847b-954b88bbbb58",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "90b9abe0-74cd-4d77-aa77-04e85623aaea",
+                "nodeTo": "e55ed330-369a-416b-847b-954b88bbbb58",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9530a205-5bb3-4195-8b41-8591c7ed3cd9",
+                "nodeTo": "53d0b606-9642-46dd-9914-a278320988c8",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9530a205-5bb3-4195-8b41-8591c7ed3cd9",
+                "nodeTo": "9617c597-b987-433a-9e8a-0a6941de66c1",
+                "index": 5,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9530a205-5bb3-4195-8b41-8591c7ed3cd9",
+                "nodeTo": "871c8999-65ed-4483-9d77-67c956989e93",
+                "index": 6,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "53d0b606-9642-46dd-9914-a278320988c8",
+                "nodeTo": "81dc2eb3-9c87-462a-9b1a-401271623b0c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9617c597-b987-433a-9e8a-0a6941de66c1",
+                "nodeTo": "81dc2eb3-9c87-462a-9b1a-401271623b0c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "871c8999-65ed-4483-9d77-67c956989e93",
+                "nodeTo": "81dc2eb3-9c87-462a-9b1a-401271623b0c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "53d0b606-9642-46dd-9914-a278320988c8",
+                "nodeTo": "55353636-6999-4492-aca3-e5d2ea9ba1a6",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9617c597-b987-433a-9e8a-0a6941de66c1",
+                "nodeTo": "55353636-6999-4492-aca3-e5d2ea9ba1a6",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "871c8999-65ed-4483-9d77-67c956989e93",
+                "nodeTo": "55353636-6999-4492-aca3-e5d2ea9ba1a6",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-04 15:11:10"
+}

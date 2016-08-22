@@ -1,0 +1,160 @@
+{
+    "uuid": 957,
+    "text": "Channel 5 to be bought by MTVs owner",
+    "graph": {
+        "version": 1,
+        "guid": "7c8023ec-0dd9-41a0-96ea-5d1b592cd64e",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "to",
+                "id": "3c950835-992a-4d9a-bbce-c890dd64053e",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "be",
+                "id": "6b0d5726-8364-41cc-b751-211a6a24b9bd",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "bought",
+                "id": "ddcd1d6b-2217-474d-9117-cb6568a726eb",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "by",
+                "id": "6c76ceea-c455-4a49-ac7d-ee99a98bb3b7",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Channel",
+                "id": "2814cc6b-0ce0-4956-ac27-3e32440bbe1b",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": 5,
+                "id": "8b056537-1961-42e7-80db-4461d7aa7d6a",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "MTVs",
+                "id": "e26a5aa7-e827-43dd-babe-58d372919235",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "owner",
+                "id": "0a19e678-d136-4894-aeee-aea8accd0be4",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "2814cc6b-0ce0-4956-ac27-3e32440bbe1b",
+                "nodeTo": "3c950835-992a-4d9a-bbce-c890dd64053e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2814cc6b-0ce0-4956-ac27-3e32440bbe1b",
+                "nodeTo": "6b0d5726-8364-41cc-b751-211a6a24b9bd",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2814cc6b-0ce0-4956-ac27-3e32440bbe1b",
+                "nodeTo": "ddcd1d6b-2217-474d-9117-cb6568a726eb",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2814cc6b-0ce0-4956-ac27-3e32440bbe1b",
+                "nodeTo": "6c76ceea-c455-4a49-ac7d-ee99a98bb3b7",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8b056537-1961-42e7-80db-4461d7aa7d6a",
+                "nodeTo": "3c950835-992a-4d9a-bbce-c890dd64053e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8b056537-1961-42e7-80db-4461d7aa7d6a",
+                "nodeTo": "6b0d5726-8364-41cc-b751-211a6a24b9bd",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8b056537-1961-42e7-80db-4461d7aa7d6a",
+                "nodeTo": "ddcd1d6b-2217-474d-9117-cb6568a726eb",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8b056537-1961-42e7-80db-4461d7aa7d6a",
+                "nodeTo": "6c76ceea-c455-4a49-ac7d-ee99a98bb3b7",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3c950835-992a-4d9a-bbce-c890dd64053e",
+                "nodeTo": "e26a5aa7-e827-43dd-babe-58d372919235",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3c950835-992a-4d9a-bbce-c890dd64053e",
+                "nodeTo": "0a19e678-d136-4894-aeee-aea8accd0be4",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6b0d5726-8364-41cc-b751-211a6a24b9bd",
+                "nodeTo": "e26a5aa7-e827-43dd-babe-58d372919235",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6b0d5726-8364-41cc-b751-211a6a24b9bd",
+                "nodeTo": "0a19e678-d136-4894-aeee-aea8accd0be4",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ddcd1d6b-2217-474d-9117-cb6568a726eb",
+                "nodeTo": "e26a5aa7-e827-43dd-babe-58d372919235",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ddcd1d6b-2217-474d-9117-cb6568a726eb",
+                "nodeTo": "0a19e678-d136-4894-aeee-aea8accd0be4",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6c76ceea-c455-4a49-ac7d-ee99a98bb3b7",
+                "nodeTo": "e26a5aa7-e827-43dd-babe-58d372919235",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6c76ceea-c455-4a49-ac7d-ee99a98bb3b7",
+                "nodeTo": "0a19e678-d136-4894-aeee-aea8accd0be4",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-26 14:18:06"
+}

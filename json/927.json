@@ -1,0 +1,130 @@
+{
+    "uuid": 927,
+    "text": "cells appearing normal may actually be harbingers of lung cancer",
+    "graph": {
+        "version": 1,
+        "guid": "1b16a964-a9b0-4c44-809a-e620a1e777d0",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "appearing",
+                "id": "dc49d549-7a32-415a-9477-13b67328e863",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "may",
+                "id": "bded8e34-0a9c-4295-b187-55c9c931d4ba",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "be",
+                "id": "3650d24a-482c-46c6-bb89-c8a0d4465d87",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "441795a6-4d99-4078-9878-31557895840e",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "cells",
+                "id": "2057e450-4664-43a3-a336-08e6a93dac01",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "normal",
+                "id": "248de9b0-04cc-4637-97de-97a5166e9385",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "actually",
+                "id": "5d60134d-4896-4c8a-9c18-d46aeeb7a075",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "harbingers",
+                "id": "da1b48d9-1098-4ddd-81b3-59dad7a1d0ae",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "lung",
+                "id": "eb527484-a334-414b-907c-2ae47e865002",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "cancer",
+                "id": "d5299865-d9da-457b-b839-acc0e52b52ed",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "2057e450-4664-43a3-a336-08e6a93dac01",
+                "nodeTo": "dc49d549-7a32-415a-9477-13b67328e863",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "dc49d549-7a32-415a-9477-13b67328e863",
+                "nodeTo": "248de9b0-04cc-4637-97de-97a5166e9385",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2057e450-4664-43a3-a336-08e6a93dac01",
+                "nodeTo": "bded8e34-0a9c-4295-b187-55c9c931d4ba",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bded8e34-0a9c-4295-b187-55c9c931d4ba",
+                "nodeTo": "5d60134d-4896-4c8a-9c18-d46aeeb7a075",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5d60134d-4896-4c8a-9c18-d46aeeb7a075",
+                "nodeTo": "3650d24a-482c-46c6-bb89-c8a0d4465d87",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3650d24a-482c-46c6-bb89-c8a0d4465d87",
+                "nodeTo": "da1b48d9-1098-4ddd-81b3-59dad7a1d0ae",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "da1b48d9-1098-4ddd-81b3-59dad7a1d0ae",
+                "nodeTo": "441795a6-4d99-4078-9878-31557895840e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "441795a6-4d99-4078-9878-31557895840e",
+                "nodeTo": "eb527484-a334-414b-907c-2ae47e865002",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "441795a6-4d99-4078-9878-31557895840e",
+                "nodeTo": "d5299865-d9da-457b-b839-acc0e52b52ed",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-21 21:58:41"
+}

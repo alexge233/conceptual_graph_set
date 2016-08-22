@@ -1,0 +1,142 @@
+{
+    "uuid": 325,
+    "text": "report into alcohol-related brain damage should serve as wake-up call",
+    "graph": {
+        "version": 1,
+        "guid": "db6b09a5-db6c-4534-8bc4-7426242d6a0c",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "into",
+                "id": "a9b0136c-b688-4d4b-9c99-d46b825c4422",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "should",
+                "id": "51581bdd-6e88-4676-ac6c-3119762d09d1",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "serve",
+                "id": "8ac27a81-b98e-4735-8399-b2aca9522e9d",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "as",
+                "id": "e1369470-228e-4e11-b713-293c6937ad21",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "report",
+                "id": "979da592-ac6b-4b45-bd8b-05c791e296d4",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "alcohol-related",
+                "id": "11ab2ead-75bd-4e88-9ea3-294880639dca",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "brain",
+                "id": "43072464-122b-4e76-b645-4289cbb4b807",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "damage",
+                "id": "87a54cac-08e7-492a-a952-564cdd985c78",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "wake-up",
+                "id": "38e01e03-0b02-448a-9669-de8d46477790",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "call",
+                "id": "545756d7-ade2-41e1-b012-037d7bcb78c0",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "979da592-ac6b-4b45-bd8b-05c791e296d4",
+                "nodeTo": "a9b0136c-b688-4d4b-9c99-d46b825c4422",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a9b0136c-b688-4d4b-9c99-d46b825c4422",
+                "nodeTo": "11ab2ead-75bd-4e88-9ea3-294880639dca",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a9b0136c-b688-4d4b-9c99-d46b825c4422",
+                "nodeTo": "43072464-122b-4e76-b645-4289cbb4b807",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a9b0136c-b688-4d4b-9c99-d46b825c4422",
+                "nodeTo": "87a54cac-08e7-492a-a952-564cdd985c78",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "979da592-ac6b-4b45-bd8b-05c791e296d4",
+                "nodeTo": "51581bdd-6e88-4676-ac6c-3119762d09d1",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "979da592-ac6b-4b45-bd8b-05c791e296d4",
+                "nodeTo": "8ac27a81-b98e-4735-8399-b2aca9522e9d",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "979da592-ac6b-4b45-bd8b-05c791e296d4",
+                "nodeTo": "e1369470-228e-4e11-b713-293c6937ad21",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8ac27a81-b98e-4735-8399-b2aca9522e9d",
+                "nodeTo": "38e01e03-0b02-448a-9669-de8d46477790",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8ac27a81-b98e-4735-8399-b2aca9522e9d",
+                "nodeTo": "545756d7-ade2-41e1-b012-037d7bcb78c0",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e1369470-228e-4e11-b713-293c6937ad21",
+                "nodeTo": "38e01e03-0b02-448a-9669-de8d46477790",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e1369470-228e-4e11-b713-293c6937ad21",
+                "nodeTo": "545756d7-ade2-41e1-b012-037d7bcb78c0",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-15 14:20:59"
+}

@@ -1,0 +1,118 @@
+{
+    "uuid": 344,
+    "text": "Women who met in prosthetics fitting room",
+    "graph": {
+        "version": 1,
+        "guid": "8ab3774c-b124-4b0d-aabc-0035051802b6",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "met",
+                "id": "a9195234-54a6-4647-8799-6c564c70872a",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "ca34216d-1a22-4e41-9bc8-5166d40c84d1",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Women",
+                "id": "38c19bdc-ece0-4977-abb7-5d06cd83d128",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "who",
+                "id": "0b06bceb-3a79-4811-ac3d-97cb53d84236",
+                "postag": "NA",
+                "index": 1
+            },
+            {
+                "label": "prosthetics",
+                "id": "d672217e-b54c-4c96-b1a7-c2d1125d2a9d",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "fitting",
+                "id": "2454d4b9-8047-4463-8c83-210d49a72d4b",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "room",
+                "id": "ba5b24ce-e982-4e19-8e4e-a77b242e1dc8",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "38c19bdc-ece0-4977-abb7-5d06cd83d128",
+                "nodeTo": "a9195234-54a6-4647-8799-6c564c70872a",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "38c19bdc-ece0-4977-abb7-5d06cd83d128",
+                "nodeTo": "ca34216d-1a22-4e41-9bc8-5166d40c84d1",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0b06bceb-3a79-4811-ac3d-97cb53d84236",
+                "nodeTo": "a9195234-54a6-4647-8799-6c564c70872a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0b06bceb-3a79-4811-ac3d-97cb53d84236",
+                "nodeTo": "ca34216d-1a22-4e41-9bc8-5166d40c84d1",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a9195234-54a6-4647-8799-6c564c70872a",
+                "nodeTo": "d672217e-b54c-4c96-b1a7-c2d1125d2a9d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ca34216d-1a22-4e41-9bc8-5166d40c84d1",
+                "nodeTo": "d672217e-b54c-4c96-b1a7-c2d1125d2a9d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a9195234-54a6-4647-8799-6c564c70872a",
+                "nodeTo": "2454d4b9-8047-4463-8c83-210d49a72d4b",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a9195234-54a6-4647-8799-6c564c70872a",
+                "nodeTo": "ba5b24ce-e982-4e19-8e4e-a77b242e1dc8",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ca34216d-1a22-4e41-9bc8-5166d40c84d1",
+                "nodeTo": "2454d4b9-8047-4463-8c83-210d49a72d4b",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ca34216d-1a22-4e41-9bc8-5166d40c84d1",
+                "nodeTo": "ba5b24ce-e982-4e19-8e4e-a77b242e1dc8",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-15 20:14:30"
+}

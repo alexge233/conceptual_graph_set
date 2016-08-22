@@ -1,0 +1,100 @@
+{
+    "uuid": 740,
+    "text": "technology becomes activated only in diseased tissues",
+    "graph": {
+        "version": 1,
+        "guid": "6e836057-6b18-4d53-8259-beb686c9c8b6",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "becomes",
+                "id": "1975cc29-538a-4a2b-8eca-561b9b759a56",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "28742e11-9c52-486e-81c5-b6278ec76e5c",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "technology",
+                "id": "3dea4e54-e422-439e-b191-80e3a0719e58",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "activated",
+                "id": "27017c25-0c75-482d-8e27-0040e9d198d5",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "only",
+                "id": "041e8d32-84d6-4839-b450-e8c701ebc28e",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "diseased",
+                "id": "8215075e-d62b-4d4a-8878-06720b93d1a8",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "tissues",
+                "id": "86bc9d48-c452-4177-ab62-79a38487b7bc",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "3dea4e54-e422-439e-b191-80e3a0719e58",
+                "nodeTo": "1975cc29-538a-4a2b-8eca-561b9b759a56",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1975cc29-538a-4a2b-8eca-561b9b759a56",
+                "nodeTo": "27017c25-0c75-482d-8e27-0040e9d198d5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1975cc29-538a-4a2b-8eca-561b9b759a56",
+                "nodeTo": "041e8d32-84d6-4839-b450-e8c701ebc28e",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "041e8d32-84d6-4839-b450-e8c701ebc28e",
+                "nodeTo": "28742e11-9c52-486e-81c5-b6278ec76e5c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "27017c25-0c75-482d-8e27-0040e9d198d5",
+                "nodeTo": "28742e11-9c52-486e-81c5-b6278ec76e5c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "28742e11-9c52-486e-81c5-b6278ec76e5c",
+                "nodeTo": "8215075e-d62b-4d4a-8878-06720b93d1a8",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "28742e11-9c52-486e-81c5-b6278ec76e5c",
+                "nodeTo": "86bc9d48-c452-4177-ab62-79a38487b7bc",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-12 21:35:25"
+}

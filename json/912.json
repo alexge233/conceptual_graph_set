@@ -1,0 +1,142 @@
+{
+    "uuid": 912,
+    "text": "caucasian boys show highest prevalence of color blindness among preschoolers",
+    "graph": {
+        "version": 1,
+        "guid": "e3e00bcd-02d5-4490-a05a-743cc9c081ca",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "show",
+                "id": "9418170a-d3dc-4ec4-8bce-ce129a55bbc5",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "e7d9a340-cae3-44c0-a85d-8e2e34803dd8",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "among",
+                "id": "5c0e86cd-711e-4c3d-8442-e8348e18ed80",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "caucasian",
+                "id": "0cb7d7b3-cc08-4c30-97a6-c71605951131",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "boys",
+                "id": "7913d924-0756-4976-90d6-49492d883398",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "highest",
+                "id": "38a73035-b842-49ab-bc7d-401147025ace",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "prevalence",
+                "id": "b64ad56e-e795-42a3-a4cc-b6733c123cc5",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "color",
+                "id": "4d5b543c-dd3c-4e5d-aa66-614b80652545",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "blindness",
+                "id": "b3e48302-23d4-4823-9048-308016899c42",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "preschoolers",
+                "id": "38895527-441c-4993-92be-61c30bb88a53",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "0cb7d7b3-cc08-4c30-97a6-c71605951131",
+                "nodeTo": "9418170a-d3dc-4ec4-8bce-ce129a55bbc5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7913d924-0756-4976-90d6-49492d883398",
+                "nodeTo": "9418170a-d3dc-4ec4-8bce-ce129a55bbc5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9418170a-d3dc-4ec4-8bce-ce129a55bbc5",
+                "nodeTo": "38a73035-b842-49ab-bc7d-401147025ace",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9418170a-d3dc-4ec4-8bce-ce129a55bbc5",
+                "nodeTo": "b64ad56e-e795-42a3-a4cc-b6733c123cc5",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "38a73035-b842-49ab-bc7d-401147025ace",
+                "nodeTo": "e7d9a340-cae3-44c0-a85d-8e2e34803dd8",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b64ad56e-e795-42a3-a4cc-b6733c123cc5",
+                "nodeTo": "e7d9a340-cae3-44c0-a85d-8e2e34803dd8",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e7d9a340-cae3-44c0-a85d-8e2e34803dd8",
+                "nodeTo": "4d5b543c-dd3c-4e5d-aa66-614b80652545",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e7d9a340-cae3-44c0-a85d-8e2e34803dd8",
+                "nodeTo": "b3e48302-23d4-4823-9048-308016899c42",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "38a73035-b842-49ab-bc7d-401147025ace",
+                "nodeTo": "5c0e86cd-711e-4c3d-8442-e8348e18ed80",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b64ad56e-e795-42a3-a4cc-b6733c123cc5",
+                "nodeTo": "5c0e86cd-711e-4c3d-8442-e8348e18ed80",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5c0e86cd-711e-4c3d-8442-e8348e18ed80",
+                "nodeTo": "38895527-441c-4993-92be-61c30bb88a53",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-21 16:25:47"
+}

@@ -1,0 +1,220 @@
+{
+    "uuid": 176,
+    "text": "There is significant potential for organ donation to be made from among UK newborns",
+    "graph": {
+        "version": 1,
+        "guid": "eb216c2d-181c-4502-bae6-15b41da28993",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "is",
+                "id": "d0d9acc2-d844-45d7-abc4-2c688ce13956",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "6655e2d3-0a34-48bd-8965-dd6be4ac5e7d",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "be",
+                "id": "4934da6a-080d-43e1-b3a6-ed4dcc0d3686",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "made",
+                "id": "2812b7ed-90cd-472e-b4aa-4a196bb576c3",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "from",
+                "id": "82e029cc-7661-4adc-8b56-c82e1be174d3",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "among",
+                "id": "e9966196-e24d-4acb-bb8e-7ed14cc17882",
+                "postag": "NA",
+                "index": 11
+            }
+        ],
+        "concepts": [
+            {
+                "label": "There",
+                "id": "beb656d5-3193-44ac-b295-e9702210916e",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "significant",
+                "id": "7cc64c1d-4a64-4a0b-9866-b6b0738083eb",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "potential",
+                "id": "04ce3d17-185c-42c6-b41c-98632932b0b2",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "organ",
+                "id": "d72883d3-3d3d-4146-87e5-0536e4ee7e5d",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "donation",
+                "id": "2186e997-9cde-4007-a7ec-278a332ad6e1",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "1e0ebeac-1709-4e67-a588-d9acaa9d6d60",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "UK",
+                "id": "ca9b05bc-504d-493d-b62e-d08a76319d03",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "newborns",
+                "id": "b64843bb-eb74-4353-b49d-4071c0b36288",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "beb656d5-3193-44ac-b295-e9702210916e",
+                "nodeTo": "d0d9acc2-d844-45d7-abc4-2c688ce13956",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d0d9acc2-d844-45d7-abc4-2c688ce13956",
+                "nodeTo": "7cc64c1d-4a64-4a0b-9866-b6b0738083eb",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d0d9acc2-d844-45d7-abc4-2c688ce13956",
+                "nodeTo": "04ce3d17-185c-42c6-b41c-98632932b0b2",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7cc64c1d-4a64-4a0b-9866-b6b0738083eb",
+                "nodeTo": "6655e2d3-0a34-48bd-8965-dd6be4ac5e7d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "04ce3d17-185c-42c6-b41c-98632932b0b2",
+                "nodeTo": "6655e2d3-0a34-48bd-8965-dd6be4ac5e7d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6655e2d3-0a34-48bd-8965-dd6be4ac5e7d",
+                "nodeTo": "d72883d3-3d3d-4146-87e5-0536e4ee7e5d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6655e2d3-0a34-48bd-8965-dd6be4ac5e7d",
+                "nodeTo": "2186e997-9cde-4007-a7ec-278a332ad6e1",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1e0ebeac-1709-4e67-a588-d9acaa9d6d60",
+                "nodeTo": "4934da6a-080d-43e1-b3a6-ed4dcc0d3686",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1e0ebeac-1709-4e67-a588-d9acaa9d6d60",
+                "nodeTo": "2812b7ed-90cd-472e-b4aa-4a196bb576c3",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7cc64c1d-4a64-4a0b-9866-b6b0738083eb",
+                "nodeTo": "4934da6a-080d-43e1-b3a6-ed4dcc0d3686",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "04ce3d17-185c-42c6-b41c-98632932b0b2",
+                "nodeTo": "4934da6a-080d-43e1-b3a6-ed4dcc0d3686",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7cc64c1d-4a64-4a0b-9866-b6b0738083eb",
+                "nodeTo": "2812b7ed-90cd-472e-b4aa-4a196bb576c3",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "04ce3d17-185c-42c6-b41c-98632932b0b2",
+                "nodeTo": "2812b7ed-90cd-472e-b4aa-4a196bb576c3",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7cc64c1d-4a64-4a0b-9866-b6b0738083eb",
+                "nodeTo": "82e029cc-7661-4adc-8b56-c82e1be174d3",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "04ce3d17-185c-42c6-b41c-98632932b0b2",
+                "nodeTo": "82e029cc-7661-4adc-8b56-c82e1be174d3",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "82e029cc-7661-4adc-8b56-c82e1be174d3",
+                "nodeTo": "ca9b05bc-504d-493d-b62e-d08a76319d03",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "82e029cc-7661-4adc-8b56-c82e1be174d3",
+                "nodeTo": "b64843bb-eb74-4353-b49d-4071c0b36288",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d0d9acc2-d844-45d7-abc4-2c688ce13956",
+                "nodeTo": "1e0ebeac-1709-4e67-a588-d9acaa9d6d60",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e9966196-e24d-4acb-bb8e-7ed14cc17882",
+                "nodeTo": "ca9b05bc-504d-493d-b62e-d08a76319d03",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e9966196-e24d-4acb-bb8e-7ed14cc17882",
+                "nodeTo": "b64843bb-eb74-4353-b49d-4071c0b36288",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-11-12 19:06:20"
+}

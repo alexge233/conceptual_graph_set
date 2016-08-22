@@ -1,0 +1,130 @@
+{
+    "uuid": 713,
+    "text": "Breakthrough in HIV research gives hope for improved drug therapy",
+    "graph": {
+        "version": 1,
+        "guid": "cd2d46a9-4cc2-4b34-8a12-79b6c07cd890",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "in",
+                "id": "ac077c34-b2e1-4506-8dda-da5766524233",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "gives",
+                "id": "1ca563e8-2442-4cd4-87c9-1c8c33057751",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "6a833224-c10a-4493-b181-2453a1aabeed",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Breakthrough",
+                "id": "c2d10725-6253-4d1d-b71e-7e8b618a6608",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "HIV",
+                "id": "7e9bd3ed-e024-43d5-b52b-210310b3098a",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "research",
+                "id": "1dabc2e6-5311-4731-a48d-0a9d24d7750d",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "hope",
+                "id": "c4899889-3c83-4318-b60d-3de785b18841",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "improved",
+                "id": "8a94ce9d-64eb-4b88-b279-acb9715040ce",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "drug",
+                "id": "b55dc0c8-81a8-478c-8b35-3ead737bd1b8",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "therapy",
+                "id": "e220a697-5c6b-463a-ba96-a6194656c03a",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "c2d10725-6253-4d1d-b71e-7e8b618a6608",
+                "nodeTo": "ac077c34-b2e1-4506-8dda-da5766524233",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ac077c34-b2e1-4506-8dda-da5766524233",
+                "nodeTo": "7e9bd3ed-e024-43d5-b52b-210310b3098a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ac077c34-b2e1-4506-8dda-da5766524233",
+                "nodeTo": "1dabc2e6-5311-4731-a48d-0a9d24d7750d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c2d10725-6253-4d1d-b71e-7e8b618a6608",
+                "nodeTo": "1ca563e8-2442-4cd4-87c9-1c8c33057751",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1ca563e8-2442-4cd4-87c9-1c8c33057751",
+                "nodeTo": "c4899889-3c83-4318-b60d-3de785b18841",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c4899889-3c83-4318-b60d-3de785b18841",
+                "nodeTo": "6a833224-c10a-4493-b181-2453a1aabeed",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6a833224-c10a-4493-b181-2453a1aabeed",
+                "nodeTo": "8a94ce9d-64eb-4b88-b279-acb9715040ce",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6a833224-c10a-4493-b181-2453a1aabeed",
+                "nodeTo": "b55dc0c8-81a8-478c-8b35-3ead737bd1b8",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6a833224-c10a-4493-b181-2453a1aabeed",
+                "nodeTo": "e220a697-5c6b-463a-ba96-a6194656c03a",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-12 18:26:53"
+}

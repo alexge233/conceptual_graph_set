@@ -1,0 +1,70 @@
+{
+    "uuid": 705,
+    "text": "Brazil 2014 dengue risk predicted",
+    "graph": {
+        "version": 1,
+        "guid": "8d0bb56c-3532-427b-b3b1-c6383ab198dd",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "predicted",
+                "id": "99d98107-33a7-4da8-83b8-60c84bba7b2b",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Brazil",
+                "id": "71ad6e73-3e44-422c-bb3a-67d3b40ee717",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": 2014,
+                "id": "888655a5-45c2-4076-98c9-6158300cc4eb",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "dengue",
+                "id": "234cddee-9a05-4a26-bedc-0335b7eac953",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "risk",
+                "id": "e1d26364-180c-4424-bee5-c8c5a220750a",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "71ad6e73-3e44-422c-bb3a-67d3b40ee717",
+                "nodeTo": "99d98107-33a7-4da8-83b8-60c84bba7b2b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "888655a5-45c2-4076-98c9-6158300cc4eb",
+                "nodeTo": "99d98107-33a7-4da8-83b8-60c84bba7b2b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "234cddee-9a05-4a26-bedc-0335b7eac953",
+                "nodeTo": "99d98107-33a7-4da8-83b8-60c84bba7b2b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e1d26364-180c-4424-bee5-c8c5a220750a",
+                "nodeTo": "99d98107-33a7-4da8-83b8-60c84bba7b2b",
+                "index": 1,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2015-01-12 14:09:11"
+}

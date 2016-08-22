@@ -1,0 +1,244 @@
+{
+    "uuid": 57,
+    "text": "People with asthma are dying unnecessarily because of complacency among both medical staff and patients national study claims",
+    "graph": {
+        "version": 1,
+        "guid": "bbaa8a87-de64-4d81-853c-5861c9aceec5",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "with",
+                "id": "4bedde33-6c15-4c35-9565-d9453667c480",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "are",
+                "id": "e3469493-76cc-4ab7-ad61-2b048303005d",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "unnecessarily",
+                "id": "81901104-0899-4aac-b2dd-d58aa684d6a3",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "e48cd3d5-5090-4619-8702-438b41d8095d",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "among",
+                "id": "bde495dd-d10e-4230-a021-ce29bba18371",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "both",
+                "id": "5ade6e09-7d53-4846-ae81-9793a148c42b",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "15e0c01e-55c3-4b79-9268-cd9a318a8a58",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "claims",
+                "id": "db651b3a-3ccd-4014-9c74-33637b2128d3",
+                "index": 17,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "People",
+                "id": "2b71b79e-3437-4e2b-a626-c095c77a44b0",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "asthma",
+                "id": "ac61c5d4-a904-463a-a3ce-2c053a74a276",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "dying",
+                "id": "a58464bc-238c-44ce-a32e-ccee027e90c6",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "complacency",
+                "id": "765a4bb8-c302-476d-bb26-770c95a73ab9",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "because",
+                "id": "013669db-6043-4079-bd28-8e4da1a9b586",
+                "postag": "NA",
+                "index": 6
+            },
+            {
+                "label": "medical",
+                "id": "274b9ab3-e612-4907-8062-07bd6b4d19ab",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "staff",
+                "id": "bcd16602-498a-4793-89b6-6a32cd043be7",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "patients",
+                "id": "e1b047c9-3cd1-4a89-a4da-3285403a4c93",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "national",
+                "id": "30b168ae-cd42-42b0-b47e-5821c562b494",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "study",
+                "id": "0624a5d0-2cca-4a21-88da-3c7969e25754",
+                "index": 16,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "2b71b79e-3437-4e2b-a626-c095c77a44b0",
+                "nodeTo": "4bedde33-6c15-4c35-9565-d9453667c480",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4bedde33-6c15-4c35-9565-d9453667c480",
+                "nodeTo": "ac61c5d4-a904-463a-a3ce-2c053a74a276",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2b71b79e-3437-4e2b-a626-c095c77a44b0",
+                "nodeTo": "e3469493-76cc-4ab7-ad61-2b048303005d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e3469493-76cc-4ab7-ad61-2b048303005d",
+                "nodeTo": "a58464bc-238c-44ce-a32e-ccee027e90c6",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "81901104-0899-4aac-b2dd-d58aa684d6a3",
+                "nodeTo": "a58464bc-238c-44ce-a32e-ccee027e90c6",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e3469493-76cc-4ab7-ad61-2b048303005d",
+                "nodeTo": "013669db-6043-4079-bd28-8e4da1a9b586",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "013669db-6043-4079-bd28-8e4da1a9b586",
+                "nodeTo": "e48cd3d5-5090-4619-8702-438b41d8095d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e48cd3d5-5090-4619-8702-438b41d8095d",
+                "nodeTo": "765a4bb8-c302-476d-bb26-770c95a73ab9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "765a4bb8-c302-476d-bb26-770c95a73ab9",
+                "nodeTo": "bde495dd-d10e-4230-a021-ce29bba18371",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bde495dd-d10e-4230-a021-ce29bba18371",
+                "nodeTo": "274b9ab3-e612-4907-8062-07bd6b4d19ab",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "bde495dd-d10e-4230-a021-ce29bba18371",
+                "nodeTo": "bcd16602-498a-4793-89b6-6a32cd043be7",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "274b9ab3-e612-4907-8062-07bd6b4d19ab",
+                "nodeTo": "15e0c01e-55c3-4b79-9268-cd9a318a8a58",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bcd16602-498a-4793-89b6-6a32cd043be7",
+                "nodeTo": "15e0c01e-55c3-4b79-9268-cd9a318a8a58",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "15e0c01e-55c3-4b79-9268-cd9a318a8a58",
+                "nodeTo": "e1b047c9-3cd1-4a89-a4da-3285403a4c93",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5ade6e09-7d53-4846-ae81-9793a148c42b",
+                "nodeTo": "274b9ab3-e612-4907-8062-07bd6b4d19ab",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5ade6e09-7d53-4846-ae81-9793a148c42b",
+                "nodeTo": "bcd16602-498a-4793-89b6-6a32cd043be7",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5ade6e09-7d53-4846-ae81-9793a148c42b",
+                "nodeTo": "e1b047c9-3cd1-4a89-a4da-3285403a4c93",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "30b168ae-cd42-42b0-b47e-5821c562b494",
+                "nodeTo": "db651b3a-3ccd-4014-9c74-33637b2128d3",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0624a5d0-2cca-4a21-88da-3c7969e25754",
+                "nodeTo": "db651b3a-3ccd-4014-9c74-33637b2128d3",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "db651b3a-3ccd-4014-9c74-33637b2128d3",
+                "nodeTo": "2b71b79e-3437-4e2b-a626-c095c77a44b0",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-03-28 01:33:38"
+}

@@ -1,0 +1,118 @@
+{
+    "uuid": 845,
+    "text": "Cancer virus discovery helped by delayed flight",
+    "graph": {
+        "version": 1,
+        "guid": "8eeb6a4c-cb27-48de-bd93-35186c966364",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "helped",
+                "id": "c7a6d864-a52a-48ac-9c99-ea367399c1e6",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "by",
+                "id": "ea0b8590-2d6b-49e0-b2c7-a1e7e398ab7e",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Cancer",
+                "id": "48d99101-c654-461c-b46e-8e72e0042d7c",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "virus",
+                "id": "68648050-057c-4878-a966-d8d465e6b16e",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "discovery",
+                "id": "ec6c5e30-65be-4a68-a14d-1843d36dee95",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "delayed",
+                "id": "b75a9921-83ed-4018-a18b-c60764146bd6",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "flight",
+                "id": "0a60cd44-ca06-4b24-99bc-d41765db944e",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "48d99101-c654-461c-b46e-8e72e0042d7c",
+                "nodeTo": "c7a6d864-a52a-48ac-9c99-ea367399c1e6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "68648050-057c-4878-a966-d8d465e6b16e",
+                "nodeTo": "c7a6d864-a52a-48ac-9c99-ea367399c1e6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ec6c5e30-65be-4a68-a14d-1843d36dee95",
+                "nodeTo": "c7a6d864-a52a-48ac-9c99-ea367399c1e6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "48d99101-c654-461c-b46e-8e72e0042d7c",
+                "nodeTo": "ea0b8590-2d6b-49e0-b2c7-a1e7e398ab7e",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "68648050-057c-4878-a966-d8d465e6b16e",
+                "nodeTo": "ea0b8590-2d6b-49e0-b2c7-a1e7e398ab7e",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ec6c5e30-65be-4a68-a14d-1843d36dee95",
+                "nodeTo": "ea0b8590-2d6b-49e0-b2c7-a1e7e398ab7e",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c7a6d864-a52a-48ac-9c99-ea367399c1e6",
+                "nodeTo": "b75a9921-83ed-4018-a18b-c60764146bd6",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c7a6d864-a52a-48ac-9c99-ea367399c1e6",
+                "nodeTo": "0a60cd44-ca06-4b24-99bc-d41765db944e",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ea0b8590-2d6b-49e0-b2c7-a1e7e398ab7e",
+                "nodeTo": "b75a9921-83ed-4018-a18b-c60764146bd6",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ea0b8590-2d6b-49e0-b2c7-a1e7e398ab7e",
+                "nodeTo": "0a60cd44-ca06-4b24-99bc-d41765db944e",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-16 21:06:00"
+}

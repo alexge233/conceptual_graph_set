@@ -1,0 +1,286 @@
+{
+    "uuid": 1079,
+    "text": "members of committee are calling for greater clarity on details of cases of children travelling to Dublin for heart surgery",
+    "graph": {
+        "version": 1,
+        "guid": "6e1ad56b-b8de-4788-8bc0-e81b98aad476",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "of",
+                "id": "2c3c25e9-3e59-48e2-8d63-4d2214aa9e48",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "are",
+                "id": "d9eb308a-8331-40b7-8b83-1ee49413c301",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "calling",
+                "id": "39589994-c955-47e5-a3e4-b30a6dcb3334",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "c49be293-4183-470c-8bd8-8bab90dc5202",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "on",
+                "id": "c35588d7-40d7-4b55-bd06-0058886b784d",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "2818d0d4-e40d-4795-a54b-09d48a1b3487",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "4021b656-5860-4486-bc66-800b8e707d30",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "travelling",
+                "id": "e8d74d9b-3c88-43e9-b463-705eadbb51a2",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "87638cb3-054b-43d9-a426-dacb9e49edb7",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "3acc2e9a-8010-4627-8471-a8b55757eecb",
+                "index": 17,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "members",
+                "id": "1c3ea459-bc7b-43d8-a146-771a661087e3",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "committee",
+                "id": "0cc179ba-74ad-432e-a30c-98bb08733d1a",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "greater",
+                "id": "2d93b8e9-5bda-47a5-ab82-0c71e793a135",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "clarity",
+                "id": "859c9ee8-b06b-4d74-a743-ebaaae866c22",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "details",
+                "id": "6d56b14d-95a1-43e9-a76b-c2bbd1acd6a9",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "cases",
+                "id": "cac0aba8-b5e5-4209-93e0-38c0662dd007",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "children",
+                "id": "ae1d4129-c7b6-4ed1-ac0a-024e2963be0b",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "Dublin",
+                "id": "85e28ee4-2e41-46b9-89b3-450d67d19ab3",
+                "index": 16,
+                "postag": "NA"
+            },
+            {
+                "label": "heart",
+                "id": "1895e9ca-21c8-4396-846e-1360ea3aa3a8",
+                "index": 18,
+                "postag": "NA"
+            },
+            {
+                "label": "surgery",
+                "id": "1ab60971-a030-4532-8167-94dd89ac13e2",
+                "index": 19,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "1c3ea459-bc7b-43d8-a146-771a661087e3",
+                "nodeTo": "2c3c25e9-3e59-48e2-8d63-4d2214aa9e48",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2c3c25e9-3e59-48e2-8d63-4d2214aa9e48",
+                "nodeTo": "0cc179ba-74ad-432e-a30c-98bb08733d1a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1c3ea459-bc7b-43d8-a146-771a661087e3",
+                "nodeTo": "d9eb308a-8331-40b7-8b83-1ee49413c301",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1c3ea459-bc7b-43d8-a146-771a661087e3",
+                "nodeTo": "39589994-c955-47e5-a3e4-b30a6dcb3334",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1c3ea459-bc7b-43d8-a146-771a661087e3",
+                "nodeTo": "c49be293-4183-470c-8bd8-8bab90dc5202",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d9eb308a-8331-40b7-8b83-1ee49413c301",
+                "nodeTo": "2d93b8e9-5bda-47a5-ab82-0c71e793a135",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "39589994-c955-47e5-a3e4-b30a6dcb3334",
+                "nodeTo": "2d93b8e9-5bda-47a5-ab82-0c71e793a135",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c49be293-4183-470c-8bd8-8bab90dc5202",
+                "nodeTo": "2d93b8e9-5bda-47a5-ab82-0c71e793a135",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d9eb308a-8331-40b7-8b83-1ee49413c301",
+                "nodeTo": "859c9ee8-b06b-4d74-a743-ebaaae866c22",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "39589994-c955-47e5-a3e4-b30a6dcb3334",
+                "nodeTo": "859c9ee8-b06b-4d74-a743-ebaaae866c22",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c49be293-4183-470c-8bd8-8bab90dc5202",
+                "nodeTo": "859c9ee8-b06b-4d74-a743-ebaaae866c22",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2d93b8e9-5bda-47a5-ab82-0c71e793a135",
+                "nodeTo": "c35588d7-40d7-4b55-bd06-0058886b784d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "859c9ee8-b06b-4d74-a743-ebaaae866c22",
+                "nodeTo": "c35588d7-40d7-4b55-bd06-0058886b784d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c35588d7-40d7-4b55-bd06-0058886b784d",
+                "nodeTo": "6d56b14d-95a1-43e9-a76b-c2bbd1acd6a9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6d56b14d-95a1-43e9-a76b-c2bbd1acd6a9",
+                "nodeTo": "2818d0d4-e40d-4795-a54b-09d48a1b3487",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2818d0d4-e40d-4795-a54b-09d48a1b3487",
+                "nodeTo": "cac0aba8-b5e5-4209-93e0-38c0662dd007",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "cac0aba8-b5e5-4209-93e0-38c0662dd007",
+                "nodeTo": "4021b656-5860-4486-bc66-800b8e707d30",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4021b656-5860-4486-bc66-800b8e707d30",
+                "nodeTo": "ae1d4129-c7b6-4ed1-ac0a-024e2963be0b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ae1d4129-c7b6-4ed1-ac0a-024e2963be0b",
+                "nodeTo": "e8d74d9b-3c88-43e9-b463-705eadbb51a2",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ae1d4129-c7b6-4ed1-ac0a-024e2963be0b",
+                "nodeTo": "87638cb3-054b-43d9-a426-dacb9e49edb7",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e8d74d9b-3c88-43e9-b463-705eadbb51a2",
+                "nodeTo": "85e28ee4-2e41-46b9-89b3-450d67d19ab3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "87638cb3-054b-43d9-a426-dacb9e49edb7",
+                "nodeTo": "85e28ee4-2e41-46b9-89b3-450d67d19ab3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3acc2e9a-8010-4627-8471-a8b55757eecb",
+                "nodeTo": "1895e9ca-21c8-4396-846e-1360ea3aa3a8",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3acc2e9a-8010-4627-8471-a8b55757eecb",
+                "nodeTo": "1ab60971-a030-4532-8167-94dd89ac13e2",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "85e28ee4-2e41-46b9-89b3-450d67d19ab3",
+                "nodeTo": "3acc2e9a-8010-4627-8471-a8b55757eecb",
+                "index": 1,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2015-02-09 17:02:26"
+}

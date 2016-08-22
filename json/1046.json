@@ -1,0 +1,100 @@
+{
+    "uuid": 1046,
+    "text": "chronic pain research delves into brain",
+    "graph": {
+        "version": 1,
+        "guid": "ccc0e8e7-2496-4752-b992-5d68dee8e360",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "delves",
+                "id": "40436620-2545-4ca5-bd57-05605c28a43e",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "into",
+                "id": "ee395a1e-c92b-4632-8c05-6aeb681b3673",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "chronic",
+                "id": "43c52e2c-8261-4a33-b309-0971eca46466",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "pain",
+                "id": "401e8a60-53c0-4e43-a1e5-028326b6a96a",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "research",
+                "id": "c4d0977a-cc18-4351-9735-ec785544bdb3",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "brain",
+                "id": "15dba0c7-c52c-480d-923a-6133a1c1e4ea",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "43c52e2c-8261-4a33-b309-0971eca46466",
+                "nodeTo": "40436620-2545-4ca5-bd57-05605c28a43e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "401e8a60-53c0-4e43-a1e5-028326b6a96a",
+                "nodeTo": "40436620-2545-4ca5-bd57-05605c28a43e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c4d0977a-cc18-4351-9735-ec785544bdb3",
+                "nodeTo": "40436620-2545-4ca5-bd57-05605c28a43e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "43c52e2c-8261-4a33-b309-0971eca46466",
+                "nodeTo": "ee395a1e-c92b-4632-8c05-6aeb681b3673",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "401e8a60-53c0-4e43-a1e5-028326b6a96a",
+                "nodeTo": "ee395a1e-c92b-4632-8c05-6aeb681b3673",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c4d0977a-cc18-4351-9735-ec785544bdb3",
+                "nodeTo": "ee395a1e-c92b-4632-8c05-6aeb681b3673",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "40436620-2545-4ca5-bd57-05605c28a43e",
+                "nodeTo": "15dba0c7-c52c-480d-923a-6133a1c1e4ea",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ee395a1e-c92b-4632-8c05-6aeb681b3673",
+                "nodeTo": "15dba0c7-c52c-480d-923a-6133a1c1e4ea",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-04 17:13:09"
+}

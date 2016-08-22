@@ -1,0 +1,124 @@
+{
+    "uuid": 547,
+    "text": "Better predictor of prostate cancer survival proposed by research",
+    "graph": {
+        "version": 1,
+        "guid": "53221ab9-7bae-47ce-9176-2b0584c56149",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "of",
+                "id": "892e75aa-ab92-4c6b-b3b8-717a59963ae1",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "proposed",
+                "id": "b10890a5-6069-4cb8-b40c-9814800aaae3",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "by",
+                "id": "3bc688ed-ab95-4ac3-a386-88ba44aeaa5a",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Better",
+                "id": "09d2d638-3880-4c89-a032-91aeb3d26ade",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "predictor",
+                "id": "be79e79b-4965-487e-b318-5158b90371a5",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "prostate",
+                "id": "a5933e6c-a536-458c-bd2d-3348db618b73",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "cancer",
+                "id": "08d0c545-aaee-4bbe-ac87-5b38759732ec",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "survival",
+                "id": "a64cda60-06c8-4c11-a41b-36c241a1c678",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "research",
+                "id": "cbad53a9-54a5-419d-9d61-a21239993b5b",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "09d2d638-3880-4c89-a032-91aeb3d26ade",
+                "nodeTo": "892e75aa-ab92-4c6b-b3b8-717a59963ae1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "be79e79b-4965-487e-b318-5158b90371a5",
+                "nodeTo": "892e75aa-ab92-4c6b-b3b8-717a59963ae1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "892e75aa-ab92-4c6b-b3b8-717a59963ae1",
+                "nodeTo": "a5933e6c-a536-458c-bd2d-3348db618b73",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "892e75aa-ab92-4c6b-b3b8-717a59963ae1",
+                "nodeTo": "08d0c545-aaee-4bbe-ac87-5b38759732ec",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "892e75aa-ab92-4c6b-b3b8-717a59963ae1",
+                "nodeTo": "a64cda60-06c8-4c11-a41b-36c241a1c678",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b10890a5-6069-4cb8-b40c-9814800aaae3",
+                "nodeTo": "cbad53a9-54a5-419d-9d61-a21239993b5b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3bc688ed-ab95-4ac3-a386-88ba44aeaa5a",
+                "nodeTo": "cbad53a9-54a5-419d-9d61-a21239993b5b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b10890a5-6069-4cb8-b40c-9814800aaae3",
+                "nodeTo": "09d2d638-3880-4c89-a032-91aeb3d26ade",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b10890a5-6069-4cb8-b40c-9814800aaae3",
+                "nodeTo": "be79e79b-4965-487e-b318-5158b90371a5",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-31 20:02:14"
+}

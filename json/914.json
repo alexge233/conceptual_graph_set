@@ -1,0 +1,154 @@
+{
+    "uuid": 914,
+    "text": "Cave dwelling fish examination finds possible genetic link to human disorders",
+    "graph": {
+        "version": 1,
+        "guid": "235697b3-055e-48e6-b39d-0b275174d005",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "finds",
+                "id": "5293b819-6873-4295-aac8-824e529be935",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "79161354-12ce-411a-b9de-779b57896753",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Cave",
+                "id": "2756c1ec-a85c-4cc6-9735-017dd4e5474c",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "dwelling",
+                "id": "2cc0e0d4-9137-4dd5-aba2-ce1909440537",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "fish",
+                "id": "5a530a67-e44c-43e4-b06b-d7b135219343",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "examination",
+                "id": "92911812-2b9d-4504-a44e-752b97d6e911",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "possible",
+                "id": "25d98256-2de6-468c-9932-a40d7eb09c95",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "genetic",
+                "id": "3bc552e6-a482-44e6-ba4e-b284e7c0dd47",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "link",
+                "id": "652283ca-87e9-42ae-a2c6-84aa28bb9dd9",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "human",
+                "id": "8ac10345-a4bd-4242-aa4b-815ea779dbe7",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "disorders",
+                "id": "78a2e598-3971-4b61-80b5-759e1ad94430",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "2756c1ec-a85c-4cc6-9735-017dd4e5474c",
+                "nodeTo": "5293b819-6873-4295-aac8-824e529be935",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2cc0e0d4-9137-4dd5-aba2-ce1909440537",
+                "nodeTo": "5293b819-6873-4295-aac8-824e529be935",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5a530a67-e44c-43e4-b06b-d7b135219343",
+                "nodeTo": "5293b819-6873-4295-aac8-824e529be935",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "92911812-2b9d-4504-a44e-752b97d6e911",
+                "nodeTo": "5293b819-6873-4295-aac8-824e529be935",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5293b819-6873-4295-aac8-824e529be935",
+                "nodeTo": "25d98256-2de6-468c-9932-a40d7eb09c95",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5293b819-6873-4295-aac8-824e529be935",
+                "nodeTo": "3bc552e6-a482-44e6-ba4e-b284e7c0dd47",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5293b819-6873-4295-aac8-824e529be935",
+                "nodeTo": "652283ca-87e9-42ae-a2c6-84aa28bb9dd9",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "25d98256-2de6-468c-9932-a40d7eb09c95",
+                "nodeTo": "79161354-12ce-411a-b9de-779b57896753",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3bc552e6-a482-44e6-ba4e-b284e7c0dd47",
+                "nodeTo": "79161354-12ce-411a-b9de-779b57896753",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "652283ca-87e9-42ae-a2c6-84aa28bb9dd9",
+                "nodeTo": "79161354-12ce-411a-b9de-779b57896753",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "79161354-12ce-411a-b9de-779b57896753",
+                "nodeTo": "8ac10345-a4bd-4242-aa4b-815ea779dbe7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "79161354-12ce-411a-b9de-779b57896753",
+                "nodeTo": "78a2e598-3971-4b61-80b5-759e1ad94430",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-21 20:52:27"
+}

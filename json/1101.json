@@ -1,0 +1,136 @@
+{
+    "uuid": 1101,
+    "text": "clinicians may be driving racial disparities in health",
+    "graph": {
+        "version": 1,
+        "guid": "9d42d0b3-4122-413c-8ae9-ac6031a39611",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "may",
+                "id": "58657d01-a266-4464-9e26-19012058d02b",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "be",
+                "id": "5c347450-96b1-4a5b-a893-e3c314d74c86",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "driving",
+                "id": "0914e5d4-375d-4e84-8e20-1b12335ea14a",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "4eab0d81-ccc3-4dca-82ed-017c99575757",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "clinicians",
+                "id": "e460d54a-2514-459a-9c39-caeda040c1c6",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "racial",
+                "id": "b957e547-5aa3-4e68-8d31-c86db99ba386",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "disparities",
+                "id": "4eda7c79-32dd-44e7-9a2d-41a71878b314",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "health",
+                "id": "38bbb7ac-39a2-4998-a3d8-9da3bc2a7c47",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "e460d54a-2514-459a-9c39-caeda040c1c6",
+                "nodeTo": "58657d01-a266-4464-9e26-19012058d02b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e460d54a-2514-459a-9c39-caeda040c1c6",
+                "nodeTo": "5c347450-96b1-4a5b-a893-e3c314d74c86",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e460d54a-2514-459a-9c39-caeda040c1c6",
+                "nodeTo": "0914e5d4-375d-4e84-8e20-1b12335ea14a",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "58657d01-a266-4464-9e26-19012058d02b",
+                "nodeTo": "b957e547-5aa3-4e68-8d31-c86db99ba386",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5c347450-96b1-4a5b-a893-e3c314d74c86",
+                "nodeTo": "b957e547-5aa3-4e68-8d31-c86db99ba386",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0914e5d4-375d-4e84-8e20-1b12335ea14a",
+                "nodeTo": "b957e547-5aa3-4e68-8d31-c86db99ba386",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "58657d01-a266-4464-9e26-19012058d02b",
+                "nodeTo": "4eda7c79-32dd-44e7-9a2d-41a71878b314",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5c347450-96b1-4a5b-a893-e3c314d74c86",
+                "nodeTo": "4eda7c79-32dd-44e7-9a2d-41a71878b314",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0914e5d4-375d-4e84-8e20-1b12335ea14a",
+                "nodeTo": "4eda7c79-32dd-44e7-9a2d-41a71878b314",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b957e547-5aa3-4e68-8d31-c86db99ba386",
+                "nodeTo": "4eab0d81-ccc3-4dca-82ed-017c99575757",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4eda7c79-32dd-44e7-9a2d-41a71878b314",
+                "nodeTo": "4eab0d81-ccc3-4dca-82ed-017c99575757",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4eab0d81-ccc3-4dca-82ed-017c99575757",
+                "nodeTo": "38bbb7ac-39a2-4998-a3d8-9da3bc2a7c47",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-12 00:04:00"
+}

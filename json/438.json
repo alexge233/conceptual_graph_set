@@ -1,0 +1,160 @@
+{
+    "uuid": 438,
+    "text": "woman is arrested on suspicion of assaulting resident at Essex care home",
+    "graph": {
+        "version": 1,
+        "guid": "271be3c4-e273-43ce-8005-eb554722bc47",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "is",
+                "id": "06ca6081-b4ec-4547-a503-246e3822e29b",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "on",
+                "id": "588b0750-2281-45d4-8182-2e086edc6e24",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "6368d7ca-07c4-4745-ac6a-4256aa37e718",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "assaulting",
+                "id": "195619bd-4bc6-4e0b-9a34-a3aca687abdd",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "at",
+                "id": "c516b7d8-96d7-458b-bd58-b97dee65660e",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "woman",
+                "id": "20256902-a035-43d2-bd74-4a9b9374767a",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "arrested",
+                "id": "66014803-95b4-46d2-9739-3235be202e29",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "suspicion",
+                "id": "1419cb6a-61db-4664-936d-159d4e892a4c",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "resident",
+                "id": "73eb418c-6080-41d4-97e0-d5edeb64e98e",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "Essex",
+                "id": "b85ad626-bd5d-4998-8687-3c89043c7bba",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "care",
+                "id": "8da5496d-3259-4dce-b0db-e63796b38d73",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "home",
+                "id": "0ea91d76-01e8-473d-928a-3015ba127d9e",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "20256902-a035-43d2-bd74-4a9b9374767a",
+                "nodeTo": "06ca6081-b4ec-4547-a503-246e3822e29b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "06ca6081-b4ec-4547-a503-246e3822e29b",
+                "nodeTo": "66014803-95b4-46d2-9739-3235be202e29",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "66014803-95b4-46d2-9739-3235be202e29",
+                "nodeTo": "588b0750-2281-45d4-8182-2e086edc6e24",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "588b0750-2281-45d4-8182-2e086edc6e24",
+                "nodeTo": "1419cb6a-61db-4664-936d-159d4e892a4c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1419cb6a-61db-4664-936d-159d4e892a4c",
+                "nodeTo": "6368d7ca-07c4-4745-ac6a-4256aa37e718",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1419cb6a-61db-4664-936d-159d4e892a4c",
+                "nodeTo": "195619bd-4bc6-4e0b-9a34-a3aca687abdd",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "195619bd-4bc6-4e0b-9a34-a3aca687abdd",
+                "nodeTo": "73eb418c-6080-41d4-97e0-d5edeb64e98e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6368d7ca-07c4-4745-ac6a-4256aa37e718",
+                "nodeTo": "73eb418c-6080-41d4-97e0-d5edeb64e98e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "73eb418c-6080-41d4-97e0-d5edeb64e98e",
+                "nodeTo": "c516b7d8-96d7-458b-bd58-b97dee65660e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c516b7d8-96d7-458b-bd58-b97dee65660e",
+                "nodeTo": "b85ad626-bd5d-4998-8687-3c89043c7bba",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c516b7d8-96d7-458b-bd58-b97dee65660e",
+                "nodeTo": "8da5496d-3259-4dce-b0db-e63796b38d73",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c516b7d8-96d7-458b-bd58-b97dee65660e",
+                "nodeTo": "0ea91d76-01e8-473d-928a-3015ba127d9e",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-18 17:14:21"
+}

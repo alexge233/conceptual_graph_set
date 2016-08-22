@@ -1,0 +1,160 @@
+{
+    "uuid": 1144,
+    "text": "combination therapy is potential strategy for treating Niemann Pick disease",
+    "graph": {
+        "version": 1,
+        "guid": "bc339d43-26cd-48bc-84c6-9c4c6c844622",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "is",
+                "id": "2c0b2a69-0a91-4755-9231-d928118567c1",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "4b6e1d99-3397-4069-86c8-b5365c779628",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "treating",
+                "id": "7349a485-52b1-4d6b-821c-8b81956a5945",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "combination",
+                "id": "584404b9-42a8-48aa-9c5d-a6ae5e80b53d",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "therapy",
+                "id": "1a34355e-04b5-44da-8859-ac5c2a515932",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "potential",
+                "id": "bea24287-93ca-4b25-8dd1-4dbd72477e46",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "strategy",
+                "id": "714354d1-09a9-417b-a236-96252deee2a3",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "Niemann",
+                "id": "c1d58246-4ed1-464e-8e97-874095c365d6",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "Pick",
+                "id": "8d5c800a-1d46-4895-9da5-32d9bacbe359",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "disease",
+                "id": "4cbcbd0a-57ca-4dba-9b55-e2a59c625495",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "584404b9-42a8-48aa-9c5d-a6ae5e80b53d",
+                "nodeTo": "2c0b2a69-0a91-4755-9231-d928118567c1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1a34355e-04b5-44da-8859-ac5c2a515932",
+                "nodeTo": "2c0b2a69-0a91-4755-9231-d928118567c1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2c0b2a69-0a91-4755-9231-d928118567c1",
+                "nodeTo": "bea24287-93ca-4b25-8dd1-4dbd72477e46",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2c0b2a69-0a91-4755-9231-d928118567c1",
+                "nodeTo": "714354d1-09a9-417b-a236-96252deee2a3",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "bea24287-93ca-4b25-8dd1-4dbd72477e46",
+                "nodeTo": "4b6e1d99-3397-4069-86c8-b5365c779628",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "714354d1-09a9-417b-a236-96252deee2a3",
+                "nodeTo": "4b6e1d99-3397-4069-86c8-b5365c779628",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bea24287-93ca-4b25-8dd1-4dbd72477e46",
+                "nodeTo": "7349a485-52b1-4d6b-821c-8b81956a5945",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "714354d1-09a9-417b-a236-96252deee2a3",
+                "nodeTo": "7349a485-52b1-4d6b-821c-8b81956a5945",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4b6e1d99-3397-4069-86c8-b5365c779628",
+                "nodeTo": "c1d58246-4ed1-464e-8e97-874095c365d6",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7349a485-52b1-4d6b-821c-8b81956a5945",
+                "nodeTo": "c1d58246-4ed1-464e-8e97-874095c365d6",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4b6e1d99-3397-4069-86c8-b5365c779628",
+                "nodeTo": "8d5c800a-1d46-4895-9da5-32d9bacbe359",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7349a485-52b1-4d6b-821c-8b81956a5945",
+                "nodeTo": "8d5c800a-1d46-4895-9da5-32d9bacbe359",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4b6e1d99-3397-4069-86c8-b5365c779628",
+                "nodeTo": "4cbcbd0a-57ca-4dba-9b55-e2a59c625495",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7349a485-52b1-4d6b-821c-8b81956a5945",
+                "nodeTo": "4cbcbd0a-57ca-4dba-9b55-e2a59c625495",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-23 22:39:12"
+}

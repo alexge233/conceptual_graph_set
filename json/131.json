@@ -1,0 +1,70 @@
+{
+    "uuid": 131,
+    "text": "Milestone in fight against polio",
+    "graph": {
+        "version": 1,
+        "guid": "8d759659-51a7-4b10-aabe-01583315871b",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "in",
+                "id": "066b316d-386e-4638-899a-3c4a26b480ac",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "against",
+                "id": "2a979c68-c7c0-4660-bd75-7b8c8db4a8ae",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Milestone",
+                "id": "c6d3d1ac-c078-4868-9291-d88e233b5810",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "fight",
+                "id": "ba1d2163-28ad-4b29-8aa7-a8b772a026d3",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "polio",
+                "id": "1c6436b0-2c75-44bb-90a3-cd1bcc83048d",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "c6d3d1ac-c078-4868-9291-d88e233b5810",
+                "nodeTo": "066b316d-386e-4638-899a-3c4a26b480ac",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "066b316d-386e-4638-899a-3c4a26b480ac",
+                "nodeTo": "ba1d2163-28ad-4b29-8aa7-a8b772a026d3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ba1d2163-28ad-4b29-8aa7-a8b772a026d3",
+                "nodeTo": "2a979c68-c7c0-4660-bd75-7b8c8db4a8ae",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2a979c68-c7c0-4660-bd75-7b8c8db4a8ae",
+                "nodeTo": "1c6436b0-2c75-44bb-90a3-cd1bcc83048d",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-10-29 23:42:18"
+}

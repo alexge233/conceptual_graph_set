@@ -1,0 +1,160 @@
+{
+    "uuid": 334,
+    "text": "Alzheimers prevention trial to monitor reactions to higher disease risk status",
+    "graph": {
+        "version": 1,
+        "guid": "e7747428-b3c2-494b-aa39-6c5be133a889",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "to",
+                "id": "83bd0ca8-7418-4d8e-9cd5-c3c19ebe9923",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "monitor",
+                "id": "c3e97127-8a7e-410d-b57d-38bbc334768d",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "a76eb391-5964-4202-8e57-05d935709b6a",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Alzheimers",
+                "id": "0beb5bc4-1d4b-4504-9e12-4e99d07add09",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "prevention",
+                "id": "a6a79b8d-7494-4c71-bc60-cddac5e34304",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "trial",
+                "id": "3c6e962d-0363-46c2-8a09-a95d80db2c00",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "reactions",
+                "id": "87c41156-4173-4ae5-ae60-deae5a800115",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "higher",
+                "id": "5ddee138-5655-40d2-9bac-89a19d082aab",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "disease",
+                "id": "754dd7ac-b749-4357-9d79-00809ce711ae",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "risk",
+                "id": "e1291070-0e02-4b9c-b725-a3179514d568",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "status",
+                "id": "7d5572ed-48e1-4140-b3c6-255cad327787",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "0beb5bc4-1d4b-4504-9e12-4e99d07add09",
+                "nodeTo": "83bd0ca8-7418-4d8e-9cd5-c3c19ebe9923",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a6a79b8d-7494-4c71-bc60-cddac5e34304",
+                "nodeTo": "83bd0ca8-7418-4d8e-9cd5-c3c19ebe9923",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3c6e962d-0363-46c2-8a09-a95d80db2c00",
+                "nodeTo": "83bd0ca8-7418-4d8e-9cd5-c3c19ebe9923",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0beb5bc4-1d4b-4504-9e12-4e99d07add09",
+                "nodeTo": "c3e97127-8a7e-410d-b57d-38bbc334768d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a6a79b8d-7494-4c71-bc60-cddac5e34304",
+                "nodeTo": "c3e97127-8a7e-410d-b57d-38bbc334768d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3c6e962d-0363-46c2-8a09-a95d80db2c00",
+                "nodeTo": "c3e97127-8a7e-410d-b57d-38bbc334768d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c3e97127-8a7e-410d-b57d-38bbc334768d",
+                "nodeTo": "87c41156-4173-4ae5-ae60-deae5a800115",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "83bd0ca8-7418-4d8e-9cd5-c3c19ebe9923",
+                "nodeTo": "87c41156-4173-4ae5-ae60-deae5a800115",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "87c41156-4173-4ae5-ae60-deae5a800115",
+                "nodeTo": "a76eb391-5964-4202-8e57-05d935709b6a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a76eb391-5964-4202-8e57-05d935709b6a",
+                "nodeTo": "5ddee138-5655-40d2-9bac-89a19d082aab",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a76eb391-5964-4202-8e57-05d935709b6a",
+                "nodeTo": "754dd7ac-b749-4357-9d79-00809ce711ae",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a76eb391-5964-4202-8e57-05d935709b6a",
+                "nodeTo": "e1291070-0e02-4b9c-b725-a3179514d568",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a76eb391-5964-4202-8e57-05d935709b6a",
+                "nodeTo": "7d5572ed-48e1-4140-b3c6-255cad327787",
+                "index": 4,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-15 15:02:06"
+}

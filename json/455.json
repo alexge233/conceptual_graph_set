@@ -1,0 +1,118 @@
+{
+    "uuid": 455,
+    "text": "generating immunity against tumor vessel protein in mouse study",
+    "graph": {
+        "version": 1,
+        "guid": "ba64a63a-4d8e-47c8-b45c-295c3047466c",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "generating",
+                "id": "8beb95e1-287b-47d9-8ceb-ec9e7da6177c",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "against",
+                "id": "c88a0eeb-7ec4-44b5-a478-8eb583914800",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "b569592b-0777-4dbc-86de-123c76d5eabb",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "immunity",
+                "id": "ae4e4632-11dc-48b1-8392-14d80d7c1110",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "tumor",
+                "id": "10c51db8-6c57-471a-9642-9c7716261c50",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "vessel",
+                "id": "db3c421a-3523-4942-ab56-1150ae196026",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "protein",
+                "id": "48b8b642-c4b9-45b6-9523-7aee5c2ae73d",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "mouse",
+                "id": "1792acd1-0bec-4d74-bab2-dcb78bc26a25",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "study",
+                "id": "2c514a06-0cde-4353-92c4-451d06c390d1",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "8beb95e1-287b-47d9-8ceb-ec9e7da6177c",
+                "nodeTo": "ae4e4632-11dc-48b1-8392-14d80d7c1110",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ae4e4632-11dc-48b1-8392-14d80d7c1110",
+                "nodeTo": "c88a0eeb-7ec4-44b5-a478-8eb583914800",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c88a0eeb-7ec4-44b5-a478-8eb583914800",
+                "nodeTo": "10c51db8-6c57-471a-9642-9c7716261c50",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c88a0eeb-7ec4-44b5-a478-8eb583914800",
+                "nodeTo": "db3c421a-3523-4942-ab56-1150ae196026",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c88a0eeb-7ec4-44b5-a478-8eb583914800",
+                "nodeTo": "48b8b642-c4b9-45b6-9523-7aee5c2ae73d",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ae4e4632-11dc-48b1-8392-14d80d7c1110",
+                "nodeTo": "b569592b-0777-4dbc-86de-123c76d5eabb",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b569592b-0777-4dbc-86de-123c76d5eabb",
+                "nodeTo": "1792acd1-0bec-4d74-bab2-dcb78bc26a25",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b569592b-0777-4dbc-86de-123c76d5eabb",
+                "nodeTo": "2c514a06-0cde-4353-92c4-451d06c390d1",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-18 20:15:12"
+}

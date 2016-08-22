@@ -1,0 +1,106 @@
+{
+    "uuid": 447,
+    "text": "association between small vessel disease Alzheimer pathology studied",
+    "graph": {
+        "version": 1,
+        "guid": "2cea8859-2035-433b-9eee-a435c0cd7b48",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "between",
+                "id": "8ac53aba-ed2b-48de-b9b2-3e6a56cdb115",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "studied",
+                "id": "25dd8526-5a06-499e-a807-361179716de8",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "association",
+                "id": "58607016-92cc-45c1-a8ae-c0ad7b133a18",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "small",
+                "id": "9428da20-a81e-481b-9664-19d5476dc2dd",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "vessel",
+                "id": "6ede4919-ae85-4ce7-9b3d-a382160c3848",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "disease",
+                "id": "4d8abeb4-c108-460d-9b3b-1c51d856702e",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "Alzheimer",
+                "id": "27b4db56-2e62-4401-868c-5a4b8a88aa73",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "pathology",
+                "id": "a5760c21-1763-47cc-814a-6dcd65c49a2e",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "58607016-92cc-45c1-a8ae-c0ad7b133a18",
+                "nodeTo": "8ac53aba-ed2b-48de-b9b2-3e6a56cdb115",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8ac53aba-ed2b-48de-b9b2-3e6a56cdb115",
+                "nodeTo": "9428da20-a81e-481b-9664-19d5476dc2dd",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8ac53aba-ed2b-48de-b9b2-3e6a56cdb115",
+                "nodeTo": "6ede4919-ae85-4ce7-9b3d-a382160c3848",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8ac53aba-ed2b-48de-b9b2-3e6a56cdb115",
+                "nodeTo": "4d8abeb4-c108-460d-9b3b-1c51d856702e",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8ac53aba-ed2b-48de-b9b2-3e6a56cdb115",
+                "nodeTo": "27b4db56-2e62-4401-868c-5a4b8a88aa73",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a5760c21-1763-47cc-814a-6dcd65c49a2e",
+                "nodeTo": "25dd8526-5a06-499e-a807-361179716de8",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "25dd8526-5a06-499e-a807-361179716de8",
+                "nodeTo": "58607016-92cc-45c1-a8ae-c0ad7b133a18",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-18 17:42:42"
+}

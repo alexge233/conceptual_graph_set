@@ -1,0 +1,202 @@
+{
+    "uuid": 938,
+    "text": "very special DNA lesions are DNA and protein crosslinks with covalent link to DNA",
+    "graph": {
+        "version": 1,
+        "guid": "a9dea421-4c1a-4c4e-8ea1-2c4e2c077165",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "are",
+                "id": "456b3a5e-7370-4660-b013-68ca8a100ead",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "62d77ce1-719d-42d5-a49c-d4975690e52a",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "with",
+                "id": "da5aa0b6-2455-4eb9-b098-473be9962144",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "c0477404-ba62-4e8b-86c0-3b77d7dae3c4",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "very",
+                "id": "9831da13-062d-495b-ba73-7c0e1e3581eb",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "special",
+                "id": "bb821a3c-94d3-4d15-b577-005e75a463e3",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "DNA",
+                "id": "951ec9ba-85e7-4907-9ee0-538257187844",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "lesions",
+                "id": "87e55438-630c-4a70-b94d-d04276402811",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "DNA",
+                "id": "ec930cac-e898-4d4c-9a20-211de771b2cc",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "protein",
+                "id": "0a1141c0-8249-4655-a063-54a57a15bc1e",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "crosslinks",
+                "id": "c9a0660d-3a38-4286-948d-de0d370508cd",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "covalent",
+                "id": "c606b955-c3e2-421d-ad0a-7e47230ae0c9",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "link",
+                "id": "830a28e5-47aa-4e1a-962d-051a15658921",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "DNA",
+                "id": "a5845ee0-ee44-4e68-ac18-5a6e59991d73",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "9831da13-062d-495b-ba73-7c0e1e3581eb",
+                "nodeTo": "456b3a5e-7370-4660-b013-68ca8a100ead",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bb821a3c-94d3-4d15-b577-005e75a463e3",
+                "nodeTo": "456b3a5e-7370-4660-b013-68ca8a100ead",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "951ec9ba-85e7-4907-9ee0-538257187844",
+                "nodeTo": "456b3a5e-7370-4660-b013-68ca8a100ead",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "87e55438-630c-4a70-b94d-d04276402811",
+                "nodeTo": "456b3a5e-7370-4660-b013-68ca8a100ead",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "456b3a5e-7370-4660-b013-68ca8a100ead",
+                "nodeTo": "ec930cac-e898-4d4c-9a20-211de771b2cc",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ec930cac-e898-4d4c-9a20-211de771b2cc",
+                "nodeTo": "62d77ce1-719d-42d5-a49c-d4975690e52a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "62d77ce1-719d-42d5-a49c-d4975690e52a",
+                "nodeTo": "0a1141c0-8249-4655-a063-54a57a15bc1e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "456b3a5e-7370-4660-b013-68ca8a100ead",
+                "nodeTo": "0a1141c0-8249-4655-a063-54a57a15bc1e",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "456b3a5e-7370-4660-b013-68ca8a100ead",
+                "nodeTo": "c9a0660d-3a38-4286-948d-de0d370508cd",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0a1141c0-8249-4655-a063-54a57a15bc1e",
+                "nodeTo": "da5aa0b6-2455-4eb9-b098-473be9962144",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c9a0660d-3a38-4286-948d-de0d370508cd",
+                "nodeTo": "da5aa0b6-2455-4eb9-b098-473be9962144",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ec930cac-e898-4d4c-9a20-211de771b2cc",
+                "nodeTo": "da5aa0b6-2455-4eb9-b098-473be9962144",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "da5aa0b6-2455-4eb9-b098-473be9962144",
+                "nodeTo": "c606b955-c3e2-421d-ad0a-7e47230ae0c9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "da5aa0b6-2455-4eb9-b098-473be9962144",
+                "nodeTo": "830a28e5-47aa-4e1a-962d-051a15658921",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c606b955-c3e2-421d-ad0a-7e47230ae0c9",
+                "nodeTo": "c0477404-ba62-4e8b-86c0-3b77d7dae3c4",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "830a28e5-47aa-4e1a-962d-051a15658921",
+                "nodeTo": "c0477404-ba62-4e8b-86c0-3b77d7dae3c4",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c0477404-ba62-4e8b-86c0-3b77d7dae3c4",
+                "nodeTo": "a5845ee0-ee44-4e68-ac18-5a6e59991d73",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-22 18:07:38"
+}

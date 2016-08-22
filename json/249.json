@@ -1,0 +1,58 @@
+{
+    "uuid": 249,
+    "text": "Abortion clinic guidance published",
+    "graph": {
+        "version": 1,
+        "guid": "24a9a377-3e3e-4796-b58b-2956135e35d3",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "published",
+                "id": "48162904-3c43-457b-b21d-8ede14084e8d",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Abortion",
+                "id": "eb6c799c-b0cd-4de4-8c68-9ac9a2b4be0b",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "clinic",
+                "id": "d2d9b637-318e-4132-bae2-305594dedb90",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "guidance",
+                "id": "aeea0c53-39be-4b81-a277-9e33b48e685c",
+                "index": 2,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "eb6c799c-b0cd-4de4-8c68-9ac9a2b4be0b",
+                "nodeTo": "48162904-3c43-457b-b21d-8ede14084e8d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d2d9b637-318e-4132-bae2-305594dedb90",
+                "nodeTo": "48162904-3c43-457b-b21d-8ede14084e8d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "aeea0c53-39be-4b81-a277-9e33b48e685c",
+                "nodeTo": "48162904-3c43-457b-b21d-8ede14084e8d",
+                "index": 1,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2014-12-01 20:12:46"
+}

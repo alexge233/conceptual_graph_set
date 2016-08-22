@@ -1,0 +1,94 @@
+{
+    "uuid": 284,
+    "text": "Adult tonsillectomy complications and health care expenses",
+    "graph": {
+        "version": 1,
+        "guid": "434ed651-ae5b-4b2b-ae87-2e3858725b6d",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "and",
+                "id": "0eb20ee4-44cb-4c4e-84c1-b0a0505bedc1",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Adult",
+                "id": "dc860881-a89b-42ba-99bd-e76c699db533",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "tonsillectomy",
+                "id": "08a73c25-4bd0-49c4-9952-3696de2d7248",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "complications",
+                "id": "038265ba-abcd-47b0-926a-02c070dd7edd",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "health",
+                "id": "80cc9ced-1a29-47e8-b8a2-4c17bb002cc3",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "care",
+                "id": "7a339e4d-d068-42d6-b424-251cec03b1e3",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "expenses",
+                "id": "e4ccac2d-ed0c-4a0e-a214-ae493d78494b",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "dc860881-a89b-42ba-99bd-e76c699db533",
+                "nodeTo": "0eb20ee4-44cb-4c4e-84c1-b0a0505bedc1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "08a73c25-4bd0-49c4-9952-3696de2d7248",
+                "nodeTo": "0eb20ee4-44cb-4c4e-84c1-b0a0505bedc1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "038265ba-abcd-47b0-926a-02c070dd7edd",
+                "nodeTo": "0eb20ee4-44cb-4c4e-84c1-b0a0505bedc1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0eb20ee4-44cb-4c4e-84c1-b0a0505bedc1",
+                "nodeTo": "80cc9ced-1a29-47e8-b8a2-4c17bb002cc3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0eb20ee4-44cb-4c4e-84c1-b0a0505bedc1",
+                "nodeTo": "7a339e4d-d068-42d6-b424-251cec03b1e3",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0eb20ee4-44cb-4c4e-84c1-b0a0505bedc1",
+                "nodeTo": "e4ccac2d-ed0c-4a0e-a214-ae493d78494b",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-04 09:38:29"
+}

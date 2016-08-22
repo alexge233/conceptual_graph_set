@@ -1,0 +1,166 @@
+{
+    "uuid": 209,
+    "text": "12 minutes of exercise improves attention reading comprehension in low-income adolescents",
+    "graph": {
+        "version": 1,
+        "guid": "54437338-9d0a-4552-876a-0409ced241c1",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "of",
+                "id": "85d4c868-6d5a-4565-b860-c19ea783c359",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "improves",
+                "id": "93d3e455-db89-4e1e-94b6-795314d40eae",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "25aa69e0-c06e-4056-a785-d3411e1e2594",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": 12,
+                "id": "7821ec71-4771-443a-b8d7-b443dde06a1e",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "minutes",
+                "id": "d4885708-2971-41c5-ab62-3054036b962e",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "exercise",
+                "id": "39dc529b-a537-4c9d-ad4c-5b555a2910da",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "attention",
+                "id": "1e4474bb-ea05-4367-8c21-555052420c1a",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "reading",
+                "id": "db1d6139-ae83-408c-8e4a-e9e2e65b56a8",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "comprehension",
+                "id": "75442d7b-5052-47c7-b1e3-982b5a983618",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "low-income",
+                "id": "4b36153a-96b7-43ad-8b0d-c05c38ab8b6e",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "adolescents",
+                "id": "50943012-0cac-4be5-ab20-34386347e2b9",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "7821ec71-4771-443a-b8d7-b443dde06a1e",
+                "nodeTo": "85d4c868-6d5a-4565-b860-c19ea783c359",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d4885708-2971-41c5-ab62-3054036b962e",
+                "nodeTo": "85d4c868-6d5a-4565-b860-c19ea783c359",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "85d4c868-6d5a-4565-b860-c19ea783c359",
+                "nodeTo": "39dc529b-a537-4c9d-ad4c-5b555a2910da",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7821ec71-4771-443a-b8d7-b443dde06a1e",
+                "nodeTo": "93d3e455-db89-4e1e-94b6-795314d40eae",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d4885708-2971-41c5-ab62-3054036b962e",
+                "nodeTo": "93d3e455-db89-4e1e-94b6-795314d40eae",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "39dc529b-a537-4c9d-ad4c-5b555a2910da",
+                "nodeTo": "93d3e455-db89-4e1e-94b6-795314d40eae",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "93d3e455-db89-4e1e-94b6-795314d40eae",
+                "nodeTo": "1e4474bb-ea05-4367-8c21-555052420c1a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "93d3e455-db89-4e1e-94b6-795314d40eae",
+                "nodeTo": "db1d6139-ae83-408c-8e4a-e9e2e65b56a8",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "93d3e455-db89-4e1e-94b6-795314d40eae",
+                "nodeTo": "75442d7b-5052-47c7-b1e3-982b5a983618",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1e4474bb-ea05-4367-8c21-555052420c1a",
+                "nodeTo": "25aa69e0-c06e-4056-a785-d3411e1e2594",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "db1d6139-ae83-408c-8e4a-e9e2e65b56a8",
+                "nodeTo": "25aa69e0-c06e-4056-a785-d3411e1e2594",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "75442d7b-5052-47c7-b1e3-982b5a983618",
+                "nodeTo": "25aa69e0-c06e-4056-a785-d3411e1e2594",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "25aa69e0-c06e-4056-a785-d3411e1e2594",
+                "nodeTo": "4b36153a-96b7-43ad-8b0d-c05c38ab8b6e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "25aa69e0-c06e-4056-a785-d3411e1e2594",
+                "nodeTo": "50943012-0cac-4be5-ab20-34386347e2b9",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-11-17 23:09:56"
+}

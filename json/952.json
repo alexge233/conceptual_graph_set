@@ -1,0 +1,226 @@
+{
+    "uuid": 952,
+    "text": "Changing where baby is held immediately after birth could lead to improved uptake of iron",
+    "graph": {
+        "version": 1,
+        "guid": "79e606b1-645d-451e-b41e-9b6001665609",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "Changing",
+                "id": "e3c69d79-bedb-4684-9b05-11665621416e",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "where",
+                "id": "89696818-1267-4436-bae8-ac1395400ec5",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "is",
+                "id": "662b26d9-26c3-4b54-be8d-00d34b621e98",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "held",
+                "id": "6c71e361-875d-43e8-b1a3-9873ec797d3e",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "after",
+                "id": "357c302c-2be3-4869-9dca-ad22038c1e8e",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "could",
+                "id": "77d8ed96-cc60-40e2-bd96-dc725b177e8d",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "lead",
+                "id": "7040b55e-bdb9-423e-970a-5b689cbd1e95",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "94194432-9ad7-45e9-921e-7ebe247ada15",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "26765912-57a9-4d94-850e-2e7ce6a568eb",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "baby",
+                "id": "18485ace-7082-45d8-80a4-e87a36ed2522",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "immediately",
+                "id": "e5ab5165-590c-4437-a657-73e84eb18555",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "birth",
+                "id": "2c4640c1-3b09-4e99-8587-802c2031b689",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "improved",
+                "id": "b57a348a-c38a-4833-bc70-c295d5e2ecd7",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "uptake",
+                "id": "9d8eeb95-1945-4575-a737-d1e404755a51",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "iron",
+                "id": "60535e8e-a924-4340-8c5a-e15e7955d3c5",
+                "index": 14,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "e3c69d79-bedb-4684-9b05-11665621416e",
+                "nodeTo": "18485ace-7082-45d8-80a4-e87a36ed2522",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "89696818-1267-4436-bae8-ac1395400ec5",
+                "nodeTo": "18485ace-7082-45d8-80a4-e87a36ed2522",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "18485ace-7082-45d8-80a4-e87a36ed2522",
+                "nodeTo": "662b26d9-26c3-4b54-be8d-00d34b621e98",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "18485ace-7082-45d8-80a4-e87a36ed2522",
+                "nodeTo": "6c71e361-875d-43e8-b1a3-9873ec797d3e",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "662b26d9-26c3-4b54-be8d-00d34b621e98",
+                "nodeTo": "e5ab5165-590c-4437-a657-73e84eb18555",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6c71e361-875d-43e8-b1a3-9873ec797d3e",
+                "nodeTo": "e5ab5165-590c-4437-a657-73e84eb18555",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e5ab5165-590c-4437-a657-73e84eb18555",
+                "nodeTo": "357c302c-2be3-4869-9dca-ad22038c1e8e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "357c302c-2be3-4869-9dca-ad22038c1e8e",
+                "nodeTo": "2c4640c1-3b09-4e99-8587-802c2031b689",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e5ab5165-590c-4437-a657-73e84eb18555",
+                "nodeTo": "77d8ed96-cc60-40e2-bd96-dc725b177e8d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e5ab5165-590c-4437-a657-73e84eb18555",
+                "nodeTo": "7040b55e-bdb9-423e-970a-5b689cbd1e95",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e5ab5165-590c-4437-a657-73e84eb18555",
+                "nodeTo": "94194432-9ad7-45e9-921e-7ebe247ada15",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "77d8ed96-cc60-40e2-bd96-dc725b177e8d",
+                "nodeTo": "b57a348a-c38a-4833-bc70-c295d5e2ecd7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7040b55e-bdb9-423e-970a-5b689cbd1e95",
+                "nodeTo": "b57a348a-c38a-4833-bc70-c295d5e2ecd7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "94194432-9ad7-45e9-921e-7ebe247ada15",
+                "nodeTo": "b57a348a-c38a-4833-bc70-c295d5e2ecd7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "77d8ed96-cc60-40e2-bd96-dc725b177e8d",
+                "nodeTo": "9d8eeb95-1945-4575-a737-d1e404755a51",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7040b55e-bdb9-423e-970a-5b689cbd1e95",
+                "nodeTo": "9d8eeb95-1945-4575-a737-d1e404755a51",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "94194432-9ad7-45e9-921e-7ebe247ada15",
+                "nodeTo": "9d8eeb95-1945-4575-a737-d1e404755a51",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b57a348a-c38a-4833-bc70-c295d5e2ecd7",
+                "nodeTo": "26765912-57a9-4d94-850e-2e7ce6a568eb",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9d8eeb95-1945-4575-a737-d1e404755a51",
+                "nodeTo": "26765912-57a9-4d94-850e-2e7ce6a568eb",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "26765912-57a9-4d94-850e-2e7ce6a568eb",
+                "nodeTo": "60535e8e-a924-4340-8c5a-e15e7955d3c5",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-26 14:02:19"
+}

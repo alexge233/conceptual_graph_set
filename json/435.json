@@ -1,0 +1,82 @@
+{
+    "uuid": 435,
+    "text": "Aroma array causes distress for allergic",
+    "graph": {
+        "version": 1,
+        "guid": "ab770b1a-d063-4b16-a3d2-32168b73ae1e",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "causes",
+                "id": "96e8b6a3-c35e-4422-854e-414b1d79ab22",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "73b45a0a-4452-4a49-a7b1-b13becbc3ee5",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Aroma",
+                "id": "3c684ee9-e964-435a-b360-9e98524839c0",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "array",
+                "id": "a5689c19-9eaa-458e-b086-7a5ddb6dde03",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "distress",
+                "id": "6a3ab88c-d1eb-4ae9-be7b-d54a84acb2c0",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "allergic",
+                "id": "44319353-78ea-4955-aa5d-e83c44c31e69",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "3c684ee9-e964-435a-b360-9e98524839c0",
+                "nodeTo": "96e8b6a3-c35e-4422-854e-414b1d79ab22",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a5689c19-9eaa-458e-b086-7a5ddb6dde03",
+                "nodeTo": "96e8b6a3-c35e-4422-854e-414b1d79ab22",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "96e8b6a3-c35e-4422-854e-414b1d79ab22",
+                "nodeTo": "6a3ab88c-d1eb-4ae9-be7b-d54a84acb2c0",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6a3ab88c-d1eb-4ae9-be7b-d54a84acb2c0",
+                "nodeTo": "73b45a0a-4452-4a49-a7b1-b13becbc3ee5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "73b45a0a-4452-4a49-a7b1-b13becbc3ee5",
+                "nodeTo": "44319353-78ea-4955-aa5d-e83c44c31e69",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-18 16:59:45"
+}

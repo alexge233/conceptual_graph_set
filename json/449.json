@@ -1,0 +1,82 @@
+{
+    "uuid": 449,
+    "text": "AstraZeneca rejects £69 billion Pfizer bid",
+    "graph": {
+        "version": 1,
+        "guid": "7a6dca39-e71a-4adb-a8b6-89b6692d3611",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "rejects",
+                "id": "42066ca1-3d7b-4e34-82c7-e10c48d8076d",
+                "index": 1,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "AstraZeneca",
+                "id": "0cd61a03-d64d-4e9b-ac80-a78abdc8a72b",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "£69",
+                "id": "8a8710d6-5ed6-4559-9a3d-63b9921c88de",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "billion",
+                "id": "b16d8b56-6521-4803-9b6b-91d9ea97be76",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "Pfizer",
+                "id": "52177351-ca91-408b-bd3a-392eaa653e21",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "bid",
+                "id": "9e52ad28-567b-442b-8553-88ac1892e7ad",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "0cd61a03-d64d-4e9b-ac80-a78abdc8a72b",
+                "nodeTo": "42066ca1-3d7b-4e34-82c7-e10c48d8076d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "42066ca1-3d7b-4e34-82c7-e10c48d8076d",
+                "nodeTo": "8a8710d6-5ed6-4559-9a3d-63b9921c88de",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "42066ca1-3d7b-4e34-82c7-e10c48d8076d",
+                "nodeTo": "b16d8b56-6521-4803-9b6b-91d9ea97be76",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "42066ca1-3d7b-4e34-82c7-e10c48d8076d",
+                "nodeTo": "52177351-ca91-408b-bd3a-392eaa653e21",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "42066ca1-3d7b-4e34-82c7-e10c48d8076d",
+                "nodeTo": "9e52ad28-567b-442b-8553-88ac1892e7ad",
+                "index": 4,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-03-28 02:15:15"
+}

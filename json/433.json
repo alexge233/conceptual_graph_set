@@ -1,0 +1,82 @@
+{
+    "uuid": 433,
+    "text": "Arnold Schwarzenegger crushes taxi with tank",
+    "graph": {
+        "version": 1,
+        "guid": "9bba1925-65ed-4be0-a593-c19b82e13c98",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "crushes",
+                "id": "3a0db4ea-7edd-4b83-969d-04052ba9237d",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "with",
+                "id": "1cdb451c-13be-4ad3-8c6c-2e210019cedc",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Arnold",
+                "id": "1a3460d0-0d6a-4184-919e-5a4d1173dbdd",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "Schwarzenegger",
+                "id": "1c7108d5-348a-473a-a636-2c879a031dcd",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "taxi",
+                "id": "86a9046c-97d5-48ec-8763-dbd0cb767e2c",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "tank",
+                "id": "9da7eee5-53be-4a77-ada6-1dd737775b35",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "1a3460d0-0d6a-4184-919e-5a4d1173dbdd",
+                "nodeTo": "3a0db4ea-7edd-4b83-969d-04052ba9237d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1c7108d5-348a-473a-a636-2c879a031dcd",
+                "nodeTo": "3a0db4ea-7edd-4b83-969d-04052ba9237d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3a0db4ea-7edd-4b83-969d-04052ba9237d",
+                "nodeTo": "86a9046c-97d5-48ec-8763-dbd0cb767e2c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "86a9046c-97d5-48ec-8763-dbd0cb767e2c",
+                "nodeTo": "1cdb451c-13be-4ad3-8c6c-2e210019cedc",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1cdb451c-13be-4ad3-8c6c-2e210019cedc",
+                "nodeTo": "9da7eee5-53be-4a77-ada6-1dd737775b35",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-18 16:51:49"
+}

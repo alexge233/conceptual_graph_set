@@ -1,0 +1,70 @@
+{
+    "uuid": 196,
+    "text": "Vigorous exercise cuts flu risk",
+    "graph": {
+        "version": 1,
+        "guid": "b58e1927-ea66-4486-9a8b-cb7294b74c8c",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "cuts",
+                "id": "ba0c3112-89ae-4b51-8d2e-c528590e950c",
+                "index": 2,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Vigorous",
+                "id": "75598c54-e78d-4d6a-ac8b-220ac1739772",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "exercise",
+                "id": "bc1b711a-dea0-410a-b3d2-d6a59a119c19",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "flu",
+                "id": "1b61ee18-6ed2-4729-bd64-226276e95340",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "risk",
+                "id": "9cb6e281-8737-421b-913d-57128ace0b40",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "75598c54-e78d-4d6a-ac8b-220ac1739772",
+                "nodeTo": "ba0c3112-89ae-4b51-8d2e-c528590e950c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bc1b711a-dea0-410a-b3d2-d6a59a119c19",
+                "nodeTo": "ba0c3112-89ae-4b51-8d2e-c528590e950c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ba0c3112-89ae-4b51-8d2e-c528590e950c",
+                "nodeTo": "1b61ee18-6ed2-4729-bd64-226276e95340",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ba0c3112-89ae-4b51-8d2e-c528590e950c",
+                "nodeTo": "9cb6e281-8737-421b-913d-57128ace0b40",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-11-12 20:51:09"
+}

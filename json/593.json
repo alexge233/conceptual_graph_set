@@ -1,0 +1,202 @@
+{
+    "uuid": 593,
+    "text": "Bipolar disease in children adolescents discharge rates much higher in US compared to UK",
+    "graph": {
+        "version": 1,
+        "guid": "6385575c-1613-47be-b902-7a37dad50550",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "in",
+                "id": "d4a5cd70-e2de-4e3d-b7b2-0165dc850943",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "discharge",
+                "id": "8d84d46d-d700-4904-a92b-7d36d067398b",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "4466515a-121d-4e95-a614-e685769012db",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "compared",
+                "id": "02d1ccd9-e8e9-447b-aabe-c88be35bd9b6",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "a6113774-c99e-456b-8286-26ab965d50aa",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Bipolar",
+                "id": "b09d3a70-5966-4b68-97be-a917eb3b3090",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "disease",
+                "id": "a75e2a2d-e0ea-4604-a63b-4507cc3a0c4d",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "children",
+                "id": "957a771c-49e9-4dd8-884b-e3caa844007a",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "adolescents",
+                "id": "79301a9e-d435-400b-8d07-d8c572399ad1",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "rates",
+                "id": "3ba79d95-6e2c-455b-800d-eaac14768daa",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "much",
+                "id": "57dd9b3c-2680-437b-9376-b5dae6e0709c",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "higher",
+                "id": "8b68e794-d56a-4524-84aa-a111cadb31bd",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "US",
+                "id": "59620716-e344-4346-94d0-864ddb37e975",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "UK",
+                "id": "94135606-b9db-48b3-a1cb-ec0e0e7311b0",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "b09d3a70-5966-4b68-97be-a917eb3b3090",
+                "nodeTo": "d4a5cd70-e2de-4e3d-b7b2-0165dc850943",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a75e2a2d-e0ea-4604-a63b-4507cc3a0c4d",
+                "nodeTo": "d4a5cd70-e2de-4e3d-b7b2-0165dc850943",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d4a5cd70-e2de-4e3d-b7b2-0165dc850943",
+                "nodeTo": "957a771c-49e9-4dd8-884b-e3caa844007a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d4a5cd70-e2de-4e3d-b7b2-0165dc850943",
+                "nodeTo": "79301a9e-d435-400b-8d07-d8c572399ad1",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b09d3a70-5966-4b68-97be-a917eb3b3090",
+                "nodeTo": "8d84d46d-d700-4904-a92b-7d36d067398b",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a75e2a2d-e0ea-4604-a63b-4507cc3a0c4d",
+                "nodeTo": "8d84d46d-d700-4904-a92b-7d36d067398b",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8d84d46d-d700-4904-a92b-7d36d067398b",
+                "nodeTo": "3ba79d95-6e2c-455b-800d-eaac14768daa",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8d84d46d-d700-4904-a92b-7d36d067398b",
+                "nodeTo": "57dd9b3c-2680-437b-9376-b5dae6e0709c",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8d84d46d-d700-4904-a92b-7d36d067398b",
+                "nodeTo": "8b68e794-d56a-4524-84aa-a111cadb31bd",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3ba79d95-6e2c-455b-800d-eaac14768daa",
+                "nodeTo": "4466515a-121d-4e95-a614-e685769012db",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "57dd9b3c-2680-437b-9376-b5dae6e0709c",
+                "nodeTo": "4466515a-121d-4e95-a614-e685769012db",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8b68e794-d56a-4524-84aa-a111cadb31bd",
+                "nodeTo": "4466515a-121d-4e95-a614-e685769012db",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4466515a-121d-4e95-a614-e685769012db",
+                "nodeTo": "59620716-e344-4346-94d0-864ddb37e975",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "59620716-e344-4346-94d0-864ddb37e975",
+                "nodeTo": "02d1ccd9-e8e9-447b-aabe-c88be35bd9b6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "59620716-e344-4346-94d0-864ddb37e975",
+                "nodeTo": "a6113774-c99e-456b-8286-26ab965d50aa",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "02d1ccd9-e8e9-447b-aabe-c88be35bd9b6",
+                "nodeTo": "94135606-b9db-48b3-a1cb-ec0e0e7311b0",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a6113774-c99e-456b-8286-26ab965d50aa",
+                "nodeTo": "94135606-b9db-48b3-a1cb-ec0e0e7311b0",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-07 21:47:35"
+}

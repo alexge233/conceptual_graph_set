@@ -1,0 +1,214 @@
+{
+    "uuid": 631,
+    "text": "Blood test identifies those at risk for cognitive decline Alzheimers within 3 years",
+    "graph": {
+        "version": 1,
+        "guid": "a140686e-5925-4599-8c2e-b3042aec30a9",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "identifies",
+                "id": "89cc7a5e-a774-4b69-b129-820544d03d97",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "at",
+                "id": "c428c579-ebed-4592-9db8-da7d716c9933",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "risk",
+                "id": "5da2d128-0d21-47a2-8188-4b0a6c3a921a",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "2a9cd9eb-a99c-4232-bdae-2d3e2599db96",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "within",
+                "id": "b48d373e-01e6-4c97-b230-401b6e211c90",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Blood",
+                "id": "b4b2e231-0a19-4c60-9d50-3323d509d430",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "test",
+                "id": "89381193-8626-4cb7-8676-0dd0224d4258",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "those",
+                "id": "ae00c0a1-696c-4257-9376-5c32ac305972",
+                "postag": "NA",
+                "index": 3
+            },
+            {
+                "label": "cognitive",
+                "id": "88e7b2b8-da77-410b-b83a-d46bccd18cb3",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "decline",
+                "id": "2e7b1101-cd9a-4d98-9a62-c137a5ccc138",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "Alzheimers",
+                "id": "adb8ae40-db76-419d-8989-470c532e3c99",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": 3,
+                "id": "81a33005-758a-43db-9aa7-12b3660d3c00",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "years",
+                "id": "b8c531ad-7519-4d80-94ec-153620eddb8e",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "b4b2e231-0a19-4c60-9d50-3323d509d430",
+                "nodeTo": "89cc7a5e-a774-4b69-b129-820544d03d97",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "89381193-8626-4cb7-8676-0dd0224d4258",
+                "nodeTo": "89cc7a5e-a774-4b69-b129-820544d03d97",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "89cc7a5e-a774-4b69-b129-820544d03d97",
+                "nodeTo": "ae00c0a1-696c-4257-9376-5c32ac305972",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ae00c0a1-696c-4257-9376-5c32ac305972",
+                "nodeTo": "c428c579-ebed-4592-9db8-da7d716c9933",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ae00c0a1-696c-4257-9376-5c32ac305972",
+                "nodeTo": "5da2d128-0d21-47a2-8188-4b0a6c3a921a",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ae00c0a1-696c-4257-9376-5c32ac305972",
+                "nodeTo": "2a9cd9eb-a99c-4232-bdae-2d3e2599db96",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c428c579-ebed-4592-9db8-da7d716c9933",
+                "nodeTo": "88e7b2b8-da77-410b-b83a-d46bccd18cb3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5da2d128-0d21-47a2-8188-4b0a6c3a921a",
+                "nodeTo": "88e7b2b8-da77-410b-b83a-d46bccd18cb3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2a9cd9eb-a99c-4232-bdae-2d3e2599db96",
+                "nodeTo": "88e7b2b8-da77-410b-b83a-d46bccd18cb3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c428c579-ebed-4592-9db8-da7d716c9933",
+                "nodeTo": "2e7b1101-cd9a-4d98-9a62-c137a5ccc138",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5da2d128-0d21-47a2-8188-4b0a6c3a921a",
+                "nodeTo": "2e7b1101-cd9a-4d98-9a62-c137a5ccc138",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2a9cd9eb-a99c-4232-bdae-2d3e2599db96",
+                "nodeTo": "2e7b1101-cd9a-4d98-9a62-c137a5ccc138",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c428c579-ebed-4592-9db8-da7d716c9933",
+                "nodeTo": "adb8ae40-db76-419d-8989-470c532e3c99",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5da2d128-0d21-47a2-8188-4b0a6c3a921a",
+                "nodeTo": "adb8ae40-db76-419d-8989-470c532e3c99",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2a9cd9eb-a99c-4232-bdae-2d3e2599db96",
+                "nodeTo": "adb8ae40-db76-419d-8989-470c532e3c99",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "88e7b2b8-da77-410b-b83a-d46bccd18cb3",
+                "nodeTo": "b48d373e-01e6-4c97-b230-401b6e211c90",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2e7b1101-cd9a-4d98-9a62-c137a5ccc138",
+                "nodeTo": "b48d373e-01e6-4c97-b230-401b6e211c90",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "adb8ae40-db76-419d-8989-470c532e3c99",
+                "nodeTo": "b48d373e-01e6-4c97-b230-401b6e211c90",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b48d373e-01e6-4c97-b230-401b6e211c90",
+                "nodeTo": "81a33005-758a-43db-9aa7-12b3660d3c00",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b48d373e-01e6-4c97-b230-401b6e211c90",
+                "nodeTo": "b8c531ad-7519-4d80-94ec-153620eddb8e",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-08 20:18:30"
+}

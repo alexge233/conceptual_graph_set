@@ -1,0 +1,136 @@
+{
+    "uuid": 949,
+    "text": "Changes in processing handling could reduce commercial fishing injuries",
+    "graph": {
+        "version": 1,
+        "guid": "3c12c4a5-6bb3-4517-9a0e-bbc9062d729e",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "in",
+                "id": "b664e7ea-cc38-4a59-90cd-67c9727378d0",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "could",
+                "id": "a04549eb-3558-484a-942a-0e7a57e37d5e",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "reduce",
+                "id": "9ded8898-cdb2-47c3-a051-eb420c256047",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Changes",
+                "id": "149514e3-3bde-4b4d-88ae-c86482cd5418",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "processing",
+                "id": "a80d3b6d-2c58-4892-8a4d-7568d3990089",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "handling",
+                "id": "d79c53a2-9b8c-4aeb-a82b-d98160dd4add",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "commercial",
+                "id": "6c440a58-c67a-420a-82e1-401a96706e07",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "fishing",
+                "id": "4887575a-2391-4268-b834-2c5e57558017",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "injuries",
+                "id": "1aa1c560-1b23-4d46-896c-2dac7e6c775d",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "149514e3-3bde-4b4d-88ae-c86482cd5418",
+                "nodeTo": "b664e7ea-cc38-4a59-90cd-67c9727378d0",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b664e7ea-cc38-4a59-90cd-67c9727378d0",
+                "nodeTo": "a80d3b6d-2c58-4892-8a4d-7568d3990089",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b664e7ea-cc38-4a59-90cd-67c9727378d0",
+                "nodeTo": "d79c53a2-9b8c-4aeb-a82b-d98160dd4add",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "149514e3-3bde-4b4d-88ae-c86482cd5418",
+                "nodeTo": "a04549eb-3558-484a-942a-0e7a57e37d5e",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "149514e3-3bde-4b4d-88ae-c86482cd5418",
+                "nodeTo": "9ded8898-cdb2-47c3-a051-eb420c256047",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a04549eb-3558-484a-942a-0e7a57e37d5e",
+                "nodeTo": "6c440a58-c67a-420a-82e1-401a96706e07",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9ded8898-cdb2-47c3-a051-eb420c256047",
+                "nodeTo": "6c440a58-c67a-420a-82e1-401a96706e07",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a04549eb-3558-484a-942a-0e7a57e37d5e",
+                "nodeTo": "4887575a-2391-4268-b834-2c5e57558017",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9ded8898-cdb2-47c3-a051-eb420c256047",
+                "nodeTo": "4887575a-2391-4268-b834-2c5e57558017",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a04549eb-3558-484a-942a-0e7a57e37d5e",
+                "nodeTo": "1aa1c560-1b23-4d46-896c-2dac7e6c775d",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9ded8898-cdb2-47c3-a051-eb420c256047",
+                "nodeTo": "1aa1c560-1b23-4d46-896c-2dac7e6c775d",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-26 13:34:38"
+}

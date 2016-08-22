@@ -1,0 +1,160 @@
+{
+    "uuid": 331,
+    "text": "Alternative pathways let right and left communicate in early split brains",
+    "graph": {
+        "version": 1,
+        "guid": "55b1be4a-3235-46e9-9086-729815e6ccde",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "let",
+                "id": "e8ace5d6-3862-44e6-ba11-a53aa18769c3",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "a958b00d-01d7-46c2-9936-54299e6ed39c",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "communicate",
+                "id": "128411bc-aeb4-4985-b8a7-e4ab6d5b9795",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "59a7dc4c-7a15-4c06-8ed1-c4893e9ae28d",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Alternative",
+                "id": "e1b30c31-2a77-4753-95bd-1b6b036a7352",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "pathways",
+                "id": "3695eb50-bea6-4095-a222-117967502bc0",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "right",
+                "id": "d7b3e461-e423-4630-b72e-1cab2d1c643b",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "left",
+                "id": "c2452d84-2edb-4d9e-9894-9116c90bba67",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "early",
+                "id": "43378429-a21e-4ee1-808a-70ae9022e5e7",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "split",
+                "id": "ae73531a-c675-4aa4-b180-c6684d6d5eb6",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "brains",
+                "id": "6ec6d420-8b35-406e-9d54-090879e59c19",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "e1b30c31-2a77-4753-95bd-1b6b036a7352",
+                "nodeTo": "e8ace5d6-3862-44e6-ba11-a53aa18769c3",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3695eb50-bea6-4095-a222-117967502bc0",
+                "nodeTo": "e8ace5d6-3862-44e6-ba11-a53aa18769c3",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e8ace5d6-3862-44e6-ba11-a53aa18769c3",
+                "nodeTo": "d7b3e461-e423-4630-b72e-1cab2d1c643b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d7b3e461-e423-4630-b72e-1cab2d1c643b",
+                "nodeTo": "a958b00d-01d7-46c2-9936-54299e6ed39c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a958b00d-01d7-46c2-9936-54299e6ed39c",
+                "nodeTo": "c2452d84-2edb-4d9e-9894-9116c90bba67",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c2452d84-2edb-4d9e-9894-9116c90bba67",
+                "nodeTo": "128411bc-aeb4-4985-b8a7-e4ab6d5b9795",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c2452d84-2edb-4d9e-9894-9116c90bba67",
+                "nodeTo": "59a7dc4c-7a15-4c06-8ed1-c4893e9ae28d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "128411bc-aeb4-4985-b8a7-e4ab6d5b9795",
+                "nodeTo": "43378429-a21e-4ee1-808a-70ae9022e5e7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "59a7dc4c-7a15-4c06-8ed1-c4893e9ae28d",
+                "nodeTo": "43378429-a21e-4ee1-808a-70ae9022e5e7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "128411bc-aeb4-4985-b8a7-e4ab6d5b9795",
+                "nodeTo": "ae73531a-c675-4aa4-b180-c6684d6d5eb6",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "128411bc-aeb4-4985-b8a7-e4ab6d5b9795",
+                "nodeTo": "6ec6d420-8b35-406e-9d54-090879e59c19",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "59a7dc4c-7a15-4c06-8ed1-c4893e9ae28d",
+                "nodeTo": "ae73531a-c675-4aa4-b180-c6684d6d5eb6",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "59a7dc4c-7a15-4c06-8ed1-c4893e9ae28d",
+                "nodeTo": "6ec6d420-8b35-406e-9d54-090879e59c19",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-15 14:54:18"
+}

@@ -1,0 +1,112 @@
+{
+    "uuid": 977,
+    "text": "Chemotherapy timing is key to success research shows",
+    "graph": {
+        "version": 1,
+        "guid": "aba6b5c1-18b3-4630-bd40-322b621c2270",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "is",
+                "id": "983d505a-c9ee-4819-8584-0683653415c5",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "b2c3d409-a129-47a4-adae-a8c18d608388",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "shows",
+                "id": "7d0cdeac-2a63-42cd-8c33-80161d52baa2",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Chemotherapy",
+                "id": "59de53e4-2152-4431-8481-40a05e75400e",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "timing",
+                "id": "0edb3d4a-72e1-4980-9b84-277784e2d6be",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "key",
+                "id": "5ee77a09-9393-431d-8d80-c03e0d9b7370",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "success",
+                "id": "744d840c-3b88-416e-a467-c29e44d15baa",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "research",
+                "id": "ae0904a8-87d6-479d-8477-26d5e6191cd6",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "59de53e4-2152-4431-8481-40a05e75400e",
+                "nodeTo": "983d505a-c9ee-4819-8584-0683653415c5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0edb3d4a-72e1-4980-9b84-277784e2d6be",
+                "nodeTo": "983d505a-c9ee-4819-8584-0683653415c5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "983d505a-c9ee-4819-8584-0683653415c5",
+                "nodeTo": "5ee77a09-9393-431d-8d80-c03e0d9b7370",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5ee77a09-9393-431d-8d80-c03e0d9b7370",
+                "nodeTo": "b2c3d409-a129-47a4-adae-a8c18d608388",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b2c3d409-a129-47a4-adae-a8c18d608388",
+                "nodeTo": "744d840c-3b88-416e-a467-c29e44d15baa",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ae0904a8-87d6-479d-8477-26d5e6191cd6",
+                "nodeTo": "7d0cdeac-2a63-42cd-8c33-80161d52baa2",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7d0cdeac-2a63-42cd-8c33-80161d52baa2",
+                "nodeTo": "59de53e4-2152-4431-8481-40a05e75400e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7d0cdeac-2a63-42cd-8c33-80161d52baa2",
+                "nodeTo": "0edb3d4a-72e1-4980-9b84-277784e2d6be",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-28 12:39:35"
+}

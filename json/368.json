@@ -1,0 +1,154 @@
+{
+    "uuid": 368,
+    "text": "Anesthetic technique improves quality of recovery for women having breast cancer surgery",
+    "graph": {
+        "version": 1,
+        "guid": "a3612669-c21c-400d-9784-01ded868281a",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "improves",
+                "id": "195b26b1-a669-4c6b-81ab-070b5bd282d8",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "b0a42cb6-6e64-4518-ac7a-74d49e5b1c6b",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "1d45b00d-44e0-4c04-9bde-0148d7ac4c0a",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "having",
+                "id": "5984c46b-4e85-4e95-a3a5-6da85d9caa69",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Anesthetic",
+                "id": "77484d77-ee1b-436a-a420-39e0780061a5",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "technique",
+                "id": "21d10574-2537-4880-b1b4-04ab07575291",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "quality",
+                "id": "82419e4e-1e2d-4d54-b5a5-a50a93d8ba90",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "recovery",
+                "id": "2c8534c6-d140-4436-813e-5887899a2d0e",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "women",
+                "id": "0097018d-9231-4579-98b2-9ab5aa89d118",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "breast",
+                "id": "07ac92de-9ab5-4e48-820a-8d355018178c",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "cancer",
+                "id": "598edd25-ad37-4762-9a0d-72e7b34552c5",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "surgery",
+                "id": "541bb6cd-ce16-4194-9b48-9a70e395a4e8",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "77484d77-ee1b-436a-a420-39e0780061a5",
+                "nodeTo": "195b26b1-a669-4c6b-81ab-070b5bd282d8",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "21d10574-2537-4880-b1b4-04ab07575291",
+                "nodeTo": "195b26b1-a669-4c6b-81ab-070b5bd282d8",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "195b26b1-a669-4c6b-81ab-070b5bd282d8",
+                "nodeTo": "82419e4e-1e2d-4d54-b5a5-a50a93d8ba90",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "82419e4e-1e2d-4d54-b5a5-a50a93d8ba90",
+                "nodeTo": "b0a42cb6-6e64-4518-ac7a-74d49e5b1c6b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b0a42cb6-6e64-4518-ac7a-74d49e5b1c6b",
+                "nodeTo": "2c8534c6-d140-4436-813e-5887899a2d0e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2c8534c6-d140-4436-813e-5887899a2d0e",
+                "nodeTo": "1d45b00d-44e0-4c04-9bde-0148d7ac4c0a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1d45b00d-44e0-4c04-9bde-0148d7ac4c0a",
+                "nodeTo": "0097018d-9231-4579-98b2-9ab5aa89d118",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0097018d-9231-4579-98b2-9ab5aa89d118",
+                "nodeTo": "5984c46b-4e85-4e95-a3a5-6da85d9caa69",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5984c46b-4e85-4e95-a3a5-6da85d9caa69",
+                "nodeTo": "07ac92de-9ab5-4e48-820a-8d355018178c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5984c46b-4e85-4e95-a3a5-6da85d9caa69",
+                "nodeTo": "598edd25-ad37-4762-9a0d-72e7b34552c5",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5984c46b-4e85-4e95-a3a5-6da85d9caa69",
+                "nodeTo": "541bb6cd-ce16-4194-9b48-9a70e395a4e8",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-16 16:51:35"
+}

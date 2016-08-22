@@ -1,0 +1,322 @@
+{
+    "uuid": 874,
+    "text": "first time period 2003 to 2007 was defined as pre-crisis period while 2008 to 2012 was crisis period",
+    "graph": {
+        "version": 1,
+        "guid": "14589a7e-5e40-44bb-85ae-854c2a8123e3",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "to",
+                "id": "0525d2a0-22e4-4bd0-8690-03c11e5b9050",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "was",
+                "id": "88d7c48e-3904-4a93-8735-359179a89085",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "defined",
+                "id": "0dee4517-be9e-45c1-96b6-81128a848535",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "as",
+                "id": "c8011607-0196-43d4-9bb0-e734ce2dd062",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "while",
+                "id": "82724508-6696-4c20-9515-a459d94d6d83",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "0207b6cb-081a-4224-a106-01dd506d4008",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "was",
+                "id": "c7087b63-e173-49aa-b7e8-d0e3c27d21a2",
+                "index": 15,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "first",
+                "id": "15a60b7c-56c3-4e34-82b5-3d130c321585",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "time",
+                "id": "8472d08d-159c-40aa-9d56-b86a1b91b960",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "period",
+                "id": "b8ba6074-a646-4a8b-9da6-513e0316cce3",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": 2003,
+                "id": "0e78ac8b-c524-474e-a744-de24a097744a",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": 2007,
+                "id": "d7e9a414-a696-4cb1-89a7-75928ac40245",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "pre-crisis",
+                "id": "dce29e90-1baa-4a84-abb7-5e0c62ae7a0b",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "period",
+                "id": "1ad767eb-b86d-4b85-a8c7-b8413ac302ae",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": 2008,
+                "id": "985b4dd3-0114-4438-bdcb-62735ca7a3dc",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": 2012,
+                "id": "00999cdc-8547-4a65-b23d-6e0820a87a6a",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "crisis",
+                "id": "e10ea971-0404-47b2-81e0-e98a559d7909",
+                "index": 16,
+                "postag": "NA"
+            },
+            {
+                "label": "period",
+                "id": "85a082cc-7a64-4ed1-ae97-2de5d041377b",
+                "index": 17,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "15a60b7c-56c3-4e34-82b5-3d130c321585",
+                "nodeTo": "0525d2a0-22e4-4bd0-8690-03c11e5b9050",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8472d08d-159c-40aa-9d56-b86a1b91b960",
+                "nodeTo": "0525d2a0-22e4-4bd0-8690-03c11e5b9050",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b8ba6074-a646-4a8b-9da6-513e0316cce3",
+                "nodeTo": "0525d2a0-22e4-4bd0-8690-03c11e5b9050",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0e78ac8b-c524-474e-a744-de24a097744a",
+                "nodeTo": "0525d2a0-22e4-4bd0-8690-03c11e5b9050",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0525d2a0-22e4-4bd0-8690-03c11e5b9050",
+                "nodeTo": "d7e9a414-a696-4cb1-89a7-75928ac40245",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "15a60b7c-56c3-4e34-82b5-3d130c321585",
+                "nodeTo": "88d7c48e-3904-4a93-8735-359179a89085",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8472d08d-159c-40aa-9d56-b86a1b91b960",
+                "nodeTo": "88d7c48e-3904-4a93-8735-359179a89085",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b8ba6074-a646-4a8b-9da6-513e0316cce3",
+                "nodeTo": "88d7c48e-3904-4a93-8735-359179a89085",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0e78ac8b-c524-474e-a744-de24a097744a",
+                "nodeTo": "88d7c48e-3904-4a93-8735-359179a89085",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "15a60b7c-56c3-4e34-82b5-3d130c321585",
+                "nodeTo": "0dee4517-be9e-45c1-96b6-81128a848535",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8472d08d-159c-40aa-9d56-b86a1b91b960",
+                "nodeTo": "0dee4517-be9e-45c1-96b6-81128a848535",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b8ba6074-a646-4a8b-9da6-513e0316cce3",
+                "nodeTo": "0dee4517-be9e-45c1-96b6-81128a848535",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0e78ac8b-c524-474e-a744-de24a097744a",
+                "nodeTo": "0dee4517-be9e-45c1-96b6-81128a848535",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "15a60b7c-56c3-4e34-82b5-3d130c321585",
+                "nodeTo": "c8011607-0196-43d4-9bb0-e734ce2dd062",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8472d08d-159c-40aa-9d56-b86a1b91b960",
+                "nodeTo": "c8011607-0196-43d4-9bb0-e734ce2dd062",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b8ba6074-a646-4a8b-9da6-513e0316cce3",
+                "nodeTo": "c8011607-0196-43d4-9bb0-e734ce2dd062",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0e78ac8b-c524-474e-a744-de24a097744a",
+                "nodeTo": "c8011607-0196-43d4-9bb0-e734ce2dd062",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "88d7c48e-3904-4a93-8735-359179a89085",
+                "nodeTo": "dce29e90-1baa-4a84-abb7-5e0c62ae7a0b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0dee4517-be9e-45c1-96b6-81128a848535",
+                "nodeTo": "dce29e90-1baa-4a84-abb7-5e0c62ae7a0b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c8011607-0196-43d4-9bb0-e734ce2dd062",
+                "nodeTo": "dce29e90-1baa-4a84-abb7-5e0c62ae7a0b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "88d7c48e-3904-4a93-8735-359179a89085",
+                "nodeTo": "1ad767eb-b86d-4b85-a8c7-b8413ac302ae",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0dee4517-be9e-45c1-96b6-81128a848535",
+                "nodeTo": "1ad767eb-b86d-4b85-a8c7-b8413ac302ae",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c8011607-0196-43d4-9bb0-e734ce2dd062",
+                "nodeTo": "1ad767eb-b86d-4b85-a8c7-b8413ac302ae",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "15a60b7c-56c3-4e34-82b5-3d130c321585",
+                "nodeTo": "82724508-6696-4c20-9515-a459d94d6d83",
+                "index": 5,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8472d08d-159c-40aa-9d56-b86a1b91b960",
+                "nodeTo": "82724508-6696-4c20-9515-a459d94d6d83",
+                "index": 5,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b8ba6074-a646-4a8b-9da6-513e0316cce3",
+                "nodeTo": "82724508-6696-4c20-9515-a459d94d6d83",
+                "index": 5,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0e78ac8b-c524-474e-a744-de24a097744a",
+                "nodeTo": "82724508-6696-4c20-9515-a459d94d6d83",
+                "index": 5,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "82724508-6696-4c20-9515-a459d94d6d83",
+                "nodeTo": "985b4dd3-0114-4438-bdcb-62735ca7a3dc",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "985b4dd3-0114-4438-bdcb-62735ca7a3dc",
+                "nodeTo": "0207b6cb-081a-4224-a106-01dd506d4008",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0207b6cb-081a-4224-a106-01dd506d4008",
+                "nodeTo": "00999cdc-8547-4a65-b23d-6e0820a87a6a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "00999cdc-8547-4a65-b23d-6e0820a87a6a",
+                "nodeTo": "c7087b63-e173-49aa-b7e8-d0e3c27d21a2",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c7087b63-e173-49aa-b7e8-d0e3c27d21a2",
+                "nodeTo": "e10ea971-0404-47b2-81e0-e98a559d7909",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c7087b63-e173-49aa-b7e8-d0e3c27d21a2",
+                "nodeTo": "85a082cc-7a64-4ed1-ae97-2de5d041377b",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-19 21:57:30"
+}

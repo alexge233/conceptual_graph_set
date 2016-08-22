@@ -1,0 +1,118 @@
+{
+    "uuid": 220,
+    "text": "better way to treat ACE inhibitor angioedema in ED",
+    "graph": {
+        "version": 1,
+        "guid": "8457e5a3-b043-4380-ab07-a198ab4424ab",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "treat",
+                "id": "9aa096c0-7798-466c-b343-b441055a957b",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "c6a3475e-e0c1-4832-b337-27ad8e7805bb",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "better",
+                "id": "01d62302-4e74-4a9a-8e88-e5d1cc3c8271",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "way",
+                "id": "bae65703-19d8-4602-a3b2-5b49b00829e4",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "aec5d581-9086-48ee-a556-be52a79c0cda",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "ACE",
+                "id": "b2636a35-22dd-42b1-a9ad-6c25d317d345",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "inhibitor",
+                "id": "9871ceb8-0eec-40d5-8d34-20b19dae5912",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "angioedema",
+                "id": "84a3a97d-9c02-40c2-9b67-7590a8608c73",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "ED",
+                "id": "bc56d37b-7bc3-4b93-a34e-204432c4c797",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "01d62302-4e74-4a9a-8e88-e5d1cc3c8271",
+                "nodeTo": "9aa096c0-7798-466c-b343-b441055a957b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bae65703-19d8-4602-a3b2-5b49b00829e4",
+                "nodeTo": "9aa096c0-7798-466c-b343-b441055a957b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "aec5d581-9086-48ee-a556-be52a79c0cda",
+                "nodeTo": "9aa096c0-7798-466c-b343-b441055a957b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9aa096c0-7798-466c-b343-b441055a957b",
+                "nodeTo": "b2636a35-22dd-42b1-a9ad-6c25d317d345",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9aa096c0-7798-466c-b343-b441055a957b",
+                "nodeTo": "9871ceb8-0eec-40d5-8d34-20b19dae5912",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9aa096c0-7798-466c-b343-b441055a957b",
+                "nodeTo": "84a3a97d-9c02-40c2-9b67-7590a8608c73",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "84a3a97d-9c02-40c2-9b67-7590a8608c73",
+                "nodeTo": "c6a3475e-e0c1-4832-b337-27ad8e7805bb",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c6a3475e-e0c1-4832-b337-27ad8e7805bb",
+                "nodeTo": "bc56d37b-7bc3-4b93-a34e-204432c4c797",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-11-23 17:17:58"
+}

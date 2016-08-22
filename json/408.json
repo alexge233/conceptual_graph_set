@@ -1,0 +1,106 @@
+{
+    "uuid": 408,
+    "text": "Antidepressants and breastfeeding can mix study suggests",
+    "graph": {
+        "version": 1,
+        "guid": "e3d2e510-671d-49ce-910c-00d3e8886e64",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "and",
+                "id": "2d8ea2e5-7bb1-45c6-90c4-ec3b03b799a6",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "can",
+                "id": "cd1e9326-56d5-43dc-add7-7d301450e965",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "mix",
+                "id": "4b591ec8-b1de-48ad-9306-804a88791ade",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "suggests",
+                "id": "cb687db7-4ba5-4d1e-9d12-1853514aac4b",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Antidepressants",
+                "id": "89578700-3792-4eb4-8064-ead469e8aa7b",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "breastfeeding",
+                "id": "9559e054-6333-47d6-bcc8-0eba37694271",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "study",
+                "id": "360e2aa0-a576-4038-b35c-648918da3ba3",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "89578700-3792-4eb4-8064-ead469e8aa7b",
+                "nodeTo": "2d8ea2e5-7bb1-45c6-90c4-ec3b03b799a6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2d8ea2e5-7bb1-45c6-90c4-ec3b03b799a6",
+                "nodeTo": "9559e054-6333-47d6-bcc8-0eba37694271",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "89578700-3792-4eb4-8064-ead469e8aa7b",
+                "nodeTo": "cd1e9326-56d5-43dc-add7-7d301450e965",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9559e054-6333-47d6-bcc8-0eba37694271",
+                "nodeTo": "cd1e9326-56d5-43dc-add7-7d301450e965",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "89578700-3792-4eb4-8064-ead469e8aa7b",
+                "nodeTo": "4b591ec8-b1de-48ad-9306-804a88791ade",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9559e054-6333-47d6-bcc8-0eba37694271",
+                "nodeTo": "4b591ec8-b1de-48ad-9306-804a88791ade",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "360e2aa0-a576-4038-b35c-648918da3ba3",
+                "nodeTo": "cb687db7-4ba5-4d1e-9d12-1853514aac4b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cb687db7-4ba5-4d1e-9d12-1853514aac4b",
+                "nodeTo": "89578700-3792-4eb4-8064-ead469e8aa7b",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-18 15:24:44"
+}

@@ -1,0 +1,214 @@
+{
+    "uuid": 80,
+    "text": "Bacteria in our stomach ferment chocolate into useful anti-inflammatory compounds are good for heart scientists say",
+    "graph": {
+        "version": 1,
+        "guid": "01657beb-e9dc-40a4-a878-02847c98666b",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "in",
+                "id": "2a74bd20-11c6-4725-ad28-7c7d185199d5",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "ferment",
+                "id": "8c9800e1-3d63-4c16-992b-1a1314371ea9",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "into",
+                "id": "757c5bc9-4586-434b-8239-0ed4b99822dd",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "are",
+                "id": "117a8084-eb80-4995-8a8b-e1b3760954e1",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "035bcaaa-45b6-4cc9-9996-d3559ebbbe73",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "say",
+                "id": "bd34b4aa-4b26-411b-85be-8b2615960588",
+                "index": 15,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Bacteria",
+                "id": "d57248b2-635b-4bce-9197-d565ab9a3a52",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "stomach",
+                "id": "65e31a0a-8ad2-46c9-8b21-aebed2529124",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "our",
+                "id": "2c1ad2cb-3292-4563-a97c-116e2edc5ecc",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "chocolate",
+                "id": "cea66b80-9a4c-4110-84c4-e29422423d45",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "useful",
+                "id": "b310eac2-2d2c-4415-999c-ab33b1983512",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "anti-inflammatory",
+                "id": "1541e11b-4469-4c9a-83d2-4729aca6ad4d",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "compounds",
+                "id": "db9d9d4b-3d01-4cb2-8193-9eacc3eadd55",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "good",
+                "id": "bc201c92-b7b2-48c6-bd0a-7eb130286c01",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "heart",
+                "id": "75a7a026-e5b9-48e6-ab73-7ea7a6996881",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "scientists",
+                "id": "8296d90c-8a01-4109-a1d3-74586a60714a",
+                "index": 14,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "d57248b2-635b-4bce-9197-d565ab9a3a52",
+                "nodeTo": "2a74bd20-11c6-4725-ad28-7c7d185199d5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2a74bd20-11c6-4725-ad28-7c7d185199d5",
+                "nodeTo": "2c1ad2cb-3292-4563-a97c-116e2edc5ecc",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2a74bd20-11c6-4725-ad28-7c7d185199d5",
+                "nodeTo": "65e31a0a-8ad2-46c9-8b21-aebed2529124",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d57248b2-635b-4bce-9197-d565ab9a3a52",
+                "nodeTo": "8c9800e1-3d63-4c16-992b-1a1314371ea9",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8c9800e1-3d63-4c16-992b-1a1314371ea9",
+                "nodeTo": "cea66b80-9a4c-4110-84c4-e29422423d45",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "cea66b80-9a4c-4110-84c4-e29422423d45",
+                "nodeTo": "757c5bc9-4586-434b-8239-0ed4b99822dd",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "757c5bc9-4586-434b-8239-0ed4b99822dd",
+                "nodeTo": "b310eac2-2d2c-4415-999c-ab33b1983512",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "757c5bc9-4586-434b-8239-0ed4b99822dd",
+                "nodeTo": "1541e11b-4469-4c9a-83d2-4729aca6ad4d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "757c5bc9-4586-434b-8239-0ed4b99822dd",
+                "nodeTo": "db9d9d4b-3d01-4cb2-8193-9eacc3eadd55",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b310eac2-2d2c-4415-999c-ab33b1983512",
+                "nodeTo": "117a8084-eb80-4995-8a8b-e1b3760954e1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1541e11b-4469-4c9a-83d2-4729aca6ad4d",
+                "nodeTo": "117a8084-eb80-4995-8a8b-e1b3760954e1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "db9d9d4b-3d01-4cb2-8193-9eacc3eadd55",
+                "nodeTo": "117a8084-eb80-4995-8a8b-e1b3760954e1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "117a8084-eb80-4995-8a8b-e1b3760954e1",
+                "nodeTo": "bc201c92-b7b2-48c6-bd0a-7eb130286c01",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "bc201c92-b7b2-48c6-bd0a-7eb130286c01",
+                "nodeTo": "035bcaaa-45b6-4cc9-9996-d3559ebbbe73",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "035bcaaa-45b6-4cc9-9996-d3559ebbbe73",
+                "nodeTo": "75a7a026-e5b9-48e6-ab73-7ea7a6996881",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8296d90c-8a01-4109-a1d3-74586a60714a",
+                "nodeTo": "bd34b4aa-4b26-411b-85be-8b2615960588",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bd34b4aa-4b26-411b-85be-8b2615960588",
+                "nodeTo": "d57248b2-635b-4bce-9197-d565ab9a3a52",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-10-24 20:13:04"
+}

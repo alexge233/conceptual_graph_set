@@ -1,0 +1,70 @@
+{
+    "uuid": 847,
+    "text": "Cancer waiting time overhaul trial",
+    "graph": {
+        "version": 1,
+        "guid": "b5dc91eb-4269-49e7-9205-35429b48947d",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "overhaul",
+                "id": "423b879b-5c94-48e8-b2b2-ab7530ad237d",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Cancer",
+                "id": "798597d3-9bc0-4043-9287-112b527d1dc8",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "waiting",
+                "id": "c97b6632-acc1-4d30-a492-9010825ada39",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "time",
+                "id": "b7a9cb25-5ed3-4537-ad12-5420c2cb2538",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "trial",
+                "id": "22921ead-40cc-4e73-8376-30a64c0b920e",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "798597d3-9bc0-4043-9287-112b527d1dc8",
+                "nodeTo": "423b879b-5c94-48e8-b2b2-ab7530ad237d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c97b6632-acc1-4d30-a492-9010825ada39",
+                "nodeTo": "423b879b-5c94-48e8-b2b2-ab7530ad237d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b7a9cb25-5ed3-4537-ad12-5420c2cb2538",
+                "nodeTo": "423b879b-5c94-48e8-b2b2-ab7530ad237d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "423b879b-5c94-48e8-b2b2-ab7530ad237d",
+                "nodeTo": "22921ead-40cc-4e73-8376-30a64c0b920e",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-16 21:08:49"
+}

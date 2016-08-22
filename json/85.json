@@ -1,0 +1,100 @@
+{
+    "uuid": 85,
+    "text": "Horsing around reduces stress hormones in youth",
+    "graph": {
+        "version": 1,
+        "guid": "5433743d-c114-4c50-be34-229789e180e4",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "reduces",
+                "id": "737c56db-3b8c-4937-9a33-6ed3d729133d",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "494d4202-611b-4211-a290-4a1b93376916",
+                "postag": "NA",
+                "index": 5
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Horsing",
+                "id": "76310646-a679-4d71-a09e-aaaa8a145bd4",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "around",
+                "id": "16d497b9-4631-40ac-bece-204b448c4b28",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "stress",
+                "id": "023ebda8-0919-482b-945b-bb66276617b4",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "hormones",
+                "id": "31b6b279-5135-4e75-abc2-a97da993d80b",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "youth",
+                "id": "6ce350cd-0c35-4bdc-94ca-014e1d754db4",
+                "postag": "NA",
+                "index": 6
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "76310646-a679-4d71-a09e-aaaa8a145bd4",
+                "nodeTo": "737c56db-3b8c-4937-9a33-6ed3d729133d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "16d497b9-4631-40ac-bece-204b448c4b28",
+                "nodeTo": "737c56db-3b8c-4937-9a33-6ed3d729133d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "023ebda8-0919-482b-945b-bb66276617b4",
+                "nodeTo": "494d4202-611b-4211-a290-4a1b93376916",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "31b6b279-5135-4e75-abc2-a97da993d80b",
+                "nodeTo": "494d4202-611b-4211-a290-4a1b93376916",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "737c56db-3b8c-4937-9a33-6ed3d729133d",
+                "nodeTo": "023ebda8-0919-482b-945b-bb66276617b4",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "737c56db-3b8c-4937-9a33-6ed3d729133d",
+                "nodeTo": "31b6b279-5135-4e75-abc2-a97da993d80b",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "494d4202-611b-4211-a290-4a1b93376916",
+                "nodeTo": "6ce350cd-0c35-4bdc-94ca-014e1d754db4",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-10-24 21:34:40"
+}

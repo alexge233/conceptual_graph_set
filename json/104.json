@@ -1,0 +1,286 @@
+{
+    "uuid": 104,
+    "text": "Children spot objects more quickly when prompted by words than if they are only prompted by images cognitive scientists have demonstrated",
+    "graph": {
+        "version": 1,
+        "guid": "374669b0-8567-45ba-9c08-544d1a2dcd31",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "spot",
+                "id": "2d307042-8d81-4649-85a5-4596e23b0c11",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "more",
+                "id": "482d8991-8b70-466c-8793-50e160d19184",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "when",
+                "id": "86511074-7bd4-49e1-bce3-4c40099d6d2b",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "by",
+                "id": "7b3e61ee-3127-42c4-8660-b6a42cb0cbe8",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "than",
+                "id": "a407e6b9-922c-4d71-9d20-690c868255d9",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "if",
+                "id": "6a2529d8-66b1-4e4a-8ea7-b853de108761",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "are",
+                "id": "4242bb67-1031-49c7-98ea-24b84d9e2785",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "by",
+                "id": "26b80384-3150-4e4d-be39-85559e1671c8",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "have",
+                "id": "cdab7a74-b6b9-461c-9203-d5d2800e0e83",
+                "index": 19,
+                "postag": "NA"
+            },
+            {
+                "label": "demonstrated",
+                "id": "25eaaca8-58c8-4453-a75b-bc30ed781565",
+                "index": 20,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Children",
+                "id": "d395595b-9468-460b-a45d-4a03a68ce32a",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "objects",
+                "id": "66ea7c8a-7da8-4c6c-bb5d-4c9c4958895a",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "quickly",
+                "id": "1b9c6eaa-11b6-4494-9b30-b7c43c0eed7a",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "prompted",
+                "id": "569c4a44-b5d7-4c60-970b-b3b46e9a24ca",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "words",
+                "id": "a0052325-032b-49b8-a037-dc1974e7718a",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "they",
+                "id": "35bc3b64-1a6a-49c5-860a-4a6ab78a9190",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "prompted",
+                "id": "75056624-1639-4624-81a9-505998c23c2d",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "only",
+                "id": "b0833a10-7bca-48a9-84cb-970a0e985794",
+                "postag": "NA",
+                "index": 13
+            },
+            {
+                "label": "images",
+                "id": "bd352dd1-9c8b-4671-9b27-02a27452e67e",
+                "index": 16,
+                "postag": "NA"
+            },
+            {
+                "label": "cognitive",
+                "id": "0674e3ed-2156-4b13-8a67-d18aa2232248",
+                "index": 17,
+                "postag": "NA"
+            },
+            {
+                "label": "scientists",
+                "id": "393bad2d-8258-4ae3-acca-0eeca88e34ad",
+                "index": 18,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "d395595b-9468-460b-a45d-4a03a68ce32a",
+                "nodeTo": "2d307042-8d81-4649-85a5-4596e23b0c11",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2d307042-8d81-4649-85a5-4596e23b0c11",
+                "nodeTo": "66ea7c8a-7da8-4c6c-bb5d-4c9c4958895a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "482d8991-8b70-466c-8793-50e160d19184",
+                "nodeTo": "1b9c6eaa-11b6-4494-9b30-b7c43c0eed7a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2d307042-8d81-4649-85a5-4596e23b0c11",
+                "nodeTo": "1b9c6eaa-11b6-4494-9b30-b7c43c0eed7a",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d395595b-9468-460b-a45d-4a03a68ce32a",
+                "nodeTo": "86511074-7bd4-49e1-bce3-4c40099d6d2b",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "86511074-7bd4-49e1-bce3-4c40099d6d2b",
+                "nodeTo": "569c4a44-b5d7-4c60-970b-b3b46e9a24ca",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "569c4a44-b5d7-4c60-970b-b3b46e9a24ca",
+                "nodeTo": "7b3e61ee-3127-42c4-8660-b6a42cb0cbe8",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7b3e61ee-3127-42c4-8660-b6a42cb0cbe8",
+                "nodeTo": "a0052325-032b-49b8-a037-dc1974e7718a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "569c4a44-b5d7-4c60-970b-b3b46e9a24ca",
+                "nodeTo": "a407e6b9-922c-4d71-9d20-690c868255d9",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "569c4a44-b5d7-4c60-970b-b3b46e9a24ca",
+                "nodeTo": "6a2529d8-66b1-4e4a-8ea7-b853de108761",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a407e6b9-922c-4d71-9d20-690c868255d9",
+                "nodeTo": "35bc3b64-1a6a-49c5-860a-4a6ab78a9190",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6a2529d8-66b1-4e4a-8ea7-b853de108761",
+                "nodeTo": "35bc3b64-1a6a-49c5-860a-4a6ab78a9190",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "35bc3b64-1a6a-49c5-860a-4a6ab78a9190",
+                "nodeTo": "4242bb67-1031-49c7-98ea-24b84d9e2785",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4242bb67-1031-49c7-98ea-24b84d9e2785",
+                "nodeTo": "b0833a10-7bca-48a9-84cb-970a0e985794",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4242bb67-1031-49c7-98ea-24b84d9e2785",
+                "nodeTo": "75056624-1639-4624-81a9-505998c23c2d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b0833a10-7bca-48a9-84cb-970a0e985794",
+                "nodeTo": "26b80384-3150-4e4d-be39-85559e1671c8",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "75056624-1639-4624-81a9-505998c23c2d",
+                "nodeTo": "26b80384-3150-4e4d-be39-85559e1671c8",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "26b80384-3150-4e4d-be39-85559e1671c8",
+                "nodeTo": "bd352dd1-9c8b-4671-9b27-02a27452e67e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0674e3ed-2156-4b13-8a67-d18aa2232248",
+                "nodeTo": "cdab7a74-b6b9-461c-9203-d5d2800e0e83",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0674e3ed-2156-4b13-8a67-d18aa2232248",
+                "nodeTo": "25eaaca8-58c8-4453-a75b-bc30ed781565",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "393bad2d-8258-4ae3-acca-0eeca88e34ad",
+                "nodeTo": "cdab7a74-b6b9-461c-9203-d5d2800e0e83",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "393bad2d-8258-4ae3-acca-0eeca88e34ad",
+                "nodeTo": "25eaaca8-58c8-4453-a75b-bc30ed781565",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cdab7a74-b6b9-461c-9203-d5d2800e0e83",
+                "nodeTo": "d395595b-9468-460b-a45d-4a03a68ce32a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "25eaaca8-58c8-4453-a75b-bc30ed781565",
+                "nodeTo": "d395595b-9468-460b-a45d-4a03a68ce32a",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-10-27 23:14:24"
+}

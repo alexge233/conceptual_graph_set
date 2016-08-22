@@ -1,0 +1,244 @@
+{
+    "uuid": 1123,
+    "text": "consuming two or more cups of coffee each day reduces risk of death from liver cirrhosis by 66%",
+    "graph": {
+        "version": 1,
+        "guid": "3b39194e-3724-42d1-8c2d-73a1b0a417b5",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "consuming",
+                "id": "5c7bb088-9b69-4506-a74d-d21aeabb1d84",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "or",
+                "id": "9784dd1a-3d27-43e7-9595-3bced5c0a420",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "more",
+                "id": "38716374-69bb-40d9-bea0-187b1c74ac1e",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "d944aa19-52b0-4007-93b4-9469e401e7be",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "each",
+                "id": "8e0a0160-8b6a-4d14-9319-94c42622a38a",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "reduces",
+                "id": "4c4ee57a-a11b-4e55-a885-7c90a97a74b5",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "bde38c41-ba89-4bab-b3dc-69795c4bc9c9",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "from",
+                "id": "0dd497ec-1241-4486-9682-e76abcda65d9",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "by",
+                "id": "6893bd4a-77a0-4620-bdc1-c5c46d81304c",
+                "index": 16,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "two",
+                "id": "3d348aeb-887a-4748-bd99-88878799449e",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "cups",
+                "id": "20a73e71-c05b-4b63-a540-222ab154a567",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "coffee",
+                "id": "01ad9743-4e7e-4971-b6dc-8038e794eaa2",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "day",
+                "id": "2a858764-ca50-4a25-bc5a-7607d1b02542",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "risk",
+                "id": "38213427-9949-4246-83c3-edcce011abaa",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "death",
+                "id": "44a791d7-14d3-4eb9-bd61-597780854723",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "liver",
+                "id": "689d1858-909e-4c88-aa56-303494bc77a8",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "cirrhosis",
+                "id": "96504682-4468-43b7-9b75-04672865eb80",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "66%",
+                "id": "21a08d8a-77b5-43c6-a192-b9c85d967574",
+                "index": 17,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "5c7bb088-9b69-4506-a74d-d21aeabb1d84",
+                "nodeTo": "3d348aeb-887a-4748-bd99-88878799449e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3d348aeb-887a-4748-bd99-88878799449e",
+                "nodeTo": "9784dd1a-3d27-43e7-9595-3bced5c0a420",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3d348aeb-887a-4748-bd99-88878799449e",
+                "nodeTo": "38716374-69bb-40d9-bea0-187b1c74ac1e",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9784dd1a-3d27-43e7-9595-3bced5c0a420",
+                "nodeTo": "20a73e71-c05b-4b63-a540-222ab154a567",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "38716374-69bb-40d9-bea0-187b1c74ac1e",
+                "nodeTo": "20a73e71-c05b-4b63-a540-222ab154a567",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3d348aeb-887a-4748-bd99-88878799449e",
+                "nodeTo": "d944aa19-52b0-4007-93b4-9469e401e7be",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "20a73e71-c05b-4b63-a540-222ab154a567",
+                "nodeTo": "d944aa19-52b0-4007-93b4-9469e401e7be",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d944aa19-52b0-4007-93b4-9469e401e7be",
+                "nodeTo": "01ad9743-4e7e-4971-b6dc-8038e794eaa2",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "01ad9743-4e7e-4971-b6dc-8038e794eaa2",
+                "nodeTo": "8e0a0160-8b6a-4d14-9319-94c42622a38a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8e0a0160-8b6a-4d14-9319-94c42622a38a",
+                "nodeTo": "2a858764-ca50-4a25-bc5a-7607d1b02542",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3d348aeb-887a-4748-bd99-88878799449e",
+                "nodeTo": "4c4ee57a-a11b-4e55-a885-7c90a97a74b5",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "20a73e71-c05b-4b63-a540-222ab154a567",
+                "nodeTo": "4c4ee57a-a11b-4e55-a885-7c90a97a74b5",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4c4ee57a-a11b-4e55-a885-7c90a97a74b5",
+                "nodeTo": "38213427-9949-4246-83c3-edcce011abaa",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "38213427-9949-4246-83c3-edcce011abaa",
+                "nodeTo": "bde38c41-ba89-4bab-b3dc-69795c4bc9c9",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bde38c41-ba89-4bab-b3dc-69795c4bc9c9",
+                "nodeTo": "44a791d7-14d3-4eb9-bd61-597780854723",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "44a791d7-14d3-4eb9-bd61-597780854723",
+                "nodeTo": "0dd497ec-1241-4486-9682-e76abcda65d9",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0dd497ec-1241-4486-9682-e76abcda65d9",
+                "nodeTo": "689d1858-909e-4c88-aa56-303494bc77a8",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0dd497ec-1241-4486-9682-e76abcda65d9",
+                "nodeTo": "96504682-4468-43b7-9b75-04672865eb80",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "38213427-9949-4246-83c3-edcce011abaa",
+                "nodeTo": "6893bd4a-77a0-4620-bdc1-c5c46d81304c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6893bd4a-77a0-4620-bdc1-c5c46d81304c",
+                "nodeTo": "21a08d8a-77b5-43c6-a192-b9c85d967574",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-23 17:55:47"
+}

@@ -1,0 +1,178 @@
+{
+    "uuid": 594,
+    "text": "It is clear that reasons for disparity in case of PBD warrant further study",
+    "graph": {
+        "version": 1,
+        "guid": "ae319242-300e-4d86-a9dc-b5abadee042e",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "is",
+                "id": "46419a98-9625-401e-91d1-6e33077b489a",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "that",
+                "id": "75bc4031-6984-4736-b834-172677a0dd72",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "580e37ed-672d-41ea-88ed-36c20d3b2285",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "5948d29e-e215-4e37-b8ce-65d038104003",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "ae9b69d2-997e-4017-b829-be79b7da2104",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "warrant",
+                "id": "19b4d053-9a82-4a78-a971-8c9c786d7a65",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "It",
+                "id": "c36214d9-4dc4-4444-80a5-ce2276cebac0",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "clear",
+                "id": "dc9904dd-7db2-4e9d-b45d-09204eea30e6",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "reasons",
+                "id": "4972187a-1817-4514-9d9c-1043e0b43a44",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "disparity",
+                "id": "d3592b1d-324c-4399-b138-d1eec8e840eb",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "case",
+                "id": "02c007e2-0220-4851-bcb8-991eca2e7e8b",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "PBD",
+                "id": "08dcc5a9-0333-4389-b88b-3adc9a940c80",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "further",
+                "id": "bcea67a9-8bbc-4688-988e-e50d002e8e92",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "study",
+                "id": "995a7b58-6eae-4212-b8b2-0079d9d79661",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "c36214d9-4dc4-4444-80a5-ce2276cebac0",
+                "nodeTo": "46419a98-9625-401e-91d1-6e33077b489a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "46419a98-9625-401e-91d1-6e33077b489a",
+                "nodeTo": "dc9904dd-7db2-4e9d-b45d-09204eea30e6",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "dc9904dd-7db2-4e9d-b45d-09204eea30e6",
+                "nodeTo": "75bc4031-6984-4736-b834-172677a0dd72",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "75bc4031-6984-4736-b834-172677a0dd72",
+                "nodeTo": "4972187a-1817-4514-9d9c-1043e0b43a44",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4972187a-1817-4514-9d9c-1043e0b43a44",
+                "nodeTo": "580e37ed-672d-41ea-88ed-36c20d3b2285",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "580e37ed-672d-41ea-88ed-36c20d3b2285",
+                "nodeTo": "d3592b1d-324c-4399-b138-d1eec8e840eb",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d3592b1d-324c-4399-b138-d1eec8e840eb",
+                "nodeTo": "5948d29e-e215-4e37-b8ce-65d038104003",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5948d29e-e215-4e37-b8ce-65d038104003",
+                "nodeTo": "02c007e2-0220-4851-bcb8-991eca2e7e8b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "02c007e2-0220-4851-bcb8-991eca2e7e8b",
+                "nodeTo": "ae9b69d2-997e-4017-b829-be79b7da2104",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ae9b69d2-997e-4017-b829-be79b7da2104",
+                "nodeTo": "08dcc5a9-0333-4389-b88b-3adc9a940c80",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4972187a-1817-4514-9d9c-1043e0b43a44",
+                "nodeTo": "19b4d053-9a82-4a78-a971-8c9c786d7a65",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "19b4d053-9a82-4a78-a971-8c9c786d7a65",
+                "nodeTo": "bcea67a9-8bbc-4688-988e-e50d002e8e92",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "19b4d053-9a82-4a78-a971-8c9c786d7a65",
+                "nodeTo": "995a7b58-6eae-4212-b8b2-0079d9d79661",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-07 21:50:47"
+}

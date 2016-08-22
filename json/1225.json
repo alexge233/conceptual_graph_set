@@ -1,0 +1,292 @@
+{
+    "uuid": 1225,
+    "text": "real-time engagement detection technology that processes facial expressions can perform with accuracy comparable to that of human observers",
+    "graph": {
+        "version": 1,
+        "guid": "e1a81e05-975c-425e-b41a-85bcbc628a23",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "that",
+                "id": "46ba7346-51e9-4659-8969-1299b19204b2",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "processes",
+                "id": "e3bae42d-a135-49a7-acd0-2ed6bb4092e8",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "can",
+                "id": "4301c4bc-9a25-4878-a87b-0ccde872274c",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "perform",
+                "id": "8911b04c-9a90-4d4b-8a1b-5b175424657d",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "with",
+                "id": "4e5b51b3-2ab9-4201-a102-2a2cdb546ecb",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "comparable",
+                "id": "e588e2c6-94d4-4c68-90be-cbb5e3673d31",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "63a5c238-03bc-4841-915d-1a5aad22037c",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "36ba207d-538c-4259-9c89-3aec1c770b15",
+                "index": 15,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "real-time",
+                "id": "92eac015-d771-43c8-93b6-2db538827351",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "engagement",
+                "id": "91697978-0e91-49da-95cb-a264a60ba301",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "detection",
+                "id": "213a3abc-2d31-4225-a402-6626a8e0b839",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "technology",
+                "id": "36a87c96-088a-4d13-8c11-a8a18672b9d0",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "facial",
+                "id": "6a64a5ca-ce65-407e-98d6-471084a96955",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "expressions",
+                "id": "b57566dc-403a-4103-aab7-4648d8192cb2",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "accuracy",
+                "id": "6e8b0c30-1b3d-4648-a933-ae8b2e235b1a",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "human",
+                "id": "776b38c7-e2ee-48b3-857d-a0ed35cd2cba",
+                "index": 16,
+                "postag": "NA"
+            },
+            {
+                "label": "that",
+                "id": "76b560dc-aca8-4886-8439-20b4bd0ed171",
+                "postag": "NA",
+                "index": 14
+            },
+            {
+                "label": "observers",
+                "id": "74be04db-0951-49ac-9405-a43e29a588a8",
+                "index": 17,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "92eac015-d771-43c8-93b6-2db538827351",
+                "nodeTo": "46ba7346-51e9-4659-8969-1299b19204b2",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "91697978-0e91-49da-95cb-a264a60ba301",
+                "nodeTo": "46ba7346-51e9-4659-8969-1299b19204b2",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "213a3abc-2d31-4225-a402-6626a8e0b839",
+                "nodeTo": "46ba7346-51e9-4659-8969-1299b19204b2",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "36a87c96-088a-4d13-8c11-a8a18672b9d0",
+                "nodeTo": "46ba7346-51e9-4659-8969-1299b19204b2",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "92eac015-d771-43c8-93b6-2db538827351",
+                "nodeTo": "e3bae42d-a135-49a7-acd0-2ed6bb4092e8",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "91697978-0e91-49da-95cb-a264a60ba301",
+                "nodeTo": "e3bae42d-a135-49a7-acd0-2ed6bb4092e8",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "213a3abc-2d31-4225-a402-6626a8e0b839",
+                "nodeTo": "e3bae42d-a135-49a7-acd0-2ed6bb4092e8",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "36a87c96-088a-4d13-8c11-a8a18672b9d0",
+                "nodeTo": "e3bae42d-a135-49a7-acd0-2ed6bb4092e8",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "46ba7346-51e9-4659-8969-1299b19204b2",
+                "nodeTo": "6a64a5ca-ce65-407e-98d6-471084a96955",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e3bae42d-a135-49a7-acd0-2ed6bb4092e8",
+                "nodeTo": "6a64a5ca-ce65-407e-98d6-471084a96955",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "46ba7346-51e9-4659-8969-1299b19204b2",
+                "nodeTo": "b57566dc-403a-4103-aab7-4648d8192cb2",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e3bae42d-a135-49a7-acd0-2ed6bb4092e8",
+                "nodeTo": "b57566dc-403a-4103-aab7-4648d8192cb2",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6a64a5ca-ce65-407e-98d6-471084a96955",
+                "nodeTo": "4301c4bc-9a25-4878-a87b-0ccde872274c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b57566dc-403a-4103-aab7-4648d8192cb2",
+                "nodeTo": "4301c4bc-9a25-4878-a87b-0ccde872274c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6a64a5ca-ce65-407e-98d6-471084a96955",
+                "nodeTo": "8911b04c-9a90-4d4b-8a1b-5b175424657d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b57566dc-403a-4103-aab7-4648d8192cb2",
+                "nodeTo": "8911b04c-9a90-4d4b-8a1b-5b175424657d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6a64a5ca-ce65-407e-98d6-471084a96955",
+                "nodeTo": "4e5b51b3-2ab9-4201-a102-2a2cdb546ecb",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b57566dc-403a-4103-aab7-4648d8192cb2",
+                "nodeTo": "4e5b51b3-2ab9-4201-a102-2a2cdb546ecb",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4301c4bc-9a25-4878-a87b-0ccde872274c",
+                "nodeTo": "6e8b0c30-1b3d-4648-a933-ae8b2e235b1a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8911b04c-9a90-4d4b-8a1b-5b175424657d",
+                "nodeTo": "6e8b0c30-1b3d-4648-a933-ae8b2e235b1a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4e5b51b3-2ab9-4201-a102-2a2cdb546ecb",
+                "nodeTo": "6e8b0c30-1b3d-4648-a933-ae8b2e235b1a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6e8b0c30-1b3d-4648-a933-ae8b2e235b1a",
+                "nodeTo": "e588e2c6-94d4-4c68-90be-cbb5e3673d31",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6e8b0c30-1b3d-4648-a933-ae8b2e235b1a",
+                "nodeTo": "63a5c238-03bc-4841-915d-1a5aad22037c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "36ba207d-538c-4259-9c89-3aec1c770b15",
+                "nodeTo": "776b38c7-e2ee-48b3-857d-a0ed35cd2cba",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e588e2c6-94d4-4c68-90be-cbb5e3673d31",
+                "nodeTo": "76b560dc-aca8-4886-8439-20b4bd0ed171",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "63a5c238-03bc-4841-915d-1a5aad22037c",
+                "nodeTo": "76b560dc-aca8-4886-8439-20b4bd0ed171",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "76b560dc-aca8-4886-8439-20b4bd0ed171",
+                "nodeTo": "36ba207d-538c-4259-9c89-3aec1c770b15",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "36ba207d-538c-4259-9c89-3aec1c770b15",
+                "nodeTo": "74be04db-0951-49ac-9405-a43e29a588a8",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-03-02 17:52:19"
+}

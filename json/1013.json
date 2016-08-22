@@ -1,0 +1,136 @@
+{
+    "uuid": 1013,
+    "text": "children prefer sweeter and saltier tastes than do adults",
+    "graph": {
+        "version": 1,
+        "guid": "d28917d4-c8e2-4281-867e-385171355056",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "prefer",
+                "id": "e6e54805-394a-423d-aa2c-335c80409d4b",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "d5ae5d72-161d-408b-bee7-d9e2a72d8c04",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "than",
+                "id": "416a81c1-a7ed-4d4c-b4e3-0ba660ad02b9",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "do",
+                "id": "798e730e-cd14-4404-8091-49439612c5ca",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "children",
+                "id": "3a9c1d7b-32a2-410a-ac23-01098a1ad4e1",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "sweeter",
+                "id": "61ed1985-ca11-4043-9695-bd07910d4a22",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "saltier",
+                "id": "03b98a3d-d5ea-4dae-8018-02705d1b474c",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "tastes",
+                "id": "66930be3-d2eb-4a4d-b087-265c44935adb",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "adults",
+                "id": "4a93bed3-939a-44a5-b7d7-46a533aa33ca",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "3a9c1d7b-32a2-410a-ac23-01098a1ad4e1",
+                "nodeTo": "e6e54805-394a-423d-aa2c-335c80409d4b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "61ed1985-ca11-4043-9695-bd07910d4a22",
+                "nodeTo": "d5ae5d72-161d-408b-bee7-d9e2a72d8c04",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e6e54805-394a-423d-aa2c-335c80409d4b",
+                "nodeTo": "61ed1985-ca11-4043-9695-bd07910d4a22",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d5ae5d72-161d-408b-bee7-d9e2a72d8c04",
+                "nodeTo": "03b98a3d-d5ea-4dae-8018-02705d1b474c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d5ae5d72-161d-408b-bee7-d9e2a72d8c04",
+                "nodeTo": "66930be3-d2eb-4a4d-b087-265c44935adb",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e6e54805-394a-423d-aa2c-335c80409d4b",
+                "nodeTo": "03b98a3d-d5ea-4dae-8018-02705d1b474c",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e6e54805-394a-423d-aa2c-335c80409d4b",
+                "nodeTo": "66930be3-d2eb-4a4d-b087-265c44935adb",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "416a81c1-a7ed-4d4c-b4e3-0ba660ad02b9",
+                "nodeTo": "4a93bed3-939a-44a5-b7d7-46a533aa33ca",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "798e730e-cd14-4404-8091-49439612c5ca",
+                "nodeTo": "4a93bed3-939a-44a5-b7d7-46a533aa33ca",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3a9c1d7b-32a2-410a-ac23-01098a1ad4e1",
+                "nodeTo": "416a81c1-a7ed-4d4c-b4e3-0ba660ad02b9",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3a9c1d7b-32a2-410a-ac23-01098a1ad4e1",
+                "nodeTo": "798e730e-cd14-4404-8091-49439612c5ca",
+                "index": 3,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2015-02-03 14:07:02"
+}

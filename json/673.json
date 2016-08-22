@@ -1,0 +1,112 @@
+{
+    "uuid": 673,
+    "text": "Brad Pitt prankster wears stars face on top",
+    "graph": {
+        "version": 1,
+        "guid": "07158012-a7ba-4324-98b1-1d5c2d75705e",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "wears",
+                "id": "d15e463e-8530-488b-b304-b84861204b64",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "on",
+                "id": "26c185c1-e798-4674-bc92-865ab6c8e019",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Brad",
+                "id": "4de99b9e-00aa-447a-8b85-6ab2b5b3a428",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "Pitt",
+                "id": "b86b6490-8479-4c5a-b721-648ea06b0cdc",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "prankster",
+                "id": "c41b4462-49a4-416e-9175-3e804920291b",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "stars",
+                "id": "c209eaa8-0e21-44cb-ac25-75e4753955a1",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "face",
+                "id": "81e03925-916e-4648-8500-5ed1baeee617",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "top",
+                "id": "ba1ba4cd-0073-4832-89ed-b253e850aa27",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "4de99b9e-00aa-447a-8b85-6ab2b5b3a428",
+                "nodeTo": "d15e463e-8530-488b-b304-b84861204b64",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b86b6490-8479-4c5a-b721-648ea06b0cdc",
+                "nodeTo": "d15e463e-8530-488b-b304-b84861204b64",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c41b4462-49a4-416e-9175-3e804920291b",
+                "nodeTo": "d15e463e-8530-488b-b304-b84861204b64",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d15e463e-8530-488b-b304-b84861204b64",
+                "nodeTo": "c209eaa8-0e21-44cb-ac25-75e4753955a1",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d15e463e-8530-488b-b304-b84861204b64",
+                "nodeTo": "81e03925-916e-4648-8500-5ed1baeee617",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c209eaa8-0e21-44cb-ac25-75e4753955a1",
+                "nodeTo": "26c185c1-e798-4674-bc92-865ab6c8e019",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "81e03925-916e-4648-8500-5ed1baeee617",
+                "nodeTo": "26c185c1-e798-4674-bc92-865ab6c8e019",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "26c185c1-e798-4674-bc92-865ab6c8e019",
+                "nodeTo": "ba1ba4cd-0073-4832-89ed-b253e850aa27",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-09 20:51:53"
+}

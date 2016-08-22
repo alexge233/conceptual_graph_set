@@ -1,0 +1,58 @@
+{
+    "uuid": 753,
+    "text": "Caffeine against Alzheimers disease",
+    "graph": {
+        "version": 1,
+        "guid": "b3c3becc-c461-4623-8c59-150ee18c9460",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "against",
+                "id": "6a1aec50-6923-41ba-bd15-e53a6d16816d",
+                "index": 1,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Caffeine",
+                "id": "c105cc3b-a009-494e-b6ae-ce0701334db9",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "Alzheimers",
+                "id": "0ca0ea53-4403-400c-86c5-a17dd85e9c90",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "disease",
+                "id": "25c7a6b6-99bd-4b2d-a406-ab36c22003a9",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "c105cc3b-a009-494e-b6ae-ce0701334db9",
+                "nodeTo": "6a1aec50-6923-41ba-bd15-e53a6d16816d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6a1aec50-6923-41ba-bd15-e53a6d16816d",
+                "nodeTo": "0ca0ea53-4403-400c-86c5-a17dd85e9c90",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6a1aec50-6923-41ba-bd15-e53a6d16816d",
+                "nodeTo": "25c7a6b6-99bd-4b2d-a406-ab36c22003a9",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-13 16:49:44"
+}

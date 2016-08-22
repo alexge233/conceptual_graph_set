@@ -1,0 +1,196 @@
+{
+    "uuid": 730,
+    "text": "are babies who wake to breastfeed at night trying to delay birth of sibling",
+    "graph": {
+        "version": 1,
+        "guid": "4267664c-286a-4ca1-88a8-6998dbdebbec",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "are",
+                "id": "6845e977-6703-4e1c-92dd-ba07ea2ced3a",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "who",
+                "id": "1d22700b-5a08-412b-8354-c7696531ce08",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "wake",
+                "id": "5bcd0e92-a8ec-466a-946d-852e6dc7a94e",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "breastfeed",
+                "id": "39de7dcc-c991-4745-92cb-4594144e7d16",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "at",
+                "id": "a939374c-d882-46a6-9e1e-badd0e8b3844",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "trying",
+                "id": "ba800653-3dc8-434e-a146-8ae8b4a439b8",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "47ee55c1-1229-4922-a6a9-966ccbcba774",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "delay",
+                "id": "c899184e-1cae-4431-944c-dd8ae8d5bc08",
+                "postag": "NA",
+                "index": 10
+            },
+            {
+                "label": "of",
+                "id": "ddacdceb-88d6-4005-be61-c162831b3c12",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "babies",
+                "id": "08b51678-246e-40de-8ae5-be6923743547",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "e9d9c5d7-d84b-4377-b3d9-ea99d51ba6b0",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "night",
+                "id": "e3de1090-b19d-4b63-9e38-ce905e8e8d7a",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "birth",
+                "id": "c36eea37-a763-442e-b4c3-135d66dd492e",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "sibling",
+                "id": "d584403b-18cb-4d0d-98c8-70734b49cc66",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "6845e977-6703-4e1c-92dd-ba07ea2ced3a",
+                "nodeTo": "08b51678-246e-40de-8ae5-be6923743547",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "08b51678-246e-40de-8ae5-be6923743547",
+                "nodeTo": "1d22700b-5a08-412b-8354-c7696531ce08",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "08b51678-246e-40de-8ae5-be6923743547",
+                "nodeTo": "5bcd0e92-a8ec-466a-946d-852e6dc7a94e",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5bcd0e92-a8ec-466a-946d-852e6dc7a94e",
+                "nodeTo": "e9d9c5d7-d84b-4377-b3d9-ea99d51ba6b0",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e9d9c5d7-d84b-4377-b3d9-ea99d51ba6b0",
+                "nodeTo": "39de7dcc-c991-4745-92cb-4594144e7d16",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e9d9c5d7-d84b-4377-b3d9-ea99d51ba6b0",
+                "nodeTo": "a939374c-d882-46a6-9e1e-badd0e8b3844",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "39de7dcc-c991-4745-92cb-4594144e7d16",
+                "nodeTo": "e3de1090-b19d-4b63-9e38-ce905e8e8d7a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a939374c-d882-46a6-9e1e-badd0e8b3844",
+                "nodeTo": "e3de1090-b19d-4b63-9e38-ce905e8e8d7a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "08b51678-246e-40de-8ae5-be6923743547",
+                "nodeTo": "ba800653-3dc8-434e-a146-8ae8b4a439b8",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "08b51678-246e-40de-8ae5-be6923743547",
+                "nodeTo": "47ee55c1-1229-4922-a6a9-966ccbcba774",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "08b51678-246e-40de-8ae5-be6923743547",
+                "nodeTo": "c899184e-1cae-4431-944c-dd8ae8d5bc08",
+                "index": 5,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ba800653-3dc8-434e-a146-8ae8b4a439b8",
+                "nodeTo": "c36eea37-a763-442e-b4c3-135d66dd492e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "47ee55c1-1229-4922-a6a9-966ccbcba774",
+                "nodeTo": "c36eea37-a763-442e-b4c3-135d66dd492e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c899184e-1cae-4431-944c-dd8ae8d5bc08",
+                "nodeTo": "c36eea37-a763-442e-b4c3-135d66dd492e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c36eea37-a763-442e-b4c3-135d66dd492e",
+                "nodeTo": "ddacdceb-88d6-4005-be61-c162831b3c12",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ddacdceb-88d6-4005-be61-c162831b3c12",
+                "nodeTo": "d584403b-18cb-4d0d-98c8-70734b49cc66",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-12 20:46:42"
+}

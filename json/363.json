@@ -1,0 +1,70 @@
+{
+    "uuid": 363,
+    "text": "Ancient Egyptian had earliest cancer",
+    "graph": {
+        "version": 1,
+        "guid": "6761b902-d5e9-4b66-bc6b-9287e6c9a6be",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "had",
+                "id": "688978d0-413d-4c4d-a8c5-be80c2030ebd",
+                "index": 2,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Ancient",
+                "id": "ed1d2c35-2399-4523-9db6-05a40c83a288",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "Egyptian",
+                "id": "8794ec4a-606a-4149-ab93-00432d01bded",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "earliest",
+                "id": "e3d82ecd-d1dd-4501-929b-51794440e98e",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "cancer",
+                "id": "759c2c00-494c-4099-b840-4c7e221edd3a",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "ed1d2c35-2399-4523-9db6-05a40c83a288",
+                "nodeTo": "688978d0-413d-4c4d-a8c5-be80c2030ebd",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8794ec4a-606a-4149-ab93-00432d01bded",
+                "nodeTo": "688978d0-413d-4c4d-a8c5-be80c2030ebd",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "688978d0-413d-4c4d-a8c5-be80c2030ebd",
+                "nodeTo": "e3d82ecd-d1dd-4501-929b-51794440e98e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "688978d0-413d-4c4d-a8c5-be80c2030ebd",
+                "nodeTo": "759c2c00-494c-4099-b840-4c7e221edd3a",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-16 16:35:54"
+}

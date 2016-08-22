@@ -1,0 +1,148 @@
+{
+    "uuid": 552,
+    "text": "researchers can generate human motor neurons from stem cells",
+    "graph": {
+        "version": 1,
+        "guid": "c55818b9-0152-42a9-ad9a-70d5b975d7dc",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "can",
+                "id": "939385ed-4b7c-4829-9953-77379873bd00",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "generate",
+                "id": "58cd5781-9484-4954-a222-8b4d46216ece",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "from",
+                "id": "7e2732a2-0cc2-41ba-a103-3b486d2b915c",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "researchers",
+                "id": "078b8799-9367-4e8c-894d-a0ed02dd5007",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "human",
+                "id": "482bb68a-ddc6-40c0-96a5-3127a1aacabb",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "motor",
+                "id": "b9b694d5-45bc-4559-9934-00a0970cbc35",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "neurons",
+                "id": "ee0960d3-3a87-4a24-a58b-1705466db184",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "stem",
+                "id": "00904611-5e10-4588-babd-25aacc20aa34",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "cells",
+                "id": "91340d63-1e0a-4921-b52e-6392984746c9",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "078b8799-9367-4e8c-894d-a0ed02dd5007",
+                "nodeTo": "939385ed-4b7c-4829-9953-77379873bd00",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "078b8799-9367-4e8c-894d-a0ed02dd5007",
+                "nodeTo": "58cd5781-9484-4954-a222-8b4d46216ece",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "939385ed-4b7c-4829-9953-77379873bd00",
+                "nodeTo": "482bb68a-ddc6-40c0-96a5-3127a1aacabb",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "58cd5781-9484-4954-a222-8b4d46216ece",
+                "nodeTo": "482bb68a-ddc6-40c0-96a5-3127a1aacabb",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "939385ed-4b7c-4829-9953-77379873bd00",
+                "nodeTo": "b9b694d5-45bc-4559-9934-00a0970cbc35",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "58cd5781-9484-4954-a222-8b4d46216ece",
+                "nodeTo": "b9b694d5-45bc-4559-9934-00a0970cbc35",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "939385ed-4b7c-4829-9953-77379873bd00",
+                "nodeTo": "ee0960d3-3a87-4a24-a58b-1705466db184",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "58cd5781-9484-4954-a222-8b4d46216ece",
+                "nodeTo": "ee0960d3-3a87-4a24-a58b-1705466db184",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "482bb68a-ddc6-40c0-96a5-3127a1aacabb",
+                "nodeTo": "7e2732a2-0cc2-41ba-a103-3b486d2b915c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b9b694d5-45bc-4559-9934-00a0970cbc35",
+                "nodeTo": "7e2732a2-0cc2-41ba-a103-3b486d2b915c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ee0960d3-3a87-4a24-a58b-1705466db184",
+                "nodeTo": "7e2732a2-0cc2-41ba-a103-3b486d2b915c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7e2732a2-0cc2-41ba-a103-3b486d2b915c",
+                "nodeTo": "00904611-5e10-4588-babd-25aacc20aa34",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7e2732a2-0cc2-41ba-a103-3b486d2b915c",
+                "nodeTo": "91340d63-1e0a-4921-b52e-6392984746c9",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-05 19:53:38"
+}

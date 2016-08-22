@@ -1,0 +1,130 @@
+{
+    "uuid": 910,
+    "text": "interior of long term urinary catheters become plagued by biofilms",
+    "graph": {
+        "version": 1,
+        "guid": "ca806107-48ce-4965-ab51-17cb39066a03",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "of",
+                "id": "bce3c525-e415-480a-bc65-5e27bd949408",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "become",
+                "id": "4d88dd6b-aa9b-4bb6-b71e-07b9781b21d2",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "by",
+                "id": "d6b3a239-ed5d-4cea-b6ca-0b242593a9c1",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "interior",
+                "id": "a5902c9e-8965-4769-8ad3-2c291b626e8b",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "long",
+                "id": "726c132e-4be3-42d3-8bda-60960305d643",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "term",
+                "id": "b73a1295-a582-41bd-8471-ba49824bbe07",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "urinary",
+                "id": "a04b3175-030c-47d2-87c3-082a06958520",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "catheters",
+                "id": "66706009-694a-496e-9479-83cd2d990224",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "plagued",
+                "id": "325de785-3e12-49de-a178-c85749027054",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "biofilms",
+                "id": "9a4a6c75-91d1-4118-80b3-d29aeb50528d",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "a5902c9e-8965-4769-8ad3-2c291b626e8b",
+                "nodeTo": "bce3c525-e415-480a-bc65-5e27bd949408",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bce3c525-e415-480a-bc65-5e27bd949408",
+                "nodeTo": "726c132e-4be3-42d3-8bda-60960305d643",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "bce3c525-e415-480a-bc65-5e27bd949408",
+                "nodeTo": "b73a1295-a582-41bd-8471-ba49824bbe07",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "bce3c525-e415-480a-bc65-5e27bd949408",
+                "nodeTo": "a04b3175-030c-47d2-87c3-082a06958520",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "bce3c525-e415-480a-bc65-5e27bd949408",
+                "nodeTo": "66706009-694a-496e-9479-83cd2d990224",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a5902c9e-8965-4769-8ad3-2c291b626e8b",
+                "nodeTo": "4d88dd6b-aa9b-4bb6-b71e-07b9781b21d2",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4d88dd6b-aa9b-4bb6-b71e-07b9781b21d2",
+                "nodeTo": "325de785-3e12-49de-a178-c85749027054",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "325de785-3e12-49de-a178-c85749027054",
+                "nodeTo": "d6b3a239-ed5d-4cea-b6ca-0b242593a9c1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d6b3a239-ed5d-4cea-b6ca-0b242593a9c1",
+                "nodeTo": "9a4a6c75-91d1-4118-80b3-d29aeb50528d",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-21 16:16:27"
+}

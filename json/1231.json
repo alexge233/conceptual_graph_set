@@ -1,0 +1,256 @@
+{
+    "uuid": 1231,
+    "text": "your measured brain signals can reveal whether you are thinking about animal or tool",
+    "graph": {
+        "version": 1,
+        "guid": "bdb9cb62-e377-497c-93b7-be66185189b7",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "can",
+                "id": "e11b5c35-5898-4eda-9b19-0b3d13a9aa87",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "reveal",
+                "id": "3b99820c-2be3-4878-8c19-9d4b621ea643",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "whether",
+                "id": "26905a65-04b1-4211-b7b7-beabe4623e7e",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "are",
+                "id": "062877ae-4e1c-4e3e-91ec-c2e96032b58d",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "thinking",
+                "id": "da679662-57ce-48a5-9c59-0489a0011b25",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "about",
+                "id": "07e5cedb-8a6c-42cc-8311-b35656594c85",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "or",
+                "id": "ce984157-6a7b-4b2c-8b2b-bc623dab5933",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "your",
+                "id": "761858ee-d968-4ecb-8b30-9551501570ac",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "measured",
+                "id": "57b157ee-4a05-4a0e-83b3-13e2007451d0",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "brain",
+                "id": "826b68ba-989d-491b-9d29-5ba76a79ed3d",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "signals",
+                "id": "5b130784-0188-4676-b4e7-7640d5d0e1c1",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "you",
+                "id": "a73e89d1-57c8-4bb3-819a-a6585ec0484b",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "animal",
+                "id": "9a97d749-a074-4723-9d80-85587c921781",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "tool",
+                "id": "8630c483-1802-4319-a5de-33d8bd0c8a94",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "761858ee-d968-4ecb-8b30-9551501570ac",
+                "nodeTo": "e11b5c35-5898-4eda-9b19-0b3d13a9aa87",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "57b157ee-4a05-4a0e-83b3-13e2007451d0",
+                "nodeTo": "e11b5c35-5898-4eda-9b19-0b3d13a9aa87",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "826b68ba-989d-491b-9d29-5ba76a79ed3d",
+                "nodeTo": "e11b5c35-5898-4eda-9b19-0b3d13a9aa87",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5b130784-0188-4676-b4e7-7640d5d0e1c1",
+                "nodeTo": "e11b5c35-5898-4eda-9b19-0b3d13a9aa87",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "761858ee-d968-4ecb-8b30-9551501570ac",
+                "nodeTo": "3b99820c-2be3-4878-8c19-9d4b621ea643",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "57b157ee-4a05-4a0e-83b3-13e2007451d0",
+                "nodeTo": "3b99820c-2be3-4878-8c19-9d4b621ea643",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "826b68ba-989d-491b-9d29-5ba76a79ed3d",
+                "nodeTo": "3b99820c-2be3-4878-8c19-9d4b621ea643",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5b130784-0188-4676-b4e7-7640d5d0e1c1",
+                "nodeTo": "3b99820c-2be3-4878-8c19-9d4b621ea643",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "761858ee-d968-4ecb-8b30-9551501570ac",
+                "nodeTo": "26905a65-04b1-4211-b7b7-beabe4623e7e",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "57b157ee-4a05-4a0e-83b3-13e2007451d0",
+                "nodeTo": "26905a65-04b1-4211-b7b7-beabe4623e7e",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "826b68ba-989d-491b-9d29-5ba76a79ed3d",
+                "nodeTo": "26905a65-04b1-4211-b7b7-beabe4623e7e",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5b130784-0188-4676-b4e7-7640d5d0e1c1",
+                "nodeTo": "26905a65-04b1-4211-b7b7-beabe4623e7e",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e11b5c35-5898-4eda-9b19-0b3d13a9aa87",
+                "nodeTo": "a73e89d1-57c8-4bb3-819a-a6585ec0484b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3b99820c-2be3-4878-8c19-9d4b621ea643",
+                "nodeTo": "a73e89d1-57c8-4bb3-819a-a6585ec0484b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "26905a65-04b1-4211-b7b7-beabe4623e7e",
+                "nodeTo": "a73e89d1-57c8-4bb3-819a-a6585ec0484b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a73e89d1-57c8-4bb3-819a-a6585ec0484b",
+                "nodeTo": "062877ae-4e1c-4e3e-91ec-c2e96032b58d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a73e89d1-57c8-4bb3-819a-a6585ec0484b",
+                "nodeTo": "da679662-57ce-48a5-9c59-0489a0011b25",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a73e89d1-57c8-4bb3-819a-a6585ec0484b",
+                "nodeTo": "07e5cedb-8a6c-42cc-8311-b35656594c85",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "062877ae-4e1c-4e3e-91ec-c2e96032b58d",
+                "nodeTo": "9a97d749-a074-4723-9d80-85587c921781",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "da679662-57ce-48a5-9c59-0489a0011b25",
+                "nodeTo": "9a97d749-a074-4723-9d80-85587c921781",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "07e5cedb-8a6c-42cc-8311-b35656594c85",
+                "nodeTo": "9a97d749-a074-4723-9d80-85587c921781",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9a97d749-a074-4723-9d80-85587c921781",
+                "nodeTo": "ce984157-6a7b-4b2c-8b2b-bc623dab5933",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ce984157-6a7b-4b2c-8b2b-bc623dab5933",
+                "nodeTo": "8630c483-1802-4319-a5de-33d8bd0c8a94",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "062877ae-4e1c-4e3e-91ec-c2e96032b58d",
+                "nodeTo": "8630c483-1802-4319-a5de-33d8bd0c8a94",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "da679662-57ce-48a5-9c59-0489a0011b25",
+                "nodeTo": "8630c483-1802-4319-a5de-33d8bd0c8a94",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "07e5cedb-8a6c-42cc-8311-b35656594c85",
+                "nodeTo": "8630c483-1802-4319-a5de-33d8bd0c8a94",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-03-02 18:21:33"
+}

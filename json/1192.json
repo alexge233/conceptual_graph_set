@@ -1,0 +1,178 @@
+{
+    "uuid": 1192,
+    "text": "commonly used pain relievers have added benefit of fighting bacterial infection",
+    "graph": {
+        "version": 1,
+        "guid": "e7a8c913-5ea7-4a25-9350-5bdeec04b62c",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "commonly",
+                "id": "3e6582d9-bb06-4499-a7bc-8b4bc0e5100b",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "used",
+                "id": "2213d3e1-46db-4029-a665-b1e574509cce",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "have",
+                "id": "28d69d28-54dc-4685-98b9-c70e05837343",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "ca0e2636-9ce1-41ad-9630-821c57a307c8",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "fighting",
+                "id": "78ae39c7-6254-4d73-81d9-9ed7e1446759",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "pain",
+                "id": "27aa6935-0ab1-42dd-a0c1-ce2126d83650",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "relievers",
+                "id": "0353d321-9a45-4667-a44b-082dae2a2c31",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "added",
+                "id": "5bae4831-a4c3-4454-90b5-1143a052410e",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "benefit",
+                "id": "bdad7ec4-ed16-4e39-8169-675a2a10978b",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "bacterial",
+                "id": "eb71665d-87e2-4d99-b65e-d053835c4891",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "infection",
+                "id": "a11b99c3-0b05-4b57-ae09-590748895c31",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "3e6582d9-bb06-4499-a7bc-8b4bc0e5100b",
+                "nodeTo": "27aa6935-0ab1-42dd-a0c1-ce2126d83650",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2213d3e1-46db-4029-a665-b1e574509cce",
+                "nodeTo": "27aa6935-0ab1-42dd-a0c1-ce2126d83650",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3e6582d9-bb06-4499-a7bc-8b4bc0e5100b",
+                "nodeTo": "0353d321-9a45-4667-a44b-082dae2a2c31",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2213d3e1-46db-4029-a665-b1e574509cce",
+                "nodeTo": "0353d321-9a45-4667-a44b-082dae2a2c31",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "27aa6935-0ab1-42dd-a0c1-ce2126d83650",
+                "nodeTo": "28d69d28-54dc-4685-98b9-c70e05837343",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0353d321-9a45-4667-a44b-082dae2a2c31",
+                "nodeTo": "28d69d28-54dc-4685-98b9-c70e05837343",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "28d69d28-54dc-4685-98b9-c70e05837343",
+                "nodeTo": "5bae4831-a4c3-4454-90b5-1143a052410e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "28d69d28-54dc-4685-98b9-c70e05837343",
+                "nodeTo": "bdad7ec4-ed16-4e39-8169-675a2a10978b",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5bae4831-a4c3-4454-90b5-1143a052410e",
+                "nodeTo": "ca0e2636-9ce1-41ad-9630-821c57a307c8",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bdad7ec4-ed16-4e39-8169-675a2a10978b",
+                "nodeTo": "ca0e2636-9ce1-41ad-9630-821c57a307c8",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5bae4831-a4c3-4454-90b5-1143a052410e",
+                "nodeTo": "78ae39c7-6254-4d73-81d9-9ed7e1446759",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bdad7ec4-ed16-4e39-8169-675a2a10978b",
+                "nodeTo": "78ae39c7-6254-4d73-81d9-9ed7e1446759",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ca0e2636-9ce1-41ad-9630-821c57a307c8",
+                "nodeTo": "eb71665d-87e2-4d99-b65e-d053835c4891",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "78ae39c7-6254-4d73-81d9-9ed7e1446759",
+                "nodeTo": "eb71665d-87e2-4d99-b65e-d053835c4891",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ca0e2636-9ce1-41ad-9630-821c57a307c8",
+                "nodeTo": "a11b99c3-0b05-4b57-ae09-590748895c31",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "78ae39c7-6254-4d73-81d9-9ed7e1446759",
+                "nodeTo": "a11b99c3-0b05-4b57-ae09-590748895c31",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-25 21:15:06"
+}

@@ -1,0 +1,82 @@
+{
+    "uuid": 762,
+    "text": "call for action over weekend doctors",
+    "graph": {
+        "version": 1,
+        "guid": "73973189-4386-4dc1-8739-c0ed4a5eae53",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "for",
+                "id": "924d0e55-7325-4503-bd90-e82cab6437ab",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "over",
+                "id": "78beeed3-37c9-4187-8db2-936a925a5d0a",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "call",
+                "id": "b08298e2-d725-4217-8d29-40b141b561a1",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "action",
+                "id": "c8d49982-50a3-442c-8483-40a0574a7d10",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "weekend",
+                "id": "08085bba-b472-4a88-8c48-714b3146b5c3",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "doctors",
+                "id": "97339671-b551-4589-a922-e08175de69a1",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "b08298e2-d725-4217-8d29-40b141b561a1",
+                "nodeTo": "924d0e55-7325-4503-bd90-e82cab6437ab",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "924d0e55-7325-4503-bd90-e82cab6437ab",
+                "nodeTo": "c8d49982-50a3-442c-8483-40a0574a7d10",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c8d49982-50a3-442c-8483-40a0574a7d10",
+                "nodeTo": "78beeed3-37c9-4187-8db2-936a925a5d0a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "78beeed3-37c9-4187-8db2-936a925a5d0a",
+                "nodeTo": "08085bba-b472-4a88-8c48-714b3146b5c3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "78beeed3-37c9-4187-8db2-936a925a5d0a",
+                "nodeTo": "97339671-b551-4589-a922-e08175de69a1",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-13 21:11:24"
+}

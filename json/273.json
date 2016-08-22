@@ -1,0 +1,166 @@
+{
+    "uuid": 273,
+    "text": "Adjuvant chemotherapy increases markers of molecular aging in blood of breast cancer survivors",
+    "graph": {
+        "version": 1,
+        "guid": "49d7e643-230c-4bc6-8a60-1ed083231e70",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "increases",
+                "id": "bb926647-4b20-41b8-86ad-a3ee11166a81",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "9b508887-e3a2-4cd0-a82b-5abb90100b0d",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "9924ed8b-4093-4184-abe0-4a17eb52e99b",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "aa804e2d-0c35-41ab-8179-2cc89cdbcb70",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Adjuvant",
+                "id": "511edaa8-be30-4ae0-aa83-41bdcc4d534b",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "chemotherapy",
+                "id": "d1a1d554-25a3-4b34-b28b-2287e32c60a5",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "markers",
+                "id": "bc64a215-9a40-4997-b82c-76ee68725455",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "molecular",
+                "id": "be8d866e-97d8-417e-9b17-300ee2e22b69",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "aging",
+                "id": "851ccbbb-bb2b-479c-891e-8602819eec9d",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "blood",
+                "id": "bee884b9-d325-4246-8a38-411b7298a8bd",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "breast",
+                "id": "b707ed2a-503c-4e3c-b8b2-5beea739a710",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "cancer",
+                "id": "69c33c35-5109-4899-b696-4a6d1c315bd5",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "survivors",
+                "id": "507be330-bedb-46be-a529-98262e239cd4",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "511edaa8-be30-4ae0-aa83-41bdcc4d534b",
+                "nodeTo": "bb926647-4b20-41b8-86ad-a3ee11166a81",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d1a1d554-25a3-4b34-b28b-2287e32c60a5",
+                "nodeTo": "bb926647-4b20-41b8-86ad-a3ee11166a81",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bb926647-4b20-41b8-86ad-a3ee11166a81",
+                "nodeTo": "bc64a215-9a40-4997-b82c-76ee68725455",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "bc64a215-9a40-4997-b82c-76ee68725455",
+                "nodeTo": "9b508887-e3a2-4cd0-a82b-5abb90100b0d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9b508887-e3a2-4cd0-a82b-5abb90100b0d",
+                "nodeTo": "be8d866e-97d8-417e-9b17-300ee2e22b69",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9b508887-e3a2-4cd0-a82b-5abb90100b0d",
+                "nodeTo": "851ccbbb-bb2b-479c-891e-8602819eec9d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "bc64a215-9a40-4997-b82c-76ee68725455",
+                "nodeTo": "9924ed8b-4093-4184-abe0-4a17eb52e99b",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9924ed8b-4093-4184-abe0-4a17eb52e99b",
+                "nodeTo": "bee884b9-d325-4246-8a38-411b7298a8bd",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "bee884b9-d325-4246-8a38-411b7298a8bd",
+                "nodeTo": "aa804e2d-0c35-41ab-8179-2cc89cdbcb70",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "aa804e2d-0c35-41ab-8179-2cc89cdbcb70",
+                "nodeTo": "b707ed2a-503c-4e3c-b8b2-5beea739a710",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "aa804e2d-0c35-41ab-8179-2cc89cdbcb70",
+                "nodeTo": "69c33c35-5109-4899-b696-4a6d1c315bd5",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "aa804e2d-0c35-41ab-8179-2cc89cdbcb70",
+                "nodeTo": "507be330-bedb-46be-a529-98262e239cd4",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-03 14:27:18"
+}

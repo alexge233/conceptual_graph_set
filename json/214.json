@@ -1,0 +1,226 @@
+{
+    "uuid": 214,
+    "text": "3-D MRI scans may offer better way to predict survival after targeted chemo for liver tumors",
+    "graph": {
+        "version": 1,
+        "guid": "893a7720-2515-4772-9ece-11623184ac57",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "may",
+                "id": "43b6eb1a-a908-4b44-8d0c-40c0b71a97dd",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "offer",
+                "id": "0a2aa8ab-33c5-4a12-90d6-8873138279e2",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "predict",
+                "id": "ca5c985a-e306-4bcb-945a-7d629b5da99b",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "after",
+                "id": "c2c28a4c-593e-4569-979a-2c05e231d7ea",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "9bb85e52-865e-4675-8b43-33dd8e998482",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "3-D",
+                "id": "c4d7c757-4b87-46ce-a1c0-7c2dc79736b0",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "MRI",
+                "id": "a19b6733-5939-44e3-883a-165a4b7a67b2",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "scans",
+                "id": "ce483da3-775a-463a-ad63-bb5406ee0a11",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "better",
+                "id": "ba5756ca-919a-40b9-8d43-4c63ce0316d5",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "way",
+                "id": "a02bd999-dcd1-4ed8-9842-b2905c759a19",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "9c038690-c770-4d2c-b083-57cd5a667c42",
+                "postag": "NA",
+                "index": 7
+            },
+            {
+                "label": "survival",
+                "id": "8cb21dca-6bd4-454c-9116-2a5e8a107a63",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "targeted",
+                "id": "9a36d113-b739-4e29-bb2c-635b5b05cc9e",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "chemo",
+                "id": "35c40981-e66d-48c5-8ce3-41141a614786",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "liver",
+                "id": "cbb82b76-94d5-4587-8c7b-7172ccc1bbb0",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "tumors",
+                "id": "bb4a8e44-5165-4695-8a9a-0e91e2c1675e",
+                "index": 15,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "c4d7c757-4b87-46ce-a1c0-7c2dc79736b0",
+                "nodeTo": "43b6eb1a-a908-4b44-8d0c-40c0b71a97dd",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a19b6733-5939-44e3-883a-165a4b7a67b2",
+                "nodeTo": "43b6eb1a-a908-4b44-8d0c-40c0b71a97dd",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ce483da3-775a-463a-ad63-bb5406ee0a11",
+                "nodeTo": "43b6eb1a-a908-4b44-8d0c-40c0b71a97dd",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c4d7c757-4b87-46ce-a1c0-7c2dc79736b0",
+                "nodeTo": "0a2aa8ab-33c5-4a12-90d6-8873138279e2",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a19b6733-5939-44e3-883a-165a4b7a67b2",
+                "nodeTo": "0a2aa8ab-33c5-4a12-90d6-8873138279e2",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ce483da3-775a-463a-ad63-bb5406ee0a11",
+                "nodeTo": "0a2aa8ab-33c5-4a12-90d6-8873138279e2",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0a2aa8ab-33c5-4a12-90d6-8873138279e2",
+                "nodeTo": "ba5756ca-919a-40b9-8d43-4c63ce0316d5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0a2aa8ab-33c5-4a12-90d6-8873138279e2",
+                "nodeTo": "a02bd999-dcd1-4ed8-9842-b2905c759a19",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9c038690-c770-4d2c-b083-57cd5a667c42",
+                "nodeTo": "ca5c985a-e306-4bcb-945a-7d629b5da99b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a02bd999-dcd1-4ed8-9842-b2905c759a19",
+                "nodeTo": "ca5c985a-e306-4bcb-945a-7d629b5da99b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0a2aa8ab-33c5-4a12-90d6-8873138279e2",
+                "nodeTo": "9c038690-c770-4d2c-b083-57cd5a667c42",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ca5c985a-e306-4bcb-945a-7d629b5da99b",
+                "nodeTo": "8cb21dca-6bd4-454c-9116-2a5e8a107a63",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8cb21dca-6bd4-454c-9116-2a5e8a107a63",
+                "nodeTo": "c2c28a4c-593e-4569-979a-2c05e231d7ea",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c2c28a4c-593e-4569-979a-2c05e231d7ea",
+                "nodeTo": "9a36d113-b739-4e29-bb2c-635b5b05cc9e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c2c28a4c-593e-4569-979a-2c05e231d7ea",
+                "nodeTo": "35c40981-e66d-48c5-8ce3-41141a614786",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9a36d113-b739-4e29-bb2c-635b5b05cc9e",
+                "nodeTo": "9bb85e52-865e-4675-8b43-33dd8e998482",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "35c40981-e66d-48c5-8ce3-41141a614786",
+                "nodeTo": "9bb85e52-865e-4675-8b43-33dd8e998482",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9bb85e52-865e-4675-8b43-33dd8e998482",
+                "nodeTo": "cbb82b76-94d5-4587-8c7b-7172ccc1bbb0",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9bb85e52-865e-4675-8b43-33dd8e998482",
+                "nodeTo": "bb4a8e44-5165-4695-8a9a-0e91e2c1675e",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-11-18 01:56:57"
+}

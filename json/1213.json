@@ -1,0 +1,298 @@
+{
+    "uuid": 1213,
+    "text": "Compounds that could reduce ability of viruses that cause diseases such as Ebola have been identified and developed by scientists",
+    "graph": {
+        "version": 1,
+        "guid": "ead23966-b884-41b7-b818-0a21ed411ce2",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "that",
+                "id": "1b8b2e99-6a1e-4d89-a314-ec29ecd309a7",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "could",
+                "id": "412461a5-c5a7-412b-b6b0-c7b815b99a56",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "reduce",
+                "id": "79c5e432-a26a-4282-9730-a39e0e14160e",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "302c6675-7301-4577-a795-a1e7c4502626",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "that",
+                "id": "0e507652-c998-4711-8527-3ee5cc70dba1",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "cause",
+                "id": "84eedbdc-6aab-43a6-9c89-32ab8b05e305",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "such",
+                "id": "4225406d-65dc-4859-96bb-5c2aeb3ac789",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "as",
+                "id": "4b715668-e7aa-4761-bee5-83d26d27ce8e",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "have",
+                "id": "c85a4a01-b626-4dec-b347-190321e818b9",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "been",
+                "id": "4678e6a6-4176-4052-8d2b-6326a32b8586",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "67d45133-2be2-414c-bd86-22ebd5074be4",
+                "index": 16,
+                "postag": "NA"
+            },
+            {
+                "label": "by",
+                "id": "e3694d79-8834-4cd6-8e58-2944d461b7d6",
+                "index": 18,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Compounds",
+                "id": "8bc240c9-1815-4ed4-9c50-1b9d85519ebd",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "ability",
+                "id": "a92a110a-3892-447d-879a-ce2b9dab3ec5",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "viruses",
+                "id": "54ecb361-25b9-416e-a149-a7a63d090b62",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "diseases",
+                "id": "91798078-cdb2-4958-b4dd-d64bbc1e7027",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "Ebola",
+                "id": "d79c4c8b-664b-4c3c-b751-5e5bea9058a3",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "identified",
+                "id": "0045c634-0d27-4416-aaad-8122eca6d951",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "developed",
+                "id": "4dd5793b-1e8e-4ba6-8b3b-385ad8e3a97c",
+                "index": 17,
+                "postag": "NA"
+            },
+            {
+                "label": "scientists",
+                "id": "b9d44c18-e37b-458e-91a9-c384bdbc3ead",
+                "index": 19,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "8bc240c9-1815-4ed4-9c50-1b9d85519ebd",
+                "nodeTo": "1b8b2e99-6a1e-4d89-a314-ec29ecd309a7",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8bc240c9-1815-4ed4-9c50-1b9d85519ebd",
+                "nodeTo": "412461a5-c5a7-412b-b6b0-c7b815b99a56",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8bc240c9-1815-4ed4-9c50-1b9d85519ebd",
+                "nodeTo": "79c5e432-a26a-4282-9730-a39e0e14160e",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1b8b2e99-6a1e-4d89-a314-ec29ecd309a7",
+                "nodeTo": "a92a110a-3892-447d-879a-ce2b9dab3ec5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "412461a5-c5a7-412b-b6b0-c7b815b99a56",
+                "nodeTo": "a92a110a-3892-447d-879a-ce2b9dab3ec5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "79c5e432-a26a-4282-9730-a39e0e14160e",
+                "nodeTo": "a92a110a-3892-447d-879a-ce2b9dab3ec5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a92a110a-3892-447d-879a-ce2b9dab3ec5",
+                "nodeTo": "302c6675-7301-4577-a795-a1e7c4502626",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "302c6675-7301-4577-a795-a1e7c4502626",
+                "nodeTo": "54ecb361-25b9-416e-a149-a7a63d090b62",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "54ecb361-25b9-416e-a149-a7a63d090b62",
+                "nodeTo": "0e507652-c998-4711-8527-3ee5cc70dba1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "54ecb361-25b9-416e-a149-a7a63d090b62",
+                "nodeTo": "84eedbdc-6aab-43a6-9c89-32ab8b05e305",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0e507652-c998-4711-8527-3ee5cc70dba1",
+                "nodeTo": "91798078-cdb2-4958-b4dd-d64bbc1e7027",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "84eedbdc-6aab-43a6-9c89-32ab8b05e305",
+                "nodeTo": "91798078-cdb2-4958-b4dd-d64bbc1e7027",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "91798078-cdb2-4958-b4dd-d64bbc1e7027",
+                "nodeTo": "4225406d-65dc-4859-96bb-5c2aeb3ac789",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "91798078-cdb2-4958-b4dd-d64bbc1e7027",
+                "nodeTo": "4b715668-e7aa-4761-bee5-83d26d27ce8e",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4225406d-65dc-4859-96bb-5c2aeb3ac789",
+                "nodeTo": "d79c4c8b-664b-4c3c-b751-5e5bea9058a3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4b715668-e7aa-4761-bee5-83d26d27ce8e",
+                "nodeTo": "d79c4c8b-664b-4c3c-b751-5e5bea9058a3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8bc240c9-1815-4ed4-9c50-1b9d85519ebd",
+                "nodeTo": "c85a4a01-b626-4dec-b347-190321e818b9",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8bc240c9-1815-4ed4-9c50-1b9d85519ebd",
+                "nodeTo": "4678e6a6-4176-4052-8d2b-6326a32b8586",
+                "index": 5,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c85a4a01-b626-4dec-b347-190321e818b9",
+                "nodeTo": "0045c634-0d27-4416-aaad-8122eca6d951",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4678e6a6-4176-4052-8d2b-6326a32b8586",
+                "nodeTo": "0045c634-0d27-4416-aaad-8122eca6d951",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0045c634-0d27-4416-aaad-8122eca6d951",
+                "nodeTo": "67d45133-2be2-414c-bd86-22ebd5074be4",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "67d45133-2be2-414c-bd86-22ebd5074be4",
+                "nodeTo": "4dd5793b-1e8e-4ba6-8b3b-385ad8e3a97c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c85a4a01-b626-4dec-b347-190321e818b9",
+                "nodeTo": "4dd5793b-1e8e-4ba6-8b3b-385ad8e3a97c",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4678e6a6-4176-4052-8d2b-6326a32b8586",
+                "nodeTo": "4dd5793b-1e8e-4ba6-8b3b-385ad8e3a97c",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0045c634-0d27-4416-aaad-8122eca6d951",
+                "nodeTo": "e3694d79-8834-4cd6-8e58-2944d461b7d6",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4dd5793b-1e8e-4ba6-8b3b-385ad8e3a97c",
+                "nodeTo": "e3694d79-8834-4cd6-8e58-2944d461b7d6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e3694d79-8834-4cd6-8e58-2944d461b7d6",
+                "nodeTo": "b9d44c18-e37b-458e-91a9-c384bdbc3ead",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-26 20:59:08"
+}

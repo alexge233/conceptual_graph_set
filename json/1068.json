@@ -1,0 +1,136 @@
+{
+    "uuid": 1068,
+    "text": "is there best time of day to receive drugs",
+    "graph": {
+        "version": 1,
+        "guid": "8ba81772-3bce-4e31-8b15-8853412e8693",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "is",
+                "id": "e7dd0b55-3d8e-4ed1-a078-2cc15d3557e8",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "0c6e0e60-4ddc-4da3-95b8-2c9732195837",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "a3bbb9c0-26e6-427c-8e34-89a665e17717",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "receive",
+                "id": "6582cbaa-d701-4259-99a0-e3c9731772d2",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "there",
+                "id": "7db3d253-287c-4492-a4ee-9ac606138e2b",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "best",
+                "id": "b175884c-68cc-421a-9713-e59706542e14",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "time",
+                "id": "284eed70-297c-4a82-b2c1-dab078999c9e",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "day",
+                "id": "17e8d028-d448-42b3-91e5-351947503b87",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "drugs",
+                "id": "ca983cc6-2d5e-45d2-ad4c-18e59ec9b399",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "e7dd0b55-3d8e-4ed1-a078-2cc15d3557e8",
+                "nodeTo": "7db3d253-287c-4492-a4ee-9ac606138e2b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e7dd0b55-3d8e-4ed1-a078-2cc15d3557e8",
+                "nodeTo": "b175884c-68cc-421a-9713-e59706542e14",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e7dd0b55-3d8e-4ed1-a078-2cc15d3557e8",
+                "nodeTo": "284eed70-297c-4a82-b2c1-dab078999c9e",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7db3d253-287c-4492-a4ee-9ac606138e2b",
+                "nodeTo": "0c6e0e60-4ddc-4da3-95b8-2c9732195837",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b175884c-68cc-421a-9713-e59706542e14",
+                "nodeTo": "0c6e0e60-4ddc-4da3-95b8-2c9732195837",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "284eed70-297c-4a82-b2c1-dab078999c9e",
+                "nodeTo": "0c6e0e60-4ddc-4da3-95b8-2c9732195837",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0c6e0e60-4ddc-4da3-95b8-2c9732195837",
+                "nodeTo": "17e8d028-d448-42b3-91e5-351947503b87",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "17e8d028-d448-42b3-91e5-351947503b87",
+                "nodeTo": "a3bbb9c0-26e6-427c-8e34-89a665e17717",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "17e8d028-d448-42b3-91e5-351947503b87",
+                "nodeTo": "6582cbaa-d701-4259-99a0-e3c9731772d2",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a3bbb9c0-26e6-427c-8e34-89a665e17717",
+                "nodeTo": "ca983cc6-2d5e-45d2-ad4c-18e59ec9b399",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6582cbaa-d701-4259-99a0-e3c9731772d2",
+                "nodeTo": "ca983cc6-2d5e-45d2-ad4c-18e59ec9b399",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-05 19:34:57"
+}

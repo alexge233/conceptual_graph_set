@@ -1,0 +1,244 @@
+{
+    "uuid": 94,
+    "text": "ex middleweights wrongful murder conviction became symbol of racial injustice and inspired Oscar-nominated film",
+    "graph": {
+        "version": 1,
+        "guid": "451d4762-b861-4e0a-8e76-26e8a8b997a5",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "became",
+                "id": "2c595eba-9e08-4cad-ab8e-45a8651b8222",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "56b79a67-6e89-40ab-895a-e4e343a35597",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "27cd0ba7-6da6-4943-b6c8-60147884c8d9",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "inspired",
+                "id": "76445485-d377-409e-b85c-7ea79460db16",
+                "postag": "NA",
+                "index": 11
+            }
+        ],
+        "concepts": [
+            {
+                "label": "ex",
+                "id": "7ebb6b2b-0094-4000-8248-1c554a9d2307",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "middleweights",
+                "id": "4d0e3e6c-ca54-4e49-ab73-758a8beb0567",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "murder",
+                "id": "5a9a1b5e-436e-4e03-bca3-beb17ce8046d",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "conviction",
+                "id": "e9b1b0d9-d1ca-49a2-987a-03ae53269110",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "symbol",
+                "id": "d41ec46b-586d-4d2c-b916-82d475c08305",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "racial",
+                "id": "01a0c696-bde6-4d33-b315-710461ce4401",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "injustice",
+                "id": "09193963-72be-4acc-8341-784d08edb861",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "Oscar-nominated",
+                "id": "30d6e0da-e703-4c2d-8c8e-120d789edba8",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "film",
+                "id": "de63a1d4-2601-42a1-8e48-a47b1b81ab7b",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "wrongful",
+                "id": "283b02da-b53c-4c1e-aaab-305493bd9c56",
+                "postag": "NA",
+                "index": 2
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "2c595eba-9e08-4cad-ab8e-45a8651b8222",
+                "nodeTo": "d41ec46b-586d-4d2c-b916-82d475c08305",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d41ec46b-586d-4d2c-b916-82d475c08305",
+                "nodeTo": "56b79a67-6e89-40ab-895a-e4e343a35597",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "56b79a67-6e89-40ab-895a-e4e343a35597",
+                "nodeTo": "01a0c696-bde6-4d33-b315-710461ce4401",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "56b79a67-6e89-40ab-895a-e4e343a35597",
+                "nodeTo": "09193963-72be-4acc-8341-784d08edb861",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "76445485-d377-409e-b85c-7ea79460db16",
+                "nodeTo": "30d6e0da-e703-4c2d-8c8e-120d789edba8",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "76445485-d377-409e-b85c-7ea79460db16",
+                "nodeTo": "de63a1d4-2601-42a1-8e48-a47b1b81ab7b",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4d0e3e6c-ca54-4e49-ab73-758a8beb0567",
+                "nodeTo": "2c595eba-9e08-4cad-ab8e-45a8651b8222",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7ebb6b2b-0094-4000-8248-1c554a9d2307",
+                "nodeTo": "2c595eba-9e08-4cad-ab8e-45a8651b8222",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "283b02da-b53c-4c1e-aaab-305493bd9c56",
+                "nodeTo": "2c595eba-9e08-4cad-ab8e-45a8651b8222",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e9b1b0d9-d1ca-49a2-987a-03ae53269110",
+                "nodeTo": "2c595eba-9e08-4cad-ab8e-45a8651b8222",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5a9a1b5e-436e-4e03-bca3-beb17ce8046d",
+                "nodeTo": "2c595eba-9e08-4cad-ab8e-45a8651b8222",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4d0e3e6c-ca54-4e49-ab73-758a8beb0567",
+                "nodeTo": "27cd0ba7-6da6-4943-b6c8-60147884c8d9",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7ebb6b2b-0094-4000-8248-1c554a9d2307",
+                "nodeTo": "27cd0ba7-6da6-4943-b6c8-60147884c8d9",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "283b02da-b53c-4c1e-aaab-305493bd9c56",
+                "nodeTo": "27cd0ba7-6da6-4943-b6c8-60147884c8d9",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e9b1b0d9-d1ca-49a2-987a-03ae53269110",
+                "nodeTo": "27cd0ba7-6da6-4943-b6c8-60147884c8d9",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5a9a1b5e-436e-4e03-bca3-beb17ce8046d",
+                "nodeTo": "27cd0ba7-6da6-4943-b6c8-60147884c8d9",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "27cd0ba7-6da6-4943-b6c8-60147884c8d9",
+                "nodeTo": "d41ec46b-586d-4d2c-b916-82d475c08305",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4d0e3e6c-ca54-4e49-ab73-758a8beb0567",
+                "nodeTo": "76445485-d377-409e-b85c-7ea79460db16",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7ebb6b2b-0094-4000-8248-1c554a9d2307",
+                "nodeTo": "76445485-d377-409e-b85c-7ea79460db16",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "283b02da-b53c-4c1e-aaab-305493bd9c56",
+                "nodeTo": "76445485-d377-409e-b85c-7ea79460db16",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e9b1b0d9-d1ca-49a2-987a-03ae53269110",
+                "nodeTo": "76445485-d377-409e-b85c-7ea79460db16",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5a9a1b5e-436e-4e03-bca3-beb17ce8046d",
+                "nodeTo": "76445485-d377-409e-b85c-7ea79460db16",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "27cd0ba7-6da6-4943-b6c8-60147884c8d9",
+                "nodeTo": "30d6e0da-e703-4c2d-8c8e-120d789edba8",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "27cd0ba7-6da6-4943-b6c8-60147884c8d9",
+                "nodeTo": "de63a1d4-2601-42a1-8e48-a47b1b81ab7b",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-03-28 01:33:38"
+}

@@ -1,0 +1,124 @@
+{
+    "uuid": 749,
+    "text": "creativity and innovation need to talk more",
+    "graph": {
+        "version": 1,
+        "guid": "3a03d637-4ceb-4e98-8208-7bc010c3d812",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "and",
+                "id": "d042edd0-56d6-4d12-856b-e3a96650a177",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "need",
+                "id": "07b8a2c7-d0d2-45b4-bb91-a188252883b8",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "97705112-3db0-4e74-ba2c-ea417d48c1ae",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "talk",
+                "id": "b5825151-ec2a-4ecc-899d-abb8d3d4626b",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "creativity",
+                "id": "1b9571dc-7d05-4e7e-ac19-c67cccda7189",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "innovation",
+                "id": "b2d63398-deab-43a0-a5c1-21aa200a60ae",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "more",
+                "id": "b640b4b3-0982-48b3-bcd2-676eeb705557",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "1b9571dc-7d05-4e7e-ac19-c67cccda7189",
+                "nodeTo": "d042edd0-56d6-4d12-856b-e3a96650a177",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d042edd0-56d6-4d12-856b-e3a96650a177",
+                "nodeTo": "b2d63398-deab-43a0-a5c1-21aa200a60ae",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1b9571dc-7d05-4e7e-ac19-c67cccda7189",
+                "nodeTo": "07b8a2c7-d0d2-45b4-bb91-a188252883b8",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1b9571dc-7d05-4e7e-ac19-c67cccda7189",
+                "nodeTo": "97705112-3db0-4e74-ba2c-ea417d48c1ae",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1b9571dc-7d05-4e7e-ac19-c67cccda7189",
+                "nodeTo": "b5825151-ec2a-4ecc-899d-abb8d3d4626b",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b2d63398-deab-43a0-a5c1-21aa200a60ae",
+                "nodeTo": "07b8a2c7-d0d2-45b4-bb91-a188252883b8",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b2d63398-deab-43a0-a5c1-21aa200a60ae",
+                "nodeTo": "97705112-3db0-4e74-ba2c-ea417d48c1ae",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b2d63398-deab-43a0-a5c1-21aa200a60ae",
+                "nodeTo": "b5825151-ec2a-4ecc-899d-abb8d3d4626b",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "07b8a2c7-d0d2-45b4-bb91-a188252883b8",
+                "nodeTo": "b640b4b3-0982-48b3-bcd2-676eeb705557",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "97705112-3db0-4e74-ba2c-ea417d48c1ae",
+                "nodeTo": "b640b4b3-0982-48b3-bcd2-676eeb705557",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b5825151-ec2a-4ecc-899d-abb8d3d4626b",
+                "nodeTo": "b640b4b3-0982-48b3-bcd2-676eeb705557",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-13 15:12:18"
+}

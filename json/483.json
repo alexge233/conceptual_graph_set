@@ -1,0 +1,196 @@
+{
+    "uuid": 483,
+    "text": "gonorrhea threatens to become resistant to all antibiotics used to treat it",
+    "graph": {
+        "version": 1,
+        "guid": "3316e303-5b0b-4be9-890b-01c116170609",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "threatens",
+                "id": "167bbda0-51c9-4a4d-a95a-bda9e9b39716",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "c36713e7-d6e7-4751-b379-3a492b19be08",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "become",
+                "id": "a75e1db0-6b97-443a-a6e1-4e4e63c94749",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "793558aa-e2a3-4a94-9e39-dcd751cb0193",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "used",
+                "id": "c349b067-9c0e-44c9-ad69-711536d26820",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "treat",
+                "id": "e871c62c-9a67-4a48-bc2c-4d43db68dcb3",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "7400cad4-9870-4b6a-a3c7-8a8523d18859",
+                "postag": "NA",
+                "index": 9
+            }
+        ],
+        "concepts": [
+            {
+                "label": "gonorrhea",
+                "id": "a374a38d-c317-4aed-aa3d-2913094e6664",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "resistant",
+                "id": "44ac2022-b5d2-4ae3-a9d4-ca16771a65c7",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "all",
+                "id": "c2786643-7ee7-4d35-ab1a-7e8c76ba04ba",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "antibiotics",
+                "id": "60821ea5-8304-41eb-9bdb-b6b177309715",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "it",
+                "id": "bab17063-581e-4ba5-9e69-ed626d051143",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "a374a38d-c317-4aed-aa3d-2913094e6664",
+                "nodeTo": "167bbda0-51c9-4a4d-a95a-bda9e9b39716",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a374a38d-c317-4aed-aa3d-2913094e6664",
+                "nodeTo": "c36713e7-d6e7-4751-b379-3a492b19be08",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a374a38d-c317-4aed-aa3d-2913094e6664",
+                "nodeTo": "a75e1db0-6b97-443a-a6e1-4e4e63c94749",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "167bbda0-51c9-4a4d-a95a-bda9e9b39716",
+                "nodeTo": "44ac2022-b5d2-4ae3-a9d4-ca16771a65c7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c36713e7-d6e7-4751-b379-3a492b19be08",
+                "nodeTo": "44ac2022-b5d2-4ae3-a9d4-ca16771a65c7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a75e1db0-6b97-443a-a6e1-4e4e63c94749",
+                "nodeTo": "44ac2022-b5d2-4ae3-a9d4-ca16771a65c7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "44ac2022-b5d2-4ae3-a9d4-ca16771a65c7",
+                "nodeTo": "793558aa-e2a3-4a94-9e39-dcd751cb0193",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "793558aa-e2a3-4a94-9e39-dcd751cb0193",
+                "nodeTo": "c2786643-7ee7-4d35-ab1a-7e8c76ba04ba",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "793558aa-e2a3-4a94-9e39-dcd751cb0193",
+                "nodeTo": "60821ea5-8304-41eb-9bdb-b6b177309715",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c2786643-7ee7-4d35-ab1a-7e8c76ba04ba",
+                "nodeTo": "c349b067-9c0e-44c9-ad69-711536d26820",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "60821ea5-8304-41eb-9bdb-b6b177309715",
+                "nodeTo": "c349b067-9c0e-44c9-ad69-711536d26820",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c2786643-7ee7-4d35-ab1a-7e8c76ba04ba",
+                "nodeTo": "7400cad4-9870-4b6a-a3c7-8a8523d18859",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "60821ea5-8304-41eb-9bdb-b6b177309715",
+                "nodeTo": "7400cad4-9870-4b6a-a3c7-8a8523d18859",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c2786643-7ee7-4d35-ab1a-7e8c76ba04ba",
+                "nodeTo": "e871c62c-9a67-4a48-bc2c-4d43db68dcb3",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "60821ea5-8304-41eb-9bdb-b6b177309715",
+                "nodeTo": "e871c62c-9a67-4a48-bc2c-4d43db68dcb3",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c349b067-9c0e-44c9-ad69-711536d26820",
+                "nodeTo": "bab17063-581e-4ba5-9e69-ed626d051143",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7400cad4-9870-4b6a-a3c7-8a8523d18859",
+                "nodeTo": "bab17063-581e-4ba5-9e69-ed626d051143",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e871c62c-9a67-4a48-bc2c-4d43db68dcb3",
+                "nodeTo": "bab17063-581e-4ba5-9e69-ed626d051143",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-19 13:46:41"
+}

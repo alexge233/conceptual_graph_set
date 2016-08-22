@@ -1,0 +1,106 @@
+{
+    "uuid": 227,
+    "text": "role of sumo stew in shaping sumo wrestler",
+    "graph": {
+        "version": 1,
+        "guid": "e48cb2a4-2c08-4aa4-a672-4722b4e66216",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "of",
+                "id": "066e7231-91cb-4cb3-8982-a96e9a5d5bdb",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "a42b810c-2325-4415-ac47-05138e648d90",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "shaping",
+                "id": "d7c5a468-1192-4ec7-984b-39734b3e2403",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "role",
+                "id": "d8519076-8977-44db-b23e-1529843c0751",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "sumo",
+                "id": "79617cb4-a081-4267-8282-702edbab8ab6",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "stew",
+                "id": "1037034b-d638-45e4-9634-2e07e964ad24",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "sumo",
+                "id": "4d25ec78-ed35-4037-81d4-c7dad6ea021b",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "wrestler",
+                "id": "d8ac6535-96a7-48ce-ac29-771a45807704",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "d8519076-8977-44db-b23e-1529843c0751",
+                "nodeTo": "066e7231-91cb-4cb3-8982-a96e9a5d5bdb",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "066e7231-91cb-4cb3-8982-a96e9a5d5bdb",
+                "nodeTo": "79617cb4-a081-4267-8282-702edbab8ab6",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "066e7231-91cb-4cb3-8982-a96e9a5d5bdb",
+                "nodeTo": "1037034b-d638-45e4-9634-2e07e964ad24",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d8519076-8977-44db-b23e-1529843c0751",
+                "nodeTo": "a42b810c-2325-4415-ac47-05138e648d90",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d8519076-8977-44db-b23e-1529843c0751",
+                "nodeTo": "d7c5a468-1192-4ec7-984b-39734b3e2403",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d7c5a468-1192-4ec7-984b-39734b3e2403",
+                "nodeTo": "4d25ec78-ed35-4037-81d4-c7dad6ea021b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d7c5a468-1192-4ec7-984b-39734b3e2403",
+                "nodeTo": "d8ac6535-96a7-48ce-ac29-771a45807704",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-01 15:33:31"
+}

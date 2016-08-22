@@ -1,0 +1,142 @@
+{
+    "uuid": 240,
+    "text": "transcription factor called SLUG helps determines type of breast cancer",
+    "graph": {
+        "version": 1,
+        "guid": "6cb9168a-5ee5-48c9-8239-6602cc8a7866",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "called",
+                "id": "170c3976-193e-43a2-8d85-82de5b1b7897",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "helps",
+                "id": "15169860-423a-4b5a-b9be-67ce1db5049b",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "determines",
+                "id": "4884e125-ac98-4963-86c1-ac792b879e50",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "0e61020a-87d4-489e-b7a4-a1b64eb4e98e",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "transcription",
+                "id": "194cba85-8141-4269-9bc8-0b44e76b20d6",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "factor",
+                "id": "b8e7920b-42a6-46db-87e7-cd47ca0ded6a",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "SLUG",
+                "id": "29877089-7b8e-4615-b1ce-390acd7e5bae",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "type",
+                "id": "1964e388-c4ae-46e4-ba9e-17339704587c",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "breast",
+                "id": "73558d63-51d9-448c-b402-d0e94d197500",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "cancer",
+                "id": "9cc0ad10-17a2-4075-b3b1-89c010be3b45",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "194cba85-8141-4269-9bc8-0b44e76b20d6",
+                "nodeTo": "170c3976-193e-43a2-8d85-82de5b1b7897",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b8e7920b-42a6-46db-87e7-cd47ca0ded6a",
+                "nodeTo": "170c3976-193e-43a2-8d85-82de5b1b7897",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "170c3976-193e-43a2-8d85-82de5b1b7897",
+                "nodeTo": "29877089-7b8e-4615-b1ce-390acd7e5bae",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "194cba85-8141-4269-9bc8-0b44e76b20d6",
+                "nodeTo": "15169860-423a-4b5a-b9be-67ce1db5049b",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b8e7920b-42a6-46db-87e7-cd47ca0ded6a",
+                "nodeTo": "15169860-423a-4b5a-b9be-67ce1db5049b",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "194cba85-8141-4269-9bc8-0b44e76b20d6",
+                "nodeTo": "4884e125-ac98-4963-86c1-ac792b879e50",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b8e7920b-42a6-46db-87e7-cd47ca0ded6a",
+                "nodeTo": "4884e125-ac98-4963-86c1-ac792b879e50",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4884e125-ac98-4963-86c1-ac792b879e50",
+                "nodeTo": "1964e388-c4ae-46e4-ba9e-17339704587c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1964e388-c4ae-46e4-ba9e-17339704587c",
+                "nodeTo": "0e61020a-87d4-489e-b7a4-a1b64eb4e98e",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0e61020a-87d4-489e-b7a4-a1b64eb4e98e",
+                "nodeTo": "73558d63-51d9-448c-b402-d0e94d197500",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0e61020a-87d4-489e-b7a4-a1b64eb4e98e",
+                "nodeTo": "9cc0ad10-17a2-4075-b3b1-89c010be3b45",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-01 16:18:35"
+}

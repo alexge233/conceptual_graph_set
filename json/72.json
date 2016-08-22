@@ -1,0 +1,58 @@
+{
+    "uuid": 72,
+    "text": "Flashbacks of bullets overhead",
+    "graph": {
+        "version": 1,
+        "guid": "62c35499-e7a6-46b3-a4e1-7d01dc71d2a2",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "of",
+                "id": "594716dc-7649-4c73-8c86-3e156e826bb5",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "overhead",
+                "id": "ce057950-ce7c-42be-a639-372568c5168d",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Flashbacks",
+                "id": "8e8e2817-a436-4b30-9b92-2d02db22343d",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "bullets",
+                "id": "1c6861a1-11bd-42bd-a28b-dc302e8560a0",
+                "index": 2,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "8e8e2817-a436-4b30-9b92-2d02db22343d",
+                "nodeTo": "594716dc-7649-4c73-8c86-3e156e826bb5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "594716dc-7649-4c73-8c86-3e156e826bb5",
+                "nodeTo": "1c6861a1-11bd-42bd-a28b-dc302e8560a0",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1c6861a1-11bd-42bd-a28b-dc302e8560a0",
+                "nodeTo": "ce057950-ce7c-42be-a639-372568c5168d",
+                "index": 1,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2014-10-23 21:58:00"
+}

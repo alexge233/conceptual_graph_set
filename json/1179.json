@@ -1,0 +1,304 @@
+{
+    "uuid": 1179,
+    "text": "study found that on average childhood cancer survivors passed away before they were 40 years old",
+    "graph": {
+        "version": 1,
+        "guid": "cee8b1bd-3e20-4e00-9596-57b751182d8c",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "found",
+                "id": "80e9d736-6a3c-46c3-87d1-95a76c2daca1",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "that",
+                "id": "a8996dbd-352b-4cac-bae6-b808328e1688",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "on",
+                "id": "02240673-9bce-45cd-a4e7-e8aca39e162c",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "average",
+                "id": "43b1dd61-6058-47b0-9954-aae8e8682280",
+                "postag": "NA",
+                "index": 4
+            },
+            {
+                "label": "passed",
+                "id": "82ee97bc-ac48-4143-b899-075dd766b56a",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "away",
+                "id": "56040c85-ec72-46cd-bc97-41394da1a9e8",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "before",
+                "id": "8aed6230-758b-44bb-b6ee-3048a65832e1",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "were",
+                "id": "22c83aa9-8691-459e-b7b6-105d13b77218",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "study",
+                "id": "0eced8eb-b1ce-4bed-b219-dcdd15cb5467",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "childhood",
+                "id": "35438cd8-7415-4665-b1c0-da8d66edcb56",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "cancer",
+                "id": "29a4aa8d-1bee-4aca-a9c5-e704dc769496",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "survivors",
+                "id": "46c244a6-e223-4ddc-a8dc-57ac0cb45b16",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "they",
+                "id": "64468310-0735-4e84-be08-210358e7c37e",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": 40,
+                "id": "2c4a084d-49b2-4503-9e1e-8d21ea86b82e",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "years",
+                "id": "c2623c54-8b31-4933-8aab-e8ca35cca093",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "old",
+                "id": "916dd357-31a0-43a7-a5b8-67a7e41d8b38",
+                "index": 15,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "0eced8eb-b1ce-4bed-b219-dcdd15cb5467",
+                "nodeTo": "80e9d736-6a3c-46c3-87d1-95a76c2daca1",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0eced8eb-b1ce-4bed-b219-dcdd15cb5467",
+                "nodeTo": "a8996dbd-352b-4cac-bae6-b808328e1688",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0eced8eb-b1ce-4bed-b219-dcdd15cb5467",
+                "nodeTo": "02240673-9bce-45cd-a4e7-e8aca39e162c",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0eced8eb-b1ce-4bed-b219-dcdd15cb5467",
+                "nodeTo": "43b1dd61-6058-47b0-9954-aae8e8682280",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a8996dbd-352b-4cac-bae6-b808328e1688",
+                "nodeTo": "35438cd8-7415-4665-b1c0-da8d66edcb56",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "80e9d736-6a3c-46c3-87d1-95a76c2daca1",
+                "nodeTo": "35438cd8-7415-4665-b1c0-da8d66edcb56",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "02240673-9bce-45cd-a4e7-e8aca39e162c",
+                "nodeTo": "35438cd8-7415-4665-b1c0-da8d66edcb56",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "43b1dd61-6058-47b0-9954-aae8e8682280",
+                "nodeTo": "35438cd8-7415-4665-b1c0-da8d66edcb56",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a8996dbd-352b-4cac-bae6-b808328e1688",
+                "nodeTo": "29a4aa8d-1bee-4aca-a9c5-e704dc769496",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "80e9d736-6a3c-46c3-87d1-95a76c2daca1",
+                "nodeTo": "29a4aa8d-1bee-4aca-a9c5-e704dc769496",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "02240673-9bce-45cd-a4e7-e8aca39e162c",
+                "nodeTo": "29a4aa8d-1bee-4aca-a9c5-e704dc769496",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "43b1dd61-6058-47b0-9954-aae8e8682280",
+                "nodeTo": "29a4aa8d-1bee-4aca-a9c5-e704dc769496",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a8996dbd-352b-4cac-bae6-b808328e1688",
+                "nodeTo": "46c244a6-e223-4ddc-a8dc-57ac0cb45b16",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "80e9d736-6a3c-46c3-87d1-95a76c2daca1",
+                "nodeTo": "46c244a6-e223-4ddc-a8dc-57ac0cb45b16",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "02240673-9bce-45cd-a4e7-e8aca39e162c",
+                "nodeTo": "46c244a6-e223-4ddc-a8dc-57ac0cb45b16",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "43b1dd61-6058-47b0-9954-aae8e8682280",
+                "nodeTo": "46c244a6-e223-4ddc-a8dc-57ac0cb45b16",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "35438cd8-7415-4665-b1c0-da8d66edcb56",
+                "nodeTo": "82ee97bc-ac48-4143-b899-075dd766b56a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "35438cd8-7415-4665-b1c0-da8d66edcb56",
+                "nodeTo": "56040c85-ec72-46cd-bc97-41394da1a9e8",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "35438cd8-7415-4665-b1c0-da8d66edcb56",
+                "nodeTo": "8aed6230-758b-44bb-b6ee-3048a65832e1",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "29a4aa8d-1bee-4aca-a9c5-e704dc769496",
+                "nodeTo": "82ee97bc-ac48-4143-b899-075dd766b56a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "29a4aa8d-1bee-4aca-a9c5-e704dc769496",
+                "nodeTo": "56040c85-ec72-46cd-bc97-41394da1a9e8",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "29a4aa8d-1bee-4aca-a9c5-e704dc769496",
+                "nodeTo": "8aed6230-758b-44bb-b6ee-3048a65832e1",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "46c244a6-e223-4ddc-a8dc-57ac0cb45b16",
+                "nodeTo": "82ee97bc-ac48-4143-b899-075dd766b56a",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "46c244a6-e223-4ddc-a8dc-57ac0cb45b16",
+                "nodeTo": "56040c85-ec72-46cd-bc97-41394da1a9e8",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "46c244a6-e223-4ddc-a8dc-57ac0cb45b16",
+                "nodeTo": "8aed6230-758b-44bb-b6ee-3048a65832e1",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "82ee97bc-ac48-4143-b899-075dd766b56a",
+                "nodeTo": "64468310-0735-4e84-be08-210358e7c37e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "56040c85-ec72-46cd-bc97-41394da1a9e8",
+                "nodeTo": "64468310-0735-4e84-be08-210358e7c37e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "8aed6230-758b-44bb-b6ee-3048a65832e1",
+                "nodeTo": "64468310-0735-4e84-be08-210358e7c37e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "64468310-0735-4e84-be08-210358e7c37e",
+                "nodeTo": "22c83aa9-8691-459e-b7b6-105d13b77218",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "22c83aa9-8691-459e-b7b6-105d13b77218",
+                "nodeTo": "2c4a084d-49b2-4503-9e1e-8d21ea86b82e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "22c83aa9-8691-459e-b7b6-105d13b77218",
+                "nodeTo": "c2623c54-8b31-4933-8aab-e8ca35cca093",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "22c83aa9-8691-459e-b7b6-105d13b77218",
+                "nodeTo": "916dd357-31a0-43a7-a5b8-67a7e41d8b38",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-25 18:53:07"
+}

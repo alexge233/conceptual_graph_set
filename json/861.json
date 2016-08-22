@@ -1,0 +1,238 @@
+{
+    "uuid": 861,
+    "text": "Carbs are essential if you are training for marathon but fuel with whole simple foods",
+    "graph": {
+        "version": 1,
+        "guid": "ac6de9b9-c8ea-454b-a8b4-da9aea8ab11c",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "are",
+                "id": "048b100e-c564-454b-8d7a-010b78a68584",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "if",
+                "id": "bba26a11-070b-494a-a286-a680e7581a24",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "are",
+                "id": "ba76a3b4-c38a-4b5c-bc0c-3be398ca6e12",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "981ec210-c73b-42d3-b9d1-24198e9ea9ed",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "training",
+                "id": "9435cdbe-05e2-4920-9844-15463a7db665",
+                "postag": "NA",
+                "index": 6
+            },
+            {
+                "label": "but",
+                "id": "e01e761e-1a13-41b3-b1b0-8dade2073ea1",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "fuel",
+                "id": "6b08bc3e-44bb-4800-bd21-58a9327d40da",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "with",
+                "id": "228c5cb9-5d69-4a96-b3e6-88169610a906",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Carbs",
+                "id": "7bb71101-d732-4ece-b4a5-7a214033ed3b",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "essential",
+                "id": "9ec26a32-c3e7-4274-a275-9eb0158ad6c0",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "you",
+                "id": "0bbc4178-b757-4b6b-a74a-5605cc722a2d",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "marathon",
+                "id": "e8c71828-ad6c-42c3-817e-62d3b7378ae3",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "whole",
+                "id": "cabcc906-c9b6-43aa-9c36-9a9d03d0260b",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "simple",
+                "id": "ea345598-3604-4d5e-b8c8-94bc14e0a85d",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "foods",
+                "id": "1c786c85-dab7-4bbe-b4db-663c137a57e3",
+                "index": 14,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "7bb71101-d732-4ece-b4a5-7a214033ed3b",
+                "nodeTo": "048b100e-c564-454b-8d7a-010b78a68584",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "048b100e-c564-454b-8d7a-010b78a68584",
+                "nodeTo": "9ec26a32-c3e7-4274-a275-9eb0158ad6c0",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9ec26a32-c3e7-4274-a275-9eb0158ad6c0",
+                "nodeTo": "bba26a11-070b-494a-a286-a680e7581a24",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bba26a11-070b-494a-a286-a680e7581a24",
+                "nodeTo": "0bbc4178-b757-4b6b-a74a-5605cc722a2d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0bbc4178-b757-4b6b-a74a-5605cc722a2d",
+                "nodeTo": "ba76a3b4-c38a-4b5c-bc0c-3be398ca6e12",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0bbc4178-b757-4b6b-a74a-5605cc722a2d",
+                "nodeTo": "9435cdbe-05e2-4920-9844-15463a7db665",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0bbc4178-b757-4b6b-a74a-5605cc722a2d",
+                "nodeTo": "981ec210-c73b-42d3-b9d1-24198e9ea9ed",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ba76a3b4-c38a-4b5c-bc0c-3be398ca6e12",
+                "nodeTo": "e8c71828-ad6c-42c3-817e-62d3b7378ae3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9435cdbe-05e2-4920-9844-15463a7db665",
+                "nodeTo": "e8c71828-ad6c-42c3-817e-62d3b7378ae3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "981ec210-c73b-42d3-b9d1-24198e9ea9ed",
+                "nodeTo": "e8c71828-ad6c-42c3-817e-62d3b7378ae3",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9ec26a32-c3e7-4274-a275-9eb0158ad6c0",
+                "nodeTo": "e01e761e-1a13-41b3-b1b0-8dade2073ea1",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9ec26a32-c3e7-4274-a275-9eb0158ad6c0",
+                "nodeTo": "6b08bc3e-44bb-4800-bd21-58a9327d40da",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9ec26a32-c3e7-4274-a275-9eb0158ad6c0",
+                "nodeTo": "228c5cb9-5d69-4a96-b3e6-88169610a906",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e01e761e-1a13-41b3-b1b0-8dade2073ea1",
+                "nodeTo": "cabcc906-c9b6-43aa-9c36-9a9d03d0260b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6b08bc3e-44bb-4800-bd21-58a9327d40da",
+                "nodeTo": "cabcc906-c9b6-43aa-9c36-9a9d03d0260b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "228c5cb9-5d69-4a96-b3e6-88169610a906",
+                "nodeTo": "cabcc906-c9b6-43aa-9c36-9a9d03d0260b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e01e761e-1a13-41b3-b1b0-8dade2073ea1",
+                "nodeTo": "ea345598-3604-4d5e-b8c8-94bc14e0a85d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6b08bc3e-44bb-4800-bd21-58a9327d40da",
+                "nodeTo": "ea345598-3604-4d5e-b8c8-94bc14e0a85d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "228c5cb9-5d69-4a96-b3e6-88169610a906",
+                "nodeTo": "ea345598-3604-4d5e-b8c8-94bc14e0a85d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e01e761e-1a13-41b3-b1b0-8dade2073ea1",
+                "nodeTo": "1c786c85-dab7-4bbe-b4db-663c137a57e3",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6b08bc3e-44bb-4800-bd21-58a9327d40da",
+                "nodeTo": "1c786c85-dab7-4bbe-b4db-663c137a57e3",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "228c5cb9-5d69-4a96-b3e6-88169610a906",
+                "nodeTo": "1c786c85-dab7-4bbe-b4db-663c137a57e3",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-19 20:12:17"
+}

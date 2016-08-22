@@ -1,0 +1,178 @@
+{
+    "uuid": 855,
+    "text": "Canola oil may be oil of choice for people with type 2 diabetes",
+    "graph": {
+        "version": 1,
+        "guid": "c1b90674-6549-41cd-a7e3-a38296a90dde",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "may",
+                "id": "2e7505ea-83d4-457d-b84c-74a500607473",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "be",
+                "id": "e66aae69-cec2-455d-9244-56e03cd801cd",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "39dc1ec5-ed78-4990-b05c-787ac4051492",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "d07b7d7b-89b4-4506-975c-0ecb14cd587c",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "with",
+                "id": "b26686bb-87ae-46ad-b412-186ee4325884",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Canola",
+                "id": "135219ba-4d2c-446d-b492-4e656c771765",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "oil",
+                "id": "77cc9468-97ca-4be1-a9ca-7ee280887438",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "oil",
+                "id": "c27438eb-a6c7-4933-a7cd-6abb326ab9ae",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "choice",
+                "id": "5e6da553-eb85-49b8-a854-e8c50a38963b",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "people",
+                "id": "4e391a58-706b-49b0-913d-8dcecb310795",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "type",
+                "id": "d728dcac-23c0-4775-bd89-9157533a3a5b",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": 2,
+                "id": "32040033-146d-4106-91d7-e15d6b6da2ab",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "diabetes",
+                "id": "37234a3a-6044-46dc-85b7-d391d2edb32b",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "135219ba-4d2c-446d-b492-4e656c771765",
+                "nodeTo": "2e7505ea-83d4-457d-b84c-74a500607473",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "135219ba-4d2c-446d-b492-4e656c771765",
+                "nodeTo": "e66aae69-cec2-455d-9244-56e03cd801cd",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "77cc9468-97ca-4be1-a9ca-7ee280887438",
+                "nodeTo": "2e7505ea-83d4-457d-b84c-74a500607473",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "77cc9468-97ca-4be1-a9ca-7ee280887438",
+                "nodeTo": "e66aae69-cec2-455d-9244-56e03cd801cd",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2e7505ea-83d4-457d-b84c-74a500607473",
+                "nodeTo": "c27438eb-a6c7-4933-a7cd-6abb326ab9ae",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e66aae69-cec2-455d-9244-56e03cd801cd",
+                "nodeTo": "c27438eb-a6c7-4933-a7cd-6abb326ab9ae",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c27438eb-a6c7-4933-a7cd-6abb326ab9ae",
+                "nodeTo": "39dc1ec5-ed78-4990-b05c-787ac4051492",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "39dc1ec5-ed78-4990-b05c-787ac4051492",
+                "nodeTo": "5e6da553-eb85-49b8-a854-e8c50a38963b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5e6da553-eb85-49b8-a854-e8c50a38963b",
+                "nodeTo": "d07b7d7b-89b4-4506-975c-0ecb14cd587c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d07b7d7b-89b4-4506-975c-0ecb14cd587c",
+                "nodeTo": "4e391a58-706b-49b0-913d-8dcecb310795",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4e391a58-706b-49b0-913d-8dcecb310795",
+                "nodeTo": "b26686bb-87ae-46ad-b412-186ee4325884",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b26686bb-87ae-46ad-b412-186ee4325884",
+                "nodeTo": "d728dcac-23c0-4775-bd89-9157533a3a5b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b26686bb-87ae-46ad-b412-186ee4325884",
+                "nodeTo": "32040033-146d-4106-91d7-e15d6b6da2ab",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b26686bb-87ae-46ad-b412-186ee4325884",
+                "nodeTo": "37234a3a-6044-46dc-85b7-d391d2edb32b",
+                "index": 3,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-19 14:49:41"
+}

@@ -1,0 +1,232 @@
+{
+    "uuid": 203,
+    "text": "Japanese scientist behind seemingly groundbreaking stem cell study says findings should be withdrawn amid doubts over its quality",
+    "graph": {
+        "version": 1,
+        "guid": "300e6cc3-e83b-4184-b098-b68b3e15ba05",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "behind",
+                "id": "20c11352-67d5-45d4-a04e-508da81c19a6",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "seemingly",
+                "id": "6e0a467d-8821-4bb3-9da2-333d1c2588e6",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "says",
+                "id": "43b47939-cc91-4a6a-95c2-e91a1dcad75e",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "should",
+                "id": "12a85838-310c-4be1-8d5a-e3960e710e0d",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "be",
+                "id": "6608e8e6-0470-4066-b363-7c50a5b7a76a",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "amid",
+                "id": "5ba2351c-e906-4033-bdae-a8e3a8d321ba",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "over",
+                "id": "17098e71-5ce9-4176-8549-e609239d8150",
+                "index": 15,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Japanese",
+                "id": "ebb584cc-ad70-420b-b6ab-e8ed2b1610ab",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "scientist",
+                "id": "8234a478-e0dd-406c-b3e1-d1c40dbc8a06",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "groundbreaking",
+                "id": "4e9eb781-1add-4c24-801b-3d962cc9c4d8",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "stem",
+                "id": "829863ca-d03d-422e-a887-809535a9bcd2",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "cell",
+                "id": "ee459bc0-8a79-4e1c-84b4-6eba540d13e5",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "study",
+                "id": "b80720dc-b511-4806-8d51-367b1d323a3d",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "findings",
+                "id": "b0238487-8929-4156-8edd-e473aaa72c83",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "withdrawn",
+                "id": "943e1674-8170-4798-9be6-59aacdcae14d",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "doubts",
+                "id": "7e537bc3-18d6-41e5-b8a1-acc5a645b158",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "its",
+                "id": "650693e5-1941-4d05-ac6b-bb8e425ee104",
+                "index": 16,
+                "postag": "NA"
+            },
+            {
+                "label": "quality",
+                "id": "54c27796-1ebe-402e-83e0-555bdd97ea78",
+                "index": 17,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "ebb584cc-ad70-420b-b6ab-e8ed2b1610ab",
+                "nodeTo": "20c11352-67d5-45d4-a04e-508da81c19a6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8234a478-e0dd-406c-b3e1-d1c40dbc8a06",
+                "nodeTo": "20c11352-67d5-45d4-a04e-508da81c19a6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "20c11352-67d5-45d4-a04e-508da81c19a6",
+                "nodeTo": "4e9eb781-1add-4c24-801b-3d962cc9c4d8",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6e0a467d-8821-4bb3-9da2-333d1c2588e6",
+                "nodeTo": "4e9eb781-1add-4c24-801b-3d962cc9c4d8",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "20c11352-67d5-45d4-a04e-508da81c19a6",
+                "nodeTo": "829863ca-d03d-422e-a887-809535a9bcd2",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "20c11352-67d5-45d4-a04e-508da81c19a6",
+                "nodeTo": "ee459bc0-8a79-4e1c-84b4-6eba540d13e5",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "20c11352-67d5-45d4-a04e-508da81c19a6",
+                "nodeTo": "b80720dc-b511-4806-8d51-367b1d323a3d",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ebb584cc-ad70-420b-b6ab-e8ed2b1610ab",
+                "nodeTo": "43b47939-cc91-4a6a-95c2-e91a1dcad75e",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "8234a478-e0dd-406c-b3e1-d1c40dbc8a06",
+                "nodeTo": "43b47939-cc91-4a6a-95c2-e91a1dcad75e",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "43b47939-cc91-4a6a-95c2-e91a1dcad75e",
+                "nodeTo": "b0238487-8929-4156-8edd-e473aaa72c83",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b0238487-8929-4156-8edd-e473aaa72c83",
+                "nodeTo": "12a85838-310c-4be1-8d5a-e3960e710e0d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b0238487-8929-4156-8edd-e473aaa72c83",
+                "nodeTo": "6608e8e6-0470-4066-b363-7c50a5b7a76a",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6608e8e6-0470-4066-b363-7c50a5b7a76a",
+                "nodeTo": "943e1674-8170-4798-9be6-59aacdcae14d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "943e1674-8170-4798-9be6-59aacdcae14d",
+                "nodeTo": "5ba2351c-e906-4033-bdae-a8e3a8d321ba",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5ba2351c-e906-4033-bdae-a8e3a8d321ba",
+                "nodeTo": "7e537bc3-18d6-41e5-b8a1-acc5a645b158",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7e537bc3-18d6-41e5-b8a1-acc5a645b158",
+                "nodeTo": "17098e71-5ce9-4176-8549-e609239d8150",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "17098e71-5ce9-4176-8549-e609239d8150",
+                "nodeTo": "650693e5-1941-4d05-ac6b-bb8e425ee104",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "17098e71-5ce9-4176-8549-e609239d8150",
+                "nodeTo": "54c27796-1ebe-402e-83e0-555bdd97ea78",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-11-17 22:49:17"
+}

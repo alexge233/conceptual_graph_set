@@ -1,0 +1,106 @@
+{
+    "uuid": 53,
+    "text": "Can not go on shoving money into NHS",
+    "graph": {
+        "version": 1,
+        "guid": "38c16dd8-8515-4e97-a12d-ee5bbb722cce",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "Can",
+                "id": "b06e9a60-bd1b-4000-8913-e6eb6dca00bb",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "not",
+                "id": "2c98bc82-e39b-46bc-8632-6e33bc074cb7",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "on",
+                "id": "820d48d1-0a61-4862-bc28-648be5e42604",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "shoving",
+                "id": "66d0d845-6639-4469-becb-d563337bbb27",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "into",
+                "id": "5d3280bd-92d7-4467-983b-cec3d5199484",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "go",
+                "id": "0c1d5b88-0deb-4dd1-b107-04a675c3243a",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "money",
+                "id": "44aeba56-87c1-4992-bba1-70995e328670",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "NHS",
+                "id": "c59da352-9587-47ab-88c3-b733896db3ea",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "b06e9a60-bd1b-4000-8913-e6eb6dca00bb",
+                "nodeTo": "0c1d5b88-0deb-4dd1-b107-04a675c3243a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2c98bc82-e39b-46bc-8632-6e33bc074cb7",
+                "nodeTo": "0c1d5b88-0deb-4dd1-b107-04a675c3243a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0c1d5b88-0deb-4dd1-b107-04a675c3243a",
+                "nodeTo": "820d48d1-0a61-4862-bc28-648be5e42604",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0c1d5b88-0deb-4dd1-b107-04a675c3243a",
+                "nodeTo": "66d0d845-6639-4469-becb-d563337bbb27",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "66d0d845-6639-4469-becb-d563337bbb27",
+                "nodeTo": "44aeba56-87c1-4992-bba1-70995e328670",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "44aeba56-87c1-4992-bba1-70995e328670",
+                "nodeTo": "5d3280bd-92d7-4467-983b-cec3d5199484",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5d3280bd-92d7-4467-983b-cec3d5199484",
+                "nodeTo": "c59da352-9587-47ab-88c3-b733896db3ea",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-10-23 19:14:11"
+}

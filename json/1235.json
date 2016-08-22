@@ -1,0 +1,172 @@
+{
+    "uuid": 1235,
+    "text": "more research is needed into risks of mobile phones on sperm counts",
+    "graph": {
+        "version": 1,
+        "guid": "17b015e1-7ba8-4014-b96c-43268c1540ad",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "is",
+                "id": "a135881c-3487-464e-be13-4b0e453c7b46",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "needed",
+                "id": "6455aab3-58d3-4eae-8127-e4d400165b94",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "into",
+                "id": "37c2e7d9-4668-4e52-b165-382e6b20dd09",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "more",
+                "id": "bbc802ce-5776-41c4-9175-39e91a197ed9",
+                "postag": "NA",
+                "index": 0
+            },
+            {
+                "label": "of",
+                "id": "0599a69c-1b8d-46e0-b319-b0e7a18b5ab4",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "on",
+                "id": "b4111797-18b6-441c-9993-e6097e797ce7",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "research",
+                "id": "c77ac6ca-ba6d-495c-9261-942d4c151379",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "risks",
+                "id": "cbc4569e-761a-4669-a7ae-062a2c1d1732",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "mobile",
+                "id": "b8b20dbe-d229-4239-a43c-da30447ce126",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "phones",
+                "id": "e35ca302-7320-4b91-b437-cec98cbe9460",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "sperm",
+                "id": "ba99a0a1-49a8-4971-9e94-2913ba20e0e1",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "counts",
+                "id": "8ed26805-4055-4a9b-902b-18c3dd857e9c",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "c77ac6ca-ba6d-495c-9261-942d4c151379",
+                "nodeTo": "a135881c-3487-464e-be13-4b0e453c7b46",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bbc802ce-5776-41c4-9175-39e91a197ed9",
+                "nodeTo": "c77ac6ca-ba6d-495c-9261-942d4c151379",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c77ac6ca-ba6d-495c-9261-942d4c151379",
+                "nodeTo": "6455aab3-58d3-4eae-8127-e4d400165b94",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c77ac6ca-ba6d-495c-9261-942d4c151379",
+                "nodeTo": "37c2e7d9-4668-4e52-b165-382e6b20dd09",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a135881c-3487-464e-be13-4b0e453c7b46",
+                "nodeTo": "cbc4569e-761a-4669-a7ae-062a2c1d1732",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6455aab3-58d3-4eae-8127-e4d400165b94",
+                "nodeTo": "cbc4569e-761a-4669-a7ae-062a2c1d1732",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "37c2e7d9-4668-4e52-b165-382e6b20dd09",
+                "nodeTo": "cbc4569e-761a-4669-a7ae-062a2c1d1732",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "cbc4569e-761a-4669-a7ae-062a2c1d1732",
+                "nodeTo": "0599a69c-1b8d-46e0-b319-b0e7a18b5ab4",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0599a69c-1b8d-46e0-b319-b0e7a18b5ab4",
+                "nodeTo": "b8b20dbe-d229-4239-a43c-da30447ce126",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0599a69c-1b8d-46e0-b319-b0e7a18b5ab4",
+                "nodeTo": "e35ca302-7320-4b91-b437-cec98cbe9460",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b8b20dbe-d229-4239-a43c-da30447ce126",
+                "nodeTo": "b4111797-18b6-441c-9993-e6097e797ce7",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e35ca302-7320-4b91-b437-cec98cbe9460",
+                "nodeTo": "b4111797-18b6-441c-9993-e6097e797ce7",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b4111797-18b6-441c-9993-e6097e797ce7",
+                "nodeTo": "ba99a0a1-49a8-4971-9e94-2913ba20e0e1",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b4111797-18b6-441c-9993-e6097e797ce7",
+                "nodeTo": "8ed26805-4055-4a9b-902b-18c3dd857e9c",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-03-02 18:39:40"
+}

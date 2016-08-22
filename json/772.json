@@ -1,0 +1,88 @@
+{
+    "uuid": 772,
+    "text": "call for drugs review over ADHD",
+    "graph": {
+        "version": 1,
+        "guid": "94de1005-7e67-43dd-86e1-ae3339bc6967",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "for",
+                "id": "9d0e74c7-292c-4a96-9eec-c2eacaa650b6",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "over",
+                "id": "c4866ce3-c116-4b84-9d05-c9b917ebba20",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "call",
+                "id": "61011639-ba45-4892-bade-578d2557381a",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "drugs",
+                "id": "3919dc0e-e268-4a07-9d1a-02ab4e1111c7",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "review",
+                "id": "a21162b0-8e47-4abd-a841-81c0d31b7552",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "ADHD",
+                "id": "ce8d2159-a454-4536-9107-2519d1e65533",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "61011639-ba45-4892-bade-578d2557381a",
+                "nodeTo": "9d0e74c7-292c-4a96-9eec-c2eacaa650b6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9d0e74c7-292c-4a96-9eec-c2eacaa650b6",
+                "nodeTo": "3919dc0e-e268-4a07-9d1a-02ab4e1111c7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9d0e74c7-292c-4a96-9eec-c2eacaa650b6",
+                "nodeTo": "a21162b0-8e47-4abd-a841-81c0d31b7552",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3919dc0e-e268-4a07-9d1a-02ab4e1111c7",
+                "nodeTo": "c4866ce3-c116-4b84-9d05-c9b917ebba20",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a21162b0-8e47-4abd-a841-81c0d31b7552",
+                "nodeTo": "c4866ce3-c116-4b84-9d05-c9b917ebba20",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c4866ce3-c116-4b84-9d05-c9b917ebba20",
+                "nodeTo": "ce8d2159-a454-4536-9107-2519d1e65533",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-15 19:15:28"
+}

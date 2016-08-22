@@ -1,0 +1,148 @@
+{
+    "uuid": 519,
+    "text": "battle to save Star Wars set from desert sand",
+    "graph": {
+        "version": 1,
+        "guid": "92c929b5-d09e-47aa-938c-ae94a310ddc9",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "to",
+                "id": "794066d0-cb5c-41a2-9651-98244d167330",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "save",
+                "id": "9814d4d7-e219-4659-b1cd-41c3985e1248",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "from",
+                "id": "94e5b37b-ed21-472b-aa80-994043cb7dad",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "battle",
+                "id": "0c43ad99-2484-4d4d-85c9-7c325b930a45",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "Star",
+                "id": "28770dd9-890d-45a6-b09a-7c751cb8b18d",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "Wars",
+                "id": "0aca53a8-35c6-4a35-a04a-699a669d5300",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "set",
+                "id": "491daee5-4375-4838-8d31-8dc359a8dce1",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "desert",
+                "id": "52deeb54-10c4-40d4-9da1-29563281b3ba",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "sand",
+                "id": "3b973ce9-20da-4c63-9072-d8bd7577a492",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "0c43ad99-2484-4d4d-85c9-7c325b930a45",
+                "nodeTo": "794066d0-cb5c-41a2-9651-98244d167330",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0c43ad99-2484-4d4d-85c9-7c325b930a45",
+                "nodeTo": "9814d4d7-e219-4659-b1cd-41c3985e1248",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "794066d0-cb5c-41a2-9651-98244d167330",
+                "nodeTo": "28770dd9-890d-45a6-b09a-7c751cb8b18d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9814d4d7-e219-4659-b1cd-41c3985e1248",
+                "nodeTo": "28770dd9-890d-45a6-b09a-7c751cb8b18d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "794066d0-cb5c-41a2-9651-98244d167330",
+                "nodeTo": "0aca53a8-35c6-4a35-a04a-699a669d5300",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9814d4d7-e219-4659-b1cd-41c3985e1248",
+                "nodeTo": "0aca53a8-35c6-4a35-a04a-699a669d5300",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "794066d0-cb5c-41a2-9651-98244d167330",
+                "nodeTo": "491daee5-4375-4838-8d31-8dc359a8dce1",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9814d4d7-e219-4659-b1cd-41c3985e1248",
+                "nodeTo": "491daee5-4375-4838-8d31-8dc359a8dce1",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "94e5b37b-ed21-472b-aa80-994043cb7dad",
+                "nodeTo": "52deeb54-10c4-40d4-9da1-29563281b3ba",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "94e5b37b-ed21-472b-aa80-994043cb7dad",
+                "nodeTo": "3b973ce9-20da-4c63-9072-d8bd7577a492",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "28770dd9-890d-45a6-b09a-7c751cb8b18d",
+                "nodeTo": "94e5b37b-ed21-472b-aa80-994043cb7dad",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0aca53a8-35c6-4a35-a04a-699a669d5300",
+                "nodeTo": "94e5b37b-ed21-472b-aa80-994043cb7dad",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "491daee5-4375-4838-8d31-8dc359a8dce1",
+                "nodeTo": "94e5b37b-ed21-472b-aa80-994043cb7dad",
+                "index": 1,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2014-12-24 16:56:06"
+}

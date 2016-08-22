@@ -1,0 +1,58 @@
+{
+    "uuid": 1095,
+    "text": "Clinical habits die hard",
+    "graph": {
+        "version": 1,
+        "guid": "1c03a6a7-73c3-42ce-a002-ab6b8766cb3a",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "die",
+                "id": "a9302569-a33e-4717-9834-87c11022846b",
+                "index": 2,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Clinical",
+                "id": "928203b7-196e-4038-bb8d-b9dce5625c6c",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "habits",
+                "id": "99e40627-ed46-482c-8b85-5db8325eb5ab",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "hard",
+                "id": "499d60ab-a48c-4259-804b-13981ad73951",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "928203b7-196e-4038-bb8d-b9dce5625c6c",
+                "nodeTo": "a9302569-a33e-4717-9834-87c11022846b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "99e40627-ed46-482c-8b85-5db8325eb5ab",
+                "nodeTo": "a9302569-a33e-4717-9834-87c11022846b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a9302569-a33e-4717-9834-87c11022846b",
+                "nodeTo": "499d60ab-a48c-4259-804b-13981ad73951",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-11 15:54:10"
+}

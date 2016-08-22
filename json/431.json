@@ -1,0 +1,202 @@
+{
+    "uuid": 431,
+    "text": "Army drug users twice as likely to use synthetic marijuana as regular marijuana",
+    "graph": {
+        "version": 1,
+        "guid": "71034530-2978-40a1-ad2a-26e752bce8bc",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "twice",
+                "id": "be6192e5-3ca1-43a5-b370-997a61161b54",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "as",
+                "id": "db068705-55b3-4b9e-a3a1-29bbc09865ba",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "62de2c29-ab9e-4d4e-b48e-0c543d1be2c0",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "use",
+                "id": "88c51e71-b167-43b0-9e37-653899ee928d",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "as",
+                "id": "e7a6995e-4652-4c2d-a7a1-a856be767574",
+                "index": 10,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Army",
+                "id": "73ecc6e6-bcba-494e-babb-e6b3082b36b8",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "drug",
+                "id": "cd23b41e-3ee6-4b0e-a03c-29ea9cb71939",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "users",
+                "id": "dd0939dc-8e36-42ea-beeb-53b834e8135e",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "likely",
+                "id": "a8119bea-a413-4932-9aaa-1e1d4449e31c",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "synthetic",
+                "id": "99de1093-c0c0-49ce-a4a5-daa71e25b388",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "marijuana",
+                "id": "2b779be6-7da4-4822-a522-168e28ad3e64",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "regular",
+                "id": "e0cac618-777b-4c6d-a1bb-5909496e7b6e",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "marijuana",
+                "id": "4daec5ad-b594-4ad1-a6d7-18524e10a92c",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "be6192e5-3ca1-43a5-b370-997a61161b54",
+                "nodeTo": "a8119bea-a413-4932-9aaa-1e1d4449e31c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "db068705-55b3-4b9e-a3a1-29bbc09865ba",
+                "nodeTo": "a8119bea-a413-4932-9aaa-1e1d4449e31c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "73ecc6e6-bcba-494e-babb-e6b3082b36b8",
+                "nodeTo": "be6192e5-3ca1-43a5-b370-997a61161b54",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cd23b41e-3ee6-4b0e-a03c-29ea9cb71939",
+                "nodeTo": "be6192e5-3ca1-43a5-b370-997a61161b54",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "dd0939dc-8e36-42ea-beeb-53b834e8135e",
+                "nodeTo": "be6192e5-3ca1-43a5-b370-997a61161b54",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "73ecc6e6-bcba-494e-babb-e6b3082b36b8",
+                "nodeTo": "db068705-55b3-4b9e-a3a1-29bbc09865ba",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cd23b41e-3ee6-4b0e-a03c-29ea9cb71939",
+                "nodeTo": "db068705-55b3-4b9e-a3a1-29bbc09865ba",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "dd0939dc-8e36-42ea-beeb-53b834e8135e",
+                "nodeTo": "db068705-55b3-4b9e-a3a1-29bbc09865ba",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a8119bea-a413-4932-9aaa-1e1d4449e31c",
+                "nodeTo": "62de2c29-ab9e-4d4e-b48e-0c543d1be2c0",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a8119bea-a413-4932-9aaa-1e1d4449e31c",
+                "nodeTo": "88c51e71-b167-43b0-9e37-653899ee928d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "62de2c29-ab9e-4d4e-b48e-0c543d1be2c0",
+                "nodeTo": "99de1093-c0c0-49ce-a4a5-daa71e25b388",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "88c51e71-b167-43b0-9e37-653899ee928d",
+                "nodeTo": "99de1093-c0c0-49ce-a4a5-daa71e25b388",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "62de2c29-ab9e-4d4e-b48e-0c543d1be2c0",
+                "nodeTo": "2b779be6-7da4-4822-a522-168e28ad3e64",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "88c51e71-b167-43b0-9e37-653899ee928d",
+                "nodeTo": "2b779be6-7da4-4822-a522-168e28ad3e64",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "99de1093-c0c0-49ce-a4a5-daa71e25b388",
+                "nodeTo": "e7a6995e-4652-4c2d-a7a1-a856be767574",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2b779be6-7da4-4822-a522-168e28ad3e64",
+                "nodeTo": "e7a6995e-4652-4c2d-a7a1-a856be767574",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e7a6995e-4652-4c2d-a7a1-a856be767574",
+                "nodeTo": "e0cac618-777b-4c6d-a1bb-5909496e7b6e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e7a6995e-4652-4c2d-a7a1-a856be767574",
+                "nodeTo": "4daec5ad-b594-4ad1-a6d7-18524e10a92c",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-18 16:44:24"
+}

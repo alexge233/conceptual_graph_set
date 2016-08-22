@@ -1,0 +1,274 @@
+{
+    "uuid": 262,
+    "text": "More than three million reposts likes and comments are made after Chinese actor says sorry to his wife online",
+    "graph": {
+        "version": 1,
+        "guid": "969b5ee7-6553-4431-b921-73a27444c423",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "More",
+                "id": "a31531d9-01c0-4a35-88ea-a16e7bba0b28",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "than",
+                "id": "2e7716cd-6a11-4ebe-9e36-3e5414056204",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "2c456bcb-188d-42da-be36-e6d2d4c155ce",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "are",
+                "id": "06503b2a-583d-4a2c-8b6b-b7c1ea88cb41",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "after",
+                "id": "11971185-b96d-49ce-b6dc-7537a059303d",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "says",
+                "id": "4cdb3677-e51a-4e14-bee6-a21dcda8e591",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "e07a0889-0e56-4c59-ba4c-b090302bc38c",
+                "index": 15,
+                "postag": "NA"
+            },
+            {
+                "label": "his",
+                "id": "3aa63162-ca18-46de-bd5c-0434d64e0965",
+                "postag": "NA",
+                "index": 16
+            }
+        ],
+        "concepts": [
+            {
+                "label": "three",
+                "id": "1376ed85-4892-4d50-a2e3-bee94bb1e514",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "million",
+                "id": "89be0448-1065-4a61-bd79-89451d7605bb",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "reposts",
+                "id": "a7a0cd0c-1137-4990-a8a4-423b9a21496b",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "likes",
+                "id": "5857159c-873a-43c6-a9b5-ee95acc14604",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "comments",
+                "id": "d134e054-0b89-433e-9169-ee80c42629a0",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "made",
+                "id": "549ca237-508a-4723-9d72-4bc3da58ae4a",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "Chinese",
+                "id": "e94d557e-b7c1-424d-86c1-cba6969a4d0d",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "actor",
+                "id": "5d237b64-920b-471b-ad28-dd88b296b974",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "sorry",
+                "id": "a9d02c22-b459-47e0-8eea-7e8895d8db9a",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "wife",
+                "id": "2b994e09-d8a2-4cb1-8398-b6b6a08e7d63",
+                "index": 17,
+                "postag": "NA"
+            },
+            {
+                "label": "online",
+                "id": "ddcac5c3-0812-4d87-b1e3-49c7ed0a6a5c",
+                "index": 18,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "a31531d9-01c0-4a35-88ea-a16e7bba0b28",
+                "nodeTo": "1376ed85-4892-4d50-a2e3-bee94bb1e514",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2e7716cd-6a11-4ebe-9e36-3e5414056204",
+                "nodeTo": "1376ed85-4892-4d50-a2e3-bee94bb1e514",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a31531d9-01c0-4a35-88ea-a16e7bba0b28",
+                "nodeTo": "89be0448-1065-4a61-bd79-89451d7605bb",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a31531d9-01c0-4a35-88ea-a16e7bba0b28",
+                "nodeTo": "a7a0cd0c-1137-4990-a8a4-423b9a21496b",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a31531d9-01c0-4a35-88ea-a16e7bba0b28",
+                "nodeTo": "5857159c-873a-43c6-a9b5-ee95acc14604",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2e7716cd-6a11-4ebe-9e36-3e5414056204",
+                "nodeTo": "89be0448-1065-4a61-bd79-89451d7605bb",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2e7716cd-6a11-4ebe-9e36-3e5414056204",
+                "nodeTo": "a7a0cd0c-1137-4990-a8a4-423b9a21496b",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2e7716cd-6a11-4ebe-9e36-3e5414056204",
+                "nodeTo": "5857159c-873a-43c6-a9b5-ee95acc14604",
+                "index": 4,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5857159c-873a-43c6-a9b5-ee95acc14604",
+                "nodeTo": "2c456bcb-188d-42da-be36-e6d2d4c155ce",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2c456bcb-188d-42da-be36-e6d2d4c155ce",
+                "nodeTo": "d134e054-0b89-433e-9169-ee80c42629a0",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a7a0cd0c-1137-4990-a8a4-423b9a21496b",
+                "nodeTo": "2c456bcb-188d-42da-be36-e6d2d4c155ce",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d134e054-0b89-433e-9169-ee80c42629a0",
+                "nodeTo": "06503b2a-583d-4a2c-8b6b-b7c1ea88cb41",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "06503b2a-583d-4a2c-8b6b-b7c1ea88cb41",
+                "nodeTo": "549ca237-508a-4723-9d72-4bc3da58ae4a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "549ca237-508a-4723-9d72-4bc3da58ae4a",
+                "nodeTo": "11971185-b96d-49ce-b6dc-7537a059303d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "11971185-b96d-49ce-b6dc-7537a059303d",
+                "nodeTo": "e94d557e-b7c1-424d-86c1-cba6969a4d0d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "11971185-b96d-49ce-b6dc-7537a059303d",
+                "nodeTo": "5d237b64-920b-471b-ad28-dd88b296b974",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e94d557e-b7c1-424d-86c1-cba6969a4d0d",
+                "nodeTo": "4cdb3677-e51a-4e14-bee6-a21dcda8e591",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5d237b64-920b-471b-ad28-dd88b296b974",
+                "nodeTo": "4cdb3677-e51a-4e14-bee6-a21dcda8e591",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4cdb3677-e51a-4e14-bee6-a21dcda8e591",
+                "nodeTo": "a9d02c22-b459-47e0-8eea-7e8895d8db9a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a9d02c22-b459-47e0-8eea-7e8895d8db9a",
+                "nodeTo": "e07a0889-0e56-4c59-ba4c-b090302bc38c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e07a0889-0e56-4c59-ba4c-b090302bc38c",
+                "nodeTo": "2b994e09-d8a2-4cb1-8398-b6b6a08e7d63",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "3aa63162-ca18-46de-bd5c-0434d64e0965",
+                "nodeTo": "2b994e09-d8a2-4cb1-8398-b6b6a08e7d63",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a9d02c22-b459-47e0-8eea-7e8895d8db9a",
+                "nodeTo": "3aa63162-ca18-46de-bd5c-0434d64e0965",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4cdb3677-e51a-4e14-bee6-a21dcda8e591",
+                "nodeTo": "ddcac5c3-0812-4d87-b1e3-49c7ed0a6a5c",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-03 14:40:16"
+}

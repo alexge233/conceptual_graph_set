@@ -1,0 +1,106 @@
+{
+    "uuid": 493,
+    "text": "Bacteria in mouth may diagnose pancreatic cancer",
+    "graph": {
+        "version": 1,
+        "guid": "a6b1644c-067c-4d0b-b558-eda27b71ad57",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "in",
+                "id": "eebc0930-5631-42d0-8ca8-0874be346187",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "may",
+                "id": "da36d4e9-84b0-462b-a204-ed38317c6329",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "diagnose",
+                "id": "e5416d4b-4e0b-401d-918c-20cb6d325352",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Bacteria",
+                "id": "dd63d1b9-3ce2-4ed7-b453-50d32517a330",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "mouth",
+                "id": "cc47ba94-1299-4431-9bb7-a222644202bb",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "pancreatic",
+                "id": "e20d54ba-eb67-42c1-9561-e2160c0aec68",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "cancer",
+                "id": "9ec42732-721d-4de6-9415-de6eb3a9e774",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "dd63d1b9-3ce2-4ed7-b453-50d32517a330",
+                "nodeTo": "eebc0930-5631-42d0-8ca8-0874be346187",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "eebc0930-5631-42d0-8ca8-0874be346187",
+                "nodeTo": "cc47ba94-1299-4431-9bb7-a222644202bb",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "cc47ba94-1299-4431-9bb7-a222644202bb",
+                "nodeTo": "da36d4e9-84b0-462b-a204-ed38317c6329",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cc47ba94-1299-4431-9bb7-a222644202bb",
+                "nodeTo": "e5416d4b-4e0b-401d-918c-20cb6d325352",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "da36d4e9-84b0-462b-a204-ed38317c6329",
+                "nodeTo": "e20d54ba-eb67-42c1-9561-e2160c0aec68",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e5416d4b-4e0b-401d-918c-20cb6d325352",
+                "nodeTo": "e20d54ba-eb67-42c1-9561-e2160c0aec68",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "da36d4e9-84b0-462b-a204-ed38317c6329",
+                "nodeTo": "9ec42732-721d-4de6-9415-de6eb3a9e774",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e5416d4b-4e0b-401d-918c-20cb6d325352",
+                "nodeTo": "9ec42732-721d-4de6-9415-de6eb3a9e774",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-19 14:46:28"
+}

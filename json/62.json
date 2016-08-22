@@ -1,0 +1,70 @@
+{
+    "uuid": 62,
+    "text": "Early access drugs scheme launched",
+    "graph": {
+        "version": 1,
+        "guid": "5c27b248-0132-432e-9543-41d5d2545017",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "launched",
+                "id": "96eb4e13-a286-443d-b9c4-dd79cb3da697",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "access",
+                "id": "dad9d8b1-e2c4-42ec-935d-7610b1902a14",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "drugs",
+                "id": "5e608c30-a830-4c07-b64d-e5e57b583d94",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "Early",
+                "id": "8e1976dd-4424-4476-868d-cbdd80a1b299",
+                "postag": "NA",
+                "index": 0
+            },
+            {
+                "label": "scheme",
+                "id": "c0c23571-1a03-46b5-99c7-8456bb09eb28",
+                "postag": "NA",
+                "index": 3
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "8e1976dd-4424-4476-868d-cbdd80a1b299",
+                "nodeTo": "96eb4e13-a286-443d-b9c4-dd79cb3da697",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "dad9d8b1-e2c4-42ec-935d-7610b1902a14",
+                "nodeTo": "96eb4e13-a286-443d-b9c4-dd79cb3da697",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "5e608c30-a830-4c07-b64d-e5e57b583d94",
+                "nodeTo": "96eb4e13-a286-443d-b9c4-dd79cb3da697",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c0c23571-1a03-46b5-99c7-8456bb09eb28",
+                "nodeTo": "96eb4e13-a286-443d-b9c4-dd79cb3da697",
+                "index": 1,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2015-04-30 19:32:11"
+}

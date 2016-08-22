@@ -1,0 +1,82 @@
+{
+    "uuid": 360,
+    "text": "Anastacia energized after cancer surgery",
+    "graph": {
+        "version": 1,
+        "guid": "ee0e312e-9c43-46e5-82d5-2d179495e5b7",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "energized",
+                "id": "7cac1491-4e1d-4267-8a1b-d96cb18aaccd",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "after",
+                "id": "bbab6109-7460-41e9-93a2-b6b097819a3d",
+                "index": 2,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Anastacia",
+                "id": "b304d301-84ce-4839-8375-b06a7c676680",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "cancer",
+                "id": "e443d3da-99d2-48c9-82d2-2798db80317e",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "surgery",
+                "id": "5dc08c4a-deb1-4921-9eaa-1674b63b9dc3",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "b304d301-84ce-4839-8375-b06a7c676680",
+                "nodeTo": "7cac1491-4e1d-4267-8a1b-d96cb18aaccd",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b304d301-84ce-4839-8375-b06a7c676680",
+                "nodeTo": "bbab6109-7460-41e9-93a2-b6b097819a3d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7cac1491-4e1d-4267-8a1b-d96cb18aaccd",
+                "nodeTo": "e443d3da-99d2-48c9-82d2-2798db80317e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "bbab6109-7460-41e9-93a2-b6b097819a3d",
+                "nodeTo": "e443d3da-99d2-48c9-82d2-2798db80317e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7cac1491-4e1d-4267-8a1b-d96cb18aaccd",
+                "nodeTo": "5dc08c4a-deb1-4921-9eaa-1674b63b9dc3",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "bbab6109-7460-41e9-93a2-b6b097819a3d",
+                "nodeTo": "5dc08c4a-deb1-4921-9eaa-1674b63b9dc3",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-16 16:20:47"
+}

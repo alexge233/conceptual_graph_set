@@ -1,0 +1,214 @@
+{
+    "uuid": 591,
+    "text": "They identified two biomarkers that were good at predicting patients resistance to radiation therapy",
+    "graph": {
+        "version": 1,
+        "guid": "25651bde-1700-41b9-ad85-7e95a009101e",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "identified",
+                "id": "e3e9d350-b736-449a-aca1-41289c9910a0",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "were",
+                "id": "2b67cbda-98b6-40a0-a9e2-d23c8374a0a4",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "that",
+                "id": "4aeca2c8-8e9d-4d36-b24a-89beaab4d2c0",
+                "postag": "NA",
+                "index": 4
+            },
+            {
+                "label": "at",
+                "id": "6785ab29-5cb5-495d-bec3-a7c5c1165024",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "predicting",
+                "id": "b5203da1-7e5e-425b-ab65-517aa62ccdaa",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "56090ab2-7cde-457e-b194-985c78d97b38",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "They",
+                "id": "6ed94e87-123d-4802-9407-b36bb806555e",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "two",
+                "id": "dd2e6e48-1b60-4eee-b7d0-029e1c1b0d87",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "biomarkers",
+                "id": "6c784149-101d-487e-90b2-e4597a35022c",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "good",
+                "id": "a11e33b2-ec11-4764-b58d-1291c590834b",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "patients",
+                "id": "5358c834-3eac-4d02-8581-3e25862239e0",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "resistance",
+                "id": "baeb264d-6d60-4dba-8a95-3e013ad1a6e5",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "radiation",
+                "id": "7ba0da35-c08d-42e4-9987-a7d745823229",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "therapy",
+                "id": "1d34a860-96a0-4406-8e42-aac2ab7940d6",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "6ed94e87-123d-4802-9407-b36bb806555e",
+                "nodeTo": "e3e9d350-b736-449a-aca1-41289c9910a0",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e3e9d350-b736-449a-aca1-41289c9910a0",
+                "nodeTo": "dd2e6e48-1b60-4eee-b7d0-029e1c1b0d87",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e3e9d350-b736-449a-aca1-41289c9910a0",
+                "nodeTo": "6c784149-101d-487e-90b2-e4597a35022c",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "dd2e6e48-1b60-4eee-b7d0-029e1c1b0d87",
+                "nodeTo": "4aeca2c8-8e9d-4d36-b24a-89beaab4d2c0",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6c784149-101d-487e-90b2-e4597a35022c",
+                "nodeTo": "4aeca2c8-8e9d-4d36-b24a-89beaab4d2c0",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "dd2e6e48-1b60-4eee-b7d0-029e1c1b0d87",
+                "nodeTo": "2b67cbda-98b6-40a0-a9e2-d23c8374a0a4",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6c784149-101d-487e-90b2-e4597a35022c",
+                "nodeTo": "2b67cbda-98b6-40a0-a9e2-d23c8374a0a4",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4aeca2c8-8e9d-4d36-b24a-89beaab4d2c0",
+                "nodeTo": "a11e33b2-ec11-4764-b58d-1291c590834b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2b67cbda-98b6-40a0-a9e2-d23c8374a0a4",
+                "nodeTo": "a11e33b2-ec11-4764-b58d-1291c590834b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a11e33b2-ec11-4764-b58d-1291c590834b",
+                "nodeTo": "6785ab29-5cb5-495d-bec3-a7c5c1165024",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a11e33b2-ec11-4764-b58d-1291c590834b",
+                "nodeTo": "b5203da1-7e5e-425b-ab65-517aa62ccdaa",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6785ab29-5cb5-495d-bec3-a7c5c1165024",
+                "nodeTo": "5358c834-3eac-4d02-8581-3e25862239e0",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6785ab29-5cb5-495d-bec3-a7c5c1165024",
+                "nodeTo": "baeb264d-6d60-4dba-8a95-3e013ad1a6e5",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b5203da1-7e5e-425b-ab65-517aa62ccdaa",
+                "nodeTo": "5358c834-3eac-4d02-8581-3e25862239e0",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b5203da1-7e5e-425b-ab65-517aa62ccdaa",
+                "nodeTo": "baeb264d-6d60-4dba-8a95-3e013ad1a6e5",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5358c834-3eac-4d02-8581-3e25862239e0",
+                "nodeTo": "56090ab2-7cde-457e-b194-985c78d97b38",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "baeb264d-6d60-4dba-8a95-3e013ad1a6e5",
+                "nodeTo": "56090ab2-7cde-457e-b194-985c78d97b38",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "56090ab2-7cde-457e-b194-985c78d97b38",
+                "nodeTo": "7ba0da35-c08d-42e4-9987-a7d745823229",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "56090ab2-7cde-457e-b194-985c78d97b38",
+                "nodeTo": "1d34a860-96a0-4406-8e42-aac2ab7940d6",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-07 21:39:08"
+}

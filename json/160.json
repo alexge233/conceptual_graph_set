@@ -1,0 +1,70 @@
+{
+    "uuid": 160,
+    "text": "Selfie body image warning issued",
+    "graph": {
+        "version": 1,
+        "guid": "3428b2a2-74d4-4ee0-bb20-7d26190d5c23",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "issued",
+                "id": "89154616-4993-4247-8eb4-4a86a23a95e6",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Selfie",
+                "id": "3519307b-814a-491b-8c88-3b7e70617d1a",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "body",
+                "id": "b2168b5a-460a-4815-a65a-05458d4b4505",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "image",
+                "id": "4b49caeb-0390-4088-a6cd-a40456e7a1cb",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "warning",
+                "id": "1468c1da-93e5-421c-8dd1-16dd4dc5c50e",
+                "index": 3,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "3519307b-814a-491b-8c88-3b7e70617d1a",
+                "nodeTo": "89154616-4993-4247-8eb4-4a86a23a95e6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b2168b5a-460a-4815-a65a-05458d4b4505",
+                "nodeTo": "89154616-4993-4247-8eb4-4a86a23a95e6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4b49caeb-0390-4088-a6cd-a40456e7a1cb",
+                "nodeTo": "89154616-4993-4247-8eb4-4a86a23a95e6",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1468c1da-93e5-421c-8dd1-16dd4dc5c50e",
+                "nodeTo": "89154616-4993-4247-8eb4-4a86a23a95e6",
+                "index": 1,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2014-11-03 19:55:20"
+}

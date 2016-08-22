@@ -1,0 +1,124 @@
+{
+    "uuid": 513,
+    "text": "Barbie to become Hollywood star with new film",
+    "graph": {
+        "version": 1,
+        "guid": "75d59e0d-449b-452e-9ab0-81b779aaae6e",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "to",
+                "id": "4ad911d0-0d80-4136-89aa-cc0a6d588919",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "become",
+                "id": "4ba56944-d8b5-435e-b14b-42dbda63a12b",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "with",
+                "id": "a631d9c0-9715-4062-922d-62d7bc7a1371",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Barbie",
+                "id": "31e15b9c-a55c-4ede-9772-5acd9a6bca09",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "Hollywood",
+                "id": "629c1484-47c1-4733-9d08-46e920591aa7",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "star",
+                "id": "c50d62ab-e6d7-42b8-9a1a-e1653596b9c2",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "new",
+                "id": "18936e73-7ba6-4d4c-8b36-a64895862443",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "film",
+                "id": "0c297de4-74d8-4535-9d2c-2a01e123593c",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "31e15b9c-a55c-4ede-9772-5acd9a6bca09",
+                "nodeTo": "4ad911d0-0d80-4136-89aa-cc0a6d588919",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "31e15b9c-a55c-4ede-9772-5acd9a6bca09",
+                "nodeTo": "4ba56944-d8b5-435e-b14b-42dbda63a12b",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4ad911d0-0d80-4136-89aa-cc0a6d588919",
+                "nodeTo": "629c1484-47c1-4733-9d08-46e920591aa7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4ba56944-d8b5-435e-b14b-42dbda63a12b",
+                "nodeTo": "629c1484-47c1-4733-9d08-46e920591aa7",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4ad911d0-0d80-4136-89aa-cc0a6d588919",
+                "nodeTo": "c50d62ab-e6d7-42b8-9a1a-e1653596b9c2",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4ba56944-d8b5-435e-b14b-42dbda63a12b",
+                "nodeTo": "c50d62ab-e6d7-42b8-9a1a-e1653596b9c2",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "629c1484-47c1-4733-9d08-46e920591aa7",
+                "nodeTo": "a631d9c0-9715-4062-922d-62d7bc7a1371",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c50d62ab-e6d7-42b8-9a1a-e1653596b9c2",
+                "nodeTo": "a631d9c0-9715-4062-922d-62d7bc7a1371",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a631d9c0-9715-4062-922d-62d7bc7a1371",
+                "nodeTo": "18936e73-7ba6-4d4c-8b36-a64895862443",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "a631d9c0-9715-4062-922d-62d7bc7a1371",
+                "nodeTo": "0c297de4-74d8-4535-9d2c-2a01e123593c",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-23 19:12:41"
+}

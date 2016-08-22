@@ -1,0 +1,232 @@
+{
+    "uuid": 866,
+    "text": "Cardiac screening test may help determine who should take aspirin to prevent heart attack",
+    "graph": {
+        "version": 1,
+        "guid": "679abdbb-89c9-4a30-9164-102c89584944",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "may",
+                "id": "88e44cee-de3e-472a-ac60-4e1c28cbe528",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "help",
+                "id": "cec4b5d7-e1cc-4861-abdb-8e917b6bc6ad",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "determine",
+                "id": "48e28221-3ae0-4e31-b695-db40bcc3107a",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "should",
+                "id": "9e03a634-a18b-42be-a4b4-364c2cb2567c",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "take",
+                "id": "78722bd4-5430-4ae5-bada-589454ba4342",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "9c2dbcb7-aeb2-46d4-822b-eac97a4481d4",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "prevent",
+                "id": "0e9aaa48-15bd-447a-ba92-b1d35180614d",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Cardiac",
+                "id": "1d392221-3ea1-482d-8aec-934a76c99c5b",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "screening",
+                "id": "49d0c48c-8413-43b2-a647-e972a7edc7b3",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "test",
+                "id": "bcc10152-71a5-4258-9d9e-33831a77b0b9",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "who",
+                "id": "923a096c-4c3d-4ae0-a75a-30671822262c",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "aspirin",
+                "id": "4c279e9c-926e-4727-acae-a6534ae87684",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "heart",
+                "id": "60ad4073-72e8-4e58-a94d-c92324cdde69",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "attack",
+                "id": "5c5813b0-cd06-4322-a585-707ce1395d0d",
+                "index": 13,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "1d392221-3ea1-482d-8aec-934a76c99c5b",
+                "nodeTo": "88e44cee-de3e-472a-ac60-4e1c28cbe528",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "49d0c48c-8413-43b2-a647-e972a7edc7b3",
+                "nodeTo": "88e44cee-de3e-472a-ac60-4e1c28cbe528",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bcc10152-71a5-4258-9d9e-33831a77b0b9",
+                "nodeTo": "88e44cee-de3e-472a-ac60-4e1c28cbe528",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1d392221-3ea1-482d-8aec-934a76c99c5b",
+                "nodeTo": "cec4b5d7-e1cc-4861-abdb-8e917b6bc6ad",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "49d0c48c-8413-43b2-a647-e972a7edc7b3",
+                "nodeTo": "cec4b5d7-e1cc-4861-abdb-8e917b6bc6ad",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bcc10152-71a5-4258-9d9e-33831a77b0b9",
+                "nodeTo": "cec4b5d7-e1cc-4861-abdb-8e917b6bc6ad",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1d392221-3ea1-482d-8aec-934a76c99c5b",
+                "nodeTo": "48e28221-3ae0-4e31-b695-db40bcc3107a",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "49d0c48c-8413-43b2-a647-e972a7edc7b3",
+                "nodeTo": "48e28221-3ae0-4e31-b695-db40bcc3107a",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bcc10152-71a5-4258-9d9e-33831a77b0b9",
+                "nodeTo": "48e28221-3ae0-4e31-b695-db40bcc3107a",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "88e44cee-de3e-472a-ac60-4e1c28cbe528",
+                "nodeTo": "923a096c-4c3d-4ae0-a75a-30671822262c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "cec4b5d7-e1cc-4861-abdb-8e917b6bc6ad",
+                "nodeTo": "923a096c-4c3d-4ae0-a75a-30671822262c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "48e28221-3ae0-4e31-b695-db40bcc3107a",
+                "nodeTo": "923a096c-4c3d-4ae0-a75a-30671822262c",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "923a096c-4c3d-4ae0-a75a-30671822262c",
+                "nodeTo": "9e03a634-a18b-42be-a4b4-364c2cb2567c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "923a096c-4c3d-4ae0-a75a-30671822262c",
+                "nodeTo": "78722bd4-5430-4ae5-bada-589454ba4342",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9e03a634-a18b-42be-a4b4-364c2cb2567c",
+                "nodeTo": "4c279e9c-926e-4727-acae-a6534ae87684",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "78722bd4-5430-4ae5-bada-589454ba4342",
+                "nodeTo": "4c279e9c-926e-4727-acae-a6534ae87684",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4c279e9c-926e-4727-acae-a6534ae87684",
+                "nodeTo": "9c2dbcb7-aeb2-46d4-822b-eac97a4481d4",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4c279e9c-926e-4727-acae-a6534ae87684",
+                "nodeTo": "0e9aaa48-15bd-447a-ba92-b1d35180614d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "9c2dbcb7-aeb2-46d4-822b-eac97a4481d4",
+                "nodeTo": "60ad4073-72e8-4e58-a94d-c92324cdde69",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9c2dbcb7-aeb2-46d4-822b-eac97a4481d4",
+                "nodeTo": "5c5813b0-cd06-4322-a585-707ce1395d0d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0e9aaa48-15bd-447a-ba92-b1d35180614d",
+                "nodeTo": "60ad4073-72e8-4e58-a94d-c92324cdde69",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0e9aaa48-15bd-447a-ba92-b1d35180614d",
+                "nodeTo": "5c5813b0-cd06-4322-a585-707ce1395d0d",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-19 21:24:47"
+}

@@ -1,0 +1,226 @@
+{
+    "uuid": 891,
+    "text": "animal therapy involving dogs or cats provides unique way to ease symptoms of dementia without drugs",
+    "graph": {
+        "version": 1,
+        "guid": "35e774e5-7948-4326-8e31-cd5066ac8b10",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "involving",
+                "id": "77d8e7e3-5068-4164-b921-d52a5395ed68",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "or",
+                "id": "de791972-250e-4965-97be-c97c0439aeed",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "provides",
+                "id": "4e36625d-a36e-47a3-994c-3d2ae5635b5a",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "62a8a7bd-e4b5-44cc-9a4e-c576a30558b9",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "ease",
+                "id": "6e51a11d-2427-4e18-bdab-b8649de5c38d",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "e25dea1c-8ac0-4722-a562-9c3c021d3032",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "without",
+                "id": "d9999a24-0b57-4178-b914-e0b60d182ebe",
+                "index": 14,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "animal",
+                "id": "03a3cec8-e7e8-498d-b621-5c4159c09119",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "therapy",
+                "id": "a51384ba-6659-48a8-920d-25100766ce2d",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "dogs",
+                "id": "461188e2-1b74-4aee-864d-7c72c6e72e37",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "cats",
+                "id": "6897a153-1751-4084-b6a4-1c090be73beb",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "unique",
+                "id": "6827950d-4c19-4586-99dd-49db73a86645",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "way",
+                "id": "eada7c46-a7c4-4a33-b599-1d0ae77ee93d",
+                "postag": "NA",
+                "index": 8
+            },
+            {
+                "label": "symptoms",
+                "id": "123727d4-1248-4d0b-9b19-0701b19619b9",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "dementia",
+                "id": "cec53b08-55db-48d0-9433-43b011904ecc",
+                "index": 13,
+                "postag": "NA"
+            },
+            {
+                "label": "drugs",
+                "id": "b1274a99-2c56-4bdb-8d76-1bd380deb805",
+                "index": 15,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "03a3cec8-e7e8-498d-b621-5c4159c09119",
+                "nodeTo": "77d8e7e3-5068-4164-b921-d52a5395ed68",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a51384ba-6659-48a8-920d-25100766ce2d",
+                "nodeTo": "77d8e7e3-5068-4164-b921-d52a5395ed68",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "77d8e7e3-5068-4164-b921-d52a5395ed68",
+                "nodeTo": "461188e2-1b74-4aee-864d-7c72c6e72e37",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "461188e2-1b74-4aee-864d-7c72c6e72e37",
+                "nodeTo": "de791972-250e-4965-97be-c97c0439aeed",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "de791972-250e-4965-97be-c97c0439aeed",
+                "nodeTo": "6897a153-1751-4084-b6a4-1c090be73beb",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "03a3cec8-e7e8-498d-b621-5c4159c09119",
+                "nodeTo": "4e36625d-a36e-47a3-994c-3d2ae5635b5a",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "a51384ba-6659-48a8-920d-25100766ce2d",
+                "nodeTo": "4e36625d-a36e-47a3-994c-3d2ae5635b5a",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4e36625d-a36e-47a3-994c-3d2ae5635b5a",
+                "nodeTo": "6827950d-4c19-4586-99dd-49db73a86645",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4e36625d-a36e-47a3-994c-3d2ae5635b5a",
+                "nodeTo": "eada7c46-a7c4-4a33-b599-1d0ae77ee93d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6827950d-4c19-4586-99dd-49db73a86645",
+                "nodeTo": "62a8a7bd-e4b5-44cc-9a4e-c576a30558b9",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "eada7c46-a7c4-4a33-b599-1d0ae77ee93d",
+                "nodeTo": "62a8a7bd-e4b5-44cc-9a4e-c576a30558b9",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6827950d-4c19-4586-99dd-49db73a86645",
+                "nodeTo": "6e51a11d-2427-4e18-bdab-b8649de5c38d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "eada7c46-a7c4-4a33-b599-1d0ae77ee93d",
+                "nodeTo": "6e51a11d-2427-4e18-bdab-b8649de5c38d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "62a8a7bd-e4b5-44cc-9a4e-c576a30558b9",
+                "nodeTo": "123727d4-1248-4d0b-9b19-0701b19619b9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6e51a11d-2427-4e18-bdab-b8649de5c38d",
+                "nodeTo": "123727d4-1248-4d0b-9b19-0701b19619b9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "123727d4-1248-4d0b-9b19-0701b19619b9",
+                "nodeTo": "e25dea1c-8ac0-4722-a562-9c3c021d3032",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e25dea1c-8ac0-4722-a562-9c3c021d3032",
+                "nodeTo": "cec53b08-55db-48d0-9433-43b011904ecc",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "123727d4-1248-4d0b-9b19-0701b19619b9",
+                "nodeTo": "d9999a24-0b57-4178-b914-e0b60d182ebe",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d9999a24-0b57-4178-b914-e0b60d182ebe",
+                "nodeTo": "b1274a99-2c56-4bdb-8d76-1bd380deb805",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-21 14:02:39"
+}

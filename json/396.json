@@ -1,0 +1,106 @@
+{
+    "uuid": 396,
+    "text": "antibiotics improve growth in children in developing countries",
+    "graph": {
+        "version": 1,
+        "guid": "4a1bd279-01b8-4559-a12d-257105e6de48",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "improve",
+                "id": "75ade106-014d-4acd-8d70-67d268e2b399",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "ca4ba681-8a26-4b5e-8ee1-a3dc9475eb69",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "91caba60-1296-4b3e-9032-ebdce50e9e99",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "antibiotics",
+                "id": "eed6ac2a-1929-457d-b2d3-7c849a05415d",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "growth",
+                "id": "486dc3a1-74c3-45c9-ab76-92bd2400a15d",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "children",
+                "id": "35188184-d91b-4418-b633-97e8308ccc59",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "developing",
+                "id": "377c354b-a463-4433-a7be-aae5a600d47b",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "countries",
+                "id": "03a24783-950a-4b84-8136-1bab2d9e6017",
+                "index": 7,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "eed6ac2a-1929-457d-b2d3-7c849a05415d",
+                "nodeTo": "75ade106-014d-4acd-8d70-67d268e2b399",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "75ade106-014d-4acd-8d70-67d268e2b399",
+                "nodeTo": "486dc3a1-74c3-45c9-ab76-92bd2400a15d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "486dc3a1-74c3-45c9-ab76-92bd2400a15d",
+                "nodeTo": "ca4ba681-8a26-4b5e-8ee1-a3dc9475eb69",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ca4ba681-8a26-4b5e-8ee1-a3dc9475eb69",
+                "nodeTo": "35188184-d91b-4418-b633-97e8308ccc59",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "35188184-d91b-4418-b633-97e8308ccc59",
+                "nodeTo": "91caba60-1296-4b3e-9032-ebdce50e9e99",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "91caba60-1296-4b3e-9032-ebdce50e9e99",
+                "nodeTo": "377c354b-a463-4433-a7be-aae5a600d47b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "91caba60-1296-4b3e-9032-ebdce50e9e99",
+                "nodeTo": "03a24783-950a-4b84-8136-1bab2d9e6017",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-17 15:45:30"
+}

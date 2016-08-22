@@ -1,0 +1,226 @@
+{
+    "uuid": 239,
+    "text": "This is good news for environment and it cuts costs so enabling hotels to reduce prices",
+    "graph": {
+        "version": 1,
+        "guid": "5d7ee37a-c2e8-4535-90ea-2183a6aa7ca1",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "is",
+                "id": "7d45150b-4323-4bd9-bb35-104c0234d827",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "for",
+                "id": "345619ca-42bb-4605-84e9-576a87dc68b7",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "b55e685c-b57b-43ac-acc6-8b836e6cb760",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "cuts",
+                "id": "0b0336b9-848e-434c-a11b-9409998ae87d",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "enabling",
+                "id": "61d7b3cb-a6a1-42ad-a024-5dbb030808c0",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "reduce",
+                "id": "178e7a29-311c-4e55-aedd-819d20587d21",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "6c036b67-b776-4e78-9d0a-2085a1ee7b93",
+                "postag": "NA",
+                "index": 13
+            },
+            {
+                "label": "so",
+                "id": "5b217c4e-7312-4e83-81d5-3c577d231785",
+                "postag": "NA",
+                "index": 10
+            }
+        ],
+        "concepts": [
+            {
+                "label": "This",
+                "id": "b442ab90-0138-4c76-98c0-918e3005407a",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "good",
+                "id": "1797d314-2dbe-4db8-87d6-83737cba8257",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "news",
+                "id": "3b61cc25-d423-4ce9-973a-b3e82318ea5d",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "environment",
+                "id": "65597243-86b4-422a-b3eb-4c5db8d4424b",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "it",
+                "id": "b1564534-31a8-453b-8b49-6c258088b02d",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "costs",
+                "id": "75277e23-e28e-4365-a67a-edb2c3d344b6",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "hotels",
+                "id": "0b4010d9-d959-4ca1-b24d-b416658640c9",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "prices",
+                "id": "69181a8c-93c1-43ab-9215-b81580d94931",
+                "index": 15,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "b442ab90-0138-4c76-98c0-918e3005407a",
+                "nodeTo": "7d45150b-4323-4bd9-bb35-104c0234d827",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "7d45150b-4323-4bd9-bb35-104c0234d827",
+                "nodeTo": "1797d314-2dbe-4db8-87d6-83737cba8257",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "7d45150b-4323-4bd9-bb35-104c0234d827",
+                "nodeTo": "3b61cc25-d423-4ce9-973a-b3e82318ea5d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1797d314-2dbe-4db8-87d6-83737cba8257",
+                "nodeTo": "345619ca-42bb-4605-84e9-576a87dc68b7",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3b61cc25-d423-4ce9-973a-b3e82318ea5d",
+                "nodeTo": "345619ca-42bb-4605-84e9-576a87dc68b7",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "345619ca-42bb-4605-84e9-576a87dc68b7",
+                "nodeTo": "65597243-86b4-422a-b3eb-4c5db8d4424b",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1797d314-2dbe-4db8-87d6-83737cba8257",
+                "nodeTo": "b55e685c-b57b-43ac-acc6-8b836e6cb760",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "3b61cc25-d423-4ce9-973a-b3e82318ea5d",
+                "nodeTo": "b55e685c-b57b-43ac-acc6-8b836e6cb760",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "b55e685c-b57b-43ac-acc6-8b836e6cb760",
+                "nodeTo": "b1564534-31a8-453b-8b49-6c258088b02d",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b1564534-31a8-453b-8b49-6c258088b02d",
+                "nodeTo": "0b0336b9-848e-434c-a11b-9409998ae87d",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0b0336b9-848e-434c-a11b-9409998ae87d",
+                "nodeTo": "75277e23-e28e-4365-a67a-edb2c3d344b6",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "61d7b3cb-a6a1-42ad-a024-5dbb030808c0",
+                "nodeTo": "0b4010d9-d959-4ca1-b24d-b416658640c9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "178e7a29-311c-4e55-aedd-819d20587d21",
+                "nodeTo": "69181a8c-93c1-43ab-9215-b81580d94931",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "0b4010d9-d959-4ca1-b24d-b416658640c9",
+                "nodeTo": "6c036b67-b776-4e78-9d0a-2085a1ee7b93",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0b4010d9-d959-4ca1-b24d-b416658640c9",
+                "nodeTo": "178e7a29-311c-4e55-aedd-819d20587d21",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6c036b67-b776-4e78-9d0a-2085a1ee7b93",
+                "nodeTo": "69181a8c-93c1-43ab-9215-b81580d94931",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5b217c4e-7312-4e83-81d5-3c577d231785",
+                "nodeTo": "0b4010d9-d959-4ca1-b24d-b416658640c9",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "75277e23-e28e-4365-a67a-edb2c3d344b6",
+                "nodeTo": "5b217c4e-7312-4e83-81d5-3c577d231785",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "75277e23-e28e-4365-a67a-edb2c3d344b6",
+                "nodeTo": "61d7b3cb-a6a1-42ad-a024-5dbb030808c0",
+                "index": 2,
+                "order": "cr"
+            }
+        ]
+    },
+    "created": "2015-04-30 20:40:39"
+}

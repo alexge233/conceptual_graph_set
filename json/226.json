@@ -1,0 +1,94 @@
+{
+    "uuid": 226,
+    "text": "diet to make you fat or fit",
+    "graph": {
+        "version": 1,
+        "guid": "84e6662b-22bb-4432-8645-52a332cad6a7",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "make",
+                "id": "be71640d-b544-4b5d-9d4e-e0d1acec9679",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "or",
+                "id": "dd40a6ee-d83e-4ccc-8651-88dd89960e07",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "diet",
+                "id": "c6b3c877-342c-4853-b344-30586862d566",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "15528883-e75b-4770-b13a-b9391b38cb9d",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "you",
+                "id": "43025ee1-bb7e-4379-a2e6-499c5755b21a",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "fat",
+                "id": "45ac2366-65e3-442b-9ee0-ced221cb603d",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "fit",
+                "id": "e1ea5ede-7251-40dc-991c-bae5b11a7777",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "c6b3c877-342c-4853-b344-30586862d566",
+                "nodeTo": "be71640d-b544-4b5d-9d4e-e0d1acec9679",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "15528883-e75b-4770-b13a-b9391b38cb9d",
+                "nodeTo": "be71640d-b544-4b5d-9d4e-e0d1acec9679",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "be71640d-b544-4b5d-9d4e-e0d1acec9679",
+                "nodeTo": "43025ee1-bb7e-4379-a2e6-499c5755b21a",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "be71640d-b544-4b5d-9d4e-e0d1acec9679",
+                "nodeTo": "45ac2366-65e3-442b-9ee0-ced221cb603d",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "45ac2366-65e3-442b-9ee0-ced221cb603d",
+                "nodeTo": "dd40a6ee-d83e-4ccc-8651-88dd89960e07",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "dd40a6ee-d83e-4ccc-8651-88dd89960e07",
+                "nodeTo": "e1ea5ede-7251-40dc-991c-bae5b11a7777",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-01 15:31:33"
+}

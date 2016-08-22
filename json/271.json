@@ -1,0 +1,142 @@
+{
+    "uuid": 271,
+    "text": "Methylphenidate also known as Ritalin may prevent depletion of self-control",
+    "graph": {
+        "version": 1,
+        "guid": "da46ab0c-6a7a-453a-aee7-a038279099e6",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "also",
+                "id": "d2868e89-9746-4802-bdda-93dda2238938",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "known",
+                "id": "dec428ed-d2ba-4cbe-98ba-db36274e90a0",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "as",
+                "id": "b60b8acb-473c-4990-a812-86c306bbe350",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "may",
+                "id": "24565e87-ecb4-4178-9915-14385789ea28",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "prevent",
+                "id": "9e95e01b-92cc-494b-8b72-e9560b6588e3",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "of",
+                "id": "537d3aeb-623d-4ccc-b90c-a611511297a4",
+                "index": 8,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Methylphenidate",
+                "id": "43229ac7-1067-4747-9398-62e35e7e6836",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "Ritalin",
+                "id": "d17d8436-3c19-4452-83e9-5521d99403a5",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "depletion",
+                "id": "dd93dadd-3a7b-4732-9d0d-025d075801aa",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "self-control",
+                "id": "a1c234cc-71bc-480e-9eb2-15795ade62d4",
+                "index": 9,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "43229ac7-1067-4747-9398-62e35e7e6836",
+                "nodeTo": "d2868e89-9746-4802-bdda-93dda2238938",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "43229ac7-1067-4747-9398-62e35e7e6836",
+                "nodeTo": "dec428ed-d2ba-4cbe-98ba-db36274e90a0",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "43229ac7-1067-4747-9398-62e35e7e6836",
+                "nodeTo": "b60b8acb-473c-4990-a812-86c306bbe350",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "dec428ed-d2ba-4cbe-98ba-db36274e90a0",
+                "nodeTo": "d17d8436-3c19-4452-83e9-5521d99403a5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "b60b8acb-473c-4990-a812-86c306bbe350",
+                "nodeTo": "d17d8436-3c19-4452-83e9-5521d99403a5",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "43229ac7-1067-4747-9398-62e35e7e6836",
+                "nodeTo": "24565e87-ecb4-4178-9915-14385789ea28",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "43229ac7-1067-4747-9398-62e35e7e6836",
+                "nodeTo": "9e95e01b-92cc-494b-8b72-e9560b6588e3",
+                "index": 5,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "24565e87-ecb4-4178-9915-14385789ea28",
+                "nodeTo": "dd93dadd-3a7b-4732-9d0d-025d075801aa",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9e95e01b-92cc-494b-8b72-e9560b6588e3",
+                "nodeTo": "dd93dadd-3a7b-4732-9d0d-025d075801aa",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "dd93dadd-3a7b-4732-9d0d-025d075801aa",
+                "nodeTo": "537d3aeb-623d-4ccc-b90c-a611511297a4",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "537d3aeb-623d-4ccc-b90c-a611511297a4",
+                "nodeTo": "a1c234cc-71bc-480e-9eb2-15795ade62d4",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-12-03 13:44:22"
+}

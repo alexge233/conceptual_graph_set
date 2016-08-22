@@ -1,0 +1,232 @@
+{
+    "uuid": 885,
+    "text": "Care of patients with heart failure in UK is inadequate and has not changed in decade",
+    "graph": {
+        "version": 1,
+        "guid": "881309d0-5844-4d96-903e-1b475c479b91",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "of",
+                "id": "e87eac6b-7991-4dce-b142-3a7e477b7e0b",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "with",
+                "id": "bbd7d7a0-4ee3-467c-8792-3ecd27dc53e5",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "11824ee9-2bd6-445d-bd3d-d26203d87398",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "is",
+                "id": "686822d1-690a-495d-8d77-d64c649674cc",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "and",
+                "id": "71bd4643-e903-430b-baa6-6580566981ac",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "has",
+                "id": "cb589402-a686-4435-8459-8a199c258675",
+                "index": 11,
+                "postag": "NA"
+            },
+            {
+                "label": "not",
+                "id": "9b2ac11d-a56a-4a4a-87d7-b78e9ab7064b",
+                "index": 12,
+                "postag": "NA"
+            },
+            {
+                "label": "in",
+                "id": "0906ea09-ace4-4398-b686-82167c6208a6",
+                "index": 14,
+                "postag": "NA"
+            },
+            {
+                "label": "changed",
+                "id": "09558934-8891-46b8-8705-e9c32805931d",
+                "postag": "NA",
+                "index": 13
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Care",
+                "id": "1dd9b907-3943-4db2-9599-c2b392046615",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "patients",
+                "id": "5e182604-97d7-4ae6-94db-c62b856262a1",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "heart",
+                "id": "3ca0070a-94da-4d13-9236-cc3440290226",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "failure",
+                "id": "d6868c71-488a-4d38-a0b4-a3ed7b100d84",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "UK",
+                "id": "c8a58441-d5b3-4dd3-910b-869d3d60c948",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "inadequate",
+                "id": "b4392a74-65e6-4eae-ab9b-a2902dcb3dc2",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "decade",
+                "id": "5cec5d02-54ae-4e1e-9b35-7e7b33b76254",
+                "index": 15,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "1dd9b907-3943-4db2-9599-c2b392046615",
+                "nodeTo": "e87eac6b-7991-4dce-b142-3a7e477b7e0b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e87eac6b-7991-4dce-b142-3a7e477b7e0b",
+                "nodeTo": "5e182604-97d7-4ae6-94db-c62b856262a1",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5e182604-97d7-4ae6-94db-c62b856262a1",
+                "nodeTo": "bbd7d7a0-4ee3-467c-8792-3ecd27dc53e5",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "bbd7d7a0-4ee3-467c-8792-3ecd27dc53e5",
+                "nodeTo": "3ca0070a-94da-4d13-9236-cc3440290226",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "bbd7d7a0-4ee3-467c-8792-3ecd27dc53e5",
+                "nodeTo": "d6868c71-488a-4d38-a0b4-a3ed7b100d84",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "5e182604-97d7-4ae6-94db-c62b856262a1",
+                "nodeTo": "11824ee9-2bd6-445d-bd3d-d26203d87398",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "11824ee9-2bd6-445d-bd3d-d26203d87398",
+                "nodeTo": "c8a58441-d5b3-4dd3-910b-869d3d60c948",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1dd9b907-3943-4db2-9599-c2b392046615",
+                "nodeTo": "686822d1-690a-495d-8d77-d64c649674cc",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "686822d1-690a-495d-8d77-d64c649674cc",
+                "nodeTo": "b4392a74-65e6-4eae-ab9b-a2902dcb3dc2",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1dd9b907-3943-4db2-9599-c2b392046615",
+                "nodeTo": "71bd4643-e903-430b-baa6-6580566981ac",
+                "index": 3,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1dd9b907-3943-4db2-9599-c2b392046615",
+                "nodeTo": "cb589402-a686-4435-8459-8a199c258675",
+                "index": 4,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1dd9b907-3943-4db2-9599-c2b392046615",
+                "nodeTo": "9b2ac11d-a56a-4a4a-87d7-b78e9ab7064b",
+                "index": 5,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0906ea09-ace4-4398-b686-82167c6208a6",
+                "nodeTo": "5cec5d02-54ae-4e1e-9b35-7e7b33b76254",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "1dd9b907-3943-4db2-9599-c2b392046615",
+                "nodeTo": "09558934-8891-46b8-8705-e9c32805931d",
+                "index": 6,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "1dd9b907-3943-4db2-9599-c2b392046615",
+                "nodeTo": "0906ea09-ace4-4398-b686-82167c6208a6",
+                "index": 7,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "cb589402-a686-4435-8459-8a199c258675",
+                "nodeTo": "5cec5d02-54ae-4e1e-9b35-7e7b33b76254",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "9b2ac11d-a56a-4a4a-87d7-b78e9ab7064b",
+                "nodeTo": "5cec5d02-54ae-4e1e-9b35-7e7b33b76254",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "09558934-8891-46b8-8705-e9c32805931d",
+                "nodeTo": "5cec5d02-54ae-4e1e-9b35-7e7b33b76254",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "71bd4643-e903-430b-baa6-6580566981ac",
+                "nodeTo": "5cec5d02-54ae-4e1e-9b35-7e7b33b76254",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "71bd4643-e903-430b-baa6-6580566981ac",
+                "nodeTo": "b4392a74-65e6-4eae-ab9b-a2902dcb3dc2",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-20 16:32:04"
+}

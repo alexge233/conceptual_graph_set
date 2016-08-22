@@ -1,0 +1,196 @@
+{
+    "uuid": 935,
+    "text": "Scientists have conducted study that characterizes cellular diversity within glioblastoma tumors from patients",
+    "graph": {
+        "version": 1,
+        "guid": "e89b63d0-b333-427d-ba38-3de66d09b97b",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "have",
+                "id": "0acc0aaa-810b-4611-a7b7-7dc36d878aec",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "conducted",
+                "id": "48dd0064-5bca-4c5b-97a4-9e9b534b9c8d",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "that",
+                "id": "c74dcaec-1e96-485d-83eb-690d84c0ede4",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "characterizes",
+                "id": "70cbe67e-2008-4a77-a30e-b3d5cbdd54b2",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "within",
+                "id": "ea7ab900-0b77-4332-b645-3016c715d1e9",
+                "index": 8,
+                "postag": "NA"
+            },
+            {
+                "label": "from",
+                "id": "2bd69645-2227-446b-bbe1-903720498c4c",
+                "index": 11,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Scientists",
+                "id": "51890aeb-90d9-446b-9bb5-2c507a2a6707",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "study",
+                "id": "4c29d59c-e846-4b76-adb7-0b35e05e7533",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "cellular",
+                "id": "e5d9a4c1-899d-42bb-bcc9-d1201b734576",
+                "index": 6,
+                "postag": "NA"
+            },
+            {
+                "label": "diversity",
+                "id": "db67a6e4-38a1-473c-8d48-d27622102b73",
+                "index": 7,
+                "postag": "NA"
+            },
+            {
+                "label": "glioblastoma",
+                "id": "c1e782a1-263a-4d95-85c2-d89bc6066dc1",
+                "index": 9,
+                "postag": "NA"
+            },
+            {
+                "label": "tumors",
+                "id": "91ca4606-77d6-4aac-899c-0daed78e9c12",
+                "index": 10,
+                "postag": "NA"
+            },
+            {
+                "label": "patients",
+                "id": "db40786d-385c-4029-8625-d718ed5b3c19",
+                "index": 12,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "51890aeb-90d9-446b-9bb5-2c507a2a6707",
+                "nodeTo": "0acc0aaa-810b-4611-a7b7-7dc36d878aec",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "51890aeb-90d9-446b-9bb5-2c507a2a6707",
+                "nodeTo": "48dd0064-5bca-4c5b-97a4-9e9b534b9c8d",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "0acc0aaa-810b-4611-a7b7-7dc36d878aec",
+                "nodeTo": "4c29d59c-e846-4b76-adb7-0b35e05e7533",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "48dd0064-5bca-4c5b-97a4-9e9b534b9c8d",
+                "nodeTo": "4c29d59c-e846-4b76-adb7-0b35e05e7533",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "4c29d59c-e846-4b76-adb7-0b35e05e7533",
+                "nodeTo": "c74dcaec-1e96-485d-83eb-690d84c0ede4",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "4c29d59c-e846-4b76-adb7-0b35e05e7533",
+                "nodeTo": "70cbe67e-2008-4a77-a30e-b3d5cbdd54b2",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "c74dcaec-1e96-485d-83eb-690d84c0ede4",
+                "nodeTo": "e5d9a4c1-899d-42bb-bcc9-d1201b734576",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "c74dcaec-1e96-485d-83eb-690d84c0ede4",
+                "nodeTo": "db67a6e4-38a1-473c-8d48-d27622102b73",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "70cbe67e-2008-4a77-a30e-b3d5cbdd54b2",
+                "nodeTo": "e5d9a4c1-899d-42bb-bcc9-d1201b734576",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "70cbe67e-2008-4a77-a30e-b3d5cbdd54b2",
+                "nodeTo": "db67a6e4-38a1-473c-8d48-d27622102b73",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e5d9a4c1-899d-42bb-bcc9-d1201b734576",
+                "nodeTo": "ea7ab900-0b77-4332-b645-3016c715d1e9",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "db67a6e4-38a1-473c-8d48-d27622102b73",
+                "nodeTo": "ea7ab900-0b77-4332-b645-3016c715d1e9",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "ea7ab900-0b77-4332-b645-3016c715d1e9",
+                "nodeTo": "c1e782a1-263a-4d95-85c2-d89bc6066dc1",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "ea7ab900-0b77-4332-b645-3016c715d1e9",
+                "nodeTo": "91ca4606-77d6-4aac-899c-0daed78e9c12",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "e5d9a4c1-899d-42bb-bcc9-d1201b734576",
+                "nodeTo": "2bd69645-2227-446b-bbe1-903720498c4c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "db67a6e4-38a1-473c-8d48-d27622102b73",
+                "nodeTo": "2bd69645-2227-446b-bbe1-903720498c4c",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "2bd69645-2227-446b-bbe1-903720498c4c",
+                "nodeTo": "db40786d-385c-4029-8625-d718ed5b3c19",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-22 17:47:08"
+}

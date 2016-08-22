@@ -1,0 +1,82 @@
+{
+    "uuid": 190,
+    "text": "Time running out to find match",
+    "graph": {
+        "version": 1,
+        "guid": "252a70e0-b3b4-43ae-80a4-438387a9334a",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "running",
+                "id": "acd16b06-2127-430a-9c34-959595b867e0",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "find",
+                "id": "60ed705b-6841-4887-a39d-1c115177692b",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "Time",
+                "id": "2d49c51a-4082-460b-b488-2312c8549125",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "out",
+                "id": "d216ee04-156a-499e-bed2-9ced07c4874e",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "to",
+                "id": "42066642-6db3-4220-84bd-7c1539054ad5",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "match",
+                "id": "b2e034a0-e575-4a99-aabd-9e5d557597cc",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "2d49c51a-4082-460b-b488-2312c8549125",
+                "nodeTo": "acd16b06-2127-430a-9c34-959595b867e0",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "acd16b06-2127-430a-9c34-959595b867e0",
+                "nodeTo": "d216ee04-156a-499e-bed2-9ced07c4874e",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "2d49c51a-4082-460b-b488-2312c8549125",
+                "nodeTo": "60ed705b-6841-4887-a39d-1c115177692b",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "42066642-6db3-4220-84bd-7c1539054ad5",
+                "nodeTo": "60ed705b-6841-4887-a39d-1c115177692b",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "60ed705b-6841-4887-a39d-1c115177692b",
+                "nodeTo": "b2e034a0-e575-4a99-aabd-9e5d557597cc",
+                "index": 1,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2014-11-12 20:22:06"
+}

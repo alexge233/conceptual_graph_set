@@ -1,0 +1,118 @@
+{
+    "uuid": 638,
+    "text": "six things we learned about body clock",
+    "graph": {
+        "version": 1,
+        "guid": "0a65647d-2bec-4334-a0c1-700864872974",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "learned",
+                "id": "6141596b-7501-49ee-9437-4c05785ee77c",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "about",
+                "id": "96092bc7-c8d0-41cc-b16c-c187b30a4959",
+                "index": 4,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "six",
+                "id": "57ed8b0a-1a42-49bd-84b8-b1651d091495",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "things",
+                "id": "93910a26-a10c-48ec-bc53-ee820819d37a",
+                "index": 1,
+                "postag": "NA"
+            },
+            {
+                "label": "we",
+                "id": "e6417b94-9d72-4743-a766-b3247dc3be77",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "body",
+                "id": "3ba07b05-c0ec-4376-a04e-04a3d7c7cc23",
+                "index": 5,
+                "postag": "NA"
+            },
+            {
+                "label": "clock",
+                "id": "408bbc92-4301-4aa8-b750-30209cdcd29e",
+                "index": 6,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "57ed8b0a-1a42-49bd-84b8-b1651d091495",
+                "nodeTo": "6141596b-7501-49ee-9437-4c05785ee77c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "93910a26-a10c-48ec-bc53-ee820819d37a",
+                "nodeTo": "6141596b-7501-49ee-9437-4c05785ee77c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e6417b94-9d72-4743-a766-b3247dc3be77",
+                "nodeTo": "6141596b-7501-49ee-9437-4c05785ee77c",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "57ed8b0a-1a42-49bd-84b8-b1651d091495",
+                "nodeTo": "96092bc7-c8d0-41cc-b16c-c187b30a4959",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "93910a26-a10c-48ec-bc53-ee820819d37a",
+                "nodeTo": "96092bc7-c8d0-41cc-b16c-c187b30a4959",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "e6417b94-9d72-4743-a766-b3247dc3be77",
+                "nodeTo": "96092bc7-c8d0-41cc-b16c-c187b30a4959",
+                "index": 2,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "6141596b-7501-49ee-9437-4c05785ee77c",
+                "nodeTo": "3ba07b05-c0ec-4376-a04e-04a3d7c7cc23",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "96092bc7-c8d0-41cc-b16c-c187b30a4959",
+                "nodeTo": "3ba07b05-c0ec-4376-a04e-04a3d7c7cc23",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "6141596b-7501-49ee-9437-4c05785ee77c",
+                "nodeTo": "408bbc92-4301-4aa8-b750-30209cdcd29e",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "96092bc7-c8d0-41cc-b16c-c187b30a4959",
+                "nodeTo": "408bbc92-4301-4aa8-b750-30209cdcd29e",
+                "index": 2,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-01-08 20:49:18"
+}

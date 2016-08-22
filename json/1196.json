@@ -1,0 +1,82 @@
+{
+    "uuid": 1196,
+    "text": "commons debates smear test age limit",
+    "graph": {
+        "version": 1,
+        "guid": "0786612b-9d41-4a1e-a76b-9206a3661834",
+        "creator": "null",
+        "relations": [
+            {
+                "label": "debates",
+                "id": "d571d0d9-eee4-4407-845c-c87647d8a5e0",
+                "index": 1,
+                "postag": "NA"
+            }
+        ],
+        "concepts": [
+            {
+                "label": "commons",
+                "id": "3d684439-9403-4963-bc24-ed8a668b1192",
+                "index": 0,
+                "postag": "NA"
+            },
+            {
+                "label": "smear",
+                "id": "be431c8e-bac8-44ad-b1a5-6c0d775cee75",
+                "index": 2,
+                "postag": "NA"
+            },
+            {
+                "label": "test",
+                "id": "9218a80c-5437-4222-b2a0-b73226003574",
+                "index": 3,
+                "postag": "NA"
+            },
+            {
+                "label": "age",
+                "id": "8d9336e0-9595-48d7-9b58-35c750e06261",
+                "index": 4,
+                "postag": "NA"
+            },
+            {
+                "label": "limit",
+                "id": "c8b77350-d552-4302-b488-4557e63d2e24",
+                "index": 5,
+                "postag": "NA"
+            }
+        ],
+        "adjacencies": [
+            {
+                "nodeFrom": "3d684439-9403-4963-bc24-ed8a668b1192",
+                "nodeTo": "d571d0d9-eee4-4407-845c-c87647d8a5e0",
+                "index": 1,
+                "order": "cr"
+            },
+            {
+                "nodeFrom": "d571d0d9-eee4-4407-845c-c87647d8a5e0",
+                "nodeTo": "be431c8e-bac8-44ad-b1a5-6c0d775cee75",
+                "index": 1,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d571d0d9-eee4-4407-845c-c87647d8a5e0",
+                "nodeTo": "9218a80c-5437-4222-b2a0-b73226003574",
+                "index": 2,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d571d0d9-eee4-4407-845c-c87647d8a5e0",
+                "nodeTo": "8d9336e0-9595-48d7-9b58-35c750e06261",
+                "index": 3,
+                "order": "rc"
+            },
+            {
+                "nodeFrom": "d571d0d9-eee4-4407-845c-c87647d8a5e0",
+                "nodeTo": "c8b77350-d552-4302-b488-4557e63d2e24",
+                "index": 4,
+                "order": "rc"
+            }
+        ]
+    },
+    "created": "2015-02-25 21:44:43"
+}
