@@ -8,6 +8,28 @@ The graphs have been manually transcribed and may contain a few errors (contradi
 The POS tag field is empty on purpose, albeit an updated data-set with POS tags could be made available upon request.
 This set has been used for dependency parsing (NLU) based on Semantics and Syntactics.
 
+Each JSON object is a *sample* which associates a pattern/sentence (field `text`) to a conceptual graph.
+The JSON for the CG uses an adjacency matrix:
+
+1. A list of `concepts`
+2. A list of `relations`
+3. A list of `edges` connecting `concepts` to `relations` or vice versa.
+
+The actual fields are:
+
+- `index` defining the order of appearance.
+- `label` defining the actual text/sign/token of a node.
+- `uuid` a UUID v4 for unique identification.
+
+In the case of edges/adjacancies:
+
+- `nodeFrom` is the originating vertice of the edge
+- `nodeFrom` is the destination vertice of the edge
+- `index` is used for easy index access
+- `order` is used for edge order
+
+You can deserialise them using the [cgpp](https://github.com/alexge233/cgpp.git) for C++, or any JSON library in the language of your preference.
+
 Please add a reference to the following citation when using this data-set for Academic or Research purposes:
 
 ```
