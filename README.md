@@ -28,7 +28,11 @@ In the case of edges/adjacancies:
 - `index` is used for easy index access
 - `order` is used for edge order
 
-You can deserialise them using the [cgpp](https://github.com/alexge233/cgpp.git) for C++, or any JSON library in the language of your preference.
+You can deserialise them using the [cgpp](https://github.com/alexge233/cgpp.git) for C++, 
+or any JSON library in the language of your preference.
+
+You may have a look in directory `images` for examples of some rendered graphs.
+Rendering was done using [VivaGraphJS](https://github.com/anvaka/VivaGraphJS) in a browser.
 
 Please add a reference to the following citation when using this data-set for Academic or Research purposes:
 
@@ -42,5 +46,3 @@ Please add a reference to the following citation when using this data-set for Ac
   publisher={Citeseer}
 }
 ```
-
-Alexandros Gkiokas [a.gkiokas@warwick.ac.uk]
